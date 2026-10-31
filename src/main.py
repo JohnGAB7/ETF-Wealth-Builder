@@ -6,7 +6,7 @@ from src.logging_config import configure_logging
 from src.data.market_data import get_history
 from src.data.macro_data import get_macro_snapshot
 from src.data.news_data import get_market_news
-from src.data.valueinvesting import get_valuations, weighted_constituent_upside
+from src.data.valueinvesting import (\n    get_valuations, weighted_constituent_upside, eligible_holdings_for_valueinvesting,\n)
 from src.data.analyst_data import aggregate_recommendations
 from src.features.technical import build_technical_features
 from src.features.news import summarize_news
@@ -135,7 +135,7 @@ def run_once():
                 "drawdown": float(latest["drawdown"]),
                 "rsi14": float(latest["rsi14"]),
                 "valuation_weighted_upside": valuation_gap,
-                "valuation_coverage_weight": valuation_coverage,
+                "valuation_coverage_weight": valuation_coverage,\n                "valuation_supported_market_weight": valuation_result.get("supported_market_weight", 0.0),\n                "valuation_unsupported_market_weight": valuation_result.get("unsupported_market_weight", 0.0),\n                "valuation_scope": valuation_result.get("scope", "US_AND_CANADA_ONLY"),
                 "analyst": analyst, "news": news,
                 "macro_snapshot": macro,
                 "score": round(score, 1), "signal": signal,
@@ -150,7 +150,7 @@ def run_once():
                     f"{model_result['prob_positive']:.1%}\\n"
                     f"Rendement conditionnel estimé: {model_result['expected_return']:.2%}\\n"
                     f"Drawdown: {result['drawdown']:.2%}\\n"
-                    f"Upside DCF pondéré: {valuation_gap}; couverture holdings: {valuation_coverage:.1%}\\n"
+                    f"Upside DCF pondéré (poche US/Canada couverte): {valuation_gap}; couverture totale ETF: {valuation_coverage:.1%}\\n"
                     f"Couverture analystes pondérée: {analyst['analyst_coverage_weight']:.1%}\\n\\n"
                     "Signal de recherche uniquement. Vérifier les données, les frais, la fiscalité, "
                     "les liquidités et l'allocation avant toute décision."
