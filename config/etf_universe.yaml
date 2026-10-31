@@ -31,9 +31,61 @@ etfs:
   - id: eimi
     name: iShares Core MSCI Emerging Markets IMI UCITS ETF
     isin: IE00BKM4GZ66
-    yahoo_symbol: EIMI.L
-    currency: USD
-    benchmark_symbol: EIMI.L
+    # EMIM = same fund (same ISIN) as the LSE line EIMI, listed in EUR on Euronext
+    # Amsterdam; preferred for a EUR investor (no USD price series).
+    yahoo_symbol: EMIM.AS
+    currency: EUR
+    benchmark_symbol: EMIM.AS
     index: MSCI Emerging Markets IMI
     constituents_file: data/constituents/eimi_constituents.csv
+    enabled: true
+  # SPDR (State Street) alternatives, tracked alongside the lines above for a
+  # comparison period before any switch. Xetra listings in EUR. Yahoo symbols
+  # assumed from the Xetra tickers (SPYY, SPPW, SPYL); confirm on first run.
+  - id: spyy
+    name: SPDR MSCI ACWI UCITS ETF (Acc)
+    isin: IE00B44Z5B48
+    yahoo_symbol: SPYY.DE
+    currency: EUR
+    benchmark_symbol: SPYY.DE
+    index: MSCI ACWI
+    constituents_file: data/constituents/spyy_constituents.csv
+    enabled: true
+  - id: sppw
+    name: SPDR MSCI World UCITS ETF (Acc)
+    isin: IE00BFY0GT14
+    yahoo_symbol: SPPW.DE
+    currency: EUR
+    benchmark_symbol: SPPW.DE
+    index: MSCI World
+    constituents_file: data/constituents/sppw_constituents.csv
+    enabled: true
+  - id: spyl
+    name: SPDR S&P 500 UCITS ETF (Acc)
+    isin: IE000XZSV718
+    yahoo_symbol: SPYL.DE
+    currency: EUR
+    benchmark_symbol: SPYL.DE
+    index: S&P 500
+    constituents_file: data/constituents/spyl_constituents.csv
+    enabled: true
+  - id: iusn
+    name: iShares MSCI World Small Cap UCITS ETF (Acc)
+    isin: IE00BF4RFH31
+    yahoo_symbol: IUSN.DE
+    currency: EUR
+    benchmark_symbol: IUSN.DE
+    index: MSCI World Small Cap
+    constituents_file: data/constituents/iusn_constituents.csv
+    enabled: true
+  # Sector ETF (satellite, concentrated): semiconductors. Launched 2023, so the
+  # price history may be too short for the model at first.
+  - id: sec0
+    name: iShares MSCI Global Semiconductors UCITS ETF (Acc)
+    isin: IE000I8KRLL9
+    yahoo_symbol: SEC0.DE
+    currency: EUR
+    benchmark_symbol: SEC0.DE
+    index: MSCI ACWI IMI Semiconductors & Semiconductor Equipment
+    constituents_file: data/constituents/sec0_constituents.csv
     enabled: true

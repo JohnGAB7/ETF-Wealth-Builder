@@ -20,7 +20,7 @@ def mocked(monkeypatch, tmp_path):
                                                              "ecb_deposit_facility_rate_date": "2026-10-29"})
     monkeypatch.setattr(main, "get_market_news", lambda: [])
     monkeypatch.setattr(main, "get_history",
-                        lambda symbol: _history() if symbol != "EIMI.L" else pd.DataFrame())
+                        lambda symbol: _history() if symbol != "EMIM.AS" else pd.DataFrame())
     monkeypatch.setattr(main, "get_valuations", lambda tickers: {})
     monkeypatch.setattr(main, "write_report", lambda report: tmp_path / "report.json")
     state_path = tmp_path / "alert_state.json"
@@ -37,7 +37,7 @@ def test_run_once_produces_results_and_one_digest(mocked):
     report = main.run_once()
     ids = {r["id"]: r for r in report["etfs"]}
     assert ids["eimi"]["status"] == "INSUFFICIENT_PRICE_HISTORY"
-    assert ids["eimi"]["symbol"] == "EIMI.L" and ids["eimi"]["currency"] == "USD"
+    assert ids["eimi"]["symbol"] == "EMIM.AS" and ids["eimi"]["currency"] == "EUR"
     estimated = [r for r in report["etfs"] if r.get("prob_positive") is not None]
     assert estimated, "at least one ETF should receive a model estimate"
     for r in estimated:
