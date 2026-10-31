@@ -37,3 +37,33 @@ etfs:
     index: MSCI Emerging Markets IMI
     constituents_file: data/constituents/eimi_constituents.csv
     enabled: true
+  # SPDR (State Street) alternatives, tracked alongside the lines above for a
+  # comparison period before any switch. Xetra listings in EUR. Yahoo symbols
+  # assumed from the Xetra tickers (SPYY, SPPW, SPYL); confirm on first run.
+  - id: spyy
+    name: SPDR MSCI ACWI UCITS ETF (Acc)
+    isin: IE00B44Z5B48
+    yahoo_symbol: SPYY.DE
+    currency: EUR
+    benchmark_symbol: SPYY.DE
+    index: MSCI ACWI
+    constituents_file: data/constituents/spyy_constituents.csv
+    enabled: true
+  - id: sppw
+    name: SPDR MSCI World UCITS ETF (Acc)
+    isin: IE00BFY0GT14
+    yahoo_symbol: SPPW.DE
+    currency: EUR
+    benchmark_symbol: SPPW.DE
+    index: MSCI World
+    constituents_file: data/constituents/sppw_constituents.csv
+    enabled: true
+  - id: spyl
+    name: SPDR S&P 500 UCITS ETF (Acc)
+    isin: IE000XZSV718
+    yahoo_symbol: SPYL.DE
+    currency: EUR
+    benchmark_symbol: SPYL.DE
+    index: S&P 500
+    constituents_file: data/constituents/spyl_constituents.csv
+    enabled: true
