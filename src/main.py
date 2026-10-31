@@ -65,7 +65,9 @@ def run_once():
         holdings = load_holdings(etf.get("constituents_file", ""))
         tickers = [h["ticker"] for h in holdings]
         valuation_payload = get_valuations(tickers) if tickers else {}
-        valuation_gap = weighted_constituent_upside(valuation_payload, holdings)
+        valuation_result = weighted_constituent_upside(valuation_payload, holdings)
+        valuation_gap = valuation_result.get("weighted_upside")
+        valuation_coverage = float(valuation_result.get("coverage_weight", 0.0) or 0.0)
         analyst = aggregate_recommendations(holdings) if holdings else {
             "weighted_buy": 0.0, "weighted_hold": 0.0, "weighted_sell": 0.0,
             "analyst_coverage_weight": 0.0,
@@ -102,11 +104,9 @@ def run_once():
                 expected_return=model_result["expected_return"],
                 downside_risk=None, valuation_gap=valuation_gap,
                 technical_setup=technical, macro_news=news_component,
-                data_quality=0.65 if valuation_gap is None else 0.80,
+                data_quality=0.65 + 0.15 * max(0.0, min(1.0, valuation_coverage)),
             )
-            coverage = 0.65
-            if valuation_gap is not None:
-                coverage += 0.15
+            coverage = 0.65 + 0.15 * max(0.0, min(1.0, valuation_coverage))
             if analyst["analyst_coverage_weight"] > 0:
                 coverage += 0.10
             signal = classify_signal(
@@ -122,6 +122,7 @@ def run_once():
                 "drawdown": float(latest["drawdown"]),
                 "rsi14": float(latest["rsi14"]),
                 "valuation_weighted_upside": valuation_gap,
+                "valuation_coverage_weight": valuation_coverage,
                 "analyst": analyst, "news": news,
                 "macro_snapshot": macro,
                 "score": round(score, 1), "signal": signal,
@@ -136,7 +137,7 @@ def run_once():
                     f"{model_result['prob_positive']:.1%}\\n"
                     f"Rendement conditionnel estimé: {model_result['expected_return']:.2%}\\n"
                     f"Drawdown: {result['drawdown']:.2%}\\n"
-                    f"Upside DCF pondéré (couverture disponible): {valuation_gap}\\n"
+                    f"Upside DCF pondéré: {valuation_gap}; couverture holdings: {valuation_coverage:.1%}\\n"
                     f"Couverture analystes pondérée: {analyst['analyst_coverage_weight']:.1%}\\n\\n"
                     "Signal de recherche uniquement. Vérifier les données, les frais, la fiscalité, "
                     "les liquidités et l'allocation avant toute décision."
