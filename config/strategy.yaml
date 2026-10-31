@@ -1,0 +1,21 @@
+forecast_horizons_days: [21, 63, 126]
+primary_horizon_days: 63
+minimum_training_rows: 500
+minimum_validation_rows: 100
+probability_buy_threshold: 0.62
+opportunity_score_threshold: 75
+minimum_data_coverage: 0.60
+max_alerts_per_etf_per_day: 1
+email_on_signal_upgrade_only: true
+walk_forward_test_fraction: 0.25
+random_state: 42
+
+# Transparent signal blend; normalize weights in code.
+score_weights:
+  probability_positive: 0.25
+  expected_return: 0.15
+  downside_risk: 0.15
+  valuation_gap: 0.20
+  technical_setup: 0.10
+  macro_news: 0.10
+  data_quality: 0.05

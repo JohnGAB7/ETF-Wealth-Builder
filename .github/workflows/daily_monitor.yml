@@ -1,0 +1,40 @@
+name: ETF Wealth Builder — daily monitor
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub cron uses UTC. 20:30 UTC is a starter schedule after most US sessions;
+    # adjust for daylight-saving changes and your preferred market close.
+    - cron: "30 20 * * 1-5"
+
+permissions:
+  contents: read
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Restore alert state cache
+        uses: actions/cache@v4
+        with:
+          path: data/state
+          key: etf-alert-state-${{ github.run_id }}
+          restore-keys: etf-alert-state-
+      - name: Run monitor
+        env:
+          VALUEINVESTING_API_KEY: ${{ secrets.VALUEINVESTING_API_KEY }}
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python -m src.main --once

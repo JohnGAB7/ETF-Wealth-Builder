@@ -1,0 +1,11 @@
+monthly_contribution_eur: 500
+cash_policy: accumulate
+allow_exceptional_contributions: true
+# Monthly €500 contribution is the baseline; optional extra deposits are user-entered.
+# Suggested maximum fraction of available cash for one signal.
+max_single_tranche_fraction: 0.35
+# Keep this as a research guardrail, not a personal financial recommendation.
+minimum_cash_buffer_eur: 0
+max_single_etf_portfolio_weight: 0.70
+max_single_day_deployment_eur: 2000
+# Contributions and cash must be tracked in a persistent ledger before live alerts.

@@ -1,0 +1,39 @@
+# Yahoo Finance symbols are examples; confirm the correct listing/currency with your broker.
+# UCITS share classes and accumulating/distributing status must be checked before investing.
+etfs:
+  - id: vwce
+    name: Vanguard FTSE All-World UCITS ETF
+    isin: IE00BK5BQT80
+    yahoo_symbol: VWCE.DE
+    currency: EUR
+    benchmark_symbol: VWCE.DE
+    index: FTSE All-World
+    constituents_file: data/constituents/vwce_constituents.csv
+    enabled: true
+  - id: iwda
+    name: iShares Core MSCI World UCITS ETF
+    isin: IE00B4L5Y983
+    yahoo_symbol: IWDA.AS
+    currency: EUR
+    benchmark_symbol: IWDA.AS
+    index: MSCI World
+    constituents_file: data/constituents/iwda_constituents.csv
+    enabled: true
+  - id: cspx
+    name: iShares Core S&P 500 UCITS ETF
+    isin: IE00B5BMR087
+    yahoo_symbol: CSPX.L
+    currency: USD
+    benchmark_symbol: CSPX.L
+    index: S&P 500
+    constituents_file: data/constituents/cspx_constituents.csv
+    enabled: true
+  - id: eimi
+    name: iShares Core MSCI Emerging Markets IMI UCITS ETF
+    isin: IE00BKM4GZ66
+    yahoo_symbol: EIMI.L
+    currency: USD
+    benchmark_symbol: EIMI.L
+    index: MSCI Emerging Markets IMI
+    constituents_file: data/constituents/eimi_constituents.csv
+    enabled: true
