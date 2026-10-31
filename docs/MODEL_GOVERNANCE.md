@@ -17,7 +17,7 @@
 - Include fees, bid/ask spread, FX, withholding taxes and Belgian TOB/tax assumptions.
 - Test several market regimes and conduct sensitivity analysis.
 
-## Signal governance
+## Geographic coverage of fundamental valuation\n- The configured ValueInvesting.io subscription covers US and Canadian equities only.\n- Never send constituents from other markets to this API. Require an explicit market field in holdings files.\n- Calculate fundamental valuation coverage against total ETF weight; report the supported-market share and the successfully valued share separately.\n- A weighted DCF upside on the covered subset is a partial constituent indicator, not an ETF fair value.\n- If coverage is low, do not describe the fundamental signal as representative of the entire ETF.\n\n## Signal governance
 - Never equate a probability of positive return with a guaranteed profit.
 - Never alert BUY if data are stale, coverage is insufficient or model validation fails.
 - Keep probability calibration separate by ETF and forecast horizon where sample size permits.
