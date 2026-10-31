@@ -43,8 +43,8 @@ def send_email(subject: str, body: str) -> bool:
 
 def format_macro_digest(macro_snapshot: dict | None) -> list[str]:
     """Format the latest cross-region macro snapshot for the daily email."""
-    if not macro_snapshot:
-        return ["Aucune donnée macroéconomique disponible."]
+    if macro_snapshot is None:
+        macro_snapshot = {}
 
     lines = []
     for key, label, unit in MACRO_DIGEST_FIELDS:
