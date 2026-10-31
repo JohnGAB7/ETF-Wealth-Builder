@@ -27,7 +27,7 @@ MACRO_DIGEST_FIELDS = [
     ("eurostat_unemployment_ea21", "Taux de chômage", "%", "Zone euro", 1, "M"),
     ("eurostat_gdp_qoq_ea21", "PIB, variation trimestrielle", "%", "Zone euro", 1, "Q"),
     ("us_policy_rate", "Taux directeur Fed Funds", "%", "États-Unis", 2, "M"),
-    ("us_cpi_index", "Indice des prix CPI (niveau d’indice)", "", "États-Unis", 1, "M"),
+    ("us_cpi_yoy", "Inflation CPI (sur un an)", "%", "États-Unis", 1, "M"),
     ("us_unemployment", "Taux de chômage", "%", "États-Unis", 1, "M"),
     ("us_10y_yield", "Rendement Treasury 10 ans", "%", "États-Unis", 2, "D"),
     ("us_10y_2y_spread", "Écart 10 ans - 2 ans", "%", "États-Unis", 2, "D"),
@@ -53,8 +53,11 @@ SIGNAL_TONES = {
 STATUS_ORDER = ["BUY_OPPORTUNITY_REVIEW", "WATCH", "REGULAR_DCA",
                 "INSUFFICIENT_EVIDENCE", "INSUFFICIENT_PRICE_HISTORY"]
 
-# A price older than this (calendar days, covers weekends) is flagged as stale.
-STALE_PRICE_DAYS = 4
+# Default when a result does not carry max_price_age_days (strategy.yaml value).
+STALE_PRICE_DAYS = 5
+# A macro observation older than this (days between period start and run date)
+# is flagged as old. Display only; publication lags are included.
+MACRO_MAX_AGE_DAYS = {"D": 10, "M": 100, "Q": 240}
 
 DEFAULT_THRESHOLDS = {
     "score_threshold": 75,
@@ -137,6 +140,10 @@ def signal_reasons(item: dict, th: dict) -> list[str]:
                 if rows is not None else ""
             return [f"Le modèle n’a pas assez d’observations exploitables{rows_text} ; "
                     "aucune estimation n’est produite."]
+        if item.get("price_stale"):
+            return [f"Dernier cours daté de {item.get('price_age_days')} jours (maximum "
+                    f"{item.get('max_price_age_days', STALE_PRICE_DAYS)}) : le signal est "
+                    "bloqué par prudence tant que le cours n’est pas à jour."]
         if coverage is not None and coverage < c_min:
             return [f"Indice de couverture des données {fr_percent(coverage, 0)} inférieur "
                     f"au minimum requis de {fr_percent(c_min, 0)} : le signal est bloqué "
@@ -215,7 +222,7 @@ def build_etf_card(item: dict, th: dict, run_date) -> dict:
         age = price_age_days(item, run_date)
         note = f"Clôture du {fr_date(item.get('as_of'))}" if item.get("as_of") else \
             "Date de cotation inconnue"
-        if age is not None and age > STALE_PRICE_DAYS:
+        if age is not None and age > int(item.get("max_price_age_days") or STALE_PRICE_DAYS):
             note += f" · cours ancien de {age} jours"
         value = fr_number(item.get("price"), 2) + (f"{NBSP}{currency}" if currency else "")
         observed.append({"label": "Dernier cours", "value": value, "note": note})
@@ -257,6 +264,23 @@ def build_etf_card(item: dict, th: dict, run_date) -> dict:
         else:
             text += " ; aucune valorisation disponible."
         quality.append(text)
+    if "holdings_file_weight" in item:
+        file_weight = item.get("holdings_file_weight") or 0.0
+        if file_weight <= 0:
+            quality.append("Aucun fichier de constituants exploitable : valorisation et "
+                           "consensus non calculés.")
+        else:
+            text = (f"Fichier de constituants : {fr_percent(file_weight, 0)} du poids de l’ETF")
+            if item.get("holdings_as_of"):
+                text += f", au {fr_date(item['holdings_as_of'])}"
+            else:
+                text += ", date non renseignée"
+            if item.get("holdings_source"):
+                text += f" (source : {item['holdings_source']})"
+            quality.append(text + ".")
+    if item.get("valuation_implausible_count"):
+        quality.append(f"{item['valuation_implausible_count']} valorisation(s) implausible(s) "
+                       "exclue(s) ; unité de l’API à vérifier.")
     analyst = item.get("analyst") or {}
     if analyst.get("analyst_coverage_weight") is not None:
         quality.append("Consensus d’analystes : "
@@ -294,19 +318,44 @@ def build_etf_card(item: dict, th: dict, run_date) -> dict:
 
 
 # ---------------------------------------------------------------- macro
-def build_macro(macro_snapshot: dict | None) -> dict:
+def _period_start(value, frequency):
+    text = str(value or "").strip()
+    try:
+        if frequency == "Q" and "-Q" in text:
+            year, quarter = text.split("-Q", 1)
+            return date(int(year), 3 * int(quarter) - 2, 1)
+        if frequency == "M":
+            year, month = text[:7].split("-")
+            return date(int(year), int(month), 1)
+    except (ValueError, IndexError):
+        return None
+    return parse_day(text)
+
+
+def macro_is_old(period, frequency, run_date) -> bool:
+    start, run = _period_start(period, frequency), parse_day(run_date)
+    if not start or not run:
+        return False
+    return (run - start).days > MACRO_MAX_AGE_DAYS.get(frequency, 10)
+
+
+def build_macro(macro_snapshot: dict | None, run_date=None) -> dict:
     snapshot = macro_snapshot or {}
-    groups, missing = {}, []
+    groups, missing, old = {}, [], []
     for key, label, unit, region, decimals, frequency in MACRO_DIGEST_FIELDS:
         value = snapshot.get(key)
         if _num(value) is None:
             missing.append(f"{label} ({region})")
             continue
         shown = fr_points(value, decimals) if unit == "%" else fr_number(value, decimals)
+        is_old = macro_is_old(snapshot.get(key + "_date"), frequency, run_date)
+        if is_old:
+            old.append(f"{label} ({region})")
         groups.setdefault(region, []).append({
             "label": label,
             "value": shown,
-            "period": fr_period(snapshot.get(key + "_date"), frequency),
+            "period": fr_period(snapshot.get(key + "_date"), frequency)
+                      + (" · observation ancienne" if is_old else ""),
         })
     available = sum(len(rows) for rows in groups.values())
     return {
@@ -314,12 +363,13 @@ def build_macro(macro_snapshot: dict | None) -> dict:
         "available": available,
         "total": len(MACRO_DIGEST_FIELDS),
         "missing": missing,
+        "old": old,
     }
 
 
-def format_macro_digest(macro_snapshot: dict | None) -> list[str]:
+def format_macro_digest(macro_snapshot: dict | None, run_date=None) -> list[str]:
     """Plain-text macro block (kept for backward compatibility)."""
-    macro = build_macro(macro_snapshot)
+    macro = build_macro(macro_snapshot, run_date)
     if not macro["available"]:
         return [f"Aucune observation macroéconomique disponible pour ce cycle "
                 f"({macro['total']} séries interrogées)."]
@@ -341,7 +391,8 @@ def build_data_status(results: list[dict], macro: dict, run_date) -> dict:
     if results:
         reasons.append(f"{len(analysed)}/{len(results)} ETF disposent d’une estimation du modèle.")
     stale = [str(r.get("symbol") or r.get("id")).upper() for r in results
-             if (price_age_days(r, run_date) or 0) > STALE_PRICE_DAYS]
+             if r.get("price_stale") or (price_age_days(r, run_date) or 0)
+             > int(r.get("max_price_age_days") or STALE_PRICE_DAYS)]
     if stale:
         reasons.append("Cours anciens : " + ", ".join(stale) + ".")
     reasons.append(f"{macro['available']}/{macro['total']} séries macroéconomiques disponibles.")
@@ -368,11 +419,11 @@ def _counts(results: list[dict]) -> dict:
 
 
 def build_digest_view(results: list[dict], run_date, macro_snapshot: dict | None = None,
-                      strategy: dict | None = None) -> dict:
+                      strategy: dict | None = None, retrieved_at: str | None = None) -> dict:
     results = list(results or [])
     th = thresholds_from_strategy(strategy)
     counts = _counts(results)
-    macro = build_macro(macro_snapshot)
+    macro = build_macro(macro_snapshot, run_date)
     status = build_data_status(results, macro, run_date)
     cards = [build_etf_card(item, th, run_date) for item in results]
     cards.sort(key=lambda c: STATUS_ORDER.index(c["status"])
@@ -412,7 +463,9 @@ def build_digest_view(results: list[dict], run_date, macro_snapshot: dict | None
         "kind": "digest",
         "subject": subject,
         "title": "Rapport quotidien",
-        "subtitle": f"Recherche et aide à la décision · {day}",
+        "subtitle": f"Recherche et aide à la décision · {day}"
+                    + (f" · données récupérées à {str(retrieved_at)[11:16]} UTC"
+                       if retrieved_at and len(str(retrieved_at)) >= 16 else ""),
         "date_label": day,
         "preheader": headline,
         "summary": {

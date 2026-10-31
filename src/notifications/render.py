@@ -178,6 +178,8 @@ def _macro(macro):
     footer = f'{macro["available"]}/{macro["total"]} séries disponibles.'
     if macro["missing"]:
         footer += " Indisponibles ce jour : " + ", ".join(macro["missing"]) + "."
+    if macro.get("old"):
+        footer += " Observations anciennes : " + ", ".join(macro["old"]) + "."
     parts.append(f'<div style="font-size:12px;line-height:1.5;color:{MUTED};padding-top:8px;">'
                  f'{_e(footer)} Valeurs descriptives, susceptibles d’être révisées.</div>')
     return "".join(parts)
@@ -315,6 +317,8 @@ def render_text(view: dict) -> str:
             lines.append(f"{macro['available']}/{macro['total']} séries disponibles.")
             if macro["missing"]:
                 lines.append("Indisponibles ce jour : " + ", ".join(macro["missing"]) + ".")
+            if macro.get("old"):
+                lines.append("Observations anciennes : " + ", ".join(macro["old"]) + ".")
 
     lines += ["", "MÉTHODE ET LIMITES"] + [f"- {note}" for note in view["methodology"]]
     lines += ["", "INFORMATION IMPORTANTE", view["disclaimer"]]

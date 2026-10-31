@@ -30,7 +30,7 @@ MACRO_FULL = {
     "eurostat_gdp_qoq_be": 0.3, "eurostat_gdp_qoq_be_date": "2026-Q2",
     "eurostat_gdp_qoq_ea21": 0.2, "eurostat_gdp_qoq_ea21_date": "2026-Q2",
     "us_policy_rate": 3.88, "us_policy_rate_date": "2026-09-01",
-    "us_cpi_index": 324.1, "us_cpi_index_date": "2026-09-01",
+    "us_cpi_yoy": 2.9, "us_cpi_yoy_date": "2026-09-01",
     "us_unemployment": 4.3, "us_unemployment_date": "2026-09-01",
     "us_10y_yield": 4.12, "us_10y_yield_date": "2026-10-28",
     "us_10y_2y_spread": 0.55, "us_10y_2y_spread_date": "2026-10-28",
@@ -48,6 +48,9 @@ def _etf(**overrides):
         "base_rate_positive": 0.68, "validation": _VALIDATION_WEAK, "rows": 1650,
         "data_coverage": 0.82, "valuation_coverage_weight": 0.34,
         "valuation_weighted_upside": 0.07, "analyst": {"analyst_coverage_weight": 0.0},
+        "price_age_days": 0, "price_stale": False, "max_price_age_days": 5,
+        "holdings_file_weight": 0.62, "holdings_as_of": "2026-09-30",
+        "holdings_source": "fichier émetteur (fictif)",
     }
     base.update(overrides)
     return base
@@ -71,7 +74,9 @@ def scenarios() -> dict:
     no_history = {"id": "eimi", "name": "iShares Core MSCI Emerging Markets IMI UCITS ETF",
                   "isin": "IE00BKM4GZ66", "symbol": "EIMI.L", "currency": "USD",
                   "horizon_days": 63, "status": "INSUFFICIENT_PRICE_HISTORY"}
-    stale = _etf(as_of="2026-10-20")
+    stale = _etf(as_of="2026-10-20", price_age_days=10, price_stale=True,
+                 signal="INSUFFICIENT_EVIDENCE", holdings_file_weight=0.0,
+                 valuation_coverage_weight=0.0, valuation_weighted_upside=None)
     return {
         "digest_opportunity": ([review, watch, regular, insufficient], MACRO_FULL),
         "digest_calm": ([regular, _etf(signal="REGULAR_DCA", score=51.0)], MACRO_FULL),

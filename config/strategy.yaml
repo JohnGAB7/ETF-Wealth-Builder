@@ -5,6 +5,8 @@ minimum_validation_rows: 100
 probability_buy_threshold: 0.62
 opportunity_score_threshold: 75
 minimum_data_coverage: 0.70
+# Fail closed: no review signal when the last price is older than this (calendar days).
+max_price_age_days: 5
 max_alerts_per_etf_per_day: 1
 email_on_signal_upgrade_only: true
 walk_forward_test_fraction: 0.25
