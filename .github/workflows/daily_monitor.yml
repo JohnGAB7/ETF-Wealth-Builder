@@ -40,3 +40,11 @@ jobs:
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: python -m src.main --once
+      - name: Archive daily JSON report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: etf-wealth-builder-report-${{ github.run_id }}
+          path: data/reports/*.json
+          if-no-files-found: warn
+          retention-days: 90
