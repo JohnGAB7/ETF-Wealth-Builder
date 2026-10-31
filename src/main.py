@@ -18,6 +18,9 @@ from src.features.news import summarize_news
 from src.models.probabilistic import make_training_frame, fit_predict
 from src.strategy.opportunity import opportunity_score, classify_signal
 from src.reporting.report import write_report
+from src.state.alert_state import (
+    load_state, previous_signals, record_alert, record_signal, save_state, should_alert,
+)
 from src.notifications.email_alert import send_digest, send_signal_alert
 
 log = logging.getLogger("etf_wealth_builder")
@@ -185,6 +188,16 @@ def run_once():
 
         results.append(result)
 
+    # Previous statuses come from the persisted alert state (last run).
+    state = load_state()
+    previous = previous_signals(state)
+    for item in results:
+        prev = previous.get(item["id"])
+        if prev:
+            item["previous_signal"] = prev["signal"]
+            item["previous_signal_date"] = prev["date"]
+            item["previous_signal_since"] = prev["since"]
+
     report = {"retrieved_at": retrieved_at.isoformat(timespec="seconds"),
               "macro_snapshot": macro, "news_summary": news, "etfs": results}
     # Persist the report before any network notification so that an SMTP outage
@@ -192,12 +205,30 @@ def run_once():
     path = write_report(report)
     log.info("Report written to %s", path)
     # Both notification modes selected: immediate signal e-mails + one daily digest.
+    # Alert state avoids repeating the same alert every day (strategy.yaml:
+    # email_on_signal_upgrade_only, max_alerts_per_etf_per_day).
     for result in alerts:
-        _notify(f"alert {result['id']}", send_signal_alert, result, horizon,
-                strategy=strategy, run_date=run_date)
+        due, reason = should_alert(
+            state, result["id"], result["signal"], run_date,
+            upgrade_only=bool(strategy.get("email_on_signal_upgrade_only", True)),
+            max_per_day=int(strategy.get("max_alerts_per_etf_per_day", 1)),
+        )
+        result["alert_decision"] = reason
+        if not due:
+            log.info("Alert for %s not sent: %s", result["id"], reason)
+            continue
+        if _notify(f"alert {result['id']}", send_signal_alert, result, horizon,
+                   strategy=strategy, run_date=run_date):
+            record_alert(state, result["id"], run_date)
+    for item in results:
+        record_signal(state, item["id"], item.get("signal") or item.get("status"), run_date)
     _notify("daily digest", send_digest, results, run_date,
             macro_snapshot=macro, strategy=strategy,
             retrieved_at=retrieved_at.isoformat(timespec="seconds"))
+    try:
+        save_state(state)
+    except OSError as exc:
+        log.error("Alert state not saved: %s", type(exc).__name__)
     for item in results:
         log.info("%s | %s | %s", item.get("id"), item.get("signal", item.get("status")), item.get("score"))
     return report

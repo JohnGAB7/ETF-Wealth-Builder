@@ -23,6 +23,11 @@ def mocked(monkeypatch, tmp_path):
                         lambda symbol: _history() if symbol != "EIMI.L" else pd.DataFrame())
     monkeypatch.setattr(main, "get_valuations", lambda tickers: {})
     monkeypatch.setattr(main, "write_report", lambda report: tmp_path / "report.json")
+    state_path = tmp_path / "alert_state.json"
+    monkeypatch.setattr(main, "load_state", lambda: __import__(
+        "src.state.alert_state", fromlist=["x"]).load_state(state_path))
+    monkeypatch.setattr(main, "save_state", lambda state: __import__(
+        "src.state.alert_state", fromlist=["x"]).save_state(state, state_path))
     monkeypatch.setattr(main, "send_digest", lambda *a, **k: sent.append(("digest", a, k)) or True)
     monkeypatch.setattr(main, "send_signal_alert", lambda *a, **k: sent.append(("alert", a, k)) or True)
     return sent
@@ -73,3 +78,15 @@ def test_stale_price_blocks_review_signal(monkeypatch, mocked):
             assert r["price_stale"] is True
             assert r["signal"] == "INSUFFICIENT_EVIDENCE"
     assert not [s for s in mocked if s[0] == "alert"]
+
+
+def test_alert_sent_once_across_runs(monkeypatch, mocked):
+    # Force a review signal on every enabled ETF with a fresh price.
+    monkeypatch.setattr(main, "classify_signal", lambda *a, **k: "BUY_OPPORTUNITY_REVIEW")
+    main.run_once()
+    first = len([s for s in mocked if s[0] == "alert"])
+    assert first >= 1
+    report = main.run_once()
+    assert len([s for s in mocked if s[0] == "alert"]) == first  # no repeat
+    estimated = [r for r in report["etfs"] if r.get("prob_positive") is not None]
+    assert all(r["previous_signal"] == "BUY_OPPORTUNITY_REVIEW" for r in estimated)

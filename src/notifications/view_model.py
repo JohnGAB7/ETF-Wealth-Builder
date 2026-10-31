@@ -201,6 +201,29 @@ def model_quality(item: dict) -> dict | None:
     return {"summary": " · ".join(parts), "verdict": verdict, "tone": tone, "period": period}
 
 
+# ---------------------------------------------------------------- change
+def status_change(item: dict) -> dict | None:
+    """Compare with the status recorded at the previous run (alert state)."""
+    previous = item.get("previous_signal")
+    if not previous:
+        return None
+    current = status_of(item)
+    if previous == current:
+        since = item.get("previous_signal_since")
+        text = f"Inchangé depuis le {fr_date(since)}" if since else "Inchangé"
+        return {"changed": False, "text": text, "direction": "same"}
+    ranked = ["BUY_OPPORTUNITY_REVIEW", "WATCH", "REGULAR_DCA"]
+    if previous in ranked and current in ranked:
+        direction = "up" if ranked.index(current) < ranked.index(previous) else "down"
+    else:
+        direction = "other"
+    when = item.get("previous_signal_date")
+    text = (f"Changement : {status_label(previous)} → {status_label(current)}"
+            + (f" (précédent rapport du {fr_date(when)})" if when else ""))
+    return {"changed": True, "text": text, "direction": direction,
+            "from": status_label(previous), "to": status_label(current)}
+
+
 # ---------------------------------------------------------------- ETF card
 def price_age_days(item: dict, run_date) -> int | None:
     as_of, run = parse_day(item.get("as_of")), parse_day(run_date)
@@ -308,6 +331,7 @@ def build_etf_card(item: dict, th: dict, run_date) -> dict:
         "tone": SIGNAL_TONES.get(status, "neutral"),
         "score": fr_score(item.get("score")) if item.get("score") is not None else MISSING,
         "headline": headline,
+        "change": status_change(item),
         "horizon_days": horizon,
         "observed": observed,
         "estimated": estimated,
@@ -444,8 +468,16 @@ def build_digest_view(results: list[dict], run_date, macro_snapshot: dict | None
         headline = ("Aucun signal particulier aujourd’hui. Le plan DCA habituel reste "
                     "le scénario de référence.")
 
-    bullets = [f"{c['symbol']} : {c['status_label'].lower()} (score {c['score']})"
-               for c in cards if c["status"] in ("BUY_OPPORTUNITY_REVIEW", "WATCH")]
+    bullets = []
+    changed = [c for c in cards if c["change"] and c["change"]["changed"]]
+    if changed:
+        bullets.append("Depuis le dernier rapport : " + " ; ".join(
+            f"{c['symbol']} {c['change']['from'].lower()} → {c['change']['to'].lower()}"
+            for c in changed) + ".")
+    elif any(c["change"] for c in cards):
+        bullets.append("Aucun changement de statut depuis le dernier rapport.")
+    bullets += [f"{c['symbol']} : {c['status_label'].lower()} (score {c['score']})"
+                for c in cards if c["status"] in ("BUY_OPPORTUNITY_REVIEW", "WATCH")]
     bullets.append(f"Les probabilités portent sur un horizon de {th['horizon_days']} "
                    "séances et restent des estimations incertaines.")
 
@@ -480,7 +512,10 @@ def build_digest_view(results: list[dict], run_date, macro_snapshot: dict | None
         },
         "data_status": status,
         "overview": [{"name": c["name"], "symbol": c["symbol"], "status_label": c["status_label"],
-                      "tone": c["tone"], "score": c["score"]} for c in cards],
+                      "tone": c["tone"], "score": c["score"],
+                      "change": ({"up": "▲", "down": "▼", "other": "●"}.get(
+                          c["change"]["direction"], "") if c["change"] and c["change"]["changed"]
+                          else "")} for c in cards],
         "etfs": cards,
         "macro": macro,
         "methodology": METHODOLOGY_NOTES,

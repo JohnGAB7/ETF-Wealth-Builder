@@ -132,6 +132,10 @@ def _card(card):
         f'{_badge(card["status_label"], card["tone"])}</td></tr></table>'
         f'<div style="font-size:14px;line-height:1.5;color:{INK};padding-top:10px;">'
         f'{_e(card["headline"])}</div>'
+        + (f'<div style="font-size:13px;line-height:1.5;padding-top:4px;color:'
+           f'{"#14573d" if card["change"]["changed"] else MUTED};'
+           f'{"font-weight:bold;" if card["change"]["changed"] else ""}">'
+           f'{_e(card["change"]["text"])}</div>' if card.get("change") else "")
         + "".join(blocks) + '</td></tr></table>')
 
 
@@ -155,7 +159,9 @@ def _overview(rows):
             f'<td style="font-size:12px;color:{MUTED};padding:0 0 6px 10px;" align="right">Score</td></tr>')
     body = "".join(
         f'<tr><td style="border-top:1px solid {BORDER};padding:8px 0;font-size:14px;color:{NAVY};">'
-        f'<strong>{_e(r["symbol"])}</strong></td>'
+        f'<strong>{_e(r["symbol"])}</strong>'
+        + (f' <span style="color:{MUTED};font-size:12px;">{_e(r["change"])}</span>'
+           if r.get("change") else "") + '</td>'
         f'<td align="right" style="border-top:1px solid {BORDER};padding:8px 0;">'
         f'{_badge(r["status_label"], r["tone"])}</td>'
         f'<td align="right" style="border-top:1px solid {BORDER};padding:8px 0 8px 10px;'
@@ -284,6 +290,8 @@ def render_text(view: dict) -> str:
         ident = card["symbol"] + (f" · {card['isin']}" if card.get("isin") else "")
         lines += ["", "-" * 60, f"{card['name']} ({ident})",
                   f"Statut : {card['status_label']} | Score : {card['score']}", card["headline"]]
+        if card.get("change"):
+            lines.append(card["change"]["text"])
         if card["observed"]:
             lines.append("  OBSERVÉ")
             lines += [f"  - {r['label']} : {r['value']}" + (f" ({r['note']})" if r.get("note") else "")
