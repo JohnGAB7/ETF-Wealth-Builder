@@ -21,7 +21,7 @@ ValueInvesting.io is used only for constituents explicitly labelled US or CA in 
 - ECB Data Portal: euro-area deposit facility rate and EUR/USD reference exchange rate. Public SDMX API; no API key.
 - Eurostat: Belgian and euro-area HICP inflation, unemployment and quarterly GDP growth. Public Statistics API; no API key.
 
-ECB and Eurostat snapshots currently provide the latest observations for daily research reports. They are not backfilled into historical model rows. Eurostat's Statistics API serves the latest dataset version and does not provide historical dataset vintages, so point-in-time backtests must archive releases separately.
+ECB and Eurostat snapshots currently provide the latest observations for daily research reports. They are not backfilled into historical model rows. Daily JSON reports are saved as GitHub Actions artifacts for 90 days; this is a temporary diagnostic archive, not a permanent time-series store. Eurostat's Statistics API serves the latest dataset version and does not provide historical dataset vintages, so rigorous point-in-time backtests need a separate long-term archive of releases.
 
 ## Important status
 
