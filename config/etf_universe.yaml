@@ -31,9 +31,11 @@ etfs:
   - id: eimi
     name: iShares Core MSCI Emerging Markets IMI UCITS ETF
     isin: IE00BKM4GZ66
-    yahoo_symbol: EIMI.L
-    currency: USD
-    benchmark_symbol: EIMI.L
+    # EMIM = same fund (same ISIN) as the LSE line EIMI, listed in EUR on Euronext
+    # Amsterdam; preferred for a EUR investor (no USD price series).
+    yahoo_symbol: EMIM.AS
+    currency: EUR
+    benchmark_symbol: EMIM.AS
     index: MSCI Emerging Markets IMI
     constituents_file: data/constituents/eimi_constituents.csv
     enabled: true
@@ -66,4 +68,13 @@ etfs:
     benchmark_symbol: SPYL.DE
     index: S&P 500
     constituents_file: data/constituents/spyl_constituents.csv
+    enabled: true
+  - id: iusn
+    name: iShares MSCI World Small Cap UCITS ETF (Acc)
+    isin: IE00BF4RFH31
+    yahoo_symbol: IUSN.DE
+    currency: EUR
+    benchmark_symbol: IUSN.DE
+    index: MSCI World Small Cap
+    constituents_file: data/constituents/iusn_constituents.csv
     enabled: true
