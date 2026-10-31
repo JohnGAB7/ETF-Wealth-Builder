@@ -23,3 +23,11 @@ jobs:
         run: python -m compileall -q src tests
       - name: Run unit tests
         run: python -m pytest -q
+      - name: Generate e-mail previews (fictitious data, nothing is sent)
+        run: python -m src.notifications.preview --out data/previews
+      - name: Upload e-mail previews
+        uses: actions/upload-artifact@v4
+        with:
+          name: email-previews-${{ github.run_id }}
+          path: data/previews/
+          retention-days: 14

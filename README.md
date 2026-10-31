@@ -40,6 +40,12 @@ Never commit API keys, passwords, SMTP credentials, account identifiers or perso
 5. Report data coverage and uncertainty; fail safely when critical inputs are missing.
 6. No automatic trading or broker credentials.
 
+## E-mail previews and dry run
+
+- `python -m src.notifications.preview` writes HTML and plain-text previews of the daily digest and the signal alert to `data/previews/`, from fictitious data. Nothing is sent. The CI test workflow publishes them as the `email-previews-*` artifact.
+- `EMAIL_DRY_RUN=1` makes every e-mail be written as an `.eml` file to `data/outbox/` (or `EMAIL_OUTBOX_DIR`) instead of being sent. The test suite forces this mode and blocks any real SMTP connection.
+- SMTP uses verified TLS: STARTTLS on port 587, implicit TLS on port 465.
+
 ## Setup
 
 See [docs/SETUP_GITHUB.md](docs/SETUP_GITHUB.md) for GitHub Actions secrets and first-run instructions.

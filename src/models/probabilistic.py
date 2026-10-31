@@ -47,6 +47,14 @@ def fit_predict(frame: pd.DataFrame, min_rows: int = 500) -> dict:
     metrics = {"brier": float(brier_score_loss(y, proba))}
     if len(np.unique(y)) == 2:
         metrics["auc"] = float(roc_auc_score(y, proba))
+    # Reference forecast for display: the training-period frequency of positive
+    # forward returns, applied as a constant to the test period. A model whose
+    # Brier score is not below this reference adds no demonstrated skill.
+    train_rate = float(train["positive_forward_return"].mean())
+    metrics["brier_reference"] = float(brier_score_loss(y, np.full(len(y), train_rate)))
+    metrics["test_rows"] = int(len(test))
+    metrics["test_start"] = str(test.index[0].date()) if hasattr(test.index[0], "date") else str(test.index[0])
+    metrics["test_end"] = str(test.index[-1].date()) if hasattr(test.index[-1], "date") else str(test.index[-1])
 
     # Final fit for latest inference; historical validation metrics remain held out.
     model.fit(data[cols], data["positive_forward_return"].astype(int))
@@ -61,6 +69,9 @@ def fit_predict(frame: pd.DataFrame, min_rows: int = 500) -> dict:
         "prob_positive": p_positive,
         "expected_return": expected_return,
         "validation": metrics,
+        # Observed historical frequency of positive returns over the horizon,
+        # on all labelled rows (descriptive statistic, not a forecast).
+        "base_rate_positive": float(data["positive_forward_return"].mean()),
         "rows": len(data),
         "model": "TimeSeriesCalibratedRandomForest + HistGradientBoostingRegressor",
     }
