@@ -62,8 +62,10 @@ def scenarios() -> dict:
                   signal="BUY_OPPORTUNITY_REVIEW", score=78.0, prob_positive=0.71,
                   expected_return=0.045, base_rate_positive=0.70, validation=_VALIDATION_OK,
                   data_coverage=0.75, valuation_coverage_weight=0.0,
-                  valuation_weighted_upside=None)
-    watch = _etf()
+                  valuation_weighted_upside=None, previous_signal="WATCH",
+                  previous_signal_date="2026-10-29", previous_signal_since="2026-10-22")
+    watch = _etf(previous_signal="WATCH", previous_signal_date="2026-10-29",
+                 previous_signal_since="2026-10-27")
     regular = _etf(id="iwda", name="iShares Core MSCI World UCITS ETF", isin="IE00B4L5Y983",
                    symbol="IWDA.AS", price=104.1, drawdown=-0.02, rsi14=58.0,
                    signal="REGULAR_DCA", score=48.0, prob_positive=0.58,
