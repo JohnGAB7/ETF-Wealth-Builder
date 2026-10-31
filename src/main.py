@@ -169,7 +169,11 @@ def run_once():
     path = write_report(report)
     # Both notification modes selected: immediate signal emails + one daily digest.
     from datetime import datetime, timezone
-    send_digest(\n        results,\n        datetime.now(timezone.utc).strftime("%Y-%m-%d"),\n        macro_snapshot=macro,\n    )
+    send_digest(
+        results,
+        datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+        macro_snapshot=macro,
+    )
     log.info("Report written to %s", path)
     for item in results:
         log.info("%s | %s | %s", item.get("id"), item.get("signal", item.get("status")), item.get("score"))
