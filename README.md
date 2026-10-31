@@ -7,7 +7,7 @@ A research and decision-support platform for long-term ETF investing using a dis
 - Monthly contribution baseline: EUR 500.
 - Hybrid budget: accumulate monthly contributions and allow optional exceptional contributions from the investor's cash reserve.
 - Human-in-the-loop: the system produces research signals and email reports; it never places orders.
-- Data providers: ValueInvesting.io (existing paid subscription) plus free/public sources where available.
+- Data providers: ValueInvesting.io (existing paid subscription, US and Canada equities only) plus free/public sources where available.\n- ValueInvesting.io constituent valuation coverage is explicitly partial for global ETFs and is measured against total ETF weight.
 - No additional paid API subscriptions are assumed.
 
 ## Important status
