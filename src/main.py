@@ -6,7 +6,9 @@ from src.logging_config import configure_logging
 from src.data.market_data import get_history
 from src.data.macro_data import get_macro_snapshot
 from src.data.news_data import get_market_news
-from src.data.valueinvesting import (\n    get_valuations, weighted_constituent_upside, eligible_holdings_for_valueinvesting,\n)
+from src.data.valueinvesting import (
+    get_valuations, weighted_constituent_upside, eligible_holdings_for_valueinvesting,
+)
 from src.data.analyst_data import aggregate_recommendations
 from src.features.technical import build_technical_features
 from src.features.news import summarize_news
@@ -63,7 +65,8 @@ def run_once():
         model_result = fit_predict(frame, strategy["minimum_training_rows"])
 
         holdings = load_holdings(etf.get("constituents_file", ""))
-        tickers = [h["ticker"] for h in holdings]
+        valuation_holdings = eligible_holdings_for_valueinvesting(holdings)
+        tickers = [h["ticker"] for h in valuation_holdings]
         valuation_payload = get_valuations(tickers) if tickers else {}
         valuation_result = weighted_constituent_upside(valuation_payload, holdings)
         valuation_gap = valuation_result.get("weighted_upside")
@@ -135,7 +138,10 @@ def run_once():
                 "drawdown": float(latest["drawdown"]),
                 "rsi14": float(latest["rsi14"]),
                 "valuation_weighted_upside": valuation_gap,
-                "valuation_coverage_weight": valuation_coverage,\n                "valuation_supported_market_weight": valuation_result.get("supported_market_weight", 0.0),\n                "valuation_unsupported_market_weight": valuation_result.get("unsupported_market_weight", 0.0),\n                "valuation_scope": valuation_result.get("scope", "US_AND_CANADA_ONLY"),
+                "valuation_coverage_weight": valuation_coverage,
+                "valuation_supported_market_weight": valuation_result.get("supported_market_weight", 0.0),
+                "valuation_unsupported_market_weight": valuation_result.get("unsupported_market_weight", 0.0),
+                "valuation_scope": valuation_result.get("scope", "US_AND_CANADA_ONLY"),
                 "analyst": analyst, "news": news,
                 "macro_snapshot": macro,
                 "score": round(score, 1), "signal": signal,
