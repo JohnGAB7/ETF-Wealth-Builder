@@ -78,3 +78,14 @@ etfs:
     index: MSCI World Small Cap
     constituents_file: data/constituents/iusn_constituents.csv
     enabled: true
+  # Sector ETF (satellite, concentrated): semiconductors. Launched 2023, so the
+  # price history may be too short for the model at first.
+  - id: sec0
+    name: iShares MSCI Global Semiconductors UCITS ETF (Acc)
+    isin: IE000I8KRLL9
+    yahoo_symbol: SEC0.DE
+    currency: EUR
+    benchmark_symbol: SEC0.DE
+    index: MSCI ACWI IMI Semiconductors & Semiconductor Equipment
+    constituents_file: data/constituents/sec0_constituents.csv
+    enabled: true
