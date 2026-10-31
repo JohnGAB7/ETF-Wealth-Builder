@@ -145,10 +145,10 @@ def get_eurostat_snapshot() -> dict:
              "sex": "T", "geo": "BE"},
         ),
         (
-            "eurostat_unemployment_ea",
+            "eurostat_unemployment_ea21",
             "une_rt_m",
             {"freq": "M", "s_adj": "SA", "age": "TOTAL", "unit": "PC_ACT",
-             "sex": "T", "geo": "EA"},
+             "sex": "T", "geo": "EA21"},
         ),
         (
             "eurostat_gdp_qoq_be",
@@ -157,10 +157,10 @@ def get_eurostat_snapshot() -> dict:
              "na_item": "B1GQ", "geo": "BE"},
         ),
         (
-            "eurostat_gdp_qoq_ea",
+            "eurostat_gdp_qoq_ea21",
             "namq_10_gdp",
             {"freq": "Q", "unit": "CLV_PCH_PRE", "s_adj": "SCA",
-             "na_item": "B1GQ", "geo": "EA"},
+             "na_item": "B1GQ", "geo": "EA21"},
         ),
     ]
 
