@@ -112,6 +112,7 @@ def test_read_vanguard(tmp_path):
             ["NDA", "Nordea Bank Abp", "0.00%", "Financials", "SE", "US$0", "0"],
             [None], ["Total allocation percentages shown may not equal 100%"]]
     path = tmp_path / "vg.xlsx"
+    rows = [row + [None] * (7 - len(row)) for row in rows]
     pd.DataFrame(rows).to_excel(path, header=False, index=False)
     frame, as_of = hi.read_vanguard(path)
     assert as_of == "2026-09-30"

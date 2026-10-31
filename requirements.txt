@@ -2,6 +2,7 @@ pandas>=2.2
 numpy>=1.26
 requests>=2.31
 PyYAML>=6.0
+openpyxl>=3.1  # reads SSGA and Vanguard holdings .xlsx (src/data/holdings_import.py)
 python-dotenv>=1.0
 yfinance>=0.2.40
 scikit-learn>=1.4
