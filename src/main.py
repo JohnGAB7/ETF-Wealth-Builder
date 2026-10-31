@@ -106,9 +106,22 @@ def run_once():
                 technical_setup=technical, macro_news=news_component,
                 data_quality=0.65 + 0.15 * max(0.0, min(1.0, valuation_coverage)),
             )
-            coverage = 0.65 + 0.15 * max(0.0, min(1.0, valuation_coverage))
-            if analyst["analyst_coverage_weight"] > 0:
-                coverage += 0.10
+            macro_keys = [key for key in macro if not key.endswith("_date")]
+            macro_coverage = (
+                sum(macro.get(key) is not None for key in macro_keys) / len(macro_keys)
+                if macro_keys else 0.0
+            )
+            news_coverage = float(news.get("news_coverage", 0.0) or 0.0)
+            analyst_coverage = float(analyst.get("analyst_coverage_weight", 0.0) or 0.0)
+            # Core price/model evidence contributes 45%; optional evidence contributes
+            # only in proportion to real observed coverage. Missing feeds cannot inflate it.
+            coverage = (
+                0.45
+                + 0.15 * max(0.0, min(1.0, valuation_coverage))
+                + 0.10 * max(0.0, min(1.0, analyst_coverage))
+                + 0.15 * max(0.0, min(1.0, news_coverage))
+                + 0.15 * max(0.0, min(1.0, macro_coverage))
+            )
             signal = classify_signal(
                 score, model_result["prob_positive"], coverage=coverage,
                 score_threshold=strategy["opportunity_score_threshold"],
