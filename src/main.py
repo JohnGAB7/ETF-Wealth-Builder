@@ -1,5 +1,7 @@
 import argparse
 import logging
+from datetime import datetime, timezone
+
 import pandas as pd
 from src.config import load_yaml, ROOT
 from src.logging_config import configure_logging
@@ -18,6 +20,24 @@ from src.reporting.report import write_report
 from src.notifications.email_alert import send_digest, send_signal_alert
 
 log = logging.getLogger("etf_wealth_builder")
+
+
+def _notify(label, func, *args, **kwargs) -> bool:
+    """Run one notification without letting a failure abort the daily cycle."""
+    try:
+        return bool(func(*args, **kwargs))
+    except Exception as exc:  # rendering or transport bug: log type only
+        log.error("Notification '%s' failed: %s", label, type(exc).__name__)
+        return False
+
+
+def _float_or_none(value):
+    try:
+        number = float(value)
+    except (TypeError, ValueError):
+        return None
+    return None if number != number else number
+
 
 def load_holdings(path):
     file_path = ROOT / path
@@ -48,13 +68,19 @@ def run_once():
     macro = get_macro_snapshot()
     news_items = get_market_news()
     news = summarize_news(news_items)
-    results = []
+    run_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    horizon = strategy["primary_horizon_days"]
+    results, alerts = [], []
 
     for etf in [x for x in universe if x.get("enabled", True)]:
         symbol = etf["yahoo_symbol"]
+        identity = {
+            "id": etf["id"], "name": etf["name"], "isin": etf.get("isin"),
+            "symbol": symbol, "currency": etf.get("currency"), "horizon_days": horizon,
+        }
         history = get_history(symbol)
         if history.empty or len(history) < 220:
-            results.append({"id": etf["id"], "status": "INSUFFICIENT_PRICE_HISTORY"})
+            results.append({**identity, "status": "INSUFFICIENT_PRICE_HISTORY"})
             continue
 
         features = build_technical_features(history)
@@ -77,7 +103,7 @@ def run_once():
         }
 
         if model_result.get("status") != "MODEL_ESTIMATE":
-            result = {"id": etf["id"], "name": etf["name"], **model_result}
+            result = {**identity, **model_result}
         else:
             latest = features.iloc[-1]
             rsi_value = latest.get("rsi14")
@@ -132,11 +158,11 @@ def run_once():
                 min_coverage=strategy["minimum_data_coverage"],
             )
             result = {
-                "id": etf["id"], "name": etf["name"], "isin": etf["isin"],
-                "symbol": symbol, "as_of": str(history.index[-1]),
+                **identity,
+                "as_of": str(pd.Timestamp(history.index[-1]).date()),
                 "price": float(history["Close"].iloc[-1]),
-                "drawdown": float(latest["drawdown"]),
-                "rsi14": float(latest["rsi14"]),
+                "drawdown": _float_or_none(latest["drawdown"]),
+                "rsi14": _float_or_none(latest["rsi14"]),
                 "valuation_weighted_upside": valuation_gap,
                 "valuation_coverage_weight": valuation_coverage,
                 "valuation_supported_market_weight": valuation_result.get("supported_market_weight", 0.0),
@@ -149,20 +175,21 @@ def run_once():
                 **model_result,
             }
             if signal == "BUY_OPPORTUNITY_REVIEW":
-                send_signal_alert(result, strategy["primary_horizon_days"])
+                alerts.append(result)
 
         results.append(result)
 
     report = {"macro_snapshot": macro, "news_summary": news, "etfs": results}
+    # Persist the report before any network notification so that an SMTP outage
+    # can never lose the day's results.
     path = write_report(report)
-    # Both notification modes selected: immediate signal emails + one daily digest.
-    from datetime import datetime, timezone
-    send_digest(
-        results,
-        datetime.now(timezone.utc).strftime("%Y-%m-%d"),
-        macro_snapshot=macro,
-    )
     log.info("Report written to %s", path)
+    # Both notification modes selected: immediate signal e-mails + one daily digest.
+    for result in alerts:
+        _notify(f"alert {result['id']}", send_signal_alert, result, horizon,
+                strategy=strategy, run_date=run_date)
+    _notify("daily digest", send_digest, results, run_date,
+            macro_snapshot=macro, strategy=strategy)
     for item in results:
         log.info("%s | %s | %s", item.get("id"), item.get("signal", item.get("status")), item.get("score"))
     return report

@@ -1,3 +1,7 @@
+# Score from which a non-qualifying ETF is shown as WATCH (unchanged value).
+WATCH_SCORE_THRESHOLD = 55
+
+
 def clamp01(x):
     return max(0.0, min(1.0, float(x)))
 
@@ -26,6 +30,6 @@ def classify_signal(score: float, probability: float | None, coverage: float,
         return "INSUFFICIENT_EVIDENCE"
     if score >= score_threshold and probability >= probability_threshold:
         return "BUY_OPPORTUNITY_REVIEW"
-    if score >= 55:
+    if score >= WATCH_SCORE_THRESHOLD:
         return "WATCH"
     return "REGULAR_DCA"
