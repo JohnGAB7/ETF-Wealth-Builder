@@ -15,7 +15,7 @@ from src.features.news import summarize_news
 from src.models.probabilistic import make_training_frame, fit_predict
 from src.strategy.opportunity import opportunity_score, classify_signal
 from src.reporting.report import write_report
-from src.notifications.email_alert import send_email, send_digest
+from src.notifications.email_alert import send_digest, send_signal_alert
 
 log = logging.getLogger("etf_wealth_builder")
 
@@ -145,23 +145,11 @@ def run_once():
                 "analyst": analyst, "news": news,
                 "macro_snapshot": macro,
                 "score": round(score, 1), "signal": signal,
+                "data_coverage": round(coverage, 3),
                 **model_result,
             }
             if signal == "BUY_OPPORTUNITY_REVIEW":
-                body = (
-                    f"ETF Wealth Builder — signal à examiner\\n\\n"
-                    f"{etf['name']} ({etf['isin']})\\nTicker: {symbol}\\n"
-                    f"Prix observé: {result['price']:.4f}\\nScore: {score:.1f}/100\\n"
-                    f"Probabilité estimée de rendement positif à {strategy['primary_horizon_days']} jours: "
-                    f"{model_result['prob_positive']:.1%}\\n"
-                    f"Rendement conditionnel estimé: {model_result['expected_return']:.2%}\\n"
-                    f"Drawdown: {result['drawdown']:.2%}\\n"
-                    f"Upside DCF pondéré (poche US/Canada couverte): {valuation_gap}; couverture totale ETF: {valuation_coverage:.1%}\\n"
-                    f"Couverture analystes pondérée: {analyst['analyst_coverage_weight']:.1%}\\n\\n"
-                    "Signal de recherche uniquement. Vérifier les données, les frais, la fiscalité, "
-                    "les liquidités et l'allocation avant toute décision."
-                )
-                send_email(f"ETF Wealth Builder | Opportunité à examiner | {etf['id']}", body)
+                send_signal_alert(result, strategy["primary_horizon_days"])
 
         results.append(result)
 
