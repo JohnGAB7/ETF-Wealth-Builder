@@ -1,0 +1,1237 @@
+ticker,weight,market,name,isin,location,exchange,ticker_source
+AAPL,5.631434,US,Apple Inc.,US0378331005,United States,NASDAQ,ishares_match
+NVDA,5.397884,US,NVIDIA Corporation,US67066G1040,United States,NASDAQ,ishares_match
+MSFT,4.106578,US,Microsoft Corporation,US5949181045,United States,NASDAQ,ishares_match
+AMZN,2.593874,US,Amazon.com Inc.,US0231351067,United States,NASDAQ,ishares_match
+GOOGL,1.832898,US,Alphabet Inc. Class A,US02079K3059,United States,NASDAQ,ishares_match
+AVGO,1.712925,US,Broadcom Inc.,US11135F1012,United States,NASDAQ,ishares_match
+META,1.501433,US,Meta Platforms Inc Class A,US30303M1027,United States,NASDAQ,ishares_match
+GOOG,1.446918,US,Alphabet Inc. Class C,US02079K1079,United States,NASDAQ,ishares_match
+TSLA,1.266898,US,Tesla Inc.,US88160R1014,United States,NASDAQ,ishares_match
+LLY,1.210779,US,Eli Lilly and Company,US5324571083,United States,New York Stock Exchange Inc.,ishares_match
+MU,1.155894,US,Micron Technology Inc.,US5951121038,United States,NASDAQ,ishares_match
+AMD,1.012477,US,Advanced Micro Devices Inc.,US0079031078,United States,NASDAQ,ishares_match
+JPM,1.003036,US,JPMorgan Chase & Co.,US46625H1005,United States,New York Stock Exchange Inc.,ishares_match
+XOM,0.840403,US,Exxonmobil Holdings Corporation,US30233Q1085,United States,New York Stock Exchange Inc.,ishares_match
+BRK B,0.838881,US,Berkshire Hathaway Inc. Class B,US0846707026,United States,New York Stock Exchange Inc.,ishares_match
+V,0.750327,US,Visa Inc. Class A,US92826C8394,United States,New York Stock Exchange Inc.,ishares_match
+JNJ,0.726269,US,Johnson & Johnson,US4781601046,United States,New York Stock Exchange Inc.,ishares_match
+ASML,0.707862,Netherlands,ASML Holding NV,NL0010273215,Netherlands,Euronext Amsterdam,ishares_match
+WMT,0.575803,US,Walmart Inc.,US9311421039,United States,NASDAQ,ishares_match
+MA,0.566509,US,Mastercard Incorporated Class A,US57636Q1040,United States,New York Stock Exchange Inc.,ishares_match
+ABBV,0.563757,US,AbbVie Inc.,US00287Y1091,United States,New York Stock Exchange Inc.,ishares_match
+COST,0.478253,US,Costco Wholesale Corporation,US22160K1051,United States,NASDAQ,ishares_match
+PLTR,0.476409,US,Palantir Technologies Inc. Class A,US69608A1088,United States,NASDAQ,ishares_match
+CSCO,0.47005,US,Cisco Systems Inc.,US17275R1023,United States,NASDAQ,ishares_match
+CVX,0.467915,US,Chevron Corporation,US1667641005,United States,New York Stock Exchange Inc.,ishares_match
+INTC,0.446187,US,Intel Corporation,US4581401001,United States,NASDAQ,ishares_match
+PG,0.408745,US,Procter & Gamble Company,US7427181091,United States,New York Stock Exchange Inc.,ishares_match
+UNH,0.408222,US,UnitedHealth Group Incorporated,US91324P1021,United States,New York Stock Exchange Inc.,ishares_match
+KO,0.392012,US,Coca-Cola Company,US1912161007,United States,New York Stock Exchange Inc.,ishares_match
+MRK,0.391302,US,Merck & Co. Inc.,US58933Y1055,United States,New York Stock Exchange Inc.,ishares_match
+ROP,0.378105,Switzerland,Roche Holding Ltd,CH1499059983,Switzerland,SIX Swiss Exchange,ishares_match
+AMAT,0.365328,US,Applied Materials Inc.,US0382221051,United States,NASDAQ,ishares_match
+BAC,0.364071,US,Bank of America Corp,US0605051046,United States,New York Stock Exchange Inc.,ishares_match
+GE,0.360146,US,GE Aerospace,US3696043013,United States,New York Stock Exchange Inc.,ishares_match
+PM,0.35593,US,Philip Morris International Inc.,US7181721090,United States,New York Stock Exchange Inc.,ishares_match
+HD,0.354361,US,Home Depot Inc.,US4370761029,United States,New York Stock Exchange Inc.,ishares_match
+LRCX,0.34958,US,Lam Research Corporation,US5128073062,United States,NASDAQ,ishares_match
+SHEL,0.349348,United Kingdom,Shell Plc,GB00BP6MXD84,United Kingdom,London Stock Exchange,ishares_match
+PANW,0.337272,US,Palo Alto Networks Inc.,US6974351057,United States,NASDAQ,ishares_match
+NOVN,0.329559,Switzerland,Novartis AG,CH0012005267,Switzerland,SIX Swiss Exchange,ishares_match
+CAT,0.329523,US,Caterpillar Inc.,US1491231015,United States,New York Stock Exchange Inc.,ishares_match
+HSBA,0.320093,United Kingdom,HSBC Holdings Plc,GB0005405286,United Kingdom,London Stock Exchange,ishares_match
+RY,0.318813,CA,Royal Bank of Canada,CA7800871021,Canada,Toronto Stock Exchange,ishares_match
+TXN,0.310904,US,Texas Instruments Incorporated,US8825081040,United States,NASDAQ,ishares_match
+GS,0.300997,US,Goldman Sachs Group Inc.,US38141G1040,United States,New York Stock Exchange Inc.,ishares_match
+RTX,0.295215,US,RTX Corporation,US75513E1010,United States,New York Stock Exchange Inc.,ishares_match
+AZN,0.290693,United Kingdom,AstraZeneca PLC,GB0009895292,United Kingdom,London Stock Exchange,ishares_match
+CRWD,0.29046,US,CrowdStrike Holdings Inc. Class A,US22788C1053,United States,NASDAQ,ishares_match
+NFLX,0.283446,US,Netflix Inc.,US64110L1061,United States,NASDAQ,ishares_match
+TMO,0.283401,US,Thermo Fisher Scientific Inc.,US8835561023,United States,New York Stock Exchange Inc.,ishares_match
+WFC,0.281898,US,Wells Fargo & Company,US9497461015,United States,New York Stock Exchange Inc.,ishares_match
+NESN,0.276751,Switzerland,Nestle S.A.,CH0038863350,Switzerland,SIX Swiss Exchange,ishares_match
+AMGN,0.268034,US,Amgen Inc.,US0311621009,United States,NASDAQ,ishares_match
+IBM,0.267386,US,International Business Machines Corporation,US4592001014,United States,New York Stock Exchange Inc.,ishares_match
+GEV,0.26526,US,GE Vernova Inc.,US36828A1016,United States,New York Stock Exchange Inc.,ishares_match
+ORCL,0.263408,US,Oracle Corporation,US68389X1054,United States,New York Stock Exchange Inc.,ishares_match
+8306,0.2634,Japan,Mitsubishi UFJ Financial Group Inc.,JP3902900004,Japan,Tokyo Stock Exchange,ishares_match
+SAP,0.262921,Germany,SAP SE,DE0007164600,Germany,Xetra,ishares_match
+LIN,0.255949,US,Linde plc,IE000S9YS762,United States,NASDAQ,ishares_match
+MS,0.248669,US,Morgan Stanley,US6174464486,United States,New York Stock Exchange Inc.,ishares_match
+SIE,0.248119,Germany,Siemens AG,DE0007236101,Germany,Xetra,ishares_match
+KLAC,0.241389,US,KLA Corporation,US4824801009,United States,NASDAQ,ishares_match
+TD,0.237543,CA,Toronto-Dominion Bank,CA8911605092,Canada,Toronto Stock Exchange,ishares_match
+C,0.232148,US,Citigroup Inc.,US1729674242,United States,New York Stock Exchange Inc.,ishares_match
+BHP,0.231675,Australia,BHP Group Ltd,AU000000BHP4,Australia,Asx - All Markets,ishares_match
+ADI,0.231494,US,Analog Devices Inc.,US0326541051,United States,NASDAQ,ishares_match
+GILD,0.224871,US,Gilead Sciences Inc.,US3755581036,United States,NASDAQ,ishares_match
+SHOP,0.223365,CA,Shopify Inc. Class A,CA82509L1076,Canada,Toronto Stock Exchange,ishares_match
+ANET,0.222486,US,Arista Networks Inc,US0404132054,United States,New York Stock Exchange Inc.,ishares_match
+APH,0.219995,US,Amphenol Corporation Class A,US0320951017,United States,New York Stock Exchange Inc.,ishares_match
+CBA,0.216538,Australia,Commonwealth Bank of Australia,AU000000CBA7,Australia,Asx - All Markets,ishares_match
+QCOM,0.215186,US,QUALCOMM Incorporated,US7475251036,United States,NASDAQ,ishares_match
+SNDK,0.214715,US,Sandisk Corporation,US80004C2008,United States,NASDAQ,ishares_match
+DIS,0.212598,US,Walt Disney Company,US2546871060,United States,New York Stock Exchange Inc.,ishares_match
+TTE,0.208205,France,TotalEnergies SE,FR0000120271,France,Nyse Euronext - Euronext Paris,ishares_match
+7203,0.20775,Japan,Toyota Motor Corp.,JP3633400001,Japan,Tokyo Stock Exchange,ishares_match
+MRVL,0.205688,US,Marvell Technology Inc.,US5738741041,United States,NASDAQ,ishares_match
+CRM,0.202237,US,Salesforce Inc.,US79466L3024,United States,New York Stock Exchange Inc.,ishares_match
+COP,0.201038,US,ConocoPhillips,US20825C1045,United States,New York Stock Exchange Inc.,ishares_match
+ABT,0.198994,US,Abbott Laboratories,US0028241000,United States,New York Stock Exchange Inc.,ishares_match
+VZ,0.197947,US,Verizon Communications Inc.,US92343V1044,United States,New York Stock Exchange Inc.,ishares_match
+AXP,0.196033,US,American Express Company,US0258161092,United States,New York Stock Exchange Inc.,ishares_match
+UNP,0.195609,US,Union Pacific Corporation,US9078181081,United States,New York Stock Exchange Inc.,ishares_match
+PEP,0.194731,US,PepsiCo Inc.,US7134481081,United States,NASDAQ,ishares_match
+MCD,0.193977,US,McDonald's Corporation,US5801351017,United States,New York Stock Exchange Inc.,ishares_match
+ALV,0.193315,Germany,Allianz SE,DE0008404005,Germany,Xetra,ishares_match
+6857,0.191878,Japan,Advantest Corp.,JP3122400009,Japan,Tokyo Stock Exchange,ishares_match
+BLK,0.189635,US,BlackRock Inc.,US09290D1019,United States,New York Stock Exchange Inc.,ishares_match
+PFE,0.18927,US,Pfizer Inc.,US7170811035,United States,New York Stock Exchange Inc.,ishares_match
+NEE,0.188189,US,NextEra Energy Inc.,US65339F1012,United States,New York Stock Exchange Inc.,ishares_match
+DE,0.18718,US,Deere & Company,US2441991054,United States,New York Stock Exchange Inc.,ishares_match
+SAN,0.185413,Spain,Banco Santander S.A.,ES0113900J37,Spain,Bolsa De Madrid,ishares_match
+6098,0.181848,Japan,Recruit Holdings Co. Ltd.,JP3970300004,Japan,Tokyo Stock Exchange,ishares_match
+WELL,0.175086,US,Welltower Inc.,US95040Q1040,United States,New York Stock Exchange Inc.,ishares_match
+IBE,0.174505,Spain,Iberdrola SA,ES0144580Y14,Spain,Bolsa De Madrid,ishares_match
+ISRG,0.173253,US,Intuitive Surgical Inc.,US46120E6023,United States,NASDAQ,ishares_match
+ACN,0.170734,US,Accenture Plc Class A,IE00B4BNMY34,United States,New York Stock Exchange Inc.,ishares_match
+ETN,0.170339,US,Eaton Corp. Plc,IE00B8KQN827,United States,New York Stock Exchange Inc.,ishares_match
+UBSG,0.168832,Switzerland,UBS Group AG,CH0244767585,Switzerland,SIX Swiss Exchange,ishares_match
+TJX,0.168599,US,TJX Companies Inc,US8725401090,United States,New York Stock Exchange Inc.,ishares_match
+DHR,0.168402,US,Danaher Corporation,US2358511028,United States,New York Stock Exchange Inc.,ishares_match
+SU,0.168052,France,Schneider Electric SE,FR0000121972,France,Nyse Euronext - Euronext Paris,ishares_match
+STX,0.1668,US,Seagate Technology Holdings PLC,IE00BKVD2N49,United States,NASDAQ,ishares_match
+6758,0.166626,Japan,Sony Group Corporation,JP3435000009,Japan,Tokyo Stock Exchange,ishares_match
+6501,0.162788,Japan,Hitachi Ltd.,JP3788600009,Japan,Tokyo Stock Exchange,ishares_match
+T,0.161523,US,AT&T Inc,US00206R1023,United States,New York Stock Exchange Inc.,ishares_match
+RR.,0.158024,United Kingdom,Rolls-Royce Holdings plc,GB00B63H8491,United Kingdom,London Stock Exchange,ishares_match
+8316,0.157955,Japan,Sumitomo Mitsui Financial Group Inc.,JP3890350006,Japan,Tokyo Stock Exchange,ishares_match
+SCHW,0.157881,US,Charles Schwab Corp,US8085131055,United States,New York Stock Exchange Inc.,ishares_match
+SPGI,0.155496,US,S&P Global Inc.,US78409V1044,United States,New York Stock Exchange Inc.,ishares_match
+DELL,0.155394,US,Dell Technologies Inc. Class C,US24703L2025,United States,New York Stock Exchange Inc.,ishares_match
+ULVR,0.154041,United Kingdom,Unilever PLC,GB00BVZK7T90,United Kingdom,London Stock Exchange,ishares_match
+WDC,0.153595,US,Western Digital Corporation,US9581021055,United States,NASDAQ,ishares_match
+8035,0.153429,Japan,Tokyo Electron Ltd.,JP3571400005,Japan,Tokyo Stock Exchange,ishares_match
+BBVA,0.152769,Spain,Banco Bilbao Vizcaya Argentaria S.A.,ES0113211835,Spain,Bolsa De Madrid,ishares_match
+LMT,0.151595,US,Lockheed Martin Corporation,US5398301094,United States,New York Stock Exchange Inc.,ishares_match
+VRTX,0.151549,US,Vertex Pharmaceuticals Incorporated,US92532F1003,United States,NASDAQ,ishares_match
+MPC,0.151103,US,Marathon Petroleum Corporation,US56585A1025,United States,New York Stock Exchange Inc.,ishares_match
+ABBN,0.149168,Switzerland,ABB Ltd.,CH0012221716,Switzerland,SIX Swiss Exchange,ishares_match
+CB,0.145929,US,Chubb Limited,CH0044328745,United States,New York Stock Exchange Inc.,ishares_match
+BA,0.144418,US,Boeing Company,US0970231058,United States,New York Stock Exchange Inc.,ishares_match
+BP.,0.144227,United Kingdom,BP PLC,GB0007980591,United Kingdom,London Stock Exchange,ishares_match
+AIR,0.142987,France,Airbus SE,NL0000235190,France,Nyse Euronext - Euronext Paris,ishares_match
+BMY,0.140822,US,Bristol-Myers Squibb Company,US1101221083,United States,New York Stock Exchange Inc.,ishares_match
+COF,0.139557,US,Capital One Financial Corp,US14040H1059,United States,New York Stock Exchange Inc.,ishares_match
+UBER,0.138998,US,Uber Technologies Inc.,US90353T1007,United States,New York Stock Exchange Inc.,ishares_match
+PGR,0.137486,US,Progressive Corporation,US7433151039,United States,New York Stock Exchange Inc.,ishares_match
+MDT,0.136638,US,Medtronic Plc,IE00BTN1Y115,United States,New York Stock Exchange Inc.,ishares_match
+MO,0.136579,US,Altria Group Inc.,US02209S1033,United States,New York Stock Exchange Inc.,ishares_match
+BMO,0.135757,CA,Bank of Montreal,CA0636711016,Canada,Toronto Stock Exchange,ishares_match
+BKNG,0.135578,US,Booking Holdings Inc.,US09857L1089,United States,NASDAQ,ishares_match
+FR0000120073,0.135523,France,Air Liquide SA,FR0000120073,France,,isin
+NOVO B,0.134674,Denmark,Novo Nordisk A/S Class B,DK0062498333,Denmark,Omx Nordic Exchange Copenhagen A/S,ishares_match
+VLO,0.133861,US,Valero Energy Corporation,US91913Y1001,United States,New York Stock Exchange Inc.,ishares_match
+NEM,0.133819,US,Newmont Corporation,US6516391066,United States,New York Stock Exchange Inc.,ishares_match
+MCK,0.133737,US,McKesson Corporation,US58155Q1031,United States,New York Stock Exchange Inc.,ishares_match
+8411,0.133531,Japan,Mizuho Financial Group Inc.,JP3885780001,Japan,Tokyo Stock Exchange,ishares_match
+ZURN,0.131307,Switzerland,Zurich Insurance Group Ltd,CH0011075394,Switzerland,SIX Swiss Exchange,ishares_match
+BATS,0.130669,United Kingdom,British American Tobacco p.l.c.,GB0002875804,United Kingdom,London Stock Exchange,ishares_match
+SBUX,0.130351,US,Starbucks Corporation,US8552441094,United States,NASDAQ,ishares_match
+CNQ,0.128629,CA,Canadian Natural Resources Limited,CA1363851017,Canada,Toronto Stock Exchange,ishares_match
+PSX,0.128017,US,Phillips 66,US7185461040,United States,New York Stock Exchange Inc.,ishares_match
+UCG,0.127086,Italy,UniCredit S.p.A.,IT0005239360,Italy,Borsa Italiana,ishares_match
+ENR,0.126073,Germany,Siemens Energy AG,DE000ENER6Y0,Germany,Xetra,ishares_match
+9984,0.125472,Japan,SoftBank Group Corp.,JP3436100006,Japan,Tokyo Stock Exchange,ishares_match
+ADP,0.125352,US,Automatic Data Processing Inc.,US0530151036,United States,NASDAQ,ishares_match
+PLD,0.12475,US,Prologis Inc.,US74340W1036,United States,New York Stock Exchange Inc.,ishares_match
+SAF,0.124028,France,Safran SA,FR0000073272,France,Nyse Euronext - Euronext Paris,ishares_match
+LOW,0.1239,US,Lowe's Companies Inc.,US5486611073,United States,New York Stock Exchange Inc.,ishares_match
+BNS,0.123208,CA,Bank of Nova Scotia,CA0641491075,Canada,Toronto Stock Exchange,ishares_match
+CVS,0.123133,US,CVS Health Corporation,US1266501006,United States,New York Stock Exchange Inc.,ishares_match
+D05,0.122812,Singapore,DBS Group Holdings Ltd,SG1L01001701,Singapore,Singapore Exchange,ishares_match
+NOW,0.122332,US,ServiceNow Inc.,US81762P1021,United States,New York Stock Exchange Inc.,ishares_match
+CM,0.121619,CA,Canadian Imperial Bank of Commerce,CA1360691010,Canada,Toronto Stock Exchange,ishares_match
+OR,0.120807,France,L'Oreal S.A.,FR0000120321,France,Nyse Euronext - Euronext Paris,ishares_match
+PH,0.120805,US,Parker-Hannifin Corporation,US7010941042,United States,New York Stock Exchange Inc.,ishares_match
+EQIX,0.119372,US,Equinix Inc.,US29444U7000,United States,NASDAQ,ishares_match
+SYK,0.116328,US,Stryker Corporation,US8636671013,United States,New York Stock Exchange Inc.,ishares_match
+SO,0.116251,US,Southern Company,US8425871071,United States,New York Stock Exchange Inc.,ishares_match
+FR0000121014,0.116225,France,LVMH Moet Hennessy Louis Vuitton SE,FR0000121014,France,,isin
+285A,0.115544,Japan,Kioxia Holdings Corporation,JP3236330001,Japan,Tokyo Stock Exchange,ishares_match
+SNOW,0.11519,US,Snowflake Inc.,US8334451098,United States,New York Stock Exchange Inc.,ishares_match
+ADBE,0.113394,US,Adobe Inc.,US00724F1012,United States,NASDAQ,ishares_match
+ENB,0.112472,CA,Enbridge Inc.,CA29250N1050,Canada,Toronto Stock Exchange,ishares_match
+8058,0.111594,Japan,Mitsubishi Corporation,JP3898400001,Japan,Tokyo Stock Exchange,ishares_match
+BNY,0.111321,US,Bank of New York Mellon Corp,US0640581007,United States,New York Stock Exchange Inc.,ishares_match
+GLW,0.111302,US,Corning Inc,US2193501051,United States,New York Stock Exchange Inc.,ishares_match
+US5717481023,0.110864,US,Marsh & McLennan Companies Inc.,US5717481023,United States,,isin
+DTE,0.110721,Germany,Deutsche Telekom AG,DE0005557508,Germany,Xetra,ishares_match
+CFR,0.110554,Switzerland,Compagnie Financiere Richemont SA,CH0210483332,Switzerland,SIX Swiss Exchange,ishares_match
+USB,0.109239,US,U.S. Bancorp,US9029733048,United States,New York Stock Exchange Inc.,ishares_match
+CME,0.10895,US,CME Group Inc. Class A,US12572Q1058,United States,NASDAQ,ishares_match
+INGA,0.108286,Netherlands,ING Groep N.V.,NL0011821202,Netherlands,Euronext Amsterdam,ishares_match
+BNP,0.10823,France,BNP Paribas S.A. Class A,FR0000131104,France,Nyse Euronext - Euronext Paris,ishares_match
+FCX,0.107721,US,Freeport-McMoRan Inc.,US35671D8570,United States,New York Stock Exchange Inc.,ishares_match
+CSX,0.107681,US,CSX Corporation,US1264081035,United States,NASDAQ,ishares_match
+TT,0.105339,US,Trane Technologies plc,IE00BK9ZQ967,United States,New York Stock Exchange Inc.,ishares_match
+NET,0.105309,US,Cloudflare Inc Class A,US18915M1071,United States,New York Stock Exchange Inc.,ishares_match
+ISP,0.104618,Italy,Intesa Sanpaolo S.p.A.,IT0000072618,Italy,Borsa Italiana,ishares_match
+WMB,0.104416,US,Williams Companies Inc.,US9694571004,United States,New York Stock Exchange Inc.,ishares_match
+1299,0.104362,Hong Kong,AIA Group Limited,HK0000069689,Hong Kong,Hong Kong Exchanges And Clearing Ltd,ishares_match
+JCI,0.104349,US,Johnson Controls International plc,IE00BY7QL619,United States,New York Stock Exchange Inc.,ishares_match
+INTU,0.104347,US,Intuit Inc.,US4612021034,United States,NASDAQ,ishares_match
+EMR,0.104073,US,Emerson Electric Co.,US2910111044,United States,New York Stock Exchange Inc.,ishares_match
+CDNS,0.103798,US,Cadence Design Systems Inc.,US1273871087,United States,NASDAQ,ishares_match
+DUK,0.103454,US,Duke Energy Corporation,US26441C2044,United States,New York Stock Exchange Inc.,ishares_match
+ELV,0.102656,US,Elevance Health Inc.,US0367521038,United States,New York Stock Exchange Inc.,ishares_match
+AEM,0.102314,CA,Agnico Eagle Mines Limited,CA0084741085,Canada,Toronto Stock Exchange,ishares_match
+MMM,0.102266,US,3M Company,US88579Y1010,United States,New York Stock Exchange Inc.,ishares_match
+PWR,0.101821,US,Quanta Services Inc.,US74762E1029,United States,New York Stock Exchange Inc.,ishares_match
+GSK,0.101242,United Kingdom,GSK plc,GB00BN7SWP63,United Kingdom,London Stock Exchange,ishares_match
+SAN,0.100423,France,Sanofi SA,FR0000120578,France,Nyse Euronext - Euronext Paris,ishares_match
+8001,0.100032,Japan,Itochu Corporation,JP3143600009,Japan,Tokyo Stock Exchange,ishares_match
+FTNT,0.099953,US,Fortinet Inc.,US34959E1091,United States,NASDAQ,ishares_match
+VRT,0.099769,US,Vertiv Holdings Co. Class A,US92537N1081,United States,New York Stock Exchange Inc.,ishares_match
+PNC,0.099317,US,PNC Financial Services Group Inc.,US6934751057,United States,New York Stock Exchange Inc.,ishares_match
+EOG,0.098892,US,EOG Resources Inc.,US26875P1012,United States,New York Stock Exchange Inc.,ishares_match
+SNPS,0.098361,US,Synopsys Inc.,US8716071076,United States,NASDAQ,ishares_match
+MAR,0.098071,US,Marriott International Inc. Class A,US5719032022,United States,NASDAQ,ishares_match
+NAB,0.09797,Australia,National Australia Bank Limited,AU000000NAB4,Australia,Asx - All Markets,ishares_match
+WBC,0.097699,Australia,Westpac Banking Corporation,AU000000WBC1,Australia,Asx - All Markets,ishares_match
+RIO,0.097193,United Kingdom,Rio Tinto plc,GB0007188757,United Kingdom,London Stock Exchange,ishares_match
+ICE,0.097177,US,Intercontinental Exchange Inc.,US45866F1049,United States,New York Stock Exchange Inc.,ishares_match
+TRV,0.097039,US,Travelers Companies Inc.,US89417E1091,United States,New York Stock Exchange Inc.,ishares_match
+ANZ,0.096851,Australia,ANZ Group Holdings Limited,AU000000ANZ3,Australia,Asx - All Markets,ishares_match
+8766,0.096713,Japan,Tokio Marine Holdings Inc.,JP3910660004,Japan,Tokyo Stock Exchange,ishares_match
+SPCX,0.095776,US,Space Exploration Technologies Corp. Class A,US84615Q1031,United States,NASDAQ,ishares_match
+REGN,0.095579,US,Regeneron Pharmaceuticals Inc.,US75886F1075,United States,NASDAQ,ishares_match
+BA.,0.094875,United Kingdom,BAE Systems plc,GB0002634946,United Kingdom,London Stock Exchange,ishares_match
+8031,0.094783,Japan,Mitsui & Co.Ltd,JP3893600001,Japan,Tokyo Stock Exchange,ishares_match
+BX,0.094233,US,Blackstone Inc.,US09260D1072,United States,New York Stock Exchange Inc.,ishares_match
+SPOT,0.093278,Sweden,Spotify Technology SA,LU1778762911,Sweden,New York Stock Exchange Inc.,ishares_match
+ENEL,0.09312,Italy,Enel SpA,IT0003128367,Italy,Borsa Italiana,ishares_match
+WM,0.092965,US,Waste Management Inc.,US94106L1098,United States,New York Stock Exchange Inc.,ishares_match
+MDLZ,0.091913,US,Mondelez International Inc. Class A,US6092071058,United States,NASDAQ,ishares_match
+MUV2,0.09187,Germany,Munchener Ruckversicherungs-Gesellschaft AG,DE0008430026,Germany,Xetra,ishares_match
+CEG,0.091587,US,Constellation Energy Corporation,US21037T1097,United States,NASDAQ,ishares_match
+SLB,0.091538,US,SLB Limited,AN8068571086,United States,New York Stock Exchange Inc.,ishares_match
+SU,0.091476,CA,Suncor Energy Inc.,CA8672241079,Canada,Toronto Stock Exchange,ishares_match
+AMT,0.091468,US,American Tower Corporation,US03027X1000,United States,New York Stock Exchange Inc.,ishares_match
+CI,0.090843,US,Cigna Group,US1255231003,United States,New York Stock Exchange Inc.,ishares_match
+BN,0.090568,CA,Brookfield Corporation,CA11271J1075,Canada,Toronto Stock Exchange,ishares_match
+GM,0.090148,US,General Motors Company,US37045V1008,United States,New York Stock Exchange Inc.,ishares_match
+CP,0.089787,CA,Canadian Pacific Kansas City Limited,CA13646K1084,Canada,Toronto Stock Exchange,ishares_match
+ECL,0.089585,US,Ecolab Inc.,US2788651006,United States,New York Stock Exchange Inc.,ishares_match
+O39,0.089433,Singapore,Oversea-Chinese Banking Corporation Limited,SG1S04926220,Singapore,Singapore Exchange,ishares_match
+BARC,0.089286,United Kingdom,Barclays PLC,GB0031348658,United Kingdom,London Stock Exchange,ishares_match
+MSI,0.089261,US,Motorola Solutions Inc.,US6200763075,United States,New York Stock Exchange Inc.,ishares_match
+GD,0.088666,US,General Dynamics Corporation,US3695501086,United States,New York Stock Exchange Inc.,ishares_match
+DDOG,0.088054,US,Datadog Inc. Class A,US23804L1035,United States,NASDAQ,ishares_match
+6861,0.08805,Japan,Keyence Corporation,JP3236200006,Japan,Tokyo Stock Exchange,ishares_match
+CMCSA,0.087282,US,Comcast Corporation Class A,US20030N1019,United States,NASDAQ,ishares_match
+HWM,0.086907,US,Howmet Aerospace Inc.,US4432011082,United States,New York Stock Exchange Inc.,ishares_match
+URI,0.086895,US,United Rentals Inc.,US9113631090,United States,New York Stock Exchange Inc.,ishares_match
+HCA,0.086519,US,HCA Healthcare Inc,US40412C1018,United States,New York Stock Exchange Inc.,ishares_match
+IFX,0.086234,Germany,Infineon Technologies AG,DE0006231004,Germany,Xetra,ishares_match
+LLOY,0.085758,United Kingdom,Lloyds Banking Group plc,GB0008706128,United Kingdom,London Stock Exchange,ishares_match
+NG.,0.085722,United Kingdom,National Grid plc,GB00BDR05C01,United Kingdom,London Stock Exchange,ishares_match
+ROST,0.085682,US,Ross Stores Inc.,US7782961038,United States,NASDAQ,ishares_match
+NOC,0.085378,US,Northrop Grumman Corp.,US6668071029,United States,New York Stock Exchange Inc.,ishares_match
+RCL,0.085322,US,Royal Caribbean Group,LR0008862868,United States,New York Stock Exchange Inc.,ishares_match
+ORLY,0.085055,US,O'Reilly Automotive Inc.,US67103H1077,United States,NASDAQ,ishares_match
+ABNB,0.084705,US,Airbnb Inc. Class A,US0090661010,United States,NASDAQ,ishares_match
+ITW,0.083865,US,Illinois Tool Works Inc.,US4523081093,United States,New York Stock Exchange Inc.,ishares_match
+HLT,0.083784,US,Hilton Worldwide Holdings Inc.,US43300A2033,United States,New York Stock Exchange Inc.,ishares_match
+HPE,0.083778,US,Hewlett Packard Enterprise Co.,US42824C1099,United States,New York Stock Exchange Inc.,ishares_match
+NSC,0.083406,US,Norfolk Southern Corporation,US6558441084,United States,New York Stock Exchange Inc.,ishares_match
+SHW,0.082989,US,Sherwin-Williams Company,US8243481061,United States,New York Stock Exchange Inc.,ishares_match
+ABI,0.0829,Belgium,Anheuser-Busch InBev SA/NV,BE0974293251,Belgium,Nyse Euronext - Euronext Brussels,ishares_match
+9983,0.082826,Japan,FAST RETAILING CO. LTD.,JP3802300008,Japan,Tokyo Stock Exchange,ishares_match
+TRGP,0.082711,US,Targa Resources Corp.,US87612G1013,United States,New York Stock Exchange Inc.,ishares_match
+MFC,0.082681,CA,Manulife Financial Corporation,CA56501R1064,Canada,Toronto Stock Exchange,ishares_match
+REL,0.082638,United Kingdom,RELX PLC,GB00B2B0DG97,United Kingdom,London Stock Exchange,ishares_match
+CS,0.082026,France,AXA SA,FR0000120628,France,Nyse Euronext - Euronext Paris,ishares_match
+7011,0.081966,Japan,Mitsubishi Heavy Industries Ltd.,JP3900000005,Japan,Tokyo Stock Exchange,ishares_match
+6981,0.081928,Japan,Murata Manufacturing Co. Ltd.,JP3914400001,Japan,Tokyo Stock Exchange,ishares_match
+MCO,0.081675,US,Moody's Corporation,US6153691059,United States,New York Stock Exchange Inc.,ishares_match
+SE0015811963,0.081477,Sweden,Investor AB Class B,SE0015811963,Sweden,,isin
+MELI,0.081179,US,MercadoLibre Inc.,US58733R1023,United States,NASDAQ,ishares_match
+TMUS,0.080119,US,T-Mobile US Inc.,US8725901040,United States,NASDAQ,ishares_match
+ALL,0.080041,US,Allstate Corporation,US0200021014,United States,New York Stock Exchange Inc.,ishares_match
+UPS,0.079556,US,United Parcel Service Inc. Class B,US9113121068,United States,New York Stock Exchange Inc.,ishares_match
+CTAS,0.079429,US,Cintas Corporation,US1729081059,United States,NASDAQ,ishares_match
+AEP,0.078396,US,American Electric Power Company Inc.,US0255371017,United States,NASDAQ,ishares_match
+CL,0.077571,US,Colgate-Palmolive Company,US1941621039,United States,New York Stock Exchange Inc.,ishares_match
+HON,0.077424,US,Honeywell International Inc.,US4385162056,United States,NASDAQ,ishares_match
+SPG,0.077277,US,Simon Property Group Inc.,US8288061091,United States,New York Stock Exchange Inc.,ishares_match
+GLEN,0.077027,United Kingdom,Glencore plc,JE00B4T3BW64,United Kingdom,London Stock Exchange,ishares_match
+ITX,0.076744,Spain,Industria de Diseno Textil S.A.,ES0148396007,Spain,Bolsa De Madrid,ishares_match
+CMI,0.076305,US,Cummins Inc.,US2310211063,United States,New York Stock Exchange Inc.,ishares_match
+LNG,0.076217,US,Cheniere Energy Inc.,US16411R2085,United States,New York Stock Exchange Inc.,ishares_match
+TGT,0.075893,US,Target Corporation,US87612E1064,United States,New York Stock Exchange Inc.,ishares_match
+HOOD,0.075406,US,Robinhood Markets Inc. Class A,US7707001027,United States,NASDAQ,ishares_match
+MNST,0.075156,US,Monster Beverage Corporation,US61174X1090,United States,NASDAQ,ishares_match
+NXPI,0.075089,US,NXP Semiconductors NV,NL0009538784,United States,NASDAQ,ishares_match
+FDX,0.074749,US,FedEx Corporation,US31428X1063,United States,New York Stock Exchange Inc.,ishares_match
+AJG,0.07428,US,Arthur J. Gallagher & Co.,US3635761097,United States,New York Stock Exchange Inc.,ishares_match
+DLR,0.074198,US,Digital Realty Trust Inc.,US2538681030,United States,New York Stock Exchange Inc.,ishares_match
+ABX,0.073204,CA,Barrick Mining Corporation,CA06849F1080,Canada,Toronto Stock Exchange,ishares_match
+GWW,0.073058,US,W.W. Grainger Inc.,US3848021040,United States,New York Stock Exchange Inc.,ishares_match
+KMI,0.073032,US,Kinder Morgan Inc Class P,US49456B1017,United States,New York Stock Exchange Inc.,ishares_match
+CNR,0.073026,CA,Canadian National Railway Company,CA1363751027,Canada,Toronto Stock Exchange,ishares_match
+DASH,0.072638,US,DoorDash Inc. Class A,US25809K1051,United States,NASDAQ,ishares_match
+AON,0.072353,US,Aon Plc Class A,IE00BLP1HW54,United States,New York Stock Exchange Inc.,ishares_match
+LITE,0.072292,US,Lumentum Holdings Inc.,US55024U1097,United States,NASDAQ,ishares_match
+DBK,0.071058,Germany,Deutsche Bank Aktiengesellschaft,DE0005140008,Germany,Xetra,ishares_match
+DHL,0.070992,Germany,DHL AG,DE0005552004,Germany,Xetra,ishares_match
+6752,0.070773,Japan,Panasonic Holdings Corporation,JP3866800000,Japan,Tokyo Stock Exchange,ishares_match
+CSL,0.070571,Australia,CSL Limited,AU000000CSL8,Australia,Asx - All Markets,ishares_match
+APD,0.070508,US,Air Products and Chemicals Inc.,US0091581068,United States,New York Stock Exchange Inc.,ishares_match
+4063,0.070461,Japan,Shin-Etsu Chemical Co. Ltd.,JP3371200001,Japan,Tokyo Stock Exchange,ishares_match
+NTRA,0.070225,US,Natera Inc.,US6323071042,United States,NASDAQ,ishares_match
+DB1,0.070167,Germany,Deutsche Boerse AG,DE0005810055,Germany,Xetra,ishares_match
+TEL,0.069642,US,TE Connectivity plc,IE000IVNQZ81,United States,New York Stock Exchange Inc.,ishares_match
+TFC,0.069638,US,Truist Financial Corporation,US89832Q1094,United States,New York Stock Exchange Inc.,ishares_match
+NWG,0.068966,United Kingdom,NatWest Group Plc,GB00BM8PJY71,United Kingdom,London Stock Exchange,ishares_match
+BSX,0.068864,US,Boston Scientific Corporation,US1011371077,United States,New York Stock Exchange Inc.,ishares_match
+4502,0.06835,Japan,Takeda Pharmaceutical Co. Ltd.,JP3463000004,Japan,Tokyo Stock Exchange,ishares_match
+TRP,0.067774,CA,TC Energy Corporation,CA87807B1076,Canada,Toronto Stock Exchange,ishares_match
+MQG,0.067485,Australia,Macquarie Group Ltd.,AU000000MQG1,Australia,Asx - All Markets,ishares_match
+DG,0.067345,France,VINCI SA,FR0000125486,France,Nyse Euronext - Euronext Paris,ishares_match
+CAH,0.066783,US,Cardinal Health Inc.,US14149Y1082,United States,New York Stock Exchange Inc.,ishares_match
+CRH,0.06676,US,CRH public limited company,IE0001827041,United States,New York Stock Exchange Inc.,ishares_match
+TDG,0.066612,US,TransDigm Group Incorporated,US8936411003,United States,New York Stock Exchange Inc.,ishares_match
+WPM,0.06648,CA,Wheaton Precious Metals Corp,CA9628791027,Canada,Toronto Stock Exchange,ishares_match
+NUE,0.066296,US,Nucor Corporation,US6703461052,United States,New York Stock Exchange Inc.,ishares_match
+DVN,0.065966,US,Devon Energy Corporation,US25179M1036,United States,New York Stock Exchange Inc.,ishares_match
+BE,0.065718,US,Bloom Energy Corporation Class A,US0937121079,United States,New York Stock Exchange Inc.,ishares_match
+AFL,0.065574,US,Aflac Incorporated,US0010551028,United States,New York Stock Exchange Inc.,ishares_match
+COR,0.065299,US,Cencora Inc.,US03073E1055,United States,New York Stock Exchange Inc.,ishares_match
+BDX,0.065055,US,Becton Dickinson and Company,US0758871091,United States,New York Stock Exchange Inc.,ishares_match
+OKE,0.064931,US,ONEOK Inc.,US30609A1097,United States,New York Stock Exchange Inc.,ishares_match
+NA,0.064849,CA,National Bank of Canada,CA6330671034,Canada,Toronto Stock Exchange,ishares_match
+388,0.064625,Hong Kong,Hong Kong Exchanges & Clearing Ltd.,HK0388045442,Hong Kong,Hong Kong Exchanges And Clearing Ltd,ishares_match
+SE0000115446,0.064191,Sweden,Volvo AB Class B,SE0000115446,Sweden,,isin
+MPWR,0.064049,US,Monolithic Power Systems Inc.,US6098391054,United States,NASDAQ,ishares_match
+GB00BD6K4575,0.062844,United Kingdom,Compass Group PLC,GB00BD6K4575,United Kingdom,,isin
+9433,0.062596,Japan,KDDI Corporation,JP3496400007,Japan,Tokyo Stock Exchange,ishares_match
+APP,0.062431,US,AppLovin Corp. Class A,US03831W1080,United States,NASDAQ,ishares_match
+7974,0.062149,Japan,Nintendo Co. Ltd.,JP3756600007,Japan,Tokyo Stock Exchange,ishares_match
+KEYS,0.061896,US,Keysight Technologies Inc,US49338L1035,United States,New York Stock Exchange Inc.,ishares_match
+KKR,0.061887,US,KKR & Co Inc,US48251W1045,United States,New York Stock Exchange Inc.,ishares_match
+EBAY,0.061579,US,eBay Inc.,US2786421030,United States,NASDAQ,ishares_match
+MET,0.061531,US,MetLife Inc.,US59156R1086,United States,New York Stock Exchange Inc.,ishares_match
+LSEG,0.061328,United Kingdom,London Stock Exchange Group plc,GB00B0SWJX34,United Kingdom,London Stock Exchange,ishares_match
+EL,0.061202,France,EssilorLuxottica SA,FR0000121667,France,Nyse Euronext - Euronext Paris,ishares_match
+LHX,0.061024,US,L3Harris Technologies Inc,US5024311095,United States,New York Stock Exchange Inc.,ishares_match
+PYPL,0.060586,US,PayPal Holdings Inc.,US70450Y1038,United States,NASDAQ,ishares_match
+BKR,0.060003,US,Baker Hughes Company Class A,US05722G1004,United States,NASDAQ,ishares_match
+ENI,0.0597,Italy,Eni S.p.A.,IT0003132476,Italy,Borsa Italiana,ishares_match
+AAL,0.059613,United Kingdom,Anglo American plc,GB00BTK05J60,United Kingdom,London Stock Exchange,ishares_match
+STAN,0.059595,United Kingdom,Standard Chartered PLC,GB0004082847,United Kingdom,London Stock Exchange,ishares_match
+ILMN,0.059481,US,Illumina Inc.,US4523271090,United States,NASDAQ,ishares_match
+SRE,0.059379,US,Sempra,US8168511090,United States,New York Stock Exchange Inc.,ishares_match
+PSA,0.059334,US,Public Storage,US74460D1090,United States,New York Stock Exchange Inc.,ishares_match
+IL0006290147,0.059091,Israel,Teva Pharmaceutical Industries Limited,IL0006290147,Israel,,isin
+NDA FI,0.058991,Finland,Nordea Bank Abp,FI4000297767,Finland,Nasdaq Omx Helsinki Ltd.,ishares_match
+LONN,0.058738,Switzerland,Lonza Group AG,CH0013841017,Switzerland,SIX Swiss Exchange,ishares_match
+FAST,0.05845,US,Fastenal Company,US3119001044,United States,NASDAQ,ishares_match
+RHM,0.058168,Germany,Rheinmetall AG,DE0007030009,Germany,Xetra,ishares_match
+WES,0.058041,Australia,Wesfarmers Limited,AU000000WES1,Australia,Asx - All Markets,ishares_match
+EW,0.05796,US,Edwards Lifesciences Corporation,US28176E1082,United States,New York Stock Exchange Inc.,ishares_match
+WAT,0.057532,US,Waters Corporation,US9418481035,United States,New York Stock Exchange Inc.,ishares_match
+ARGX,0.057209,Belgium,argenx SE,NL0010832176,Belgium,Nyse Euronext - Euronext Brussels,ishares_match
+BAYN,0.057136,Germany,Bayer AG,DE000BAY0017,Germany,Xetra,ishares_match
+ETR,0.05691,US,Entergy Corporation,US29364G1031,United States,New York Stock Exchange Inc.,ishares_match
+AMP,0.056842,US,Ameriprise Financial Inc.,US03076C1062,United States,New York Stock Exchange Inc.,ishares_match
+NTAP,0.056814,US,NetApp Inc.,US64110D1046,United States,NASDAQ,ishares_match
+APO,0.056779,US,Apollo Global Management Inc,US03769M1062,United States,New York Stock Exchange Inc.,ishares_match
+CVE,0.05657,CA,Cenovus Energy Inc.,CA15135U1093,Canada,Toronto Stock Exchange,ishares_match
+AZO,0.056302,US,AutoZone Inc.,US0533321024,United States,New York Stock Exchange Inc.,ishares_match
+6503,0.056295,Japan,Mitsubishi Electric Corp.,JP3902400005,Japan,Tokyo Stock Exchange,ishares_match
+2914,0.056237,Japan,Japan Tobacco Inc.,JP3726800000,Japan,Tokyo Stock Exchange,ishares_match
+BAS,0.056153,Germany,BASF SE,DE000BASF111,Germany,Xetra,ishares_match
+D,0.056061,US,Dominion Energy Inc,US25746U1097,United States,New York Stock Exchange Inc.,ishares_match
+MSCI,0.055933,US,MSCI Inc. Class A,US55354G1004,United States,New York Stock Exchange Inc.,ishares_match
+VYLR,0.055805,US,Vylor Inc,US92892R1086,United States,New York Stock Exchange Inc.,ishares_match
+AME,0.055581,US,AMETEK Inc.,US0311001004,United States,New York Stock Exchange Inc.,ishares_match
+DGE,0.055382,United Kingdom,Diageo plc,GB0002374006,United Kingdom,London Stock Exchange,ishares_match
+PRX,0.054959,Netherlands,Prosus N.V. Class N,NL0013654783,Netherlands,Euronext Amsterdam,ishares_match
+ROK,0.054732,US,Rockwell Automation Inc.,US7739031091,United States,New York Stock Exchange Inc.,ishares_match
+RMS,0.054629,France,Hermes International SCA,FR0000052292,France,Nyse Euronext - Euronext Paris,ishares_match
+HUM,0.054499,US,Humana Inc.,US4448591028,United States,New York Stock Exchange Inc.,ishares_match
+8002,0.054372,Japan,Marubeni Corporation,JP3877600001,Japan,Tokyo Stock Exchange,ishares_match
+FIX,0.054365,US,Comfort Systems USA Inc.,US1999081045,United States,New York Stock Exchange Inc.,ishares_match
+SREN,0.05425,Switzerland,Swiss Re AG,CH0126881561,Switzerland,SIX Swiss Exchange,ishares_match
+CIEN,0.054148,US,Ciena Corporation,US1717793095,United States,New York Stock Exchange Inc.,ishares_match
+A,0.053912,US,Agilent Technologies Inc.,US00846U1016,United States,New York Stock Exchange Inc.,ishares_match
+ENGI,0.053891,France,ENGIE S.A.,FR0010208488,France,Nyse Euronext - Euronext Paris,ishares_match
+HONA,0.053836,US,Honeywell Aerospace Inc,US43849R1059,United States,NASDAQ,ishares_match
+ATD,0.053577,CA,Alimentation Couche-Tard Inc.,CA01626P1484,Canada,Toronto Stock Exchange,ishares_match
+ADSK,0.053332,US,Autodesk Inc.,US0527691069,United States,NASDAQ,ishares_match
+FITB,0.053295,US,Fifth Third Bancorp,US3167731005,United States,New York Stock Exchange Inc.,ishares_match
+STT,0.053187,US,State Street Corporation,US8574771031,United States,New York Stock Exchange Inc.,ishares_match
+PCAR,0.053044,US,PACCAR Inc,US6937181088,United States,NASDAQ,ishares_match
+RACE,0.052936,Italy,Ferrari NV,NL0011585146,Italy,Borsa Italiana,ishares_match
+NOKIA,0.052592,Finland,Nokia Oyj,FI0009000681,Finland,Nasdaq Omx Helsinki Ltd.,ishares_match
+8053,0.052556,Japan,Sumitomo Corporation,JP3404600003,Japan,Tokyo Stock Exchange,ishares_match
+WCN,0.052174,US,Waste Connections Inc.,CA94106B1013,United States,New York Stock Exchange Inc.,ishares_match
+ROP,0.05193,US,Roper Technologies Inc.,US7766961061,United States,NASDAQ,ishares_match
+7741,0.051805,Japan,HOYA CORPORATION,JP3837800006,Japan,Tokyo Stock Exchange,ishares_match
+SE0017486889,0.051776,Sweden,Atlas Copco AB Class A,SE0017486889,Sweden,,isin
+TSCO,0.051412,United Kingdom,Tesco PLC,GB00BLGZ9862,United Kingdom,London Stock Exchange,ishares_match
+EOAN,0.051121,Germany,E.ON SE,DE000ENAG999,Germany,Xetra,ishares_match
+O,0.051042,US,Realty Income Corporation,US7561091049,United States,New York Stock Exchange Inc.,ishares_match
+6702,0.050901,Japan,Fujitsu Limited,JP3818000006,Japan,Tokyo Stock Exchange,ishares_match
+OXY,0.050573,US,Occidental Petroleum Corporation,US6745991058,United States,New York Stock Exchange Inc.,ishares_match
+KR,0.050557,US,Kroger Co.,US5010441013,United States,New York Stock Exchange Inc.,ishares_match
+RWE,0.050542,Germany,RWE AG,DE0007037129,Germany,Xetra,ishares_match
+VST,0.050534,US,Vistra Corp.,US92840M1027,United States,New York Stock Exchange Inc.,ishares_match
+VEEV,0.05042,US,Veeva Systems Inc. Class A,US9224751084,United States,New York Stock Exchange Inc.,ishares_match
+9434,0.050342,Japan,SoftBank Corp.,JP3732000009,Japan,Tokyo Stock Exchange,ishares_match
+AIG,0.05024,US,American International Group Inc.,US0268747849,United States,New York Stock Exchange Inc.,ishares_match
+RKT,0.050219,United Kingdom,Reckitt Benckiser Group plc,GB00BSZBP530,United Kingdom,London Stock Exchange,ishares_match
+SLF,0.050149,CA,Sun Life Financial Inc.,CA8667961053,Canada,Toronto Stock Exchange,ishares_match
+TER,0.049878,US,Teradyne Inc.,US8807701029,United States,NASDAQ,ishares_match
+NKE,0.049499,US,NIKE Inc. Class B,US6541061031,United States,New York Stock Exchange Inc.,ishares_match
+HOLN,0.049494,Switzerland,Holcim Ltd,CH0012214059,Switzerland,SIX Swiss Exchange,ishares_match
+U11,0.049459,Singapore,United Overseas Bank Limited,SG1M31001969,Singapore,Singapore Exchange,ishares_match
+F,0.049449,US,Ford Motor Company,US3453708600,United States,New York Stock Exchange Inc.,ishares_match
+YUM,0.049381,US,Yum! Brands Inc.,US9884981013,United States,New York Stock Exchange Inc.,ishares_match
+IDXX,0.049318,US,IDEXX Laboratories Inc.,US45168D1046,United States,NASDAQ,ishares_match
+GLE,0.048943,France,Societe Generale SA Class A,FR0000130809,France,Nyse Euronext - Euronext Paris,ishares_match
+FERG,0.048862,US,Ferguson Enterprises Inc.,US31488V1070,United States,New York Stock Exchange Inc.,ishares_match
+IQV,0.048786,US,IQVIA Holdings Inc,US46266C1053,United States,New York Stock Exchange Inc.,ishares_match
+DSV,0.048564,Denmark,DSV A/S,DK0060079531,Denmark,Omx Nordic Exchange Copenhagen A/S,ishares_match
+COHR,0.048548,US,Coherent Corp.,US19247G1076,United States,New York Stock Exchange Inc.,ishares_match
+KDP,0.048445,US,Keurig Dr Pepper Inc.,US49271V1008,United States,NASDAQ,ishares_match
+CMG,0.04843,US,Chipotle Mexican Grill Inc.,US1696561059,United States,New York Stock Exchange Inc.,ishares_match
+CVNA,0.048129,US,Carvana Co. Class A,US1468691027,United States,New York Stock Exchange Inc.,ishares_match
+NDAQ,0.048026,US,Nasdaq Inc.,US6311031081,United States,NASDAQ,ishares_match
+RSG,0.048016,US,Republic Services Inc.,US7607591002,United States,New York Stock Exchange Inc.,ishares_match
+WAB,0.047861,US,Westinghouse Air Brake Technologies Corporation,US9297401088,United States,New York Stock Exchange Inc.,ishares_match
+P,0.047725,US,Everpure Inc. Class A,US74624M1027,United States,New York Stock Exchange Inc.,ishares_match
+CABK,0.047722,Spain,CaixaBank SA,ES0140609019,Spain,Bolsa De Madrid,ishares_match
+MCHP,0.047636,US,Microchip Technology Incorporated,US5950171042,United States,NASDAQ,ishares_match
+8591,0.047506,Japan,ORIX Corporation,JP3200450009,Japan,Tokyo Stock Exchange,ishares_match
+FNV,0.047416,CA,Franco-Nevada Corporation,CA3518581051,Canada,Toronto Stock Exchange,ishares_match
+DOL,0.047358,CA,Dollarama Inc.,CA25675T1075,Canada,Toronto Stock Exchange,ishares_match
+BN,0.047302,France,Danone SA,FR0000120644,France,Nyse Euronext - Euronext Paris,ishares_match
+GALD,0.0473,Switzerland,Galderma Group AG,CH1335392721,Switzerland,SIX Swiss Exchange,ishares_match
+SE0000667891,0.04707,Sweden,Sandvik AB,SE0000667891,Sweden,,isin
+ASM,0.047049,Netherlands,ASM International N.V.,NL0000334118,Netherlands,Euronext Amsterdam,ishares_match
+POW,0.047032,CA,Power Corporation of Canada,CA7392391016,Canada,Toronto Stock Exchange,ishares_match
+XEL,0.046556,US,Xcel Energy Inc.,US98389B1008,United States,NASDAQ,ishares_match
+WDS,0.046151,Australia,Woodside Energy Group Ltd,AU0000224040,Australia,Asx - All Markets,ishares_match
+VMRK,0.045652,US,Vivmark Residential,US29476L1070,United States,New York Stock Exchange Inc.,ishares_match
+CSU,0.045549,CA,Constellation Software Inc.,CA21037X1006,Canada,Toronto Stock Exchange,ishares_match
+BIIB,0.045361,US,Biogen Inc.,US09062X1037,United States,NASDAQ,ishares_match
+GRMN,0.045172,US,Garmin Ltd.,CH0114405324,United States,New York Stock Exchange Inc.,ishares_match
+CARR,0.045064,US,Carrier Global Corp.,US14448C1045,United States,New York Stock Exchange Inc.,ishares_match
+SLHN,0.044945,Switzerland,Swiss Life Holding AG,CH0014852781,Switzerland,SIX Swiss Exchange,ishares_match
+HIG,0.044738,US,Hartford Insurance Group Inc.,US4165151048,United States,New York Stock Exchange Inc.,ishares_match
+RIO,0.04464,Australia,Rio Tinto Limited,AU000000RIO1,Australia,Asx - All Markets,ishares_match
+6701,0.04459,Japan,NEC Corporation,JP3733000008,Japan,Tokyo Stock Exchange,ishares_match
+6301,0.044433,Japan,Komatsu Ltd.,JP3304200003,Japan,Tokyo Stock Exchange,ishares_match
+EBS,0.044409,Austria,Erste Group Bank AG,AT0000652011,Austria,Wiener Boerse Ag,ishares_match
+7267,0.04422,Japan,Honda Motor Co. Ltd.,JP3854600008,Japan,Tokyo Stock Exchange,ishares_match
+FANG,0.043909,US,Diamondback Energy Inc.,US25278X1090,United States,NASDAQ,ishares_match
+TWLO,0.043906,US,Twilio Inc. Class A,US90138F1021,United States,New York Stock Exchange Inc.,ishares_match
+8750,0.04386,Japan,Daiichi Life Group. Inc.,JP3476480003,Japan,Tokyo Stock Exchange,ishares_match
+DHI,0.043664,US,D.R. Horton Inc.,US23331A1097,United States,New York Stock Exchange Inc.,ishares_match
+6762,0.043469,Japan,TDK Corporation,JP3538800008,Japan,Tokyo Stock Exchange,ishares_match
+SDZ,0.043461,Switzerland,Sandoz Group Ltd,CH1243598427,Switzerland,SIX Swiss Exchange,ishares_match
+EXC,0.043442,US,Exelon Corporation,US30161N1019,United States,NASDAQ,ishares_match
+IRM,0.043431,US,Iron Mountain Inc.,US46284V1017,United States,New York Stock Exchange Inc.,ishares_match
+SE0007100581,0.043368,Sweden,ASSA ABLOY AB Class B,SE0007100581,Sweden,,isin
+XYZ,0.043067,US,Block Inc. Class A,US8522341036,United States,New York Stock Exchange Inc.,ishares_match
+ALAB,0.043062,US,Astera Labs Inc.,US04626A1034,United States,NASDAQ,ishares_match
+REP,0.0426,Spain,Repsol SA,ES0173516115,Spain,Bolsa De Madrid,ishares_match
+LR,0.042295,France,Legrand SA,FR0010307819,France,Nyse Euronext - Euronext Paris,ishares_match
+ADM,0.042185,US,Archer-Daniels-Midland Company,US0394831020,United States,New York Stock Exchange Inc.,ishares_match
+5802,0.041885,Japan,Sumitomo Electric Industries Ltd.,JP3407400005,Japan,Tokyo Stock Exchange,ishares_match
+VTR,0.041858,US,Ventas Inc.,US92276F1003,United States,New York Stock Exchange Inc.,ishares_match
+8725,0.041778,Japan,MS&AD Insurance Group Holdings Inc.,JP3890310000,Japan,Tokyo Stock Exchange,ishares_match
+FFH,0.041717,CA,Fairfax Financial Holdings Limited,CA3039011026,Canada,Toronto Stock Exchange,ishares_match
+SSE,0.041708,United Kingdom,SSE PLC,GB0007908733,United Kingdom,London Stock Exchange,ishares_match
+PRU,0.041687,US,Prudential Financial Inc.,US7443201022,United States,New York Stock Exchange Inc.,ishares_match
+WTW,0.041654,US,Willis Towers Watson Public Limited Company,IE00BDB6Q211,United States,NASDAQ,ishares_match
+SE0000242455,0.041633,Sweden,Swedbank AB Class A,SE0000242455,Sweden,,isin
+SE0000148884,0.041535,Sweden,Skandinaviska Enskilda Banken AB Class A,SE0000148884,Sweden,,isin
+CA8787422044,0.041522,CA,Teck Resources Limited Class B,CA8787422044,Canada,,isin
+PRY,0.041376,Italy,Prysmian S.p.A.,IT0004176001,Italy,Borsa Italiana,ishares_match
+RVMD,0.041315,US,Revolution Medicines Inc.,US76155X1000,United States,NASDAQ,ishares_match
+DANSKE,0.041237,Denmark,Danske Bank A/S,DK0010274414,Denmark,Omx Nordic Exchange Copenhagen A/S,ishares_match
+IBKR,0.040949,US,Interactive Brokers Group Inc. Class A,US45841N1072,United States,NASDAQ,ishares_match
+STLD,0.040743,US,Steel Dynamics Inc.,US8581191009,United States,NASDAQ,ishares_match
+TTWO,0.040735,US,Take-Two Interactive Software Inc.,US8740541094,United States,NASDAQ,ishares_match
+CBRE,0.040625,US,CBRE Group Inc. Class A,US12504L1098,United States,New York Stock Exchange Inc.,ishares_match
+ACGL,0.040546,US,Arch Capital Group Ltd.,BMG0450A1053,United States,NASDAQ,ishares_match
+WDAY,0.040391,US,Workday Inc. Class A,US98138H1014,United States,NASDAQ,ishares_match
+RPRX,0.04038,US,Royalty Pharma Plc Class A,GB00BMVP7Y09,United States,NASDAQ,ishares_match
+8015,0.04022,Japan,Toyota Tsusho Corp.,JP3635000007,Japan,Tokyo Stock Exchange,ishares_match
+SGO,0.040165,France,Compagnie de Saint-Gobain SA,FR0000125007,France,Nyse Euronext - Euronext Paris,ishares_match
+MSTR,0.040072,US,Strategy Inc Class A,US5949724083,United States,NASDAQ,ishares_match
+SYY,0.039993,US,Sysco Corporation,US8718291078,United States,New York Stock Exchange Inc.,ishares_match
+GMG,0.039956,Australia,Goodman Group,AU000000GMG2,Australia,Asx - All Markets,ishares_match
+5803,0.039917,Japan,Fujikura Ltd,JP3811000003,Japan,Tokyo Stock Exchange,ishares_match
+6954,0.039882,Japan,Fanuc Corporation,JP3802400006,Japan,Tokyo Stock Exchange,ishares_match
+OKTA,0.03979,US,Okta Inc. Class A,US6792951054,United States,NASDAQ,ishares_match
+CCI,0.039515,US,Crown Castle Inc.,US22822V1017,United States,New York Stock Exchange Inc.,ishares_match
+UCB,0.039196,Belgium,UCB S.A.,BE0003739530,Belgium,Nyse Euronext - Euronext Brussels,ishares_match
+CFG,0.039152,US,Citizens Financial Group Inc.,US1746101054,United States,New York Stock Exchange Inc.,ishares_match
+ED,0.038992,US,Consolidated Edison Inc.,US2091151041,United States,New York Stock Exchange Inc.,ishares_match
+KVUE,0.038956,US,Kenvue Inc.,US49177J1025,United States,New York Stock Exchange Inc.,ishares_match
+SUNB,0.038946,US,Sunbelt Rentals Holdings Inc,US8669661048,United States,New York Stock Exchange Inc.,ishares_match
+GIVN,0.038849,Switzerland,Givaudan SA,CH0010645932,Switzerland,SIX Swiss Exchange,ishares_match
+NTR,0.038787,CA,Nutrien Ltd.,CA67077M1086,Canada,Toronto Stock Exchange,ishares_match
+EXPN,0.038496,United Kingdom,Experian PLC,GB00B19NLV48,United Kingdom,London Stock Exchange,ishares_match
+9432,0.038437,Japan,NTT Inc,JP3735400008,Japan,Tokyo Stock Exchange,ishares_match
+CCO,0.038352,CA,Cameco Corporation,CA13321L1085,Canada,Toronto Stock Exchange,ishares_match
+L,0.038219,CA,Loblaw Companies Limited,CA5394811015,Canada,Toronto Stock Exchange,ishares_match
+HLN,0.03816,United Kingdom,Haleon PLC,GB00BMX86B70,United Kingdom,London Stock Exchange,ishares_match
+LUMI,0.038135,Israel,Bank Leumi Le-Israel B.M.,IL0006046119,Israel,Tel Aviv Stock Exchange,ishares_match
+G,0.038062,Italy,Assicurazioni Generali S.p.A.,IT0000062072,Italy,Borsa Italiana,ishares_match
+JP3165000005,0.037844,Japan,Sompo HoldingsInc.,JP3165000005,Japan,,isin
+ADS,0.037707,Germany,adidas AG,DE000A1EWWW0,Germany,Xetra,ishares_match
+RMD,0.037458,US,ResMed Inc.,US7611521078,United States,New York Stock Exchange Inc.,ishares_match
+ULTA,0.037439,US,Ulta Beauty Inc.,US90384S3031,United States,NASDAQ,ishares_match
+ALC,0.037415,Switzerland,Alcon AG,CH0432492467,Switzerland,SIX Swiss Exchange,ishares_match
+FLEX,0.037301,US,Flex Ltd,SG9999000020,United States,NASDAQ,ishares_match
+CLS,0.037185,CA,Celestica Inc.,CA15101Q2071,Canada,Toronto Stock Exchange,ishares_match
+KMB,0.037113,US,Kimberly-Clark Corporation,US4943681035,United States,NASDAQ,ishares_match
+FE,0.037009,US,FirstEnergy Corp.,US3379321074,United States,New York Stock Exchange Inc.,ishares_match
+WSM,0.037005,US,Williams-Sonoma Inc.,US9699041011,United States,New York Stock Exchange Inc.,ishares_match
+PEG,0.036906,US,Public Service Enterprise Group Inc,US7445731067,United States,New York Stock Exchange Inc.,ishares_match
+COIN,0.036889,US,Coinbase Global Inc. Class A,US19260Q1076,United States,NASDAQ,ishares_match
+ZTS,0.036816,US,Zoetis Inc. Class A,US98978V1035,United States,New York Stock Exchange Inc.,ishares_match
+VMC,0.036484,US,Vulcan Materials Company,US9291601097,United States,New York Stock Exchange Inc.,ishares_match
+EXPD,0.036262,US,Expeditors International of Washington Inc.,US3021301094,United States,New York Stock Exchange Inc.,ishares_match
+GEHC,0.036207,US,GE Healthcare Technologies Inc.,US36266G1076,United States,NASDAQ,ishares_match
+CCL,0.036111,US,Carnival Corporation Ltd.,BMG2004J1036,United States,New York Stock Exchange Inc.,ishares_match
+MBG,0.036089,Germany,Mercedes-Benz Group AG,DE0007100000,Germany,Xetra,ishares_match
+JBL,0.036087,US,Jabil Inc.,US4663131039,United States,New York Stock Exchange Inc.,ishares_match
+CBOE,0.036082,US,Cboe Global Markets Inc,US12503M1080,United States,Cboe BZX,ishares_match
+IR,0.03599,US,Ingersoll Rand Inc.,US45687V1061,United States,New York Stock Exchange Inc.,ishares_match
+TDY,0.035958,US,Teledyne Technologies Incorporated,US8793601050,United States,New York Stock Exchange Inc.,ishares_match
+SE0000108656,0.035905,Sweden,Telefonaktiebolaget LM Ericsson Class B,SE0000108656,Sweden,,isin
+US81141R1005,0.035614,Singapore,Sea Limited Sponsored ADR Class A,US81141R1005,Singapore,,isin
+8309,0.035575,Japan,Sumitomo Mitsui Trust Group Inc.,JP3892100003,Japan,Tokyo Stock Exchange,ishares_match
+NTRS,0.035525,US,Northern Trust Corporation,US6658591044,United States,NASDAQ,ishares_match
+Q,0.035503,US,Qnity Electronics Inc.,US74743L1008,United States,New York Stock Exchange Inc.,ishares_match
+EME,0.035428,US,EMCOR Group Inc.,US29084Q1004,United States,New York Stock Exchange Inc.,ishares_match
+IMB,0.035343,United Kingdom,Imperial Brands PLC,GB0004544929,United Kingdom,London Stock Exchange,ishares_match
+EXPE,0.03533,US,Expedia Group Inc.,US30212P3038,United States,NASDAQ,ishares_match
+ON,0.035315,US,ON Semiconductor Corporation,US6821891057,United States,NASDAQ,ishares_match
+NO0010161896,0.035274,Norway,DNB Bank ASA,NO0010161896,Norway,,isin
+2802,0.035188,Japan,Ajinomoto Co. Inc.,JP3119600009,Japan,Tokyo Stock Exchange,ishares_match
+CNP,0.035132,US,CenterPoint Energy Inc.,US15189T1079,United States,New York Stock Exchange Inc.,ishares_match
+POLI,0.035088,Israel,Bank Hapoalim BM,IL0006625771,Israel,Tel Aviv Stock Exchange,ishares_match
+GB00B1YW4409,0.035085,United Kingdom,3i Group plc,GB00B1YW4409,United Kingdom,,isin
+8801,0.035063,Japan,Mitsui Fudosan Co. Ltd.,JP3893200000,Japan,Tokyo Stock Exchange,ishares_match
+TEAM,0.034847,US,Atlassian Corp Class A,US0494681010,United States,NASDAQ,ishares_match
+QBE,0.034784,Australia,QBE Insurance Group Limited,AU000000QBE9,Australia,Asx - All Markets,ishares_match
+ODFL,0.034679,US,Old Dominion Freight Line Inc.,US6795801009,United States,NASDAQ,ishares_match
+CNC,0.034656,US,Centene Corporation,US15135B1017,United States,New York Stock Exchange Inc.,ishares_match
+NO0010096985,0.034569,Norway,Equinor ASA,NO0010096985,Norway,,isin
+6723,0.034554,Japan,Renesas Electronics Corporation,JP3164720009,Japan,Tokyo Stock Exchange,ishares_match
+AD,0.034454,Netherlands,Koninklijke Ahold Delhaize N.V.,NL0011794037,Netherlands,Euronext Amsterdam,ishares_match
+RKLB,0.034422,US,Rocket Lab Corporation,US7731211089,United States,NASDAQ,ishares_match
+4503,0.034414,Japan,Astellas Pharma Inc.,JP3942400007,Japan,Tokyo Stock Exchange,ishares_match
+5020,0.034377,Japan,ENEOS Holdings Inc.,JP3386450005,Japan,Tokyo Stock Exchange,ishares_match
+MLM,0.034315,US,Martin Marietta Materials Inc.,US5732841060,United States,New York Stock Exchange Inc.,ishares_match
+MTD,0.034223,US,Mettler-Toledo International Inc.,US5926881054,United States,New York Stock Exchange Inc.,ishares_match
+FER,0.034213,Spain,Ferrovial N.V.,NL0015001FS8,Spain,Bolsa De Madrid,ishares_match
+HAL,0.034213,US,Halliburton Company,US4062161017,United States,New York Stock Exchange Inc.,ishares_match
+WEC,0.034136,US,WEC Energy Group Inc,US92939U1060,United States,New York Stock Exchange Inc.,ishares_match
+KBC,0.034127,Belgium,KBC Group N.V.,BE0003565737,Belgium,Nyse Euronext - Euronext Brussels,ishares_match
+HPQ,0.034095,US,HP Inc.,US40434L1052,United States,New York Stock Exchange Inc.,ishares_match
+EQT,0.034051,US,EQT Corporation,US26884L1098,United States,New York Stock Exchange Inc.,ishares_match
+STMPA,0.034016,France,STMicroelectronics NV,NL0000226223,France,Nyse Euronext - Euronext Paris,ishares_match
+PRU,0.033935,United Kingdom,Prudential plc,GB0007099541,United Kingdom,London Stock Exchange,ishares_match
+FTS,0.033863,CA,Fortis Inc.,CA3495531079,Canada,Toronto Stock Exchange,ishares_match
+TCL,0.033652,Australia,Transurban Group Ltd.,AU000000TCL6,Australia,Asx - All Markets,ishares_match
+DG,0.033572,US,Dollar General Corporation,US2566771059,United States,New York Stock Exchange Inc.,ishares_match
+CTSH,0.033452,US,Cognizant Technology Solutions Corporation Class A,US1924461023,United States,NASDAQ,ishares_match
+AXON,0.03345,US,Axon Enterprise Inc,US05464C1018,United States,NASDAQ,ishares_match
+DSFIR,0.033301,Netherlands,DSM-Firmenich AG,CH1216478797,Netherlands,Euronext Amsterdam,ishares_match
+MDB,0.033276,US,MongoDB Inc. Class A,US60937P1066,United States,NASDAQ,ishares_match
+LYV,0.033186,US,Live Nation Entertainment Inc.,US5380341090,United States,New York Stock Exchange Inc.,ishares_match
+SYF,0.033173,US,Synchrony Financial,US87165B1035,United States,New York Stock Exchange Inc.,ishares_match
+PAYX,0.032939,US,Paychex Inc.,US7043261079,United States,NASDAQ,ishares_match
+SIKA,0.032841,Switzerland,Sika AG,CH0418792922,Switzerland,SIX Swiss Exchange,ishares_match
+VWS,0.03284,Denmark,Vestas Wind Systems A/S,DK0061539921,Denmark,Omx Nordic Exchange Copenhagen A/S,ishares_match
+8308,0.032745,Japan,Resona Holdings Inc.,JP3500610005,Japan,Tokyo Stock Exchange,ishares_match
+VOD,0.03271,United Kingdom,Vodafone Group Public Limited Company,GB00BH4HKS39,United Kingdom,London Stock Exchange,ishares_match
+PPL,0.032692,US,PPL Corporation,US69351T1060,United States,New York Stock Exchange Inc.,ishares_match
+PPL,0.032543,CA,Pembina Pipeline Corporation,CA7063271034,Canada,Toronto Stock Exchange,ishares_match
+RJF,0.032527,US,Raymond James Financial Inc.,US7547301090,United States,New York Stock Exchange Inc.,ishares_match
+6971,0.032521,Japan,Kyocera Corporation,JP3249600002,Japan,Tokyo Stock Exchange,ishares_match
+CBK,0.03252,Germany,Commerzbank AG,DE000CBK1001,Germany,Xetra,ishares_match
+VRSN,0.032516,US,VeriSign Inc.,US92343E1029,United States,NASDAQ,ishares_match
+FFIV,0.032479,US,F5 Inc.,US3156161024,United States,NASDAQ,ishares_match
+AV.,0.032465,United Kingdom,Aviva plc,GB00BPQY8M80,United Kingdom,London Stock Exchange,ishares_match
+ATO,0.032407,US,Atmos Energy Corporation,US0495601058,United States,New York Stock Exchange Inc.,ishares_match
+GMAB,0.032238,Denmark,Genmab A/S,DK0010272202,Denmark,Omx Nordic Exchange Copenhagen A/S,ishares_match
+PCG,0.032119,US,PG&E Corporation,US69331C1080,United States,New York Stock Exchange Inc.,ishares_match
+DGX,0.032111,US,Quest Diagnostics Incorporated,US74834L1008,United States,New York Stock Exchange Inc.,ishares_match
+EXE,0.032102,US,Expand Energy Corporation,US1651677353,United States,NASDAQ,ishares_match
+HO,0.032068,France,Thales SA,FR0000121329,France,Nyse Euronext - Euronext Paris,ishares_match
+GB00BHJYC057,0.031881,United Kingdom,InterContinental Hotels Group PLC,GB00BHJYC057,United Kingdom,,isin
+ADYEN,0.031856,Netherlands,Adyen NV,NL0012969182,Netherlands,Euronext Amsterdam,ishares_match
+LH,0.031832,US,Labcorp Holdings Inc.,US5049221055,United States,New York Stock Exchange Inc.,ishares_match
+SAMPO,0.031808,Finland,Sampo Oyj,FI4000552500,Finland,Nasdaq Omx Helsinki Ltd.,ishares_match
+EXR,0.031732,US,Extra Space Storage Inc.,US30225T1025,United States,New York Stock Exchange Inc.,ishares_match
+VIE,0.031716,France,Veolia Environnement SA,FR0000124141,France,Nyse Euronext - Euronext Paris,ishares_match
+PFG,0.031671,US,Principal Financial Group Inc.,US74251V1026,United States,NASDAQ,ishares_match
+7182,0.031516,Japan,Japan Post Bank Co. Ltd.,JP3946750001,Japan,Tokyo Stock Exchange,ishares_match
+4578,0.031495,Japan,Otsuka Holdings Co. Ltd.,JP3188220002,Japan,Tokyo Stock Exchange,ishares_match
+6367,0.031417,Japan,DAIKIN INDUSTRIES LTD.,JP3481800005,Japan,Tokyo Stock Exchange,ishares_match
+DTE,0.031276,US,DTE Energy Company,US2333311072,United States,New York Stock Exchange Inc.,ishares_match
+DOW,0.031261,US,Dow Inc.,US2605571031,United States,New York Stock Exchange Inc.,ishares_match
+SGSN,0.031058,Switzerland,SGS SA,CH1256740924,Switzerland,SIX Swiss Exchange,ishares_match
+PKG,0.030858,US,Packaging Corporation of America,US6951561090,United States,New York Stock Exchange Inc.,ishares_match
+AWK,0.030797,US,American Water Works Company Inc.,US0304201033,United States,New York Stock Exchange Inc.,ishares_match
+UTHR,0.030767,US,United Therapeutics Corporation,US91307C1027,United States,NASDAQ,ishares_match
+AMS,0.030756,Spain,Amadeus IT Group SA Class A,ES0109067019,Spain,Bolsa De Madrid,ishares_match
+MTB,0.030644,US,M&T Bank Corporation,US55261F1049,United States,New York Stock Exchange Inc.,ishares_match
+RF,0.030634,US,Regions Financial Corporation,US7591EP1005,United States,New York Stock Exchange Inc.,ishares_match
+3382,0.030452,Japan,Seven & I Holdings Co. Ltd.,JP3422950000,Japan,Tokyo Stock Exchange,ishares_match
+5108,0.030324,Japan,Bridgestone Corporation,JP3830800003,Japan,Tokyo Stock Exchange,ishares_match
+4568,0.030182,Japan,Daiichi Sankyo Company Limited,JP3475350009,Japan,Tokyo Stock Exchange,ishares_match
+EL,0.030122,US,Estee Lauder Companies Inc. Class A,US5184391044,United States,New York Stock Exchange Inc.,ishares_match
+BXB,0.030119,Australia,Brambles Limited,AU000000BXB1,Australia,Asx - All Markets,ishares_match
+DXCM,0.030118,US,DexCom Inc.,US2521311074,United States,NASDAQ,ishares_match
+PUB,0.029866,France,Publicis Groupe SA,FR0000130577,France,Nyse Euronext - Euronext Paris,ishares_match
+MT,0.029763,France,ArcelorMittal SA,LU1598757687,France,Euronext Amsterdam,ishares_match
+ORA,0.029745,France,Orange SA,FR0000133308,France,Nyse Euronext - Euronext Paris,ishares_match
+RBLX,0.029704,US,Roblox Corp. Class A,US7710491033,United States,New York Stock Exchange Inc.,ishares_match
+WST,0.029697,US,West Pharmaceutical Services Inc.,US9553061055,United States,New York Stock Exchange Inc.,ishares_match
+NL0000687663,0.029623,Netherlands,AerCap Holdings NV,NL0000687663,Netherlands,,isin
+SE0017486897,0.029616,Sweden,Atlas Copco AB Class B,SE0017486897,Sweden,,isin
+SCMN,0.029451,Switzerland,Swisscom AG,CH0008742519,Switzerland,SIX Swiss Exchange,ishares_match
+FISV,0.02944,US,Fiserv Inc.,US3377381088,United States,NASDAQ,ishares_match
+9735,0.029385,Japan,Secom Co. Ltd.,JP3421800008,Japan,Tokyo Stock Exchange,ishares_match
+LDO,0.029369,Italy,Leonardo SpA,IT0003856405,Italy,Borsa Italiana,ishares_match
+FTI,0.029324,US,TechnipFMC plc,GB00BDSFG982,United States,New York Stock Exchange Inc.,ishares_match
+WOW,0.029293,Australia,Woolworths Group Ltd,AU000000WOW2,Australia,Asx - All Markets,ishares_match
+OTIS,0.029087,US,Otis Worldwide Corporation,US68902V1070,United States,New York Stock Exchange Inc.,ishares_match
+CRDO,0.028987,US,Credo Technology Group Holding Ltd.,KYG254571055,United States,NASDAQ,ishares_match
+PHIA,0.028868,Netherlands,Koninklijke Philips N.V.,NL0000009538,Netherlands,Euronext Amsterdam,ishares_match
+Z74,0.028867,Singapore,Singapore Telecommunications Limited,SG1T75931496,Singapore,Singapore Exchange,ishares_match
+VRSK,0.028811,US,Verisk Analytics Inc.,US92345Y1064,United States,NASDAQ,ishares_match
+SE0007100599,0.028783,Sweden,Svenska Handelsbanken AB Class A,SE0007100599,Sweden,,isin
+IFC,0.028773,CA,Intact Financial Corporation,CA45823T1066,Canada,Toronto Stock Exchange,ishares_match
+NXT,0.028766,United Kingdom,Next plc,GB0032089863,United Kingdom,London Stock Exchange,ishares_match
+DRI,0.028688,US,Darden Restaurants Inc.,US2371941053,United States,New York Stock Exchange Inc.,ishares_match
+ZM,0.028672,US,Zoom Communications Inc. Class A,US98980L1017,United States,NASDAQ,ishares_match
+MTX,0.028621,Germany,MTU Aero Engines AG,DE000A0D9PT0,Germany,Xetra,ishares_match
+MRK,0.028558,Germany,Merck KGaA,DE0006599905,Germany,Xetra,ishares_match
+A5G,0.028532,Ireland,AIB Group plc,IE00BF0L3536,Ireland,Irish Stock Exchange - All Market,ishares_match
+NST,0.028395,Australia,Northern Star Resources Ltd,AU000000NST8,Australia,Asx - All Markets,ishares_match
+K,0.028301,CA,Kinross Gold Corporation,CA4969024047,Canada,Toronto Stock Exchange,ishares_match
+FRE,0.028281,Germany,Fresenius SE & Co. KGaA,DE000FRE5EN2,Germany,Xetra,ishares_match
+LGEN,0.028216,United Kingdom,Legal & General Group Plc,GB0005603997,United Kingdom,London Stock Exchange,ishares_match
+4062,0.028209,Japan,IBIDEN CO. LTD.,JP3148800000,Japan,Tokyo Stock Exchange,ishares_match
+HUBB,0.028094,US,Hubbell Incorporated,US4435106079,United States,New York Stock Exchange Inc.,ishares_match
+7832,0.027775,Japan,Bandai Namco Holdings Inc.,JP3778630008,Japan,Tokyo Stock Exchange,ishares_match
+6146,0.027675,Japan,Disco Corporation,JP3548600000,Japan,Tokyo Stock Exchange,ishares_match
+TPR,0.027632,US,Tapestry Inc.,US8760301072,United States,New York Stock Exchange Inc.,ishares_match
+ESLT,0.027565,Israel,Elbit Systems Ltd,IL0010811243,Israel,Tel Aviv Stock Exchange,ishares_match
+WKL,0.02753,Netherlands,Wolters Kluwer N.V.,NL0000395903,Netherlands,Euronext Amsterdam,ishares_match
+4519,0.027465,Japan,Chugai Pharmaceutical Co. Ltd.,JP3519400000,Japan,Tokyo Stock Exchange,ishares_match
+CASY,0.027348,US,Casey's General Stores Inc.,US1475281036,United States,NASDAQ,ishares_match
+7751,0.027291,Japan,Canon Inc.,JP3242800005,Japan,Tokyo Stock Exchange,ishares_match
+STO,0.02722,Australia,Santos Limited,AU000000STO6,Australia,Asx - All Markets,ishares_match
+CPAY,0.02718,US,Corpay Inc.,US2199481068,United States,New York Stock Exchange Inc.,ishares_match
+8802,0.027124,Japan,Mitsubishi Estate Company Limited,JP3899600005,Japan,Tokyo Stock Exchange,ishares_match
+PPG,0.02699,US,PPG Industries Inc.,US6935061076,United States,New York Stock Exchange Inc.,ishares_match
+AEE,0.026704,US,Ameren Corporation,US0236081024,United States,New York Stock Exchange Inc.,ishares_match
+AENA,0.026595,Spain,Aena SME SA,ES0105046017,Spain,Bolsa De Madrid,ishares_match
+DOV,0.02657,US,Dover Corporation,US2600031080,United States,New York Stock Exchange Inc.,ishares_match
+4452,0.026529,Japan,Kao Corporation,JP3205800000,Japan,Tokyo Stock Exchange,ishares_match
+BMPS,0.026441,Italy,Banca Monte dei Paschi di Siena S.p.A.,IT0005508921,Italy,Borsa Italiana,ishares_match
+PTC,0.026265,US,PTC Inc.,US69370C1009,United States,NASDAQ,ishares_match
+CHD,0.026225,US,Church & Dwight Co. Inc.,US1713401024,United States,New York Stock Exchange Inc.,ishares_match
+GPN,0.026198,US,Global Payments Inc.,US37940X1028,United States,New York Stock Exchange Inc.,ishares_match
+HBAN,0.026119,US,Huntington Bancshares Incorporated,US4461501045,United States,NASDAQ,ishares_match
+NL0011540547,0.026097,Netherlands,ABN AMRO Bank N.V. Depositary receipts,NL0011540547,Netherlands,,isin
+EG,0.02609,US,Everest Group Ltd.,BMG3223R1088,United States,New York Stock Exchange Inc.,ishares_match
+ENTG,0.026033,US,Entegris Inc.,US29362U1043,United States,NASDAQ,ishares_match
+WRB,0.025821,US,W. R. Berkley Corporation,US0844231029,United States,New York Stock Exchange Inc.,ishares_match
+ATI,0.025787,US,ATI Inc,US01741R1023,United States,New York Stock Exchange Inc.,ishares_match
+RO,0.025786,Switzerland,Roche Holding Ltd,CH0012032113,Switzerland,SIX Swiss Exchange,ishares_match
+BAM,0.025723,CA,Brookfield Asset Management Ltd. Class A,CA1130041058,Canada,Toronto Stock Exchange,ishares_match
+EVRG,0.025708,US,Evergy Inc.,US30034W1062,United States,NASDAQ,ishares_match
+SE0015961909,0.025633,Sweden,Hexagon AB Class B,SE0015961909,Sweden,,isin
+ML,0.025612,France,Cie Generale des Etablissements Michelin SA,FR001400AJ45,France,Nyse Euronext - Euronext Paris,ishares_match
+CPRT,0.025588,US,Copart Inc.,US2172041061,United States,NASDAQ,ishares_match
+ZS,0.025553,US,Zscaler Inc.,US98980G1022,United States,NASDAQ,ishares_match
+HEI A,0.025544,US,HEICO Corporation Class A,US4228062083,United States,New York Stock Exchange Inc.,ishares_match
+GEBN,0.025289,Switzerland,Geberit AG,CH0030170408,Switzerland,SIX Swiss Exchange,ishares_match
+ARES,0.025179,US,Ares Management Corporation Class A,US03990B1017,United States,New York Stock Exchange Inc.,ishares_match
+HSY,0.025172,US,Hershey Company,US4278661081,United States,New York Stock Exchange Inc.,ishares_match
+5401,0.025106,Japan,NIPPON STEEL CORP.,JP3381000003,Japan,Tokyo Stock Exchange,ishares_match
+HEI,0.025012,Germany,Heidelberg Materials AG,DE0006047004,Germany,Xetra,ishares_match
+4901,0.024941,Japan,FUJIFILM Holdings Corp,JP3814000000,Japan,Tokyo Stock Exchange,ishares_match
+ALL,0.024936,Australia,Aristocrat Leisure Limited,AU000000ALL7,Australia,Asx - All Markets,ishares_match
+NVT,0.024864,US,nVent Electric plc,IE00BDVJJQ56,United States,New York Stock Exchange Inc.,ishares_match
+VICI,0.024858,US,VICI Properties Inc,US9256521090,United States,New York Stock Exchange Inc.,ishares_match
+TROW,0.024761,US,T. Rowe Price Group Inc.,US74144T1088,United States,NASDAQ,ishares_match
+DE0005190003,0.024747,Germany,Bayerische Motoren Werke AG,DE0005190003,Germany,,isin
+IFF,0.024671,US,International Flavors & Fragrances Inc.,US4595061015,United States,New York Stock Exchange Inc.,ishares_match
+LEN,0.02466,US,Lennar Corporation Class A,US5260571048,United States,New York Stock Exchange Inc.,ishares_match
+669,0.024484,Hong Kong,Techtronic Industries Co. Ltd.,HK0669013440,Hong Kong,Hong Kong Exchanges And Clearing Ltd,ishares_match
+COL,0.024454,Australia,Coles Group Ltd.,AU0000030678,Australia,Asx - All Markets,ishares_match
+HEN3,0.024453,Germany,Henkel AG & Co. KGaA Pref,DE0006048432,Germany,Xetra,ishares_match
+ES,0.024407,US,Eversource Energy,US30040W1080,United States,New York Stock Exchange Inc.,ishares_match
+TPL,0.024403,US,Texas Pacific Land Corporation,US88262P1021,United States,New York Stock Exchange Inc.,ishares_match
+FIS,0.024387,US,Fidelity National Information Services Inc.,US31620M1062,United States,New York Stock Exchange Inc.,ishares_match
+DLTR,0.024238,US,Dollar Tree Inc.,US2567461080,United States,NASDAQ,ishares_match
+BPE,0.024224,Italy,BPER Banca S.p.A.,IT0000066123,Italy,Borsa Italiana,ishares_match
+KRX,0.024173,Ireland,Kingspan Group Plc,IE0004927939,Ireland,Irish Stock Exchange - All Market,ishares_match
+MRU,0.02417,CA,Metro Inc.,CA59162N1096,Canada,Toronto Stock Exchange,ishares_match
+HEIA,0.024116,Netherlands,Heineken NV,NL0000009165,Netherlands,Euronext Amsterdam,ishares_match
+PTEDP0AM0009,0.024083,Portugal,EDP S.A.,PTEDP0AM0009,Portugal,,isin
+2388,0.024059,Hong Kong,BOC Hong Kong (Holdings) Limited,HK2388011192,Hong Kong,Hong Kong Exchanges And Clearing Ltd,ishares_match
+CMS,0.024055,US,CMS Energy Corporation,US1258961002,United States,New York Stock Exchange Inc.,ishares_match
+INSM,0.024042,US,Insmed Incorporated,US4576693075,United States,NASDAQ,ishares_match
+CRWV,0.024024,US,CoreWeave Inc. Class A,US21873S1087,United States,NASDAQ,ishares_match
+MG,0.023937,CA,Magna International Inc.,CA5592224011,Canada,Toronto Stock Exchange,ishares_match
+NSIS B,0.023933,Denmark,Novonesis A/S Class B,DK0060336014,Denmark,Omx Nordic Exchange Copenhagen A/S,ishares_match
+1,0.023857,Hong Kong,CK Hutchison Holdings Ltd,KYG217651051,Hong Kong,Hong Kong Exchanges And Clearing Ltd,ishares_match
+TEF,0.02385,Spain,Telefonica SA,ES0178430E18,Spain,Bolsa De Madrid,ishares_match
+ALNY,0.023755,US,Alnylam Pharmaceuticals Inc,US02043Q1076,United States,NASDAQ,ishares_match
+SOFI,0.023751,US,SoFi Technologies Inc,US83406F1021,United States,NASDAQ,ishares_match
+TXT,0.023649,US,Textron Inc.,US8832031012,United States,New York Stock Exchange Inc.,ishares_match
+8604,0.023488,Japan,Nomura Holdings Inc.,JP3762600009,Japan,Tokyo Stock Exchange,ishares_match
+CPU,0.023376,Australia,Computershare Limited,AU000000CPU5,Australia,Asx - All Markets,ishares_match
+ZBH,0.02336,US,Zimmer Biomet Holdings Inc.,US98956P1021,United States,New York Stock Exchange Inc.,ishares_match
+BR,0.023359,US,Broadridge Financial Solutions Inc.,US11133T1034,United States,New York Stock Exchange Inc.,ishares_match
+VLTO,0.023338,US,Veralto Corporation,US92338C1036,United States,New York Stock Exchange Inc.,ishares_match
+SE0021921269,0.02328,Sweden,Saab AB Class B,SE0021921269,Sweden,,isin
+7269,0.023213,Japan,Suzuki Motor Corp.,JP3397200001,Japan,Tokyo Stock Exchange,ishares_match
+LDOS,0.023211,US,Leidos Holdings Inc.,US5253271028,United States,New York Stock Exchange Inc.,ishares_match
+FWONK,0.023194,US,Liberty Media Corporation Series C,US5312297550,United States,NASDAQ,ishares_match
+BAER,0.023143,Switzerland,Julius Baer Gruppe AG,CH0102484968,Switzerland,SIX Swiss Exchange,ishares_match
+7936,0.023123,Japan,Asics Corporation,JP3118000003,Japan,Tokyo Stock Exchange,ishares_match
+PHM,0.023041,US,PulteGroup Inc.,US7458671010,United States,New York Stock Exchange Inc.,ishares_match
+NRG,0.022974,US,NRG Energy Inc.,US6293775085,United States,New York Stock Exchange Inc.,ishares_match
+SCHP,0.022671,Switzerland,Schindler Holding Ltd. Pref,CH0024638196,Switzerland,SIX Swiss Exchange,ishares_match
+UU.,0.022516,United Kingdom,United Utilities Group PLC,GB00B39J2M42,United Kingdom,London Stock Exchange,ishares_match
+6902,0.022476,Japan,DENSO CORPORATION,JP3551500006,Japan,Tokyo Stock Exchange,ishares_match
+6273,0.022421,Japan,SMC Corporation,JP3162600005,Japan,Tokyo Stock Exchange,ishares_match
+KNEBV,0.022408,Finland,KONE Oyj Class B,FI0009013403,Finland,Nasdaq Omx Helsinki Ltd.,ishares_match
+SWKS,0.022359,US,Skyworks Solutions Inc.,US83088M1027,United States,NASDAQ,ishares_match
+KIM,0.022327,US,Kimco Realty Corporation,US49446R1095,United States,New York Stock Exchange Inc.,ishares_match
+FCNCA,0.022301,US,First Citizens BancShares Inc. Class A,US31946M1036,United States,NASDAQ,ishares_match
+STZ,0.022268,US,Constellation Brands Inc. Class A,US21036P1084,United States,New York Stock Exchange Inc.,ishares_match
+CDW,0.022256,US,CDW Corporation,US12514G1085,United States,NASDAQ,ishares_match
+HNR1,0.022199,Germany,Hannover Rueck SE,DE0008402215,Germany,Xetra,ishares_match
+AMRZ,0.022117,US,Amrize Ltd,CH1430134226,United States,New York Stock Exchange Inc.,ishares_match
+8601,0.022079,Japan,Daiwa Securities Group Inc.,JP3502200003,Japan,Tokyo Stock Exchange,ishares_match
+4661,0.022074,Japan,Oriental Land Co. Ltd.,JP3198900007,Japan,Tokyo Stock Exchange,ishares_match
+2502,0.022008,Japan,Asahi Group Holdings Ltd,JP3116000005,Japan,Tokyo Stock Exchange,ishares_match
+TSEM,0.021925,Israel,Tower Semiconductor Ltd,IL0010823792,Israel,Tel Aviv Stock Exchange,ishares_match
+REG,0.021911,US,Regency Centers Corporation,US7588491032,United States,NASDAQ,ishares_match
+INCY,0.021858,US,Incyte Corporation,US45337C1027,United States,NASDAQ,ishares_match
+CINF,0.021803,US,Cincinnati Financial Corporation,US1720621010,United States,NASDAQ,ishares_match
+HEI,0.021723,US,HEICO Corporation,US4228061093,United States,New York Stock Exchange Inc.,ishares_match
+BBY,0.021706,US,Best Buy Co. Inc.,US0865161014,United States,New York Stock Exchange Inc.,ishares_match
+DSY,0.021694,France,Dassault Systemes SE,FR0014003TT8,France,Nyse Euronext - Euronext Paris,ishares_match
+1928,0.021655,Japan,Sekisui House Ltd.,JP3420600003,Japan,Tokyo Stock Exchange,ishares_match
+BIRG,0.021624,Ireland,Bank of Ireland Group Plc,IE00BD1RP616,Ireland,Irish Stock Exchange - All Market,ishares_match
+KNIN,0.021609,Switzerland,Kuehne & Nagel International AG,CH0025238863,Switzerland,SIX Swiss Exchange,ishares_match
+STE,0.021559,US,STERIS plc,IE00BFY8C754,United States,New York Stock Exchange Inc.,ishares_match
+US7595091023,0.021529,US,Reliance Inc.,US7595091023,United States,,isin
+LPLA,0.02152,US,LPL Financial Holdings Inc.,US50212V1008,United States,NASDAQ,ishares_match
+EFX,0.021385,US,Equifax Inc.,US2944291051,United States,New York Stock Exchange Inc.,ishares_match
+CF,0.021367,US,CF Industries Holdings Inc.,US1252691001,United States,New York Stock Exchange Inc.,ishares_match
+EIX,0.021315,US,Edison International,US2810201077,United States,New York Stock Exchange Inc.,ishares_match
+L,0.021289,US,Loews Corporation,US5404241086,United States,New York Stock Exchange Inc.,ishares_match
+9022,0.021287,Japan,Central Japan Railway Company,JP3566800003,Japan,Tokyo Stock Exchange,ishares_match
+GIS,0.021135,US,General Mills Inc.,US3703341046,United States,New York Stock Exchange Inc.,ishares_match
+AMCR,0.021133,US,Amcor PLC,JE00BV7DQ550,United States,New York Stock Exchange Inc.,ishares_match
+SW,0.021128,US,Smurfit Westrock PLC,IE00028FXN24,United States,New York Stock Exchange Inc.,ishares_match
+TSCO,0.021119,US,Tractor Supply Company,US8923561067,United States,NASDAQ,ishares_match
+BAMI,0.021046,Italy,Banco BPM SpA,IT0005218380,Italy,Borsa Italiana,ishares_match
+MKL,0.020966,US,Markel Group Inc.,US5705351048,United States,New York Stock Exchange Inc.,ishares_match
+MAERSK B,0.020944,Denmark,A.P. Moller - Maersk A/S Class B,DK0010244508,Denmark,Omx Nordic Exchange Copenhagen A/S,ishares_match
+6178,0.02089,Japan,JAPAN POST HOLDINGS Co. Ltd.,JP3752900005,Japan,Tokyo Stock Exchange,ishares_match
+FSLR,0.020874,US,First Solar Inc.,US3364331070,United States,NASDAQ,ishares_match
+SE0020050417,0.020856,Sweden,Boliden AB,SE0020050417,Sweden,,isin
+IAG,0.020838,Australia,Insurance Australia Group Ltd,AU000000IAG3,Australia,Asx - All Markets,ishares_match
+9020,0.020814,Japan,East Japan Railway Company,JP3783600004,Japan,Tokyo Stock Exchange,ishares_match
+ROIV,0.0208,US,Roivant Sciences Ltd.,BMG762791017,United States,NASDAQ,ishares_match
+XPO,0.020776,US,XPO Inc.,US9837931008,United States,New York Stock Exchange Inc.,ishares_match
+GB00BDCPN049,0.020746,Netherlands,Coca-Cola Europacific Partners plc,GB00BDCPN049,Netherlands,,isin
+TRI,0.020718,CA,Thomson Reuters Corporation,CA8849038812,Canada,Toronto Stock Exchange,ishares_match
+SMCI,0.020702,US,Super Micro Computer Inc.,US86800U3023,United States,NASDAQ,ishares_match
+LYB,0.020698,US,LyondellBasell Industries NV,NL0009434992,United States,New York Stock Exchange Inc.,ishares_match
+7733,0.02069,Japan,Olympus Corp.,JP3201200007,Japan,Tokyo Stock Exchange,ishares_match
+CAP,0.020605,France,Capgemini SE,FR0000125338,France,Nyse Euronext - Euronext Paris,ishares_match
+SBAC,0.020507,US,SBA Communications Corp. Class A,US78410G1040,United States,NASDAQ,ishares_match
+KPN,0.02039,Netherlands,Royal KPN NV,NL0000009082,Netherlands,Euronext Amsterdam,ishares_match
+TRN,0.020366,Italy,Terna S.p.A.,IT0003242622,Italy,Borsa Italiana,ishares_match
+BBD.B,0.020151,CA,Bombardier Inc. Class B,CA0977518616,Canada,Toronto Stock Exchange,ishares_match
+ORG,0.020106,Australia,Origin Energy Limited,AU000000ORG5,Australia,Asx - All Markets,ishares_match
+ACS,0.020055,Spain,ACS Actividades de Construccion y Servicios SA,ES0167050915,Spain,Bolsa De Madrid,ishares_match
+H,0.020011,CA,Hydro One Limited,CA4488112083,Canada,Toronto Stock Exchange,ishares_match
+DD,0.020008,US,DuPont de Nemours Inc.,US26614N2018,United States,New York Stock Exchange Inc.,ishares_match
+OMC,0.019986,US,Omnicom Group Inc,US6819191064,United States,New York Stock Exchange Inc.,ishares_match
+GWO,0.019797,CA,Great-West Lifeco Inc.,CA39138C1068,Canada,Toronto Stock Exchange,ishares_match
+MDLN,0.019747,US,Medline Inc. Class A,US58507V1070,United States,NASDAQ,ishares_match
+HLMA,0.019636,United Kingdom,Halma plc,GB0004052071,United Kingdom,London Stock Exchange,ishares_match
+823,0.019607,Hong Kong,Link Real Estate Investment Trust,HK0823032773,Hong Kong,Hong Kong Exchanges And Clearing Ltd,ishares_match
+NI,0.019563,US,NiSource Inc,US65473P1057,United States,New York Stock Exchange Inc.,ishares_match
+TOU,0.019534,CA,Tourmaline Oil Corp.,CA89156V1067,Canada,Toronto Stock Exchange,ishares_match
+JP3753000003,0.019433,Japan,Nippon Yusen Kabushiki Kaisha,JP3753000003,Japan,,isin
+CRBG,0.019402,US,Corebridge Financial Inc.,US21871X1090,United States,New York Stock Exchange Inc.,ishares_match
+FMG,0.019391,Australia,Fortescue Ltd,AU000000FMG4,Australia,Asx - All Markets,ishares_match
+TW,0.019362,US,Tradeweb Markets Inc. Class A,US8926721064,United States,NASDAQ,ishares_match
+FICO,0.019285,US,Fair Isaac Corporation,US3032501047,United States,New York Stock Exchange Inc.,ishares_match
+GIB.A,0.019284,CA,CGI Inc. Class A,CA12532H1047,Canada,Toronto Stock Exchange,ishares_match
+QSR,0.019169,CA,Restaurant Brands International Inc.,CA76131D1033,Canada,Toronto Stock Exchange,ishares_match
+NO0003054108,0.019043,Norway,Mowi ASA,NO0003054108,Norway,,isin
+WCP,0.019007,CA,Whitecap Resources Inc.,CA96467A2002,Canada,Toronto Stock Exchange,ishares_match
+XYL,0.018963,US,Xylem Inc.,US98419M1009,United States,New York Stock Exchange Inc.,ishares_match
+1605,0.018946,Japan,Inpex Corporation,JP3294460005,Japan,Tokyo Stock Exchange,ishares_match
+FBK,0.018927,Italy,FinecoBank SpA,IT0000072170,Italy,Borsa Italiana,ishares_match
+TASE,0.018882,Israel,Check Point Software Technologies Ltd.,IL0010824113,Israel,Tel Aviv Stock Exchange,ishares_match
+URW,0.018829,France,Unibail-Rodamco-Westfield SE Stapled Secs Cons of 1 Sh Unibail Rodamco + 1 Sh WFD Unib Rod,FR0013326246,France,Nyse Euronext - Euronext Paris,ishares_match
+FTAI,0.018788,US,FTAI Aviation Ltd.,KYG3730V1059,United States,NASDAQ,ishares_match
+NDSN,0.018705,US,Nordson Corporation,US6556631025,United States,NASDAQ,ishares_match
+1925,0.018593,Japan,Daiwa House Industry Co. Ltd.,JP3505000004,Japan,Tokyo Stock Exchange,ishares_match
+SE0000695876,0.018584,Sweden,Alfa Laval AB,SE0000695876,Sweden,,isin
+4543,0.018545,Japan,Terumo Corporation,JP3546800008,Japan,Tokyo Stock Exchange,ishares_match
+NN,0.018492,Netherlands,NN Group N.V.,NL0010773842,Netherlands,Euronext Amsterdam,ishares_match
+CNA,0.018446,United Kingdom,Centrica plc,GB00B033F229,United Kingdom,London Stock Exchange,ishares_match
+AFRM,0.018426,US,Affirm Holdings Inc. Class A,US00827B1061,United States,NASDAQ,ishares_match
+ESS,0.018342,US,Essex Property Trust Inc.,US2971781057,United States,New York Stock Exchange Inc.,ishares_match
+IP,0.01832,US,International Paper Company,US4601461035,United States,New York Stock Exchange Inc.,ishares_match
+ERF,0.018309,France,Eurofins Scientific SE,FR0014000MR3,France,Nyse Euronext - Euronext Paris,ishares_match
+9532,0.018309,Japan,Osaka Gas Co. Ltd.,JP3180400008,Japan,Tokyo Stock Exchange,ishares_match
+SVT,0.018188,United Kingdom,Severn Trent Plc,GB00B1FH8J72,United Kingdom,London Stock Exchange,ishares_match
+KHC,0.018136,US,Kraft Heinz Company,US5007541064,United States,New York Stock Exchange Inc.,ishares_match
+9104,0.018115,Japan,Mitsui O.S.K.LinesLtd.,JP3362700001,Japan,Tokyo Stock Exchange,ishares_match
+3407,0.018094,Japan,Asahi Kasei Corporation,JP3111200006,Japan,Tokyo Stock Exchange,ishares_match
+MAS,0.018033,US,Masco Corporation,US5745991068,United States,New York Stock Exchange Inc.,ishares_match
+PGHN,0.017983,Switzerland,Partners Group Holding AG,CH0024608827,Switzerland,SIX Swiss Exchange,ishares_match
+NBIX,0.017961,US,Neurocrine Biosciences Inc.,US64125C1099,United States,NASDAQ,ishares_match
+6326,0.017911,Japan,Kubota Corporation,JP3266400005,Japan,Tokyo Stock Exchange,ishares_match
+8697,0.017903,Japan,Japan Exchange Group Inc.,JP3183200009,Japan,Tokyo Stock Exchange,ishares_match
+SHL,0.017868,Germany,Siemens Healthineers AG,DE000SHL1006,Germany,Xetra,ishares_match
+SE0015658109,0.017847,Sweden,Epiroc AB Class A,SE0015658109,Sweden,,isin
+KEY,0.017847,US,KeyCorp,US4932671088,United States,New York Stock Exchange Inc.,ishares_match
+HBAN,0.017837,Switzerland,Helvetia Baloise Holding AG,CH0466642201,Switzerland,SIX Swiss Exchange,ishares_match
+IMO,0.01775,CA,Imperial Oil Limited,CA4530384086,Canada,Toronto Stock Exchange,ishares_match
+S32,0.017708,Australia,South32 Ltd.,AU000000S320,Australia,Asx - All Markets,ishares_match
+9503,0.017697,Japan,Kansai Electric Power Company Incorporated,JP3228600007,Japan,Tokyo Stock Exchange,ishares_match
+LOGN,0.017605,Switzerland,Logitech International S.A.,CH0025751329,Switzerland,SIX Swiss Exchange,ishares_match
+GEN,0.017569,US,Gen Digital Inc.,US6687711084,United States,NASDAQ,ishares_match
+CDE,0.017549,US,Coeur Mining Inc.,US1921085049,United States,New York Stock Exchange Inc.,ishares_match
+SE0012853455,0.017531,Sweden,EQT AB,SE0012853455,Sweden,,isin
+BRO,0.017442,US,Brown & Brown Inc.,US1152361010,United States,New York Stock Exchange Inc.,ishares_match
+EMA,0.017401,CA,Emera Incorporated,CA2908761018,Canada,Toronto Stock Exchange,ishares_match
+CLNX,0.017397,Spain,Cellnex Telecom S.A.,ES0105066007,Spain,Bolsa De Madrid,ishares_match
+AGN,0.01735,Netherlands,Aegon Ltd.,BMG0112X1056,Netherlands,Euronext Amsterdam,ishares_match
+ACA,0.017229,France,Credit Agricole SA,FR0000045072,France,Nyse Euronext - Euronext Paris,ishares_match
+NO0013536151,0.017151,Norway,Kongsberg Gruppen ASA,NO0013536151,Norway,,isin
+FM,0.017135,CA,First Quantum Minerals Ltd.,CA3359341052,Canada,Toronto Stock Exchange,ishares_match
+CW,0.017115,US,Curtiss-Wright Corporation,US2315611010,United States,New York Stock Exchange Inc.,ishares_match
+PAAS,0.017107,CA,Pan American Silver Corp.,CA6979001089,Canada,Toronto Stock Exchange,ishares_match
+UMG,0.017084,Netherlands,Universal Music Group N.V.,NL0015000IY2,Netherlands,Euronext Amsterdam,ishares_match
+FTV,0.017026,US,Fortive Corp.,US34959J1088,United States,New York Stock Exchange Inc.,ishares_match
+BURL,0.016958,US,Burlington Stores Inc.,US1220171060,United States,New York Stock Exchange Inc.,ishares_match
+RBA,0.016942,CA,RB Global Inc.,CA74935Q1072,Canada,Toronto Stock Exchange,ishares_match
+SDLF,0.016861,United Kingdom,Standard Life plc,GB00BGXQNP29,United Kingdom,London Stock Exchange,ishares_match
+AIA,0.016832,New Zealand,Auckland International Airport Limited,NZAIAE0002S6,New Zealand,New Zealand Exchange Ltd,ishares_match
+SE0009922164,0.016761,Sweden,Essity AB Class B,SE0009922164,Sweden,,isin
+METSO,0.016744,Finland,Metso Corporation,FI0009014575,Finland,Nasdaq Omx Helsinki Ltd.,ishares_match
+MAA,0.01664,US,Mid-America Apartment Communities Inc.,US59522J1034,United States,New York Stock Exchange Inc.,ishares_match
+SE0000112724,0.016586,Sweden,Svenska Cellulosa AB SCA Class B,SE0000112724,Sweden,,isin
+WPC,0.016584,US,W. P. Carey Inc.,US92936U1097,United States,New York Stock Exchange Inc.,ishares_match
+SMIN,0.016546,United Kingdom,Smiths Group Plc,GB00B1WY2338,United Kingdom,London Stock Exchange,ishares_match
+CICT,0.016537,Singapore,CapitaLand Integrated Commercial Trust,SG1M51904654,Singapore,Singapore Exchange,ishares_match
+STMN,0.016518,Switzerland,Straumann Holding AG,CH1175448666,Switzerland,SIX Swiss Exchange,ishares_match
+TSN,0.01648,US,Tyson Foods Inc. Class A,US9024941034,United States,New York Stock Exchange Inc.,ishares_match
+WSP,0.016459,CA,WSP Global Inc,CA92938W2022,Canada,Toronto Stock Exchange,ishares_match
+SRG,0.016435,Italy,Snam S.p.A.,IT0003153415,Italy,Borsa Italiana,ishares_match
+SOON,0.016368,Switzerland,Sonova Holding AG,CH0012549785,Switzerland,SIX Swiss Exchange,ishares_match
+6823,0.016165,Hong Kong,HKT Trust and HKT Ltd,HK0000093390,Hong Kong,Hong Kong Exchanges And Clearing Ltd,ishares_match
+2,0.01613,Hong Kong,CLP Holdings Limited,HK0002007356,Hong Kong,Hong Kong Exchanges And Clearing Ltd,ishares_match
+EVN,0.016102,Australia,Evolution Mining Limited,AU000000EVN4,Australia,Asx - All Markets,ishares_match
+JBHT,0.016016,US,J.B. Hunt Transport Services Inc.,US4456581077,United States,NASDAQ,ishares_match
+6988,0.016004,Japan,Nitto Denko Corp.,JP3684000007,Japan,Tokyo Stock Exchange,ishares_match
+VACN,0.015903,Switzerland,VAT Group AG,CH0311864901,Switzerland,SIX Swiss Exchange,ishares_match
+WN,0.015876,CA,George Weston Limited,CA9611485090,Canada,Toronto Stock Exchange,ishares_match
+INVH,0.01585,US,Invitation Homes Inc.,US46187W1071,United States,New York Stock Exchange Inc.,ishares_match
+8795,0.015817,Japan,T&D Holdings Inc.,JP3539220008,Japan,Tokyo Stock Exchange,ishares_match
+DTG,0.015805,Germany,Daimler Truck Holding AG,DE000DTR0CK8,Germany,Xetra,ishares_match
+AGS,0.015767,Belgium,ageas SA/NV,BE0974264930,Belgium,Nyse Euronext - Euronext Brussels,ishares_match
+SUN,0.015736,Australia,Suncorp Group Limited,AU000000SUN6,Australia,Asx - All Markets,ishares_match
+6920,0.015735,Japan,Lasertec Corp.,JP3979200007,Japan,Tokyo Stock Exchange,ishares_match
+9502,0.015723,Japan,Chubu Electric Power CompanyIncorporated,JP3526600006,Japan,Tokyo Stock Exchange,ishares_match
+8267,0.015704,Japan,AEON Co. Ltd.,JP3388200002,Japan,Tokyo Stock Exchange,ishares_match
+ITRK,0.015615,United Kingdom,Intertek Group plc,GB0031638363,United Kingdom,London Stock Exchange,ishares_match
+SUI,0.015606,US,Sun Communities Inc.,US8666741041,United States,New York Stock Exchange Inc.,ishares_match
+BG,0.015591,Austria,BAWAG Group AG,AT0000BAWAG2,Austria,Wiener Boerse Ag,ishares_match
+WY,0.01559,US,Weyerhaeuser Company,US9621661043,United States,New York Stock Exchange Inc.,ishares_match
+WRT1V,0.015573,Finland,Wartsila Oyj Abp,FI0009003727,Finland,Nasdaq Omx Helsinki Ltd.,ishares_match
+2503,0.015485,Japan,Kirin Holdings Co. Ltd.,JP3258000003,Japan,Tokyo Stock Exchange,ishares_match
+1113,0.015475,Hong Kong,CK Asset Holdings Limited,KYG2177B1014,Hong Kong,Hong Kong Exchanges And Clearing Ltd,ishares_match
+KRZ,0.015443,Ireland,Kerry Group Plc Class A,IE0004906560,Ireland,Irish Stock Exchange - All Market,ishares_match
+LNT,0.015431,US,Alliant Energy Corporation,US0188021085,United States,NASDAQ,ishares_match
+4004,0.015421,Japan,Resonac Holdings Corporation,JP3368000000,Japan,Tokyo Stock Exchange,ishares_match
+SSNC,0.015386,US,SS&C Technologies Holdings Inc.,US78467J1007,United States,NASDAQ,ishares_match
+CRS,0.015359,US,Carpenter Technology Corporation,US1442851036,United States,New York Stock Exchange Inc.,ishares_match
+FLUT,0.015305,US,Flutter Entertainment Plc,IE00BWT6H894,United States,New York Stock Exchange Inc.,ishares_match
+DECK,0.015278,US,Deckers Outdoor Corporation,US2435371073,United States,New York Stock Exchange Inc.,ishares_match
+SCG,0.01521,Australia,Scentre Group,AU000000SCG8,Australia,Asx - All Markets,ishares_match
+SGRO,0.015184,United Kingdom,SEGRO plc,GB00B5ZN1N88,United Kingdom,London Stock Exchange,ishares_match
+SY1,0.015182,Germany,Symrise AG,DE000SYM9999,Germany,Xetra,ishares_match
+8593,0.015131,Japan,Mitsubishi HC Capital Inc.,JP3499800005,Japan,Tokyo Stock Exchange,ishares_match
+HEN,0.0151,Germany,Henkel AG & Co. KGaA,DE0006048408,Germany,Xetra,ishares_match
+FPH,0.014945,New Zealand,Fisher & Paykel Healthcare Corporation Limited,NZFAPE0001S2,New Zealand,New Zealand Exchange Ltd,ishares_match
+BALL,0.014888,US,Ball Corporation,US0584981064,United States,New York Stock Exchange Inc.,ishares_match
+LUN,0.014825,CA,Lundin Mining Corporation,CA5503721063,Canada,Toronto Stock Exchange,ishares_match
+16,0.014804,Hong Kong,Sun Hung Kai Properties Limited,HK0016000132,Hong Kong,Hong Kong Exchanges And Clearing Ltd,ishares_match
+IEX,0.014793,US,IDEX Corporation,US45167R1041,United States,New York Stock Exchange Inc.,ishares_match
+RI,0.014788,France,Pernod Ricard SA,FR0000120693,France,Nyse Euronext - Euronext Paris,ishares_match
+GPC,0.014787,US,Genuine Parts Company,US3724601055,United States,New York Stock Exchange Inc.,ishares_match
+SAB,0.014759,Spain,Banco de Sabadell SA,ES0113860A34,Spain,Bolsa De Madrid,ishares_match
+LI,0.01471,France,Klepierre SA,FR0000121964,France,Nyse Euronext - Euronext Paris,ishares_match
+J,0.014684,US,Jacobs Solutions Inc.,US46982L1089,United States,New York Stock Exchange Inc.,ishares_match
+RCI.B,0.014554,CA,Rogers Communications Inc. Class B,CA7751092007,Canada,Toronto Stock Exchange,ishares_match
+1802,0.014552,Japan,Obayashi Corporation,JP3190000004,Japan,Tokyo Stock Exchange,ishares_match
+1812,0.014522,Japan,Kajima Corporation,JP3210200006,Japan,Tokyo Stock Exchange,ishares_match
+APA,0.014495,Australia,APA Group,AU000000APA1,Australia,Asx - All Markets,ishares_match
+7013,0.014426,Japan,IHI Corporation,JP3134800006,Japan,Tokyo Stock Exchange,ishares_match
+CARL B,0.014397,Denmark,Carlsberg AS Class B,DK0010181759,Denmark,Omx Nordic Exchange Copenhagen A/S,ishares_match
+BN4,0.014391,Singapore,Keppel Ltd.,SG1U68934629,Singapore,Singapore Exchange,ishares_match
+PSON,0.014362,United Kingdom,Pearson PLC,GB0006776081,United Kingdom,London Stock Exchange,ishares_match
+SNA,0.014356,US,Snap-on Incorporated,US8330341012,United States,New York Stock Exchange Inc.,ishares_match
+IOT,0.014298,US,Samsara Inc. Class A,US79589L1061,United States,New York Stock Exchange Inc.,ishares_match
+SGE,0.014213,United Kingdom,Sage Group plc,GB00B8C3BL03,United Kingdom,London Stock Exchange,ishares_match
+FORTUM,0.014111,Finland,Fortum Oyj,FI0009007132,Finland,Nasdaq Omx Helsinki Ltd.,ishares_match
+KGF,0.014034,United Kingdom,Kingfisher Plc,GB0033195214,United Kingdom,London Stock Exchange,ishares_match
+FN,0.014025,US,Fabrinet,KYG3323L1005,United States,New York Stock Exchange Inc.,ishares_match
+NO0003733800,0.014003,Norway,Orkla ASA,NO0003733800,Norway,,isin
+LII,0.013986,US,Lennox International Inc.,US5261071071,United States,New York Stock Exchange Inc.,ishares_match
+VOW3,0.013975,Germany,Volkswagen AG Pref,DE0007664039,Germany,Xetra,ishares_match
+UPM,0.013964,Finland,UPM-Kymmene Oyj,FI0009005987,Finland,Nasdaq Omx Helsinki Ltd.,ishares_match
+DPLM,0.013947,United Kingdom,Diploma PLC,GB0001826634,United Kingdom,London Stock Exchange,ishares_match
+BG,0.013916,US,Bunge Global SA,CH1300646267,United States,New York Stock Exchange Inc.,ishares_match
+UNI,0.013855,Italy,UNIPOL ASSICURAZIONI SPA,IT0004810054,Italy,Borsa Italiana,ishares_match
+VNA,0.013855,Germany,Vonovia SE,DE000A1ML7J1,Germany,Xetra,ishares_match
+WSO,0.013839,US,Watsco Inc.,US9426222009,United States,New York Stock Exchange Inc.,ishares_match
+BESI,0.013809,Netherlands,BE Semiconductor Industries N.V.,NL0012866412,Netherlands,Euronext Amsterdam,ishares_match
+LAND,0.013733,United Kingdom,Land Securities Group PLC,GB00BYW0PQ60,United Kingdom,London Stock Exchange,ishares_match
+BT.A,0.013671,United Kingdom,BT Group plc,GB0030913577,United Kingdom,London Stock Exchange,ishares_match
+NWSA,0.013641,US,News Corporation Class A,US65249B1098,United States,NASDAQ,ishares_match
+ANTO,0.013625,United Kingdom,Antofagasta plc,GB0000456144,United Kingdom,London Stock Exchange,ishares_match
+9766,0.013611,Japan,KONAMI Group Corporation,JP3300200007,Japan,Tokyo Stock Exchange,ishares_match
+CA,0.0136,France,Carrefour SA,FR0000120172,France,Nyse Euronext - Euronext Paris,ishares_match
+SPSN,0.013588,Switzerland,Swiss Prime Site AG,CH0008038389,Switzerland,SIX Swiss Exchange,ishares_match
+IAG,0.01358,Spain,International Consolidated Airlines Group SA,ES0177542018,Spain,Bolsa De Madrid,ishares_match
+RDDT,0.013576,US,Reddit Inc. Class A,US75734B1008,United States,New York Stock Exchange Inc.,ishares_match
+7270,0.013543,Japan,Subaru Corporation,JP3814800003,Japan,Tokyo Stock Exchange,ishares_match
+ECHO,0.013485,US,EchoStar Corporation Class A,US2787681061,United States,NASDAQ,ishares_match
+RTO,0.013417,United Kingdom,Rentokil Initial plc,GB00B082RF11,United Kingdom,London Stock Exchange,ishares_match
+SN.,0.013377,United Kingdom,Smith & Nephew plc,GB0009223206,United Kingdom,London Stock Exchange,ishares_match
+TLS,0.013341,Australia,Telstra Group Limited,AU000000TLS2,Australia,Asx - All Markets,ishares_match
+NVR,0.01332,US,NVR Inc.,US62944T1051,United States,New York Stock Exchange Inc.,ishares_match
+CHRW,0.013314,US,C.H. Robinson Worldwide Inc.,US12541W2098,United States,NASDAQ,ishares_match
+SIG,0.013288,Australia,Sigma Healthcare Ltd,AU000000SIG5,Australia,Asx - All Markets,ishares_match
+COO,0.013204,US,Cooper Companies Inc.,US2166485019,United States,NASDAQ,ishares_match
+6361,0.013167,Japan,Ebara Corporation,JP3166000004,Japan,Tokyo Stock Exchange,ishares_match
+PNDORA,0.013117,Denmark,Pandora A/S,DK0060252690,Denmark,Omx Nordic Exchange Copenhagen A/S,ishares_match
+BVI,0.013059,France,Bureau Veritas SA,FR0006174348,France,Nyse Euronext - Euronext Paris,ishares_match
+SAP,0.012845,CA,Saputo Inc.,CA8029121057,Canada,Toronto Stock Exchange,ishares_match
+ORSTED,0.012841,Denmark,Orsted,DK0060094928,Denmark,Omx Nordic Exchange Copenhagen A/S,ishares_match
+JP3598600009,0.012833,Japan,Toho Co. Ltd.,JP3598600009,Japan,,isin
+FOXA,0.012827,US,Fox Corporation Class A,US35137L1052,United States,NASDAQ,ishares_match
+GBLB,0.012772,Belgium,Groupe Bruxelles Lambert SA,BE0003797140,Belgium,Nyse Euronext - Euronext Brussels,ishares_match
+CRCL,0.012735,US,Circle Internet Group Inc. Class A,US1725731079,United States,New York Stock Exchange Inc.,ishares_match
+5713,0.012692,Japan,Sumitomo Metal Mining Co. Ltd.,JP3402600005,Japan,Tokyo Stock Exchange,ishares_match
+7453,0.012685,Japan,Ryohin Keikaku Co. Ltd.,JP3976300008,Japan,Tokyo Stock Exchange,ishares_match
+8830,0.012625,Japan,Sumitomo Realty & Development Co. Ltd.,JP3409000001,Japan,Tokyo Stock Exchange,ishares_match
+NVMI,0.012617,Israel,Nova Ltd.,IL0010845571,Israel,Tel Aviv Stock Exchange,ishares_match
+5801,0.01261,Japan,Furukawa Electric Co. Ltd.,JP3827200001,Japan,Tokyo Stock Exchange,ishares_match
+4507,0.012565,Japan,Shionogi & Co. Ltd.,JP3347200002,Japan,Tokyo Stock Exchange,ishares_match
+KER,0.012513,France,Kering SA,FR0000121485,France,Nyse Euronext - Euronext Paris,ishares_match
+AC,0.012485,France,Accor SA,FR0000120404,France,Nyse Euronext - Euronext Paris,ishares_match
+NLY,0.012442,US,Annaly Capital Management Inc.,US0357108390,United States,New York Stock Exchange Inc.,ishares_match
+6479,0.01243,Japan,MinebeaMitsumi Inc.,JP3906000009,Japan,Tokyo Stock Exchange,ishares_match
+PME,0.012386,Australia,Pro Medicus Ltd.,AU000000PME8,Australia,Asx - All Markets,ishares_match
+SN,0.012378,US,SharkNinja Inc.,KYG8068L1086,United States,New York Stock Exchange Inc.,ishares_match
+REA,0.012329,Australia,REA Group Ltd,AU000000REA9,Australia,Asx - All Markets,ishares_match
+MONC,0.012288,Italy,Moncler SpA,IT0004965148,Italy,Borsa Italiana,ishares_match
+1801,0.012241,Japan,Taisei Corporation,JP3443600006,Japan,Tokyo Stock Exchange,ishares_match
+FDXF,0.012158,US,FedEx Freight Holding Company Inc.,US3143521058,United States,New York Stock Exchange Inc.,ishares_match
+PHOE,0.012137,Israel,Phoenix Financial Ltd,IL0007670123,Israel,Tel Aviv Stock Exchange,ishares_match
+JP3955000009,0.01208,Japan,Yokogawa Electric Corp.,JP3955000009,Japan,,isin
+3,0.012069,Hong Kong,Hong Kong & China Gas Co. Ltd.,HK0003000038,Hong Kong,Hong Kong Exchanges And Clearing Ltd,ishares_match
+XRO,0.012027,Australia,Xero Limited,NZXROE0001S2,Australia,Asx - All Markets,ishares_match
+MNG,0.012018,United Kingdom,M&G Plc,GB00BKFB1C65,United Kingdom,London Stock Exchange,ishares_match
+6,0.011808,Hong Kong,Power Assets Holdings Limited,HK0006000050,Hong Kong,Hong Kong Exchanges And Clearing Ltd,ishares_match
+ASTS,0.011771,US,AST SpaceMobile Inc. Class A,US00217D1000,United States,NASDAQ,ishares_match
+NO0010063308,0.011754,Norway,Telenor ASA,NO0010063308,Norway,,isin
+PST,0.011729,Italy,Poste Italiane SpA,IT0003796171,Italy,Borsa Italiana,ishares_match
+HEIO,0.011692,Netherlands,Heineken Holding N.V.,NL0000008977,Netherlands,Euronext Amsterdam,ishares_match
+7202,0.011588,Japan,Isuzu Motors Limited,JP3137200006,Japan,Tokyo Stock Exchange,ishares_match
+AKZA,0.011516,Netherlands,Akzo Nobel N.V.,NL0013267909,Netherlands,Euronext Amsterdam,ishares_match
+AGI,0.011485,CA,Alamos Gold Inc.,CA0115321089,Canada,Toronto Stock Exchange,ishares_match
+9531,0.011456,Japan,TOKYO GAS Co. Ltd.,JP3573000001,Japan,Tokyo Stock Exchange,ishares_match
+DKS,0.011452,US,Dick's Sporting Goods Inc.,US2533931026,United States,New York Stock Exchange Inc.,ishares_match
+7272,0.011447,Japan,Yamaha Motor Co. Ltd.,JP3942800008,Japan,Tokyo Stock Exchange,ishares_match
+RYA,0.011389,Ireland,Ryanair Holdings Plc,IE00BYTBXV33,Ireland,Irish Stock Exchange - All Market,ishares_match
+LVS,0.011367,US,Las Vegas Sands Corp.,US5178341070,United States,New York Stock Exchange Inc.,ishares_match
+DAL,0.011342,US,Delta Air Lines Inc.,US2473617023,United States,New York Stock Exchange Inc.,ishares_match
+GFL,0.011286,CA,GFL Environmental Inc,CA36168Q1046,Canada,Toronto Stock Exchange,ishares_match
+S63,0.011098,Singapore,Singapore Technologies Engineering Ltd,SG1F60858221,Singapore,Singapore Exchange,ishares_match
+4307,0.011018,Japan,Nomura Research InstituteLtd.,JP3762800005,Japan,Tokyo Stock Exchange,ishares_match
+GIL,0.011007,CA,Gildan Activewear Inc.,CA3759161035,Canada,Toronto Stock Exchange,ishares_match
+6525,0.010911,Japan,Kokusai Electric Corporation,JP3293330001,Japan,Tokyo Stock Exchange,ishares_match
+9042,0.010895,Japan,Hankyu Hanshin Holdings Inc.,JP3774200004,Japan,Tokyo Stock Exchange,ishares_match
+TOST,0.010811,US,Toast Inc. Class A,US8887871080,United States,New York Stock Exchange Inc.,ishares_match
+MTZ,0.010777,US,MasTec Inc.,US5763231090,United States,New York Stock Exchange Inc.,ishares_match
+NICE,0.010724,Israel,Azrieli Group Ltd.,IL0011194789,Israel,Tel Aviv Stock Exchange,ishares_match
+IG,0.010723,Italy,Italgas SpA,IT0005211237,Italy,Borsa Italiana,ishares_match
+ABF,0.010718,United Kingdom,Associated British Foods plc,GB0006731235,United Kingdom,London Stock Exchange,ishares_match
+BNR,0.010691,Germany,Brenntag SE,DE000A1DAHH0,Germany,Xetra,ishares_match
+SE0000114837,0.010659,Sweden,Trelleborg AB Class B,SE0000114837,Sweden,,isin
+BKT,0.010627,Spain,Bankinter SA,ES0113679I37,Spain,Bolsa De Madrid,ishares_match
+SE0000106270,0.010572,Sweden,H&M Hennes & Mauritz AB Class B,SE0000106270,Sweden,,isin
+ENLT,0.010551,Israel,Enlight Renewable Energy Ltd,IL0007200111,Israel,Tel Aviv Stock Exchange,ishares_match
+NO0010310956,0.010493,Norway,SalMar ASA,NO0010310956,Norway,,isin
+CHTR,0.010453,US,Charter Communications Inc. Class A,US16119P1084,United States,NASDAQ,ishares_match
+WISE,0.010319,United Kingdom,Wise Group plc Class A,JE00BQKY0816,United Kingdom,London Stock Exchange,ishares_match
+CG,0.010238,US,Carlyle Group Inc,US14316J1088,United States,NASDAQ,ishares_match
+5016,0.010221,Japan,JX Advanced Metals Corporation,JP3379550001,Japan,Tokyo Stock Exchange,ishares_match
+FGR,0.010174,France,Eiffage SA,FR0000130452,France,Nyse Euronext - Euronext Paris,ishares_match
+NO0005052605,0.010135,Norway,Norsk Hydro ASA,NO0005052605,Norway,,isin
+TRU,0.010131,US,TransUnion,US89400J1079,United States,New York Stock Exchange Inc.,ishares_match
+S68,0.010111,Singapore,Singapore Exchange Ltd.,SG1J26887955,Singapore,Singapore Exchange,ishares_match
+7012,0.010057,Japan,Kawasaki Heavy Industries Ltd.,JP3224200000,Japan,Tokyo Stock Exchange,ishares_match
+STN,0.010009,CA,Stantec Inc,CA85472N1096,Canada,Toronto Stock Exchange,ishares_match
+SE0012673267,0.009789,Sweden,Evolution AB,SE0012673267,Sweden,,isin
+ROL,0.009694,US,Rollins Inc.,US7757111049,United States,New York Stock Exchange Inc.,ishares_match
+SW,0.009617,France,Sodexo SA,FR0000121220,France,Nyse Euronext - Euronext Paris,ishares_match
+ES0127797019,0.009576,Portugal,EDP Renewables SA,ES0127797019,Portugal,,isin
+LISN,0.009536,Switzerland,Chocoladefabriken Lindt & Spruengli AG,CH0010570759,Switzerland,SIX Swiss Exchange,ishares_match
+EFN,0.009417,CA,Element Fleet Management Corporation,CA2861812014,Canada,Toronto Stock Exchange,ishares_match
+CLAR,0.009398,Singapore,CapitaLand Ascendas REIT,SG1M77906915,Singapore,Singapore Exchange,ishares_match
+EDV,0.00928,United Kingdom,Endeavour Mining PLC,GB00BL6K5J42,United Kingdom,London Stock Exchange,ishares_match
+ELI,0.009253,Belgium,Elia Group SA/NV,BE0003822393,Belgium,Nyse Euronext - Euronext Brussels,ishares_match
+MAERSK A,0.00923,Denmark,A.P. Moller - Maersk A/S Class A,DK0010244425,Denmark,Omx Nordic Exchange Copenhagen A/S,ishares_match
+BEI,0.009165,Germany,Beiersdorf AG,DE0005200000,Germany,Xetra,ishares_match
+IREN,0.009145,US,IREN Limited,AU0000185993,United States,NASDAQ,ishares_match
+SE0015658117,0.00913,Sweden,Epiroc AB Class B,SE0015658117,Sweden,,isin
+FNF,0.009109,US,Fidelity National Financial Inc. - FNF Group,US31620R3030,United States,New York Stock Exchange Inc.,ishares_match
+TLX,0.009037,Germany,Talanx AG,DE000TLX1005,Germany,Xetra,ishares_match
+PNFP,0.008986,US,Pinnacle Financial Partners Inc.,US72348N1090,United States,New York Stock Exchange Inc.,ishares_match
+CTVA,0.008898,US,Corteva Inc,US22052L1044,United States,New York Stock Exchange Inc.,ishares_match
+4689,0.008885,Japan,LY Corporation,JP3933800009,Japan,Tokyo Stock Exchange,ishares_match
+HK0019000162,0.008837,Hong Kong,Swire Pacific Limited Class A,HK0019000162,Hong Kong,,isin
+BNZL,0.00882,United Kingdom,Bunzl plc,GB00B0744B38,United Kingdom,London Stock Exchange,ishares_match
+INF,0.008782,United Kingdom,Informa Plc,GB00BMJ6DW54,United Kingdom,London Stock Exchange,ishares_match
+ATRL,0.008737,CA,Atkinsrealis Group Inc.,CA04764T1049,Canada,Toronto Stock Exchange,ishares_match
+MKC,0.008734,US,McCormick & Company Incorporated,US5797802064,United States,New York Stock Exchange Inc.,ishares_match
+8473,0.008732,Japan,SBI Holdings Incorporated,JP3436120004,Japan,Tokyo Stock Exchange,ishares_match
+RKT,0.008688,US,Rocket Companies Inc. Class A,US77311W1018,United States,New York Stock Exchange Inc.,ishares_match
+SE0000113250,0.008619,Sweden,Skanska AB Class B,SE0000113250,Sweden,,isin
+CCL.B,0.008576,CA,CCL Industries Inc. Class B,CA1249003098,Canada,Toronto Stock Exchange,ishares_match
+ASRNL,0.008209,Netherlands,ASR Nederland N.V.,NL0011872643,Netherlands,Euronext Amsterdam,ishares_match
+MICC,0.008198,Netherlands,Magnum Ice Cream Co. N.V.,NL0015002MS2,Netherlands,Euronext Amsterdam,ishares_match
+AT0000743059,0.008073,Austria,OMV Aktiengesellschaft,AT0000743059,Austria,,isin
+SE0000667925,0.008072,Sweden,Telia Company AB,SE0000667925,Sweden,,isin
+LYC,0.008027,Australia,Lynas Rare Earths Limited,AU000000LYC6,Australia,Asx - All Markets,ishares_match
+DIM,0.008011,France,Sartorius Stedim Biotech SA,FR0013154002,France,Nyse Euronext - Euronext Paris,ishares_match
+MRO,0.007946,United Kingdom,Melrose Industries PLC,GB00BNGDN821,United Kingdom,London Stock Exchange,ishares_match
+RBI,0.00784,Austria,Raiffeisen Bank International AG,AT0000606306,Austria,Wiener Boerse Ag,ishares_match
+6504,0.007792,Japan,Fuji Electric Co. Ltd.,JP3820000002,Japan,Tokyo Stock Exchange,ishares_match
+TIH,0.007698,CA,Toromont Industries Ltd.,CA8911021050,Canada,Toronto Stock Exchange,ishares_match
+CCH,0.007645,United Kingdom,Coca-Cola HBC AG,CH0198251305,United Kingdom,London Stock Exchange,ishares_match
+RIVN,0.0076,US,Rivian Automotive Inc. Class A,US76954A1034,United States,NASDAQ,ishares_match
+NESTE,0.007565,Finland,Neste Corporation,FI0009013296,Finland,Nasdaq Omx Helsinki Ltd.,ishares_match
+BARN,0.007561,Switzerland,Barry Callebaut AG,CH0009002962,Switzerland,SIX Swiss Exchange,ishares_match
+6586,0.007557,Japan,Makita Corporation,JP3862400003,Japan,Tokyo Stock Exchange,ishares_match
+DE0006602006,0.007543,Germany,GEA Group Aktiengesellschaft,DE0006602006,Germany,,isin
+LISP,0.007527,Switzerland,Chocoladefabriken Lindt & Spruengli AG Partizipsch.,CH0010570767,Switzerland,SIX Swiss Exchange,ishares_match
+9697,0.007526,Japan,Capcom Co. Ltd.,JP3218900003,Japan,Tokyo Stock Exchange,ishares_match
+BCP,0.007514,Portugal,Banco Comercial Portugues S.A.,PTBCP0AM0015,Portugal,Nyse Euronext - Euronext Lisbon,ishares_match
+CA46579R1047,0.007484,CA,Ivanhoe Mines Ltd. Class A,CA46579R1047,Canada,,isin
+SOL,0.007412,Australia,Washington H. Soul Pattinson and Company Limited,AU000000SOL3,Australia,Asx - All Markets,ishares_match
+5019,0.007375,Japan,Idemitsu Kosan Co. Ltd.,JP3142500002,Japan,Tokyo Stock Exchange,ishares_match
+5706,0.007336,Japan,Mitsui Kinzoku Co. Ltd.,JP3888400003,Japan,Tokyo Stock Exchange,ishares_match
+KYG4124C1096,0.007334,Singapore,Grab Holdings Limited Class A,KYG4124C1096,Singapore,,isin
+BMG4587L1090,0.007333,Hong Kong,Hongkong Land Holdings Limited,BMG4587L1090,Hong Kong,,isin
+WTC,0.007307,Australia,Wisetech Global Ltd.,AU000000WTC3,Australia,Asx - All Markets,ishares_match
+8113,0.007293,Japan,Unicharm Corporation,JP3951600000,Japan,Tokyo Stock Exchange,ishares_match
+ALA,0.007203,CA,AltaGas Ltd.,CA0213611001,Canada,Toronto Stock Exchange,ishares_match
+ENX,0.007068,France,Euronext NV,NL0006294274,France,Nyse Euronext - Euronext Paris,ishares_match
+GET,0.007068,France,Getlink SE,FR0010533075,France,Nyse Euronext - Euronext Paris,ishares_match
+66,0.007035,Hong Kong,MTR Corporation Limited,HK0066009694,Hong Kong,Hong Kong Exchanges And Clearing Ltd,ishares_match
+JP3188200004,0.006968,Japan,OTSUKA CORPORATION,JP3188200004,Japan,,isin
+SE0000872095,0.006966,Sweden,Swedish Orphan Biovitrum AB,SE0000872095,Sweden,,isin
+HOT,0.006945,Germany,HOCHTIEF Aktiengesellschaft,DE0006070006,Germany,Xetra,ishares_match
+FOX,0.006834,US,Fox Corporation Class B,US35137L2043,United States,NASDAQ,ishares_match
+SYENS,0.006766,Belgium,Syensqo SA/NV,BE0974464977,Belgium,Nyse Euronext - Euronext Brussels,ishares_match
+UAL,0.006739,US,United Airlines Holdings Inc.,US9100471096,United States,NASDAQ,ishares_match
+JP3351600006,0.006738,Japan,Shiseido CompanyLimited,JP3351600006,Japan,,isin
+MPL,0.006729,Australia,Medibank Private Ltd.,AU000000MPL3,Australia,Asx - All Markets,ishares_match
+ELISA,0.006699,Finland,Elisa Oyj Class A,FI0009007884,Finland,Nasdaq Omx Helsinki Ltd.,ishares_match
+TEN,0.006679,Italy,Tenaris S.A.,LU2598331598,Italy,Borsa Italiana,ishares_match
+PLS,0.00663,Australia,PLS Group Limited,AU000000PLS0,Australia,Asx - All Markets,ishares_match
+QIA,0.006615,Germany,QIAGEN NV,NL0015002SN0,Germany,Deutsche Boerse Xetra,ishares_match
+FME,0.006596,Germany,Fresenius Medical Care AG,DE0005785802,Germany,Xetra,ishares_match
+SCHN,0.006584,Switzerland,Schindler Holding Ltd.,CH0024638212,Switzerland,SIX Swiss Exchange,ishares_match
+ADM,0.006567,United Kingdom,Admiral Group plc,GB00B02J6398,United Kingdom,London Stock Exchange,ishares_match
+ELE,0.006563,Spain,Endesa S.A.,ES0130670112,Spain,Bolsa De Madrid,ishares_match
+SBRY,0.006504,United Kingdom,J Sainsbury plc,GB00B019KW72,United Kingdom,London Stock Exchange,ishares_match
+FRES,0.006488,United Kingdom,Fresnillo PLC,GB00B2QPKJ12,United Kingdom,London Stock Exchange,ishares_match
+BE0003717312,0.006475,Belgium,Sofina SA,BE0003717312,Belgium,,isin
+JMT,0.006447,Portugal,Jeronimo Martins SGPS S.A.,PTJMT0AE0001,Portugal,Nyse Euronext - Euronext Lisbon,ishares_match
+4684,0.006381,Japan,OBIC Co. Ltd.,JP3173400007,Japan,Tokyo Stock Exchange,ishares_match
+STERV,0.006334,Finland,Stora Enso Oyj Class R,FI0009005961,Finland,Nasdaq Omx Helsinki Ltd.,ishares_match
+SLR,0.006278,Spain,Redeia Corporacion SA,ES0173093024,Spain,Bolsa De Madrid,ishares_match
+MKS,0.006251,United Kingdom,Marks and Spencer Group plc,GB0031274896,United Kingdom,London Stock Exchange,ishares_match
+1803,0.006228,Japan,Shimizu Corporation,JP3358800005,Japan,Tokyo Stock Exchange,ishares_match
+6383,0.006199,Japan,Daifuku Co. Ltd.,JP3497400006,Japan,Tokyo Stock Exchange,ishares_match
+6594,0.006154,Japan,Nidec Corporation,JP3734800000,Japan,Tokyo Stock Exchange,ishares_match
+CH0130293662,0.00614,Switzerland,BKW AG,CH0130293662,Switzerland,,isin
+ORNBV,0.006123,Finland,Orion Oyj Class B,FI0009014377,Finland,Nasdaq Omx Helsinki Ltd.,ishares_match
+TFII,0.006028,CA,TFI International Inc.,CA87241L1094,Canada,Toronto Stock Exchange,ishares_match
+X,0.005994,CA,TMX Group Ltd.,CA87262K1057,Canada,Toronto Stock Exchange,ishares_match
+8951,0.005987,Japan,Nippon Building Fund Inc.,JP3027670003,Japan,Tokyo Stock Exchange,ishares_match
+DHER,0.005955,Germany,Delivery Hero SE,DE000A2E4K43,Germany,Xetra,ishares_match
+COLO B,0.005939,Denmark,Coloplast A/S Class B,DK0060448595,Denmark,Omx Nordic Exchange Copenhagen A/S,ishares_match
+BMG507361001,0.005938,Hong Kong,Jardine Matheson Holdings Limited,BMG507361001,Hong Kong,,isin
+4188,0.005903,Japan,Mitsubishi Chemical Group Corporation,JP3897700005,Japan,Tokyo Stock Exchange,ishares_match
+TUB,0.005901,Belgium,Financiere de Tubize S.A.,BE0003823409,Belgium,Nyse Euronext - Euronext Brussels,ishares_match
+NTGY,0.005878,Spain,Naturgy Energy Group S.A.,ES0116870314,Spain,Bolsa De Madrid,ishares_match
+CU,0.005825,CA,Canadian Utilities Limited Class A,CA1367178326,Canada,Toronto Stock Exchange,ishares_match
+OPCE,0.005791,Israel,OPC Energy Ltd.,IL0011415713,Israel,Tel Aviv Stock Exchange,ishares_match
+SE0000107203,0.005651,Sweden,Industrivarden AB Class C,SE0000107203,Sweden,,isin
+EN,0.005645,France,Bouygues SA,FR0000120503,France,Nyse Euronext - Euronext Paris,ishares_match
+KYG8187G1055,0.005627,Hong Kong,SITC International Holdings Co. Ltd.,KYG8187G1055,Hong Kong,,isin
+3659,0.005607,Japan,NEXON Co. Ltd.,JP3758190007,Japan,Tokyo Stock Exchange,ishares_match
+MZTF,0.005581,Israel,Mizrahi Tefahot Bank Ltd,IL0006954379,Israel,Tel Aviv Stock Exchange,ishares_match
+4151,0.005511,Japan,Kyowa Kirin Co. Ltd.,JP3256000005,Japan,Tokyo Stock Exchange,ishares_match
+ALO,0.005503,France,Alstom SA,FR0010220475,France,Nyse Euronext - Euronext Paris,ishares_match
+IFT,0.005478,New Zealand,Infratil Limited,NZIFTE0003S3,New Zealand,New Zealand Exchange Ltd,ishares_match
+SE0015949748,0.005472,Sweden,Beijer Ref AB Class B,SE0015949748,Sweden,,isin
+IPN,0.005448,France,Ipsen SA,FR0010259150,France,Nyse Euronext - Euronext Paris,ishares_match
+SRT3,0.005411,Germany,Sartorius AG Pref,DE0007165631,Germany,Xetra,ishares_match
+UHR,0.005397,Switzerland,Swatch Group Ltd. Bearer,CH0012255151,Switzerland,SIX Swiss Exchange,ishares_match
+KBX,0.005381,Germany,Knorr-Bremse AG,DE000KBX1006,Germany,Xetra,ishares_match
+ZAL,0.005348,Germany,Zalando SE,DE000ZAL1111,Germany,Xetra,ishares_match
+H,0.005314,US,Hyatt Hotels Corporation Class A,US4485791028,United States,New York Stock Exchange Inc.,ishares_match
+9107,0.00527,Japan,Kawasaki Kisen Kaisha Ltd.,JP3223800008,Japan,Tokyo Stock Exchange,ishares_match
+SE0014781795,0.005241,Sweden,Addtech AB Class B,SE0014781795,Sweden,,isin
+HAG,0.00516,Germany,HENSOLDT AG,DE000HAG0005,Germany,Xetra,ishares_match
+7309,0.005158,Japan,Shimano Inc.,JP3358000002,Japan,Tokyo Stock Exchange,ishares_match
+NZMELE0002S7,0.00515,New Zealand,Meridian Energy Limited,NZMELE0002S7,New Zealand,,isin
+KYG960071028,0.005144,Hong Kong,WH Group Ltd. (HK),KYG960071028,Hong Kong,,isin
+12,0.005128,Hong Kong,Henderson Land Development Co. Ltd.,HK0012000102,Hong Kong,Hong Kong Exchanges And Clearing Ltd,ishares_match
+4523,0.005123,Japan,Eisai Co. Ltd.,JP3160400002,Japan,Tokyo Stock Exchange,ishares_match
+BEAN,0.005107,Switzerland,BELIMO Holding AG,CH1101098163,Switzerland,SIX Swiss Exchange,ishares_match
+NEM,0.005095,Germany,Nemetschek SE,DE0006452907,Germany,Xetra,ishares_match
+3402,0.005023,Japan,Toray Industries Inc.,JP3621000003,Japan,Tokyo Stock Exchange,ishares_match
+ASX,0.004999,Australia,ASX Limited,AU000000ASX7,Australia,Asx - All Markets,ishares_match
+7532,0.004999,Japan,Pan Pacific International Holdings Corporation,JP3639650005,Japan,Tokyo Stock Exchange,ishares_match
+CAE,0.004979,CA,CAE Inc.,CA1247651088,Canada,Toronto Stock Exchange,ishares_match
+7259,0.004951,Japan,Aisin Corporation,JP3102000001,Japan,Tokyo Stock Exchange,ishares_match
+DSCT,0.004894,Israel,Israel Discount Bank Limited Class A,IL0006912120,Israel,Tel Aviv Stock Exchange,ishares_match
+US36118L1061,0.004849,Hong Kong,Futu Holdings Ltd. Sponsored ADR Class A,US36118L1061,Hong Kong,,isin
+7911,0.004836,Japan,TOPPAN Holdings Inc.,JP3629000005,Japan,Tokyo Stock Exchange,ishares_match
+ABVX,0.004818,France,Abivax SA,FR0012333284,France,Nyse Euronext - Euronext Paris,ishares_match
+8136,0.004558,Japan,Sanrio Co. Ltd.,JP3343200006,Japan,Tokyo Stock Exchange,ishares_match
+7735,0.004529,Japan,SCREEN Holdings Co. Ltd,JP3494600004,Japan,Tokyo Stock Exchange,ishares_match
+9021,0.004525,Japan,West Japan Railway Company,JP3659000008,Japan,Tokyo Stock Exchange,ishares_match
+C6L,0.004516,Singapore,Singapore Airlines Ltd.,SG1V61937297,Singapore,Singapore Exchange,ishares_match
+GALP,0.004483,Portugal,Galp Energia SGPS S.A. Class B,PTGAL0AM0009,Portugal,Nyse Euronext - Euronext Lisbon,ishares_match
+TIGO,0.004376,Sweden,Millicom International Cellular SA,LU0038705702,Sweden,NASDAQ,ishares_match
+VCX,0.004289,Australia,Vicinity Centres,AU000000VCX7,Australia,Asx - All Markets,ishares_match
+JP3429800000,0.00427,Japan,ANA Holdings Inc.,JP3429800000,Japan,,isin
+IAG,0.004267,CA,iA Financial Corporation Inc.,CA45075E1043,Canada,Toronto Stock Exchange,ishares_match
+4612,0.004257,Japan,Nippon Paint Holdings Co. Ltd.,JP3749400002,Japan,Tokyo Stock Exchange,ishares_match
+BS6,0.004218,Singapore,Yangzijiang Shipbuilding (Holdings) Ltd.,SG1U76934819,Singapore,Singapore Exchange,ishares_match
+9843,0.004213,Japan,Nitori Holdings Co. Ltd.,JP3756100008,Japan,Tokyo Stock Exchange,ishares_match
+IT0001347308,0.004192,Italy,Buzzi Spa,IT0001347308,Italy,,isin
+JP3672400003,0.00419,Japan,Nissan Motor Co. Ltd.,JP3672400003,Japan,,isin
+2801,0.004105,Japan,Kikkoman Corporation,JP3240400006,Japan,Tokyo Stock Exchange,ishares_match
+EMP.A,0.003973,CA,Empire Co Ltd Class A,CA2918434077,Canada,Toronto Stock Exchange,ishares_match
+LUG,0.003962,CA,Lundin Gold Inc.,CA5503711080,Canada,Toronto Stock Exchange,ishares_match
+EQX,0.003944,CA,Equinox Gold Corp.,CA29446Y5020,Canada,Toronto Stock Exchange,ishares_match
+HARL,0.003887,Israel,Harel Insurance Investments & Financial Services Ltd.,IL0005850180,Israel,Tel Aviv Stock Exchange,ishares_match
+4755,0.003797,Japan,Rakuten Group Inc.,JP3967200001,Japan,Tokyo Stock Exchange,ishares_match
+KESKOB,0.003794,Finland,Kesko Oyj Class B,FI0009000202,Finland,Nasdaq Omx Helsinki Ltd.,ishares_match
+7186,0.003775,Japan,Yokohama Financial Group Inc.,JP3305990008,Japan,Tokyo Stock Exchange,ishares_match
+SPX,0.003699,United Kingdom,Spirax Group plc.,GB00BWFGQN14,United Kingdom,London Stock Exchange,ishares_match
+27,0.003607,Hong Kong,Galaxy Entertainment Group Limited,HK0027032686,Hong Kong,Hong Kong Exchanges And Clearing Ltd,ishares_match
+7735,0.0036,Japan,Zensho Holdings Co. Ltd.,JP3429300001,Japan,Tokyo Stock Exchange,ishares_match
+LHA,0.003591,Germany,Deutsche Lufthansa AG,DE0008232125,Germany,Xetra,ishares_match
+1878,0.00349,Japan,Daito Trust Construction Co. Ltd.,JP3486800000,Japan,Tokyo Stock Exchange,ishares_match
+KYG9593A1040,0.003458,Hong Kong,Wharf Real Estate Investment Company Limited,KYG9593A1040,Hong Kong,,isin
+SE0015949201,0.003441,Sweden,Lifco AB Class B,SE0015949201,Sweden,,isin
+CON,0.00343,Germany,Continental AG,DE0005439004,Germany,Xetra,ishares_match
+SE0015988019,0.003365,Sweden,NIBE Industrier AB Class B,SE0015988019,Sweden,,isin
+CA87971M1032,0.003326,CA,TELUS Corporation,CA87971M1032,Canada,,isin
+SE0000108227,0.003312,Sweden,SKF AB Class B,SE0000108227,Sweden,,isin
+NL0015435975,0.003306,Italy,Davide Campari-Milano N.V.,NL0015435975,Italy,,isin
+SE0005190238,0.003305,Sweden,Tele2 AB Class B,SE0005190238,Sweden,,isin
+SE0001515552,0.003238,Sweden,Indutrade AB,SE0001515552,Sweden,,isin
+SE0000163594,0.003238,Sweden,Securitas AB Class B,SE0000163594,Sweden,,isin
+RXL,0.003213,France,Rexel SA,FR0010451203,France,Nyse Euronext - Euronext Paris,ishares_match
+STLAM,0.003164,Italy,Stellantis N.V.,NL00150001Q9,Italy,Borsa Italiana,ishares_match
+CA11285B1085,0.003155,CA,Brookfield Renewable Holdings Corporation Class A,CA11285B1085,Canada,,isin
+GB00BKDRYJ47,0.003096,United Kingdom,Airtel Africa Plc,GB00BKDRYJ47,United Kingdom,,isin
+BMG2178K1009,0.002987,Hong Kong,CK Infrastructure Holdings Limited,BMG2178K1009,Hong Kong,,isin
+P911,0.002842,Germany,Porsche AG,DE000PAG9113,Germany,Xetra,ishares_match
+TRYG,0.002814,Denmark,Tryg A/S,DK0060636678,Denmark,Omx Nordic Exchange Copenhagen A/S,ishares_match
+AM,0.002759,France,Dassault Aviation SA,FR0014004L86,France,Nyse Euronext - Euronext Paris,ishares_match
+7912,0.002615,Japan,Dai Nippon Printing Co. Ltd.,JP3493800001,Japan,Tokyo Stock Exchange,ishares_match
+KYG7800X1079,0.002534,Hong Kong,Sands China Ltd.,KYG7800X1079,Hong Kong,,isin
+IT0003828271,0.002482,Italy,Recordati S.p.A.,IT0003828271,Italy,,isin
+VER,0.002481,Austria,VERBUND AG Class A,AT0000746409,Austria,Wiener Boerse Ag,ishares_match
+IL0002810146,0.002364,Israel,ICL Group Ltd.,IL0002810146,Israel,,isin
+FR0013280286,0.002342,France,bioMerieux SA,FR0013280286,France,,isin
+NO0010208051,0.002301,Norway,Yara International ASA,NO0010208051,Norway,,isin
+EVK,0.002275,Germany,Evonik Industries AG,DE000EVNK013,Germany,Xetra,ishares_match
+RNO,0.00224,France,Renault SA,FR0000131906,France,Nyse Euronext - Euronext Paris,ishares_match
+PAH3,0.002225,Germany,Porsche Automobil Holding SE Pref,DE000PAH0038,Germany,Xetra,ishares_match
+AU000000QAN2,0.002208,Australia,Qantas Airways Limited,AU000000QAN2,Australia,,isin
+BE0003604155,0.00218,Belgium,Lotus Bakeries NV,BE0003604155,Belgium,,isin
+FR0010040865,0.002141,France,Gecina SA,FR0010040865,France,,isin
+SGH,0.002123,Australia,SGH Limited,AU0000364754,Australia,Asx - All Markets,ishares_match
+JP3711600001,0.002075,Japan,Nippon Sanso Holdings Corporation,JP3711600001,Japan,,isin
+CTC.A,0.001902,CA,Canadian Tire Corporation Limited Class A,CA1366812024,Canada,Toronto Stock Exchange,ishares_match
+DE0007010803,0.001852,Germany,Rational Aktiengesellschaft,DE0007010803,Germany,,isin
+JE00BRX98089,0.001744,Netherlands,CVC Capital Partners plc,JE00BRX98089,Netherlands,,isin
+KEY,0.001691,CA,Keyera Corp.,CA4932711001,Canada,Toronto Stock Exchange,ishares_match
+NO0010345853,0.001621,Norway,Aker BP ASA,NO0010345853,Norway,,isin
+ANA,0.001548,Spain,Acciona SA,ES0125220311,Spain,Bolsa De Madrid,ishares_match
+EXO,0.001534,Netherlands,EXOR N.V.,NL0012059018,Netherlands,Euronext Amsterdam,ishares_match
+SGXE62145532,0.00148,Singapore,CapitaLand Investment Limited,SGXE62145532,Singapore,,isin
+TLC,0.001387,Australia,Lottery Corporation Limited,AU0000219529,Australia,Asx - All Markets,ishares_match
+5201,0.00136,Japan,AGC Inc.,JP3112000009,Japan,Tokyo Stock Exchange,ishares_match
+FR0000064578,0.000999,France,Covivio SA,FR0000064578,France,,isin
+HK0083000502,0.00082,Hong Kong,Sino Land Co. Ltd.,HK0083000502,Hong Kong,,isin
+SE0000190126,0.000595,Sweden,Industrivarden AB Class A,SE0000190126,Sweden,,isin
+SG1T56930848,0.000572,Singapore,Wilmar International Limited,SG1T56930848,Singapore,,isin
+JP3336560002,0.000558,Japan,Suntory Beverage & Food Ltd.,JP3336560002,Japan,,isin
+DEMANT,0.000511,Denmark,Demant A/S,DK0060738599,Denmark,Omx Nordic Exchange Copenhagen A/S,ishares_match
+AMUN,0.000329,France,Amundi SA,FR0004125920,France,Nyse Euronext - Euronext Paris,ishares_match
+JP3783420007,0.00031,Japan,Hikari Tsushin Inc.,JP3783420007,Japan,,isin
+8331,0.000277,Japan,Chiba Bank Ltd.,JP3511800009,Japan,Tokyo Stock Exchange,ishares_match
+BCE,0.000241,CA,BCE Inc.,CA05534B7604,Canada,Toronto Stock Exchange,ishares_match
+JP3233250004,0.000206,Japan,JAPAN POST INSURANCE Co. Ltd.,JP3233250004,Japan,,isin
+NO0010582521,0.000187,Norway,Gjensidige Forsikring ASA,NO0010582521,Norway,,isin
+3003,0.000168,Japan,Hulic Co. Ltd.,JP3360800001,Japan,Tokyo Stock Exchange,ishares_match
+IGM,0.000153,CA,IGM Financial Inc.,CA4495861060,Canada,Toronto Stock Exchange,ishares_match
+FR0010340141,0.000139,France,Aeroports de Paris,FR0010340141,France,,isin
+SE0000108847,0.000136,Sweden,L E Lundbergforetagen AB Class B,SE0000108847,Sweden,,isin

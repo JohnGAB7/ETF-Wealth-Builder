@@ -1,0 +1,1202 @@
+ticker,weight,market,name,isin,location,exchange,ticker_source
+AAPL,5.61,US,APPLE,,United States,NASDAQ,issuer
+NVDA,5.38,US,NVIDIA,,United States,NASDAQ,issuer
+MSFT,4.09,US,MICROSOFT,,United States,NASDAQ,issuer
+AMZN,2.58,US,AMAZON.COM INC,,United States,NASDAQ,issuer
+GOOGL,1.82,US,ALPHABET CLASS A,,United States,NASDAQ,issuer
+AVGO,1.71,US,BROADCOM INC,,United States,NASDAQ,issuer
+META,1.5,US,META PLATFORMS CLASS A,,United States,NASDAQ,issuer
+GOOG,1.44,US,ALPHABET CLASS C,,United States,NASDAQ,issuer
+TSLA,1.26,US,TESLA INC,,United States,NASDAQ,issuer
+LLY,1.2,US,ELI LILLY,,United States,New York Stock Exchange Inc.,issuer
+MU,1.15,US,MICRON TECHNOLOGY,,United States,NASDAQ,issuer
+AMD,1.01,US,ADVANCED MICRO DEVICES,,United States,NASDAQ,issuer
+JPM,1.0,US,JPMORGAN CHASE & CO,,United States,New York Stock Exchange Inc.,issuer
+BRK B,0.84,US,BERKSHIRE HATHAWAY INC CLASS B,,United States,New York Stock Exchange Inc.,issuer
+XOM,0.83,US,EXXONMOBIL HOLDINGS CORP,,United States,New York Stock Exchange Inc.,issuer
+V,0.75,US,VISA CLASS A,,United States,New York Stock Exchange Inc.,issuer
+JNJ,0.72,US,JOHNSON & JOHNSON,,United States,New York Stock Exchange Inc.,issuer
+ASML,0.71,Netherlands,ASML HOLDING,,Netherlands,Euronext Amsterdam,issuer
+WMT,0.58,US,WALMART,,United States,NASDAQ,issuer
+MA,0.57,US,MASTERCARD CLASS A,,United States,New York Stock Exchange Inc.,issuer
+ABBV,0.56,US,ABBVIE,,United States,New York Stock Exchange Inc.,issuer
+COST,0.48,US,COSTCO WHOLESALE CORP,,United States,NASDAQ,issuer
+CSCO,0.47,US,CISCO SYSTEMS INC,,United States,NASDAQ,issuer
+PLTR,0.47,US,PALANTIR TECHNOLOGIES CLASS A,,United States,NASDAQ,issuer
+CVX,0.47,US,CHEVRON,,United States,New York Stock Exchange Inc.,issuer
+INTC,0.44,US,INTEL CORPORATION,,United States,NASDAQ,issuer
+PG,0.41,US,PROCTER & GAMBLE,,United States,New York Stock Exchange Inc.,issuer
+UNH,0.41,US,UNITEDHEALTH GROUP,,United States,New York Stock Exchange Inc.,issuer
+MRK,0.39,US,MERCK & CO INC,,United States,New York Stock Exchange Inc.,issuer
+KO,0.39,US,COCA-COLA,,United States,New York Stock Exchange Inc.,issuer
+ROP,0.37,Switzerland,ROCHE PS PAR AG,,Switzerland,SIX Swiss Exchange,issuer
+AMAT,0.37,US,APPLIED MATERIAL INC,,United States,NASDAQ,issuer
+BAC,0.36,US,BANK OF AMERICA,,United States,New York Stock Exchange Inc.,issuer
+HD,0.36,US,HOME DEPOT,,United States,New York Stock Exchange Inc.,issuer
+GE,0.35,US,GE AEROSPACE,,United States,New York Stock Exchange Inc.,issuer
+PM,0.35,US,PHILIP MORRIS INTERNATIONAL,,United States,New York Stock Exchange Inc.,issuer
+LRCX,0.35,US,LAM RESEARCH,,United States,NASDAQ,issuer
+SHEL,0.34,United Kingdom,SHELL,,United Kingdom,London Stock Exchange,issuer
+PANW,0.34,US,PALO ALTO NETWORKS,,United States,NASDAQ,issuer
+CAT,0.33,US,CATERPILLAR INC,,United States,New York Stock Exchange Inc.,issuer
+HSBA,0.32,United Kingdom,HSBC HOLDINGS PLC,,United Kingdom,London Stock Exchange,issuer
+NOVN,0.32,Switzerland,NOVARTIS AG,,Switzerland,SIX Swiss Exchange,issuer
+RY,0.32,CA,ROYAL BANK OF CANADA,,Canada,Toronto Stock Exchange,issuer
+TXN,0.31,US,TEXAS INSTRUMENT,,United States,NASDAQ,issuer
+GS,0.3,US,GOLDMAN SACHS GROUP,,United States,New York Stock Exchange Inc.,issuer
+RTX,0.29,US,RTX,,United States,New York Stock Exchange Inc.,issuer
+TMO,0.29,US,THERMO FISHER SCIENTIFIC,,United States,New York Stock Exchange Inc.,issuer
+AZN,0.29,United Kingdom,ASTRAZENECA PLC,,United Kingdom,London Stock Exchange,issuer
+WFC,0.29,US,WELLS FARGO,,United States,New York Stock Exchange Inc.,issuer
+NFLX,0.29,US,NETFLIX,,United States,NASDAQ,issuer
+CRWD,0.28,US,CROWDSTRIKE HOLDINGS CLASS A,,United States,NASDAQ,issuer
+NESN,0.28,Switzerland,NESTLE SA,,Switzerland,SIX Swiss Exchange,issuer
+AMGN,0.27,US,AMGEN INC,,United States,NASDAQ,issuer
+IBM,0.26,US,INTERNATIONAL BUSINESS MACHINES CO,,United States,New York Stock Exchange Inc.,issuer
+SAP,0.26,Germany,SAP,,Germany,Xetra,issuer
+ORCL,0.26,US,ORACLE,,United States,New York Stock Exchange Inc.,issuer
+GEV,0.26,US,GE VERNOVA,,United States,New York Stock Exchange Inc.,issuer
+LIN,0.26,US,LINDE PLC,,United States,NASDAQ,issuer
+8306,0.26,Japan,MITSUBISHI UFJ FINANCIAL GROUP,,Japan,Tokyo Stock Exchange,issuer
+SIE,0.24,Germany,SIEMENS N AG,,Germany,Xetra,issuer
+MS,0.24,US,MORGAN STANLEY,,United States,New York Stock Exchange Inc.,issuer
+KLAC,0.24,US,KLA,,United States,NASDAQ,issuer
+C,0.23,US,CITIGROUP,,United States,New York Stock Exchange Inc.,issuer
+ADI,0.23,US,ANALOG DEVICES,,United States,NASDAQ,issuer
+TD,0.23,CA,TORONTO DOMINION,,Canada,Toronto Stock Exchange,issuer
+GILD,0.23,US,GILEAD SCIENCES,,United States,NASDAQ,issuer
+BHP,0.23,Australia,BHP GROUP LTD,,Australia,Asx - All Markets,issuer
+APH,0.22,US,AMPHENOL CORP CLASS A,,United States,New York Stock Exchange Inc.,issuer
+SHOP,0.22,CA,SHOPIFY SUBORDINATE VOTING CLASS A,,Canada,Toronto Stock Exchange,issuer
+QCOM,0.22,US,QUALCOMM,,United States,NASDAQ,issuer
+ANET,0.22,US,ARISTA NETWORKS,,United States,New York Stock Exchange Inc.,issuer
+SNDK,0.22,US,SANDISK,,United States,NASDAQ,issuer
+CBA,0.21,Australia,COMMONWEALTH BANK OF AUSTRALIA,,Australia,Asx - All Markets,issuer
+DIS,0.21,US,WALT DISNEY,,United States,New York Stock Exchange Inc.,issuer
+TTE,0.2,France,TOTALENERGIES,,France,Nyse Euronext - Euronext Paris,issuer
+MRVL,0.2,US,MARVELL TECHNOLOGY,,United States,NASDAQ,issuer
+ALV,0.2,Germany,ALLIANZ,,Germany,Xetra,issuer
+CRM,0.2,US,SALESFORCE,,United States,New York Stock Exchange Inc.,issuer
+PEP,0.2,US,PEPSICO,,United States,NASDAQ,issuer
+ABT,0.2,US,ABBOTT LABORATORIES,,United States,New York Stock Exchange Inc.,issuer
+MCD,0.2,US,MCDONALDS CORP,,United States,New York Stock Exchange Inc.,issuer
+COP,0.2,US,CONOCOPHILLIPS,,United States,New York Stock Exchange Inc.,issuer
+7203,0.2,Japan,TOYOTA MOTOR,,Japan,Tokyo Stock Exchange,issuer
+VZ,0.2,US,VERIZON COMMUNICATIONS INC,,United States,New York Stock Exchange Inc.,issuer
+UNP,0.19,US,UNION PACIFIC,,United States,New York Stock Exchange Inc.,issuer
+BLK,0.19,US,BLACKROCK,,United States,New York Stock Exchange Inc.,issuer
+6857,0.19,Japan,ADVANTEST,,Japan,Tokyo Stock Exchange,issuer
+AXP,0.19,US,AMERICAN EXPRESS,,United States,New York Stock Exchange Inc.,issuer
+PFE,0.19,US,PFIZER,,United States,New York Stock Exchange Inc.,issuer
+NEE,0.19,US,NEXTERA ENERGY,,United States,New York Stock Exchange Inc.,issuer
+SAN,0.18,Spain,BANCO SANTANDER,,Spain,Bolsa De Madrid,issuer
+WELL,0.18,US,WELLTOWER,,United States,New York Stock Exchange Inc.,issuer
+6098,0.18,Japan,RECRUIT HOLDINGS LTD,,Japan,Tokyo Stock Exchange,issuer
+DE,0.18,US,DEERE,,United States,New York Stock Exchange Inc.,issuer
+ISRG,0.17,US,INTUITIVE SURGICAL,,United States,NASDAQ,issuer
+STX,0.17,US,SEAGATE TECHNOLOGY HOLDINGS PLC,,United States,NASDAQ,issuer
+ETN,0.17,US,EATON PLC,,United States,New York Stock Exchange Inc.,issuer
+TJX,0.17,US,TJX,,United States,New York Stock Exchange Inc.,issuer
+UBSG,0.17,Switzerland,UBS GROUP AG,,Switzerland,SIX Swiss Exchange,issuer
+IBE,0.17,Spain,IBERDROLA,,Spain,Bolsa De Madrid,issuer
+SU,0.17,France,SCHNEIDER ELECTRIC,,France,Nyse Euronext - Euronext Paris,issuer
+8316,0.16,Japan,SUMITOMO MITSUI FINANCIAL GROUP,,Japan,Tokyo Stock Exchange,issuer
+6758,0.16,Japan,SONY GROUP,,Japan,Tokyo Stock Exchange,issuer
+ACN,0.16,US,ACCENTURE PLC CLASS A,,United States,New York Stock Exchange Inc.,issuer
+DHR,0.16,US,DANAHER,,United States,New York Stock Exchange Inc.,issuer
+SCHW,0.16,US,CHARLES SCHWAB,,United States,New York Stock Exchange Inc.,issuer
+T,0.16,US,AT&T,,United States,New York Stock Exchange Inc.,issuer
+DELL,0.16,US,DELL TECHNOLOGIES INC CLASS C,,United States,New York Stock Exchange Inc.,issuer
+6501,0.16,Japan,HITACHI,,Japan,Tokyo Stock Exchange,issuer
+SPGI,0.16,US,S&P GLOBAL,,United States,New York Stock Exchange Inc.,issuer
+RR.,0.15,United Kingdom,ROLLS-ROYCE HOLDINGS PLC,,United Kingdom,London Stock Exchange,issuer
+8035,0.15,Japan,TOKYO ELECTRON,,Japan,Tokyo Stock Exchange,issuer
+ULVR,0.15,United Kingdom,UNILEVER PLC,,United Kingdom,London Stock Exchange,issuer
+ABBN,0.15,Switzerland,ABB LTD,,Switzerland,SIX Swiss Exchange,issuer
+WDC,0.15,US,WESTERN DIGITAL CORP,,United States,NASDAQ,issuer
+PGR,0.15,US,PROGRESSIVE,,United States,New York Stock Exchange Inc.,issuer
+BBVA,0.15,Spain,BANCO BILBAO VIZCAYA ARGENTARIA,,Spain,Bolsa De Madrid,issuer
+VRTX,0.15,US,VERTEX PHARMACEUTICALS,,United States,NASDAQ,issuer
+LMT,0.14,US,LOCKHEED MARTIN,,United States,New York Stock Exchange Inc.,issuer
+AIR,0.14,France,AIRBUS GROUP,,France,Nyse Euronext - Euronext Paris,issuer
+BP.,0.14,United Kingdom,BP PLC,,United Kingdom,London Stock Exchange,issuer
+BA,0.14,US,BOEING,,United States,New York Stock Exchange Inc.,issuer
+MPC,0.14,US,MARATHON PETROLEUM,,United States,New York Stock Exchange Inc.,issuer
+MO,0.14,US,ALTRIA GROUP INC,,United States,New York Stock Exchange Inc.,issuer
+CB,0.14,US,CHUBB,,United States,New York Stock Exchange Inc.,issuer
+BMY,0.14,US,BRISTOL MYERS SQUIBB,,United States,New York Stock Exchange Inc.,issuer
+NOVO B,0.14,Denmark,NOVO NORDISK CLASS B,,Denmark,Omx Nordic Exchange Copenhagen A/S,issuer
+MDT,0.14,US,MEDTRONIC PLC,,United States,New York Stock Exchange Inc.,issuer
+AI,0.13,France,LAIR LIQUIDE SOCIETE ANONYME POUR,,France,Nyse Euronext - Euronext Paris,issuer
+BMO,0.13,CA,BANK OF MONTREAL,,Canada,Toronto Stock Exchange,issuer
+COF,0.13,US,CAPITAL ONE FINANCIAL CORP,,United States,New York Stock Exchange Inc.,issuer
+BATS,0.13,United Kingdom,BRITISH AMERICAN TOBACCO,,United Kingdom,London Stock Exchange,issuer
+SBUX,0.13,US,STARBUCKS CORP,,United States,NASDAQ,issuer
+NEM,0.13,US,NEWMONT,,United States,New York Stock Exchange Inc.,issuer
+PLD,0.13,US,PROLOGIS REIT,,United States,New York Stock Exchange Inc.,issuer
+8411,0.13,Japan,MIZUHO FINANCIAL GROUP,,Japan,Tokyo Stock Exchange,issuer
+BNS,0.13,CA,BANK OF NOVA SCOTIA,,Canada,Toronto Stock Exchange,issuer
+UBER,0.13,US,UBER TECHNOLOGIES,,United States,New York Stock Exchange Inc.,issuer
+BKNG,0.13,US,BOOKING HOLDINGS,,United States,NASDAQ,issuer
+LOW,0.13,US,LOWES COMPANIES INC,,United States,New York Stock Exchange Inc.,issuer
+PH,0.13,US,PARKER-HANNIFIN,,United States,New York Stock Exchange Inc.,issuer
+D05,0.13,Singapore,DBS GROUP HOLDINGS LTD,,Singapore,Singapore Exchange,issuer
+ENR,0.13,Germany,SIEMENS ENERGY N AG,,Germany,Xetra,issuer
+MCK,0.13,US,MCKESSON CORP,,United States,New York Stock Exchange Inc.,issuer
+CVS,0.13,US,CVS HEALTH,,United States,New York Stock Exchange Inc.,issuer
+VLO,0.12,US,VALERO ENERGY CORP,,United States,New York Stock Exchange Inc.,issuer
+ADP,0.12,US,AUTOMATIC DATA PROCESSING INC,,United States,NASDAQ,issuer
+UCG,0.12,Italy,UNICREDIT,,Italy,Borsa Italiana,issuer
+NOW,0.12,US,SERVICENOW,,United States,New York Stock Exchange Inc.,issuer
+CNQ,0.12,CA,CANADIAN NATURAL RESOURCES LTD,,Canada,Toronto Stock Exchange,issuer
+9984,0.12,Japan,SOFTBANK GROUP CORP,,Japan,Tokyo Stock Exchange,issuer
+CM,0.12,CA,CANADIAN IMPERIAL BANK OF COMMERCE,,Canada,Toronto Stock Exchange,issuer
+SNOW,0.12,US,SNOWFLAKE,,United States,New York Stock Exchange Inc.,issuer
+OR,0.12,France,LOREAL SA,,France,Nyse Euronext - Euronext Paris,issuer
+CME,0.12,US,CME GROUP CLASS A,,United States,NASDAQ,issuer
+ZURN,0.12,Switzerland,ZURICH INSURANCE GROUP AG,,Switzerland,SIX Swiss Exchange,issuer
+SAF,0.12,France,SAFRAN SA,,France,Nyse Euronext - Euronext Paris,issuer
+PSX,0.12,US,PHILLIPS 66,,United States,New York Stock Exchange Inc.,issuer
+ENB,0.12,CA,ENBRIDGE,,Canada,Toronto Stock Exchange,issuer
+285A,0.12,Japan,KIOXIA HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+CFR,0.12,Switzerland,COMPAGNIE FINANCIERE RICHEMONT SA,,Switzerland,SIX Swiss Exchange,issuer
+SYK,0.11,US,STRYKER,,United States,New York Stock Exchange Inc.,issuer
+SO,0.11,US,SOUTHERN,,United States,New York Stock Exchange Inc.,issuer
+MC,0.11,France,LVMH,,France,Nyse Euronext - Euronext Paris,issuer
+EQIX,0.11,US,EQUINIX REIT,,United States,NASDAQ,issuer
+ADBE,0.11,US,ADOBE INC,,United States,NASDAQ,issuer
+GLW,0.11,US,CORNING,,United States,New York Stock Exchange Inc.,issuer
+BNY,0.11,US,BANK OF NEW YORK MELLON CORP,,United States,New York Stock Exchange Inc.,issuer
+CSX,0.11,US,CSX,,United States,NASDAQ,issuer
+EMR,0.11,US,EMERSON ELECTRIC,,United States,New York Stock Exchange Inc.,issuer
+DTE,0.11,Germany,DEUTSCHE TELEKOM N AG,,Germany,Xetra,issuer
+DUK,0.11,US,DUKE ENERGY CORP,,United States,New York Stock Exchange Inc.,issuer
+BNP,0.11,France,BNP PARIBAS SA,,France,Nyse Euronext - Euronext Paris,issuer
+8766,0.11,Japan,TOKIO MARINE HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+TT,0.11,US,TRANE TECHNOLOGIES PLC,,United States,New York Stock Exchange Inc.,issuer
+NET,0.11,US,CLOUDFLARE CLASS A,,United States,New York Stock Exchange Inc.,issuer
+USB,0.1,US,US BANCORP,,United States,New York Stock Exchange Inc.,issuer
+GSK,0.1,United Kingdom,GLAXOSMITHKLINE,,United Kingdom,London Stock Exchange,issuer
+PWR,0.1,US,QUANTA SERVICES INC,,United States,New York Stock Exchange Inc.,issuer
+JCI,0.1,US,JOHNSON CONTROLS INTERNATIONAL PLC,,United States,New York Stock Exchange Inc.,issuer
+FCX,0.1,US,FREEPORT MCMORAN INC,,United States,New York Stock Exchange Inc.,issuer
+INGA,0.1,Netherlands,ING GROEP,,Netherlands,Euronext Amsterdam,issuer
+1299,0.1,Hong Kong,AIA GROUP,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+CDNS,0.1,US,CADENCE DESIGN SYSTEMS,,United States,NASDAQ,issuer
+PNC,0.1,US,PNC FINANCIAL SERVICES GROUP,,United States,New York Stock Exchange Inc.,issuer
+MMM,0.1,US,3M,,United States,New York Stock Exchange Inc.,issuer
+8058,0.1,Japan,MITSUBISHI,,Japan,Tokyo Stock Exchange,issuer
+WM,0.1,US,WASTE MANAGEMENT INC,,United States,New York Stock Exchange Inc.,issuer
+ELV,0.1,US,ELEVANCE HEALTH INC,,United States,New York Stock Exchange Inc.,issuer
+MRSH,0.1,US,MARSH,,United States,New York Stock Exchange Inc.,issuer
+SAN,0.1,France,SANOFI SA,,France,Nyse Euronext - Euronext Paris,issuer
+SNPS,0.1,US,SYNOPSYS,,United States,NASDAQ,issuer
+ISP,0.1,Italy,INTESA SANPAOLO,,Italy,Borsa Italiana,issuer
+SU,0.1,CA,SUNCOR ENERGY INC,,Canada,Toronto Stock Exchange,issuer
+MAR,0.1,US,MARRIOTT INTERNATIONAL CLASS A,,United States,NASDAQ,issuer
+NAB,0.1,Australia,NATIONAL AUSTRALIA BANK,,Australia,Asx - All Markets,issuer
+WMB,0.1,US,WILLIAMS,,United States,New York Stock Exchange Inc.,issuer
+BX,0.1,US,BLACKSTONE,,United States,New York Stock Exchange Inc.,issuer
+INTU,0.1,US,INTUIT,,United States,NASDAQ,issuer
+EOG,0.1,US,EOG RESOURCES,,United States,New York Stock Exchange Inc.,issuer
+VRT,0.1,US,VERTIV HOLDINGS CLASS A,,United States,New York Stock Exchange Inc.,issuer
+ICE,0.1,US,INTERCONTINENTAL EXCHANGE INC,,United States,New York Stock Exchange Inc.,issuer
+6861,0.1,Japan,KEYENCE,,Japan,Tokyo Stock Exchange,issuer
+WBC,0.1,Australia,WESTPAC BANKING CORPORATION,,Australia,Asx - All Markets,issuer
+FTNT,0.1,US,FORTINET,,United States,NASDAQ,issuer
+RIO,0.1,United Kingdom,RIO TINTO,,United Kingdom,London Stock Exchange,issuer
+AMT,0.1,US,AMERICAN TOWER REIT,,United States,New York Stock Exchange Inc.,issuer
+GD,0.1,US,GENERAL DYNAMICS CORP,,United States,New York Stock Exchange Inc.,issuer
+AEM,0.1,CA,AGNICO EAGLE MINES,,Canada,Toronto Stock Exchange,issuer
+SPCX,0.1,US,SPACE EXPLORATION TECHNOLOGIES COR,,United States,NASDAQ,issuer
+9983,0.1,Japan,FAST RETAILING,,Japan,Tokyo Stock Exchange,issuer
+TRV,0.09,US,TRAVELERS COMPANIES,,United States,New York Stock Exchange Inc.,issuer
+SPOT,0.09,Sweden,SPOTIFY TECHNOLOGY,,Sweden,New York Stock Exchange Inc.,issuer
+HLT,0.09,US,HILTON WORLDWIDE HOLDINGS,,United States,New York Stock Exchange Inc.,issuer
+REGN,0.09,US,REGENERON PHARMACEUTICALS,,United States,NASDAQ,issuer
+ANZ,0.09,Australia,ANZ GROUP HOLDINGS LTD,,Australia,Asx - All Markets,issuer
+DDOG,0.09,US,DATADOG INC CLASS A,,United States,NASDAQ,issuer
+HWM,0.09,US,HOWMET AEROSPACE,,United States,New York Stock Exchange Inc.,issuer
+ENEL,0.09,Italy,ENEL,,Italy,Borsa Italiana,issuer
+CEG,0.09,US,CONSTELLATION ENERGY CORP,,United States,NASDAQ,issuer
+NG.,0.09,United Kingdom,NATIONAL GRID PLC,,United Kingdom,London Stock Exchange,issuer
+8001,0.09,Japan,ITOCHU,,Japan,Tokyo Stock Exchange,issuer
+MDLZ,0.09,US,MONDELEZ INTERNATIONAL CLASS A,,United States,NASDAQ,issuer
+GM,0.09,US,GENERAL MOTORS,,United States,New York Stock Exchange Inc.,issuer
+SLB,0.09,US,SLB,,United States,New York Stock Exchange Inc.,issuer
+CP,0.09,CA,CANADIAN PACIFIC KANSAS CITY,,Canada,Toronto Stock Exchange,issuer
+MUV2,0.09,Germany,MUENCHENER RUECKVERSICHERUNGS-GESE,,Germany,Xetra,issuer
+CI,0.09,US,CIGNA,,United States,New York Stock Exchange Inc.,issuer
+CMCSA,0.09,US,COMCAST CLASS A,,United States,NASDAQ,issuer
+BN,0.09,CA,BROOKFIELD CLASS A,,Canada,Toronto Stock Exchange,issuer
+MSI,0.09,US,MOTOROLA SOLUTIONS INC,,United States,New York Stock Exchange Inc.,issuer
+RCL,0.09,US,ROYAL CARIBBEAN GROUP,,United States,New York Stock Exchange Inc.,issuer
+8031,0.09,Japan,MITSUI,,Japan,Tokyo Stock Exchange,issuer
+BARC,0.09,United Kingdom,BARCLAYS PLC,,United Kingdom,London Stock Exchange,issuer
+BA.,0.09,United Kingdom,BAE SYSTEMS PLC,,United Kingdom,London Stock Exchange,issuer
+HPE,0.09,US,HEWLETT PACKARD ENTERPRISE,,United States,New York Stock Exchange Inc.,issuer
+CS,0.09,France,AXA SA,,France,Nyse Euronext - Euronext Paris,issuer
+MFC,0.09,CA,MANULIFE FINANCIAL,,Canada,Toronto Stock Exchange,issuer
+UPS,0.09,US,UNITED PARCEL SERVICE INC CLASS B,,United States,New York Stock Exchange Inc.,issuer
+INVE B,0.08,Sweden,INVESTOR CLASS B,,Sweden,Nasdaq Omx Nordic,issuer
+NOC,0.08,US,NORTHROP GRUMMAN CORP,,United States,New York Stock Exchange Inc.,issuer
+HCA,0.08,US,HCA HEALTHCARE,,United States,New York Stock Exchange Inc.,issuer
+ITW,0.08,US,ILLINOIS TOOL INC,,United States,New York Stock Exchange Inc.,issuer
+URI,0.08,US,UNITED RENTALS,,United States,New York Stock Exchange Inc.,issuer
+IFX,0.08,Germany,INFINEON TECHNOLOGIES AG,,Germany,Xetra,issuer
+CTAS,0.08,US,CINTAS,,United States,NASDAQ,issuer
+SHW,0.08,US,SHERWIN WILLIAMS,,United States,New York Stock Exchange Inc.,issuer
+ORLY,0.08,US,OREILLY AUTOMOTIVE INC,,United States,NASDAQ,issuer
+ECL,0.08,US,ECOLAB,,United States,New York Stock Exchange Inc.,issuer
+NSC,0.08,US,NORFOLK SOUTHERN CORP,,United States,New York Stock Exchange Inc.,issuer
+LLOY,0.08,United Kingdom,LLOYDS BANKING GROUP PLC,,United Kingdom,London Stock Exchange,issuer
+MELI,0.08,US,MERCADOLIBRE,,United States,NASDAQ,issuer
+ROST,0.08,US,ROSS STORES INC,,United States,NASDAQ,issuer
+O39,0.08,Singapore,OVERSEA-CHINESE BANKING,,Singapore,Singapore Exchange,issuer
+TMUS,0.08,US,T MOBILE US INC,,United States,NASDAQ,issuer
+MCO,0.08,US,MOODYS CORP,,United States,New York Stock Exchange Inc.,issuer
+AEP,0.08,US,AMERICAN ELECTRIC POWER INC,,United States,NASDAQ,issuer
+LITE,0.08,US,LUMENTUM HOLDINGS,,United States,NASDAQ,issuer
+CMI,0.08,US,CUMMINS INC,,United States,New York Stock Exchange Inc.,issuer
+ABNB,0.08,US,AIRBNB CLASS A,,United States,NASDAQ,issuer
+ABI,0.08,Belgium,ANHEUSER-BUSCH INBEV SA,,Belgium,Nyse Euronext - Euronext Brussels,issuer
+CL,0.08,US,COLGATE-PALMOLIVE,,United States,New York Stock Exchange Inc.,issuer
+FDX,0.08,US,FEDEX CORP,,United States,New York Stock Exchange Inc.,issuer
+HON,0.08,US,HONEYWELL INTERNATIONAL INC,,United States,NASDAQ,issuer
+7011,0.08,Japan,MITSUBISHI HEAVY INDUSTRIES,,Japan,Tokyo Stock Exchange,issuer
+6981,0.08,Japan,MURATA MANUFACTURING,,Japan,Tokyo Stock Exchange,issuer
+REL,0.08,United Kingdom,RELX PLC,,United Kingdom,London Stock Exchange,issuer
+ITX,0.08,Spain,INDUSTRIA DE DISENO TEXTIL SA,,Spain,Bolsa De Madrid,issuer
+LNG,0.08,US,CHENIERE ENERGY,,United States,New York Stock Exchange Inc.,issuer
+HOOD,0.08,US,ROBINHOOD MARKETS CLASS A,,United States,NASDAQ,issuer
+DLR,0.07,US,DIGITAL REALTY TRUST REIT,,United States,New York Stock Exchange Inc.,issuer
+SPG,0.07,US,SIMON PROPERTY GROUP REIT INC,,United States,New York Stock Exchange Inc.,issuer
+TGT,0.07,US,TARGET CORP,,United States,New York Stock Exchange Inc.,issuer
+NWG,0.07,United Kingdom,NATWEST GROUP PLC,,United Kingdom,London Stock Exchange,issuer
+GLEN,0.07,United Kingdom,GLENCORE PLC,,United Kingdom,London Stock Exchange,issuer
+AJG,0.07,US,ARTHUR J GALLAGHER,,United States,New York Stock Exchange Inc.,issuer
+DASH,0.07,US,DOORDASH CLASS A,,United States,NASDAQ,issuer
+TEL,0.07,US,TE CONNECTIVITY PLC,,United States,New York Stock Exchange Inc.,issuer
+CNR,0.07,CA,CANADIAN NATIONAL RAILWAY,,Canada,Toronto Stock Exchange,issuer
+4502,0.07,Japan,TAKEDA PHARMACEUTICAL,,Japan,Tokyo Stock Exchange,issuer
+TRP,0.07,CA,TC ENERGY,,Canada,Toronto Stock Exchange,issuer
+KMI,0.07,US,KINDER MORGAN,,United States,New York Stock Exchange Inc.,issuer
+DB1,0.07,Germany,DEUTSCHE BOERSE AG,,Germany,Xetra,issuer
+NXPI,0.07,US,NXP SEMICONDUCTORS NV,,United States,NASDAQ,issuer
+APD,0.07,US,AIR PRODUCTS AND CHEMICALS,,United States,New York Stock Exchange Inc.,issuer
+MQG,0.07,Australia,MACQUARIE GROUP LTD DEF,,Australia,Asx - All Markets,issuer
+ALL,0.07,US,ALLSTATE CORP,,United States,New York Stock Exchange Inc.,issuer
+TFC,0.07,US,TRUIST FINANCIAL,,United States,New York Stock Exchange Inc.,issuer
+MNST,0.07,US,MONSTER BEVERAGE,,United States,NASDAQ,issuer
+CSL,0.07,Australia,CSL,,Australia,Asx - All Markets,issuer
+TDG,0.07,US,TRANSDIGM GROUP,,United States,New York Stock Exchange Inc.,issuer
+4063,0.07,Japan,SHIN ETSU CHEMICAL,,Japan,Tokyo Stock Exchange,issuer
+ABX,0.07,CA,BARRICK MINING,,Canada,Toronto Stock Exchange,issuer
+TRGP,0.07,US,TARGA RESOURCES,,United States,New York Stock Exchange Inc.,issuer
+COR,0.07,US,CENCORA,,United States,New York Stock Exchange Inc.,issuer
+DBK,0.07,Germany,DEUTSCHE BANK AG,,Germany,Xetra,issuer
+AON,0.07,US,AON PLC CLASS A,,United States,New York Stock Exchange Inc.,issuer
+BSX,0.07,US,BOSTON SCIENTIFIC,,United States,New York Stock Exchange Inc.,issuer
+GWW,0.07,US,WW GRAINGER INC,,United States,New York Stock Exchange Inc.,issuer
+NUE,0.07,US,NUCOR,,United States,New York Stock Exchange Inc.,issuer
+DG,0.07,France,VINCI SA,,France,Nyse Euronext - Euronext Paris,issuer
+BE,0.07,US,BLOOM ENERGY CLASS A,,United States,New York Stock Exchange Inc.,issuer
+CRH,0.07,US,CRH PUBLIC LIMITED PLC,,United States,New York Stock Exchange Inc.,issuer
+EL,0.07,France,ESSILORLUXOTTICA SA,,France,Nyse Euronext - Euronext Paris,issuer
+NTRA,0.06,US,NATERA,,United States,NASDAQ,issuer
+KKR,0.06,US,KKR AND CO INC,,United States,New York Stock Exchange Inc.,issuer
+DHL,0.06,Germany,DHL AG,,Germany,Xetra,issuer
+7741,0.06,Japan,HOYA,,Japan,Tokyo Stock Exchange,issuer
+CAH,0.06,US,CARDINAL HEALTH,,United States,New York Stock Exchange Inc.,issuer
+FAST,0.06,US,FASTENAL,,United States,NASDAQ,issuer
+LSEG,0.06,United Kingdom,LONDON STOCK EXCHANGE GROUP PLC,,United Kingdom,London Stock Exchange,issuer
+NA,0.06,CA,NATIONAL BANK OF CANADA,,Canada,Toronto Stock Exchange,issuer
+SRE,0.06,US,SEMPRA,,United States,New York Stock Exchange Inc.,issuer
+OKE,0.06,US,ONEOK,,United States,New York Stock Exchange Inc.,issuer
+APP,0.06,US,APPLOVIN CLASS A,,United States,NASDAQ,issuer
+BDX,0.06,US,BECTON DICKINSON,,United States,New York Stock Exchange Inc.,issuer
+AFL,0.06,US,AFLAC,,United States,New York Stock Exchange Inc.,issuer
+D,0.06,US,DOMINION ENERGY,,United States,New York Stock Exchange Inc.,issuer
+LONN,0.06,Switzerland,LONZA GROUP AG,,Switzerland,SIX Swiss Exchange,issuer
+DVN,0.06,US,DEVON ENERGY,,United States,New York Stock Exchange Inc.,issuer
+MET,0.06,US,METLIFE,,United States,New York Stock Exchange Inc.,issuer
+KEYS,0.06,US,KEYSIGHT TECHNOLOGIES,,United States,New York Stock Exchange Inc.,issuer
+WES,0.06,Australia,WESFARMERS,,Australia,Asx - All Markets,issuer
+NDA FI,0.06,Finland,NORDEA BANK,,Finland,Nasdaq Omx Helsinki Ltd.,issuer
+AME,0.06,US,AMETEK INC,,United States,New York Stock Exchange Inc.,issuer
+6503,0.06,Japan,MITSUBISHI ELECTRIC,,Japan,Tokyo Stock Exchange,issuer
+ARGX,0.06,Belgium,ARGENX,,Belgium,Nyse Euronext - Euronext Brussels,issuer
+MPWR,0.06,US,MONOLITHIC POWER SYSTEMS INC,,United States,NASDAQ,issuer
+ENI,0.06,Italy,ENI,,Italy,Borsa Italiana,issuer
+WPM,0.06,CA,WHEATON PRECIOUS METALS,,Canada,Toronto Stock Exchange,issuer
+7974,0.06,Japan,NINTENDO,,Japan,Tokyo Stock Exchange,issuer
+CPG,0.06,United Kingdom,COMPASS GROUP PLC,,United Kingdom,London Stock Exchange,issuer
+AZO,0.06,US,AUTOZONE,,United States,New York Stock Exchange Inc.,issuer
+6752,0.06,Japan,PANASONIC HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+BAS,0.06,Germany,BASF N,,Germany,Xetra,issuer
+ETR,0.06,US,ENTERGY CORP,,United States,New York Stock Exchange Inc.,issuer
+PSA,0.06,US,PUBLIC STORAGE REIT,,United States,New York Stock Exchange Inc.,issuer
+RHM,0.06,Germany,RHEINMETALL AG,,Germany,Xetra,issuer
+BAYN,0.06,Germany,BAYER AG,,Germany,Xetra,issuer
+AAL,0.06,United Kingdom,ANGLO AMERICAN PLC,,United Kingdom,London Stock Exchange,issuer
+LHX,0.06,US,L3HARRIS TECHNOLOGIES,,United States,New York Stock Exchange Inc.,issuer
+SREN,0.06,Switzerland,SWISS RE AG,,Switzerland,SIX Swiss Exchange,issuer
+EW,0.06,US,EDWARDS LIFESCIENCES,,United States,New York Stock Exchange Inc.,issuer
+9433,0.06,Japan,KDDI,,Japan,Tokyo Stock Exchange,issuer
+STT,0.06,US,STATE STREET,,United States,New York Stock Exchange Inc.,issuer
+A,0.06,US,AGILENT TECHNOLOGIES INC,,United States,New York Stock Exchange Inc.,issuer
+BKR,0.06,US,BAKER HUGHES CLASS A,,United States,NASDAQ,issuer
+O,0.06,US,REALTY INCOME REIT,,United States,New York Stock Exchange Inc.,issuer
+2914,0.06,Japan,JAPAN TOBACCO,,Japan,Tokyo Stock Exchange,issuer
+PCAR,0.06,US,PACCAR INC,,United States,NASDAQ,issuer
+APO,0.06,US,APOLLO GLOBAL MANAGEMENT,,United States,New York Stock Exchange Inc.,issuer
+ATCO A,0.06,Sweden,ATLAS COPCO CLASS A,,Sweden,Nasdaq Omx Nordic,issuer
+HONA,0.06,US,HONEYWELL AEROSPACE INC,,United States,NASDAQ,issuer
+PYPL,0.06,US,PAYPAL HOLDINGS,,United States,NASDAQ,issuer
+VYLR,0.06,US,VYLOR,,United States,New York Stock Exchange Inc.,issuer
+XEL,0.05,US,XCEL ENERGY INC,,United States,NASDAQ,issuer
+STAN,0.05,United Kingdom,STANDARD CHARTERED PLC,,United Kingdom,London Stock Exchange,issuer
+ROK,0.05,US,ROCKWELL AUTOMATION INC,,United States,New York Stock Exchange Inc.,issuer
+ADSK,0.05,US,AUTODESK,,United States,NASDAQ,issuer
+NDAQ,0.05,US,NASDAQ INC,,United States,NASDAQ,issuer
+RSG,0.05,US,REPUBLIC SERVICES INC,,United States,New York Stock Exchange Inc.,issuer
+RACE,0.05,Italy,FERRARI,,Italy,Borsa Italiana,issuer
+NOKIA,0.05,Finland,NOKIA,,Finland,Nasdaq Omx Helsinki Ltd.,issuer
+VST,0.05,US,VISTRA,,United States,New York Stock Exchange Inc.,issuer
+VOLV B,0.05,Sweden,VOLVO CLASS B,,Sweden,Nasdaq Omx Nordic,issuer
+RMS,0.05,France,HERMES INTERNATIONAL,,France,Nyse Euronext - Euronext Paris,issuer
+WAB,0.05,US,WESTINGHOUSE AIR BRAKE TECHNOLOGIE,,United States,New York Stock Exchange Inc.,issuer
+TEVA,0.05,Israel,TEVA PHARMACEUTICAL INDUSTRIES,,Israel,New York Stock Exchange Inc.,issuer
+IQV,0.05,US,IQVIA HOLDINGS INC,,United States,New York Stock Exchange Inc.,issuer
+CIEN,0.05,US,CIENA,,United States,New York Stock Exchange Inc.,issuer
+EXC,0.05,US,EXELON CORP,,United States,NASDAQ,issuer
+DGE,0.05,United Kingdom,DIAGEO PLC,,United Kingdom,London Stock Exchange,issuer
+FITB,0.05,US,FIFTH THIRD BANCORP,,United States,New York Stock Exchange Inc.,issuer
+8053,0.05,Japan,SUMITOMO,,Japan,Tokyo Stock Exchange,issuer
+HUM,0.05,US,HUMANA,,United States,New York Stock Exchange Inc.,issuer
+FERG,0.05,US,FERGUSON ENTERPRISES,,United States,New York Stock Exchange Inc.,issuer
+EOAN,0.05,Germany,E.ON N,,Germany,Xetra,issuer
+F,0.05,US,FORD MOTOR CO,,United States,New York Stock Exchange Inc.,issuer
+TER,0.05,US,TERADYNE,,United States,NASDAQ,issuer
+388,0.05,Hong Kong,HONG KONG EXCHANGES AND CLEARING,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+ENGI,0.05,France,ENGIE SA,,France,Nyse Euronext - Euronext Paris,issuer
+VEEV,0.05,US,VEEVA SYSTEMS CLASS A,,United States,New York Stock Exchange Inc.,issuer
+GLE,0.05,France,SOCIETE GENERALE SA,,France,Nyse Euronext - Euronext Paris,issuer
+6702,0.05,Japan,FUJITSU,,Japan,Tokyo Stock Exchange,issuer
+TSCO,0.05,United Kingdom,TESCO PLC,,United Kingdom,London Stock Exchange,issuer
+AIG,0.05,US,AMERICAN INTERNATIONAL GROUP,,United States,New York Stock Exchange Inc.,issuer
+MSCI,0.05,US,MSCI,,United States,New York Stock Exchange Inc.,issuer
+CSU,0.05,CA,CONSTELLATION SOFTWARE,,Canada,Toronto Stock Exchange,issuer
+KDP,0.05,US,KEURIG DR PEPPER INC,,United States,NASDAQ,issuer
+PRX,0.05,Netherlands,PROSUS NV CLASS N,,Netherlands,Euronext Amsterdam,issuer
+ROP,0.05,US,ROPER TECHNOLOGIES,,United States,NASDAQ,issuer
+BN,0.05,France,DANONE SA,,France,Nyse Euronext - Euronext Paris,issuer
+EBAY,0.05,US,EBAY,,United States,NASDAQ,issuer
+IDXX,0.05,US,IDEXX LABORATORIES,,United States,NASDAQ,issuer
+CVNA,0.05,US,CARVANA CLASS A,,United States,New York Stock Exchange Inc.,issuer
+FIX,0.05,US,COMFORT SYSTEMS USA,,United States,New York Stock Exchange Inc.,issuer
+GRMN,0.05,US,GARMIN,,United States,New York Stock Exchange Inc.,issuer
+WCN,0.05,US,WASTE CONNECTIONS,,United States,New York Stock Exchange Inc.,issuer
+FNV,0.05,CA,FRANCO NEVADA,,Canada,Toronto Stock Exchange,issuer
+ILMN,0.05,US,ILLUMINA INC,,United States,NASDAQ,issuer
+OXY,0.05,US,OCCIDENTAL PETROLEUM CORP,,United States,New York Stock Exchange Inc.,issuer
+VMRK,0.05,US,VIVMARK RESIDENTIAL,,United States,New York Stock Exchange Inc.,issuer
+WAT,0.05,US,WATERS CORP,,United States,New York Stock Exchange Inc.,issuer
+CVE,0.05,CA,CENOVUS ENERGY,,Canada,Toronto Stock Exchange,issuer
+NKE,0.05,US,NIKE CLASS B,,United States,New York Stock Exchange Inc.,issuer
+COHR,0.05,US,COHERENT,,United States,New York Stock Exchange Inc.,issuer
+AMP,0.05,US,AMERIPRISE FINANCE INC,,United States,New York Stock Exchange Inc.,issuer
+CABK,0.05,Spain,CAIXABANK SA,,Spain,Bolsa De Madrid,issuer
+SLF,0.05,CA,SUN LIFE FINANCIAL INC,,Canada,Toronto Stock Exchange,issuer
+RKT,0.05,United Kingdom,RECKITT BENCKISER GROUP PLC,,United Kingdom,London Stock Exchange,issuer
+7267,0.05,Japan,HONDA MOTOR,,Japan,Tokyo Stock Exchange,issuer
+GIVN,0.05,Switzerland,GIVAUDAN SA,,Switzerland,SIX Swiss Exchange,issuer
+CARR,0.05,US,CARRIER GLOBAL,,United States,New York Stock Exchange Inc.,issuer
+8591,0.05,Japan,ORIX,,Japan,Tokyo Stock Exchange,issuer
+ASM,0.05,Netherlands,ASM INTERNATIONAL NV,,Netherlands,Euronext Amsterdam,issuer
+FANG,0.05,US,DIAMONDBACK ENERGY,,United States,NASDAQ,issuer
+8750,0.05,Japan,DAIICHI LIFE GROUP,,Japan,Tokyo Stock Exchange,issuer
+8002,0.05,Japan,MARUBENI,,Japan,Tokyo Stock Exchange,issuer
+ATD,0.05,CA,ALIMENTATION COUCHE TARD INC,,Canada,Toronto Stock Exchange,issuer
+WDS,0.05,Australia,WOODSIDE ENERGY GROUP LTD,,Australia,Asx - All Markets,issuer
+HOLN,0.05,Switzerland,HOLCIM LTD AG,,Switzerland,SIX Swiss Exchange,issuer
+WDAY,0.05,US,WORKDAY CLASS A,,United States,NASDAQ,issuer
+UCB,0.05,Belgium,UCB SA,,Belgium,Nyse Euronext - Euronext Brussels,issuer
+MCHP,0.05,US,MICROCHIP TECHNOLOGY INC,,United States,NASDAQ,issuer
+YUM,0.05,US,YUM BRANDS,,United States,New York Stock Exchange Inc.,issuer
+XYZ,0.04,US,BLOCK CLASS A,,United States,New York Stock Exchange Inc.,issuer
+CMG,0.04,US,CHIPOTLE MEXICAN GRILL,,United States,New York Stock Exchange Inc.,issuer
+P,0.04,US,EVERPURE INC CLASS A,,United States,New York Stock Exchange Inc.,issuer
+DSV,0.04,Denmark,DSV,,Denmark,Omx Nordic Exchange Copenhagen A/S,issuer
+SYY,0.04,US,SYSCO,,United States,New York Stock Exchange Inc.,issuer
+NTAP,0.04,US,NETAPP INC,,United States,NASDAQ,issuer
+9434,0.04,Japan,SOFTBANK,,Japan,Tokyo Stock Exchange,issuer
+KR,0.04,US,KROGER,,United States,New York Stock Exchange Inc.,issuer
+GALD,0.04,Switzerland,GALDERMA GROUP N AG,,Switzerland,SIX Swiss Exchange,issuer
+SSE,0.04,United Kingdom,SSE PLC,,United Kingdom,London Stock Exchange,issuer
+ED,0.04,US,CONSOLIDATED EDISON,,United States,New York Stock Exchange Inc.,issuer
+SDZ,0.04,Switzerland,SANDOZ GROUP AG,,Switzerland,SIX Swiss Exchange,issuer
+RIO,0.04,Australia,RIO TINTO,,Australia,Asx - All Markets,issuer
+U11,0.04,Singapore,UNITED OVERSEAS BANK,,Singapore,Singapore Exchange,issuer
+8630,0.04,Japan,SOMPO HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+8725,0.04,Japan,MS&AD INSURANCE GROUP HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+5803,0.04,Japan,FUJIKURA,,Japan,Tokyo Stock Exchange,issuer
+HIG,0.04,US,HARTFORD INSURANCE GROUP,,United States,New York Stock Exchange Inc.,issuer
+REP,0.04,Spain,REPSOL,,Spain,Bolsa De Madrid,issuer
+PRU,0.04,US,PRUDENTIAL FINANCIAL INC,,United States,New York Stock Exchange Inc.,issuer
+VTR,0.04,US,VENTAS REIT,,United States,New York Stock Exchange Inc.,issuer
+ADM,0.04,US,ARCHER DANIELS MIDLAND,,United States,New York Stock Exchange Inc.,issuer
+STLD,0.04,US,STEEL DYNAMICS INC,,United States,NASDAQ,issuer
+RWE,0.04,Germany,RWE AG,,Germany,Xetra,issuer
+6701,0.04,Japan,NEC,,Japan,Tokyo Stock Exchange,issuer
+LR,0.04,France,LEGRAND SA,,France,Nyse Euronext - Euronext Paris,issuer
+CBRE,0.04,US,CBRE GROUP CLASS A,,United States,New York Stock Exchange Inc.,issuer
+SAND,0.04,Sweden,SANDVIK,,Sweden,Nasdaq Omx Nordic,issuer
+CCI,0.04,US,CROWN CASTLE INC,,United States,New York Stock Exchange Inc.,issuer
+DHI,0.04,US,D R HORTON,,United States,New York Stock Exchange Inc.,issuer
+HLN,0.04,United Kingdom,HALEON PLC,,United Kingdom,London Stock Exchange,issuer
+ALAB,0.04,US,ASTERA LABS,,United States,NASDAQ,issuer
+DOL,0.04,CA,DOLLARAMA,,Canada,Toronto Stock Exchange,issuer
+GMG,0.04,Australia,GOODMAN GROUP UNITS,,Australia,Asx - All Markets,issuer
+TWLO,0.04,US,TWILIO CLASS A,,United States,New York Stock Exchange Inc.,issuer
+ASSA B,0.04,Sweden,ASSA ABLOY B,,Sweden,Nasdaq Omx Nordic,issuer
+CCL,0.04,US,CARNIVAL CORP LTD,,United States,New York Stock Exchange Inc.,issuer
+GMAB,0.04,Denmark,GENMAB,,Denmark,Omx Nordic Exchange Copenhagen A/S,issuer
+POW,0.04,CA,POWER CORPORATION OF CANADA,,Canada,Toronto Stock Exchange,issuer
+ACGL,0.04,US,ARCH CAPITAL GROUP,,United States,NASDAQ,issuer
+MSTR,0.04,US,STRATEGY INC CLASS A,,United States,NASDAQ,issuer
+RMD,0.04,US,RESMED,,United States,New York Stock Exchange Inc.,issuer
+KVUE,0.04,US,KENVUE,,United States,New York Stock Exchange Inc.,issuer
+ALC,0.04,Switzerland,ALCON AG,,Switzerland,SIX Swiss Exchange,issuer
+OKTA,0.04,US,OKTA CLASS A,,United States,NASDAQ,issuer
+PEG,0.04,US,PUBLIC SERVICE ENTERPRISE GROUP,,United States,New York Stock Exchange Inc.,issuer
+EBS,0.04,Austria,ERSTE GROUP BANK AG,,Austria,Wiener Boerse Ag,issuer
+NBIS,0.04,Netherlands,NEBIUS NV CLASS A,,Netherlands,NASDAQ,issuer
+COIN,0.04,US,COINBASE GLOBAL CLASS A,,United States,NASDAQ,issuer
+CCO,0.04,CA,CAMECO,,Canada,Toronto Stock Exchange,issuer
+TTWO,0.04,US,TAKE TWO INTERACTIVE SOFTWARE,,United States,NASDAQ,issuer
+CNC,0.04,US,CENTENE CORP,,United States,New York Stock Exchange Inc.,issuer
+KMB,0.04,US,KIMBERLY CLARK,,United States,NASDAQ,issuer
+FFH,0.04,CA,FAIRFAX FINANCIAL HOLDINGS SUB VOT,,Canada,Toronto Stock Exchange,issuer
+G,0.04,Italy,ASSICURAZIONI GENERALI,,Italy,Borsa Italiana,issuer
+6301,0.04,Japan,KOMATSU,,Japan,Tokyo Stock Exchange,issuer
+ZTS,0.04,US,ZOETIS INC CLASS A,,United States,New York Stock Exchange Inc.,issuer
+AD,0.04,Netherlands,KONINKLIJKE AHOLD DELHAIZE,,Netherlands,Euronext Amsterdam,issuer
+IBKR,0.04,US,INTERACTIVE BROKERS GROUP INC CLAS,,United States,NASDAQ,issuer
+VMC,0.04,US,VULCAN MATERIALS,,United States,New York Stock Exchange Inc.,issuer
+PAYX,0.04,US,PAYCHEX,,United States,NASDAQ,issuer
+WEC,0.04,US,WEC ENERGY GROUP,,United States,New York Stock Exchange Inc.,issuer
+FLEX,0.04,US,FLEX LTD,,United States,NASDAQ,issuer
+7182,0.04,Japan,JAPAN POST BANK LTD,,Japan,Tokyo Stock Exchange,issuer
+MBG,0.04,Germany,MERCEDES-BENZ GROUP N AG,,Germany,Xetra,issuer
+PRY,0.04,Italy,PRYSMIAN,,Italy,Borsa Italiana,issuer
+IRM,0.04,US,IRON MOUNTAIN INC,,United States,New York Stock Exchange Inc.,issuer
+SUNB,0.04,US,SUNBELT RENTALS HOLDINGS INC,,United States,New York Stock Exchange Inc.,issuer
+EXPN,0.04,United Kingdom,EXPERIAN PLC,,United Kingdom,London Stock Exchange,issuer
+6367,0.04,Japan,DAIKIN INDUSTRIES LTD,,Japan,Tokyo Stock Exchange,issuer
+BIIB,0.04,US,BIOGEN,,United States,NASDAQ,issuer
+6723,0.04,Japan,RENESAS ELECTRONICS CORP,,Japan,Tokyo Stock Exchange,issuer
+EQT,0.04,US,EQT,,United States,New York Stock Exchange Inc.,issuer
+5802,0.04,Japan,SUMITOMO ELECTRIC INDUSTRIES,,Japan,Tokyo Stock Exchange,issuer
+LUMI,0.04,Israel,BANK LEUMI LE ISRAEL,,Israel,Tel Aviv Stock Exchange,issuer
+PRU,0.04,United Kingdom,PRUDENTIAL PLC,,United Kingdom,London Stock Exchange,issuer
+EQNR,0.04,Norway,EQUINOR,,Norway,Oslo Bors Asa,issuer
+SWED A,0.04,Sweden,SWEDBANK,,Sweden,Nasdaq Omx Nordic,issuer
+SGO,0.04,France,COMPAGNIE DE SAINT GOBAIN SA,,France,Nyse Euronext - Euronext Paris,issuer
+MTD,0.04,US,METTLER TOLEDO,,United States,New York Stock Exchange Inc.,issuer
+LH,0.04,US,LABCORP HOLDINGS,,United States,New York Stock Exchange Inc.,issuer
+NTR,0.04,CA,NUTRIEN LTD,,Canada,Toronto Stock Exchange,issuer
+GEHC,0.04,US,GE HEALTHCARE TECHNOLOGIES,,United States,NASDAQ,issuer
+MTB,0.04,US,M&T BANK,,United States,New York Stock Exchange Inc.,issuer
+SIKA,0.04,Switzerland,SIKA AG,,Switzerland,SIX Swiss Exchange,issuer
+EXPE,0.04,US,EXPEDIA GROUP,,United States,NASDAQ,issuer
+RVMD,0.04,US,REVOLUTION MEDICINES,,United States,NASDAQ,issuer
+AXON,0.04,US,AXON ENTERPRISE,,United States,NASDAQ,issuer
+DANSKE,0.04,Denmark,DANSKE BANK,,Denmark,Omx Nordic Exchange Copenhagen A/S,issuer
+MLM,0.04,US,MARTIN MARIETTA MATERIALS,,United States,New York Stock Exchange Inc.,issuer
+4578,0.04,Japan,OTSUKA HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+6954,0.04,Japan,FANUC CORP,,Japan,Tokyo Stock Exchange,issuer
+MDB,0.04,US,MONGODB CLASS A,,United States,NASDAQ,issuer
+NTRS,0.04,US,NORTHERN TRUST,,United States,NASDAQ,issuer
+IFC,0.04,CA,INTACT FINANCIAL CORP,,Canada,Toronto Stock Exchange,issuer
+SLHN,0.03,Switzerland,SWISS LIFE HOLDING AG,,Switzerland,SIX Swiss Exchange,issuer
+ODFL,0.03,US,OLD DOMINION FREIGHT LINE,,United States,NASDAQ,issuer
+9432,0.03,Japan,NTT,,Japan,Tokyo Stock Exchange,issuer
+HBAN,0.03,US,HUNTINGTON BANCSHARES INC,,United States,NASDAQ,issuer
+III,0.03,United Kingdom,3I GROUP FUND PLC,,United Kingdom,London Stock Exchange,issuer
+TEAM,0.03,US,ATLASSIAN CORP CLASS A,,United States,NASDAQ,issuer
+SEB A,0.03,Sweden,SKANDINAVISKA ENSKILDA BANKEN,,Sweden,Nasdaq Omx Nordic,issuer
+CLS,0.03,CA,CELESTICA,,Canada,Toronto Stock Exchange,issuer
+WOW,0.03,Australia,WOOLWORTHS GROUP,,Australia,Asx - All Markets,issuer
+L,0.03,CA,LOBLAW COMPANIES LTD,,Canada,Toronto Stock Exchange,issuer
+STMPA,0.03,France,STMICROELECTRONICS,,France,Nyse Euronext - Euronext Paris,issuer
+EME,0.03,US,EMCOR GROUP,,United States,New York Stock Exchange Inc.,issuer
+6762,0.03,Japan,TDK,,Japan,Tokyo Stock Exchange,issuer
+ORA,0.03,France,ORANGE SA,,France,Nyse Euronext - Euronext Paris,issuer
+SE,0.03,Singapore,SEA ADS REPRESENTING LTD CLASS A,,Singapore,New York Stock Exchange Inc.,issuer
+WTW,0.03,US,WILLIS TOWERS WATSON,,United States,NASDAQ,issuer
+8015,0.03,Japan,TOYOTA TSUSHO,,Japan,Tokyo Stock Exchange,issuer
+ADS,0.03,Germany,ADIDAS N AG,,Germany,Xetra,issuer
+RKLB,0.03,US,ROCKET LAB CORP,,United States,NASDAQ,issuer
+CBOE,0.03,US,CBOE GLOBAL MARKETS,,United States,Cboe BZX,issuer
+AEE,0.03,US,AMEREN,,United States,New York Stock Exchange Inc.,issuer
+IR,0.03,US,INGERSOLL RAND,,United States,New York Stock Exchange Inc.,issuer
+WSM,0.03,US,WILLIAMS SONOMA INC,,United States,New York Stock Exchange Inc.,issuer
+JBL,0.03,US,JABIL,,United States,New York Stock Exchange Inc.,issuer
+ON,0.03,US,ON SEMICONDUCTOR CORP,,United States,NASDAQ,issuer
+DOV,0.03,US,DOVER,,United States,New York Stock Exchange Inc.,issuer
+ULTA,0.03,US,ULTA BEAUTY INC,,United States,NASDAQ,issuer
+WST,0.03,US,WEST PHARMACEUTICAL SERVICES,,United States,New York Stock Exchange Inc.,issuer
+4062,0.03,Japan,IBIDEN LTD,,Japan,Tokyo Stock Exchange,issuer
+HPQ,0.03,US,HP INC,,United States,New York Stock Exchange Inc.,issuer
+AER,0.03,Netherlands,AERCAP HOLDINGS,,Netherlands,New York Stock Exchange Inc.,issuer
+FER,0.03,Spain,FERROVIAL NV,,Spain,Bolsa De Madrid,issuer
+DXCM,0.03,US,DEXCOM INC,,United States,NASDAQ,issuer
+FTS,0.03,CA,FORTIS,,Canada,Toronto Stock Exchange,issuer
+EXR,0.03,US,EXTRA SPACE STORAGE REIT,,United States,New York Stock Exchange Inc.,issuer
+SYF,0.03,US,SYNCHRONY FINANCIAL,,United States,New York Stock Exchange Inc.,issuer
+RJF,0.03,US,RAYMOND JAMES,,United States,New York Stock Exchange Inc.,issuer
+TCL,0.03,Australia,TRANSURBAN GROUP STAPLED UNITS,,Australia,Asx - All Markets,issuer
+4568,0.03,Japan,DAIICHI SANKYO LTD,,Japan,Tokyo Stock Exchange,issuer
+RBLX,0.03,US,ROBLOX CLASS A,,United States,New York Stock Exchange Inc.,issuer
+6146,0.03,Japan,DISCO CORP,,Japan,Tokyo Stock Exchange,issuer
+CTSH,0.03,US,COGNIZANT TECHNOLOGY SOLUTIONS CLA,,United States,NASDAQ,issuer
+HAL,0.03,US,HALLIBURTON,,United States,New York Stock Exchange Inc.,issuer
+AV.,0.03,United Kingdom,AVIVA PLC,,United Kingdom,London Stock Exchange,issuer
+KBC,0.03,Belgium,KBC GROEP,,Belgium,Nyse Euronext - Euronext Brussels,issuer
+AMS,0.03,Spain,AMADEUS IT GROUP,,Spain,Bolsa De Madrid,issuer
+6971,0.03,Japan,KYOCERA,,Japan,Tokyo Stock Exchange,issuer
+OTIS,0.03,US,OTIS WORLDWIDE,,United States,New York Stock Exchange Inc.,issuer
+VOD,0.03,United Kingdom,VODAFONE GROUP PLC,,United Kingdom,London Stock Exchange,issuer
+IMB,0.03,United Kingdom,IMPERIAL BRANDS PLC,,United Kingdom,London Stock Exchange,issuer
+ERIC B,0.03,Sweden,ERICSSON B,,Sweden,Nasdaq Omx Nordic,issuer
+CRDO,0.03,US,CREDO TECHNOLOGY GROUP HOLDING LTD,,United States,NASDAQ,issuer
+PCG,0.03,US,PG&E CORP,,United States,New York Stock Exchange Inc.,issuer
+TDY,0.03,US,TELEDYNE TECHNOLOGIES,,United States,New York Stock Exchange Inc.,issuer
+VWS,0.03,Denmark,VESTAS WIND SYSTEMS,,Denmark,Omx Nordic Exchange Copenhagen A/S,issuer
+DNB,0.03,Norway,DNB BANK,,Norway,Oslo Bors Asa,issuer
+2802,0.03,Japan,AJINOMOTO,,Japan,Tokyo Stock Exchange,issuer
+DGX,0.03,US,QUEST DIAGNOSTICS INC,,United States,New York Stock Exchange Inc.,issuer
+PPL,0.03,CA,PEMBINA PIPELINE,,Canada,Toronto Stock Exchange,issuer
+4503,0.03,Japan,ASTELLAS PHARMA,,Japan,Tokyo Stock Exchange,issuer
+RPRX,0.03,US,ROYALTY PHARMA PLC CLASS A,,United States,NASDAQ,issuer
+CPAY,0.03,US,CORPAY,,United States,New York Stock Exchange Inc.,issuer
+4519,0.03,Japan,CHUGAI PHARMACEUTICAL LTD,,Japan,Tokyo Stock Exchange,issuer
+DG,0.03,US,DOLLAR GENERAL CORP,,United States,New York Stock Exchange Inc.,issuer
+TECK.B,0.03,CA,TECK RESOURCES SUBORDINATE VOTING,,Canada,Toronto Stock Exchange,issuer
+POLI,0.03,Israel,BANK HAPOALIM BM,,Israel,Tel Aviv Stock Exchange,issuer
+PFG,0.03,US,PRINCIPAL FINANCIAL GROUP INC,,United States,NASDAQ,issuer
+LYV,0.03,US,LIVE NATION ENTERTAINMENT,,United States,New York Stock Exchange Inc.,issuer
+7751,0.03,Japan,CANON,,Japan,Tokyo Stock Exchange,issuer
+ALL,0.03,Australia,ARISTOCRAT LEISURE,,Australia,Asx - All Markets,issuer
+DTE,0.03,US,DTE ENERGY,,United States,New York Stock Exchange Inc.,issuer
+PPG,0.03,US,PPG INDUSTRIES,,United States,New York Stock Exchange Inc.,issuer
+K,0.03,CA,KINROSS GOLD,,Canada,Toronto Stock Exchange,issuer
+HO,0.03,France,THALES SA,,France,Nyse Euronext - Euronext Paris,issuer
+FISV,0.03,US,FISERV INC,,United States,NASDAQ,issuer
+ARES,0.03,US,ARES MANAGEMENT CLASS A,,United States,New York Stock Exchange Inc.,issuer
+FTI,0.03,US,TECHNIPFMC PLC,,United States,New York Stock Exchange Inc.,issuer
+DLTR,0.03,US,DOLLAR TREE INC,,United States,NASDAQ,issuer
+QBE,0.03,Australia,QBE INSURANCE GROUP,,Australia,Asx - All Markets,issuer
+8604,0.03,Japan,NOMURA HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+AWK,0.03,US,AMERICAN WATER WORKS,,United States,New York Stock Exchange Inc.,issuer
+VRSK,0.03,US,VERISK ANALYTICS,,United States,NASDAQ,issuer
+5108,0.03,Japan,BRIDGESTONE,,Japan,Tokyo Stock Exchange,issuer
+CFG,0.03,US,CITIZENS FINANCIAL GROUP INC,,United States,New York Stock Exchange Inc.,issuer
+FE,0.03,US,FIRSTENERGY CORP,,United States,New York Stock Exchange Inc.,issuer
+8801,0.03,Japan,MITSUI FUDOSAN,,Japan,Tokyo Stock Exchange,issuer
+RF,0.03,US,REGIONS FINANCIAL,,United States,New York Stock Exchange Inc.,issuer
+CPRT,0.03,US,COPART INC,,United States,NASDAQ,issuer
+669,0.03,Hong Kong,TECHTRONIC INDUSTRIES,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+8308,0.03,Japan,RESONA HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+Q,0.03,US,QNITY ELECTRONICS,,United States,New York Stock Exchange Inc.,issuer
+CINF,0.03,US,CINCINNATI FINANCIAL,,United States,NASDAQ,issuer
+5020,0.03,Japan,ENEOS HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+ATCO B,0.03,Sweden,ATLAS COPCO CLASS B,,Sweden,Nasdaq Omx Nordic,issuer
+PHM,0.03,US,PULTEGROUP,,United States,New York Stock Exchange Inc.,issuer
+EXPD,0.03,US,EXPEDITORS INTERNATIONAL OF WASHIN,,United States,New York Stock Exchange Inc.,issuer
+CHD,0.03,US,CHURCH AND DWIGHT INC,,United States,New York Stock Exchange Inc.,issuer
+8802,0.03,Japan,MITSUBISHI ESTATE CO LTD,,Japan,Tokyo Stock Exchange,issuer
+2388,0.03,Hong Kong,BOC HONG KONG HOLDINGS LTD,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+IHG,0.03,United Kingdom,INTERCONTINENTAL HOTELS GROUP PLC,,United Kingdom,London Stock Exchange,issuer
+MT,0.03,France,ARCELORMITTAL SA,,France,Euronext Amsterdam,issuer
+ABN,0.03,Netherlands,ABN AMRO BANK NV,,Netherlands,Euronext Amsterdam,issuer
+CBK,0.03,Germany,COMMERZBANK AG,,Germany,Xetra,issuer
+ZS,0.03,US,ZSCALER,,United States,NASDAQ,issuer
+UTHR,0.03,US,UNITED THERAPEUTICS,,United States,NASDAQ,issuer
+PUB,0.03,France,PUBLICIS GROUPE,,France,Nyse Euronext - Euronext Paris,issuer
+VRSN,0.03,US,VERISIGN,,United States,NASDAQ,issuer
+VICI,0.03,US,VICI PPTYS INC,,United States,New York Stock Exchange Inc.,issuer
+CCEP,0.03,Netherlands,COCA COLA EUROPACIFIC PARTNERS PLC,,Netherlands,NASDAQ,issuer
+DRI,0.03,US,DARDEN RESTAURANTS INC,,United States,New York Stock Exchange Inc.,issuer
+ATO,0.03,US,ATMOS ENERGY,,United States,New York Stock Exchange Inc.,issuer
+OMC,0.03,US,OMNICOM GROUP INC,,United States,New York Stock Exchange Inc.,issuer
+VLTO,0.03,US,VERALTO,,United States,New York Stock Exchange Inc.,issuer
+CNP,0.03,US,CENTERPOINT ENERGY,,United States,New York Stock Exchange Inc.,issuer
+Z74,0.03,Singapore,SINGAPORE TELECOMMUNICATIONS LTD,,Singapore,Singapore Exchange,issuer
+NXT,0.03,United Kingdom,NEXT PLC,,United Kingdom,London Stock Exchange,issuer
+CASY,0.03,US,CASEYS GENERAL STORES INC,,United States,NASDAQ,issuer
+PPL,0.03,US,PPL CORP,,United States,New York Stock Exchange Inc.,issuer
+MKL,0.03,US,MARKEL GROUP,,United States,New York Stock Exchange Inc.,issuer
+ENTG,0.03,US,ENTEGRIS INC,,United States,NASDAQ,issuer
+8309,0.03,Japan,SUMITOMO MITSUI TRUST GROUP,,Japan,Tokyo Stock Exchange,issuer
+6178,0.03,Japan,JAPAN POST HOLDINGS LTD,,Japan,Tokyo Stock Exchange,issuer
+ES,0.03,US,EVERSOURCE ENERGY,,United States,New York Stock Exchange Inc.,issuer
+SAMPO,0.03,Finland,SAMPO CLASS A,,Finland,Nasdaq Omx Helsinki Ltd.,issuer
+RS,0.03,US,RELIANCE STEEL & ALUMINUM,,United States,New York Stock Exchange Inc.,issuer
+TPR,0.03,US,TAPESTRY,,United States,New York Stock Exchange Inc.,issuer
+VIE,0.03,France,VEOLIA ENVIRON. SA,,France,Nyse Euronext - Euronext Paris,issuer
+PTC,0.03,US,PTC,,United States,NASDAQ,issuer
+ESLT,0.03,Israel,ELBIT SYSTEMS,,Israel,Tel Aviv Stock Exchange,issuer
+HEXA B,0.03,Sweden,HEXAGON CLASS B,,Sweden,Nasdaq Omx Nordic,issuer
+BMPS,0.03,Italy,BANCA MONTE DEI PASCHI DI SIENA SP,,Italy,Borsa Italiana,issuer
+1605,0.03,Japan,INPEX,,Japan,Tokyo Stock Exchange,issuer
+NST,0.03,Australia,NORTHERN STAR RESOURCES LTD,,Australia,Asx - All Markets,issuer
+DSFIR,0.03,Netherlands,DSM FIRMENICH AG,,Netherlands,Euronext Amsterdam,issuer
+ATI,0.03,US,ATI,,United States,New York Stock Exchange Inc.,issuer
+HEIA,0.03,Netherlands,HEINEKEN NV,,Netherlands,Euronext Amsterdam,issuer
+DOW,0.03,US,DOW,,United States,New York Stock Exchange Inc.,issuer
+EL,0.03,US,ESTEE LAUDER INC CLASS A,,United States,New York Stock Exchange Inc.,issuer
+FTV,0.03,US,FORTIVE,,United States,New York Stock Exchange Inc.,issuer
+INSM,0.03,US,INSMED,,United States,NASDAQ,issuer
+3382,0.03,Japan,SEVEN & I HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+LPLA,0.03,US,LPL FINANCIAL HOLDINGS,,United States,NASDAQ,issuer
+AENA,0.03,Spain,AENA SME SA,,Spain,Bolsa De Madrid,issuer
+ALNY,0.02,US,ALNYLAM PHARMACEUTICALS,,United States,NASDAQ,issuer
+4901,0.02,Japan,FUJIFILM HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+NN,0.02,Netherlands,NN GROUP,,Netherlands,Euronext Amsterdam,issuer
+ZM,0.02,US,ZOOM COMMUNICATIONS CLASS A,,United States,NASDAQ,issuer
+PST,0.02,Italy,POSTE ITALIANE,,Italy,Borsa Italiana,issuer
+NSIS B,0.02,Denmark,NOVOZYMES B,,Denmark,Omx Nordic Exchange Copenhagen A/S,issuer
+NVT,0.02,US,NVENT ELECTRIC PLC,,United States,New York Stock Exchange Inc.,issuer
+1,0.02,Hong Kong,CK HUTCHISON HOLDINGS,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+IMO,0.02,CA,IMPERIAL OIL LTD,,Canada,Toronto Stock Exchange,issuer
+7832,0.02,Japan,BANDAI NAMCO HOLDINGS INC,,Japan,Tokyo Stock Exchange,issuer
+LDO,0.02,Italy,LEONARDO FINMECCANICA SPA,,Italy,Borsa Italiana,issuer
+FRE,0.02,Germany,FRESENIUS N,,Germany,Xetra,issuer
+PKG,0.02,US,PACKAGING CORP OF AMERICA,,United States,New York Stock Exchange Inc.,issuer
+ADYEN,0.02,Netherlands,ADYEN,,Netherlands,Euronext Amsterdam,issuer
+ML,0.02,France,MICHELIN,,France,Nyse Euronext - Euronext Paris,issuer
+EIX,0.02,US,EDISON INTERNATIONAL,,United States,New York Stock Exchange Inc.,issuer
+SHB A,0.02,Sweden,SVENSKA HANDELSBANKEN-A SHS,,Sweden,Nasdaq Omx Nordic,issuer
+LGEN,0.02,United Kingdom,LEGAL AND GENERAL GROUP PLC,,United Kingdom,London Stock Exchange,issuer
+GEBN,0.02,Switzerland,GEBERIT AG,,Switzerland,SIX Swiss Exchange,issuer
+6902,0.02,Japan,DENSO,,Japan,Tokyo Stock Exchange,issuer
+HEI,0.02,Germany,HEIDELBERG MATERIALS AG,,Germany,Xetra,issuer
+BMW,0.02,Germany,BMW,,Germany,Xetra,issuer
+HUBB,0.02,US,HUBBELL INC,,United States,New York Stock Exchange Inc.,issuer
+STE,0.02,US,STERIS,,United States,New York Stock Exchange Inc.,issuer
+HSY,0.02,US,HERSHEY FOODS,,United States,New York Stock Exchange Inc.,issuer
+A5G,0.02,Ireland,AIB GROUP PLC,,Ireland,Irish Stock Exchange - All Market,issuer
+FFIV,0.02,US,F5,,United States,NASDAQ,issuer
+WKL,0.02,Netherlands,WOLTERS KLUWER,,Netherlands,Euronext Amsterdam,issuer
+TSEM,0.02,Israel,TOWER SEMICONDUCTOR,,Israel,Tel Aviv Stock Exchange,issuer
+BBD.B,0.02,CA,BOMBARDIER CLASS B,,Canada,Toronto Stock Exchange,issuer
+EFX,0.02,US,EQUIFAX,,United States,New York Stock Exchange Inc.,issuer
+STZ,0.02,US,CONSTELLATION BRANDS CLASS A,,United States,New York Stock Exchange Inc.,issuer
+GPN,0.02,US,GLOBAL PAYMENTS INC,,United States,New York Stock Exchange Inc.,issuer
+KHC,0.02,US,KRAFT HEINZ,,United States,New York Stock Exchange Inc.,issuer
+6273,0.02,Japan,SMC (JAPAN) CORP,,Japan,Tokyo Stock Exchange,issuer
+EXE,0.02,US,EXPAND ENERGY,,United States,NASDAQ,issuer
+IFF,0.02,US,INTERNATIONAL FLAVORS & FRAGRANCES,,United States,New York Stock Exchange Inc.,issuer
+SW,0.02,US,SMURFIT WESTROCK PLC,,United States,New York Stock Exchange Inc.,issuer
+KNEBV,0.02,Finland,KONE,,Finland,Nasdaq Omx Helsinki Ltd.,issuer
+BPE,0.02,Italy,BPER BANCA,,Italy,Borsa Italiana,issuer
+XPO,0.02,US,XPO,,United States,New York Stock Exchange Inc.,issuer
+AMCR,0.02,US,AMCOR PLC,,United States,New York Stock Exchange Inc.,issuer
+CMS,0.02,US,CMS ENERGY,,United States,New York Stock Exchange Inc.,issuer
+CAP,0.02,France,CAPGEMINI,,France,Nyse Euronext - Euronext Paris,issuer
+PHIA,0.02,Netherlands,KONINKLIJKE PHILIPS,,Netherlands,Euronext Amsterdam,issuer
+CDW,0.02,US,CDW,,United States,NASDAQ,issuer
+QSR,0.02,CA,RESTAURANTS BRANDS INTERNATIONAL,,Canada,Toronto Stock Exchange,issuer
+MTX,0.02,Germany,MTU AERO ENGINES HOLDING AG,,Germany,Xetra,issuer
+COL,0.02,Australia,COLES GROUP LTD,,Australia,Asx - All Markets,issuer
+BIRG,0.02,Ireland,BANK OF IRELAND GROUP PLC,,Ireland,Irish Stock Exchange - All Market,issuer
+4452,0.02,Japan,KAO,,Japan,Tokyo Stock Exchange,issuer
+AMRZ,0.02,US,AMRIZE AG,,United States,New York Stock Exchange Inc.,issuer
+5401,0.02,Japan,NIPPON STEEL,,Japan,Tokyo Stock Exchange,issuer
+SWKS,0.02,US,SKYWORKS SOLUTIONS,,United States,NASDAQ,issuer
+DTG,0.02,Germany,DAIMLER TRUCK HOLDING E AG,,Germany,Xetra,issuer
+SAAB B,0.02,Sweden,SAAB CLASS B,,Sweden,Nasdaq Omx Nordic,issuer
+MRK,0.02,Germany,MERCK,,Germany,Xetra,issuer
+XYL,0.02,US,XYLEM INC,,United States,New York Stock Exchange Inc.,issuer
+HBAN,0.02,Switzerland,HELVETIA BALOISE HOLDING N AG,,Switzerland,SIX Swiss Exchange,issuer
+NI,0.02,US,NISOURCE,,United States,New York Stock Exchange Inc.,issuer
+NRG,0.02,US,NRG ENERGY INC,,United States,New York Stock Exchange Inc.,issuer
+6920,0.02,Japan,LASERTEC,,Japan,Tokyo Stock Exchange,issuer
+CF,0.02,US,CF INDUSTRIES HOLDINGS INC,,United States,New York Stock Exchange Inc.,issuer
+9020,0.02,Japan,EAST JAPAN RAILWAY,,Japan,Tokyo Stock Exchange,issuer
+TROW,0.02,US,T ROWE PRICE GROUP,,United States,NASDAQ,issuer
+7269,0.02,Japan,SUZUKI MOTOR,,Japan,Tokyo Stock Exchange,issuer
+4661,0.02,Japan,ORIENTAL LAND,,Japan,Tokyo Stock Exchange,issuer
+DD,0.02,US,DUPONT DE NEMOURS,,United States,New York Stock Exchange Inc.,issuer
+SAB,0.02,Spain,BANCO DE SABADELL,,Spain,Bolsa De Madrid,issuer
+BT.A,0.02,United Kingdom,BT GROUP PLC,,United Kingdom,London Stock Exchange,issuer
+KEY,0.02,US,KEYCORP,,United States,New York Stock Exchange Inc.,issuer
+FTAI,0.02,US,FTAI AVIATION,,United States,NASDAQ,issuer
+16,0.02,Hong Kong,SUN HUNG KAI PROPERTIES LTD,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+BRO,0.02,US,BROWN & BROWN INC,,United States,New York Stock Exchange Inc.,issuer
+AFRM,0.02,US,AFFIRM HOLDINGS CLASS A,,United States,NASDAQ,issuer
+FIS,0.02,US,FIDELITY NATIONAL INFORMATION SERV,,United States,New York Stock Exchange Inc.,issuer
+DSY,0.02,France,DASSAULT SYSTEMES,,France,Nyse Euronext - Euronext Paris,issuer
+ROIV,0.02,US,ROIVANT SCIENCES LTD,,United States,NASDAQ,issuer
+HLMA,0.02,United Kingdom,HALMA PLC,,United Kingdom,London Stock Exchange,issuer
+STO,0.02,Australia,SANTOS,,Australia,Asx - All Markets,issuer
+L,0.02,US,LOEWS,,United States,New York Stock Exchange Inc.,issuer
+BAM,0.02,CA,BROOKFIELD ASSET MANAGEMENT VOTING,,Canada,Toronto Stock Exchange,issuer
+BBY,0.02,US,BEST BUY,,United States,New York Stock Exchange Inc.,issuer
+ZBH,0.02,US,ZIMMER BIOMET HOLDINGS,,United States,New York Stock Exchange Inc.,issuer
+LEN,0.02,US,LENNAR A CLASS A,,United States,New York Stock Exchange Inc.,issuer
+9101,0.02,Japan,NIPPON YUSEN,,Japan,Tokyo Stock Exchange,issuer
+TRI,0.02,CA,THOMSON REUTERS CORP,,Canada,Toronto Stock Exchange,issuer
+INCY,0.02,US,INCYTE CORP,,United States,NASDAQ,issuer
+SOFI,0.02,US,SOFI TECHNOLOGIES,,United States,NASDAQ,issuer
+BALL,0.02,US,BALL CORP,,United States,New York Stock Exchange Inc.,issuer
+SBAC,0.02,US,SBA COMMUNICATIONS REIT CORP CLASS,,United States,NASDAQ,issuer
+4543,0.02,Japan,TERUMO,,Japan,Tokyo Stock Exchange,issuer
+J,0.02,US,JACOBS SOLUTIONS INC,,United States,New York Stock Exchange Inc.,issuer
+LDOS,0.02,US,LEIDOS HOLDINGS,,United States,New York Stock Exchange Inc.,issuer
+9022,0.02,Japan,CENTRAL JAPAN RAILWAY,,Japan,Tokyo Stock Exchange,issuer
+UMG,0.02,Netherlands,UNIVERSAL MUSIC GROUP,,Netherlands,Euronext Amsterdam,issuer
+LNT,0.02,US,ALLIANT ENERGY CORP,,United States,NASDAQ,issuer
+BXB,0.02,Australia,BRAMBLES,,Australia,Asx - All Markets,issuer
+BR,0.02,US,BROADRIDGE FINANCIAL SOLUTIONS INC,,United States,New York Stock Exchange Inc.,issuer
+KPN,0.02,Netherlands,KONINKLIJKE KPN NV,,Netherlands,Euronext Amsterdam,issuer
+9104,0.02,Japan,MITSUI OSK LINES LTD,,Japan,Tokyo Stock Exchange,issuer
+SGSN,0.02,Switzerland,SGS SA,,Switzerland,SIX Swiss Exchange,issuer
+SCMN,0.02,Switzerland,SWISSCOM AG,,Switzerland,SIX Swiss Exchange,issuer
+EVRG,0.02,US,EVERGY,,United States,NASDAQ,issuer
+FM,0.02,CA,FIRST QUANTUM MINERALS,,Canada,Toronto Stock Exchange,issuer
+TPL,0.02,US,TEXAS PACIFIC LAND,,United States,New York Stock Exchange Inc.,issuer
+TOU,0.02,CA,TOURMALINE OIL CORP,,Canada,Toronto Stock Exchange,issuer
+GIS,0.02,US,GENERAL MILLS INC,,United States,New York Stock Exchange Inc.,issuer
+9503,0.02,Japan,KANSAI ELECTRIC POWER,,Japan,Tokyo Stock Exchange,issuer
+ACS,0.02,Spain,ACS ACTIVIDADES DE CONSTRUCCION Y,,Spain,Bolsa De Madrid,issuer
+BAER,0.02,Switzerland,JULIUS BAER GRUPPE AG,,Switzerland,SIX Swiss Exchange,issuer
+FCNCA,0.02,US,FIRST CITIZENS BANCSHARES CLASS A,,United States,NASDAQ,issuer
+PAAS,0.02,CA,PAN AMERICAN SILVER,,Canada,Toronto Stock Exchange,issuer
+SNA,0.02,US,SNAP ON INC,,United States,New York Stock Exchange Inc.,issuer
+ALFA,0.02,Sweden,ALFA LAVAL,,Sweden,Nasdaq Omx Nordic,issuer
+CW,0.02,US,CURTISS WRIGHT,,United States,New York Stock Exchange Inc.,issuer
+JBHT,0.02,US,JB HUNT TRANSPORT SERVICES,,United States,NASDAQ,issuer
+FSLR,0.02,US,FIRST SOLAR,,United States,NASDAQ,issuer
+SN,0.02,US,SHARKNINJA,,United States,New York Stock Exchange Inc.,issuer
+FWONK,0.02,US,LIBERTY MEDIA SERIES C,,United States,NASDAQ,issuer
+SMCI,0.02,US,SUPER MICRO COMPUTER INC,,United States,NASDAQ,issuer
+TXT,0.02,US,TEXTRON INC,,United States,New York Stock Exchange Inc.,issuer
+SSNC,0.02,US,SS AND C TECHNOLOGIES HOLDINGS,,United States,NASDAQ,issuer
+HNR1,0.02,Germany,HANNOVER RUECK,,Germany,Xetra,issuer
+BAMI,0.02,Italy,BANCO BPM,,Italy,Borsa Italiana,issuer
+INF,0.02,United Kingdom,INFORMA PLC,,United Kingdom,London Stock Exchange,issuer
+FPH,0.02,New Zealand,FISHER AND PAYKEL HEALTHCARE CORPO,,New Zealand,New Zealand Exchange Ltd,issuer
+HEI A,0.02,US,HEICO CLASS A,,United States,New York Stock Exchange Inc.,issuer
+IP,0.02,US,INTERNATIONAL PAPER,,United States,New York Stock Exchange Inc.,issuer
+PGHN,0.02,Switzerland,PARTNERS GROUP HOLDING AG,,Switzerland,SIX Swiss Exchange,issuer
+GIB.A,0.02,CA,CGI INC CLASS A,,Canada,Toronto Stock Exchange,issuer
+EPI A,0.02,Sweden,EPIROC CLASS A,,Sweden,Nasdaq Omx Nordic,issuer
+FMG,0.02,Australia,FORTESCUE LTD,,Australia,Asx - All Markets,issuer
+WSP,0.02,CA,WSP GLOBAL INC,,Canada,Toronto Stock Exchange,issuer
+VACN,0.02,Switzerland,VAT GROUP AG,,Switzerland,SIX Swiss Exchange,issuer
+9735,0.02,Japan,SECOM,,Japan,Tokyo Stock Exchange,issuer
+ACA,0.02,France,CREDIT AGRICOLE SA,,France,Nyse Euronext - Euronext Paris,issuer
+MAS,0.02,US,MASCO,,United States,New York Stock Exchange Inc.,issuer
+NDSN,0.02,US,NORDSON,,United States,NASDAQ,issuer
+NVR,0.02,US,NVR,,United States,New York Stock Exchange Inc.,issuer
+CHRW,0.02,US,CH ROBINSON WORLDWIDE,,United States,NASDAQ,issuer
+SHL,0.02,Germany,SIEMENS HEALTHINEERS AG,,Germany,Xetra,issuer
+WCP,0.02,CA,WHITECAP RESOURCES INC,,Canada,Toronto Stock Exchange,issuer
+2,0.02,Hong Kong,CLP HOLDINGS,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+ORG,0.02,Australia,ORIGIN ENERGY,,Australia,Asx - All Markets,issuer
+FOXA,0.02,US,FOX CLASS A,,United States,NASDAQ,issuer
+TSN,0.02,US,TYSON FOODS INC CLASS A,,United States,New York Stock Exchange Inc.,issuer
+7936,0.02,Japan,ASICS,,Japan,Tokyo Stock Exchange,issuer
+CRWV,0.02,US,COREWEAVE CLASS A,,United States,NASDAQ,issuer
+KRZ,0.02,Ireland,KERRY GROUP PLC,,Ireland,Irish Stock Exchange - All Market,issuer
+GPC,0.02,US,GENUINE PARTS,,United States,New York Stock Exchange Inc.,issuer
+IEX,0.02,US,IDEX,,United States,New York Stock Exchange Inc.,issuer
+EG,0.02,US,EVEREST GROUP,,United States,New York Stock Exchange Inc.,issuer
+EVN,0.02,Australia,EVOLUTION MINING,,Australia,Asx - All Markets,issuer
+MG,0.02,CA,MAGNA INTERNATIONAL,,Canada,Toronto Stock Exchange,issuer
+TSCO,0.02,US,TRACTOR SUPPLY,,United States,NASDAQ,issuer
+FICO,0.02,US,FAIR ISAAC,,United States,New York Stock Exchange Inc.,issuer
+GEN,0.02,US,GEN DIGITAL,,United States,NASDAQ,issuer
+ESSITY B,0.02,Sweden,ESSITY CLASS B,,Sweden,Nasdaq Omx Nordic,issuer
+MRU,0.02,CA,METRO,,Canada,Toronto Stock Exchange,issuer
+8267,0.02,Japan,AEON,,Japan,Tokyo Stock Exchange,issuer
+NBIX,0.02,US,NEUROCRINE BIOSCIENCES,,United States,NASDAQ,issuer
+WN,0.02,CA,GEORGE WESTON,,Canada,Toronto Stock Exchange,issuer
+KNIN,0.02,Switzerland,KUEHNE UND NAGEL INTERNATIONAL AG,,Switzerland,SIX Swiss Exchange,issuer
+BOL,0.02,Sweden,BOLIDEN,,Sweden,Nasdaq Omx Nordic,issuer
+GWO,0.02,CA,GREAT WEST LIFECO INC,,Canada,Toronto Stock Exchange,issuer
+WRB,0.02,US,WR BERKLEY,,United States,New York Stock Exchange Inc.,issuer
+SOON,0.02,Switzerland,SONOVA HOLDING AG,,Switzerland,SIX Swiss Exchange,issuer
+CCH,0.02,United Kingdom,COCA COLA HBC AG,,United Kingdom,London Stock Exchange,issuer
+LYB,0.02,US,LYONDELLBASELL INDUSTRIES CLASS A,,United States,New York Stock Exchange Inc.,issuer
+EDP,0.02,Portugal,EDP ENERGIAS DE PORTUGAL,,Portugal,Nyse Euronext - Euronext Lisbon,issuer
+EQT,0.02,Sweden,EQT,,Sweden,Nasdaq Omx Nordic,issuer
+MAERSK B,0.02,Denmark,A P MOLLER MAERSK B,,Denmark,Omx Nordic Exchange Copenhagen A/S,issuer
+SUN,0.02,Australia,SUNCORP GROUP,,Australia,Asx - All Markets,issuer
+HEN3,0.02,Germany,HENKEL & KGAA PREF AG,,Germany,Xetra,issuer
+RBA,0.02,CA,RB GLOBAL,,Canada,Toronto Stock Exchange,issuer
+ESS,0.02,US,ESSEX PROPERTY TRUST REIT,,United States,New York Stock Exchange Inc.,issuer
+KOG,0.02,Norway,KONGSBERG GRUPPEN,,Norway,Oslo Bors Asa,issuer
+FBK,0.02,Italy,FINECOBANK BANCA FINECO,,Italy,Borsa Italiana,issuer
+2503,0.02,Japan,KIRIN HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+INVH,0.02,US,INVITATION HOMES,,United States,New York Stock Exchange Inc.,issuer
+4004,0.02,Japan,RESONAC HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+BURL,0.02,US,BURLINGTON STORES,,United States,New York Stock Exchange Inc.,issuer
+PNFP,0.02,US,PINNACLE FINANCIAL PARTNERS,,United States,New York Stock Exchange Inc.,issuer
+UU.,0.02,United Kingdom,UNITED UTILITIES GROUP PLC,,United Kingdom,London Stock Exchange,issuer
+ANTO,0.02,United Kingdom,ANTOFAGASTA PLC,,United Kingdom,London Stock Exchange,issuer
+IOT,0.02,US,SAMSARA CLASS A,,United States,New York Stock Exchange Inc.,issuer
+9532,0.02,Japan,OSAKA GAS,,Japan,Tokyo Stock Exchange,issuer
+6326,0.02,Japan,KUBOTA,,Japan,Tokyo Stock Exchange,issuer
+CPU,0.02,Australia,COMPUTERSHARE LTD,,Australia,Asx - All Markets,issuer
+8795,0.02,Japan,T&D HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+MAA,0.02,US,MID AMERICA APARTMENT COMMUNITIES,,United States,New York Stock Exchange Inc.,issuer
+1925,0.02,Japan,DAIWA HOUSE INDUSTRY,,Japan,Tokyo Stock Exchange,issuer
+VOW3,0.02,Germany,VOLKSWAGEN NON-VOTING PREF AG,,Germany,Xetra,issuer
+CLNX,0.02,Spain,CELLNEX TELECOM,,Spain,Bolsa De Madrid,issuer
+4507,0.02,Japan,SHIONOGI,,Japan,Tokyo Stock Exchange,issuer
+KIM,0.02,US,KIMCO REALTY REIT CORP,,United States,New York Stock Exchange Inc.,issuer
+7453,0.02,Japan,RYOHIN KEIKAKU,,Japan,Tokyo Stock Exchange,issuer
+TEF,0.02,Spain,TELEFONICA SA,,Spain,Bolsa De Madrid,issuer
+TRU,0.02,US,TRANSUNION,,United States,New York Stock Exchange Inc.,issuer
+REG,0.02,US,REGENCY CENTERS REIT CORP,,United States,NASDAQ,issuer
+LOGN,0.02,Switzerland,LOGITECH INTERNATIONAL,,Switzerland,SIX Swiss Exchange,issuer
+4307,0.02,Japan,NOMURA RESEARCH INSTITUTE,,Japan,Tokyo Stock Exchange,issuer
+CRS,0.02,US,CARPENTER TECHNOLOGY,,United States,New York Stock Exchange Inc.,issuer
+KRX,0.02,Ireland,KINGSPAN GROUP PLC,,Ireland,Irish Stock Exchange - All Market,issuer
+CDE,0.02,US,COEUR MINING,,United States,New York Stock Exchange Inc.,issuer
+S63,0.02,Singapore,SINGAPORE TECHNOLOGIES ENGINEERING,,Singapore,Singapore Exchange,issuer
+IAG,0.02,Australia,INSURANCE AUSTRALIA GROUP,,Australia,Asx - All Markets,issuer
+WRT1V,0.02,Finland,WARTSILA,,Finland,Nasdaq Omx Helsinki Ltd.,issuer
+FLUT,0.02,US,FLUTTER ENTERTAINMENT PLC,,United States,New York Stock Exchange Inc.,issuer
+8601,0.02,Japan,DAIWA SECURITIES GROUP INC,,Japan,Tokyo Stock Exchange,issuer
+7013,0.02,Japan,IHI,,Japan,Tokyo Stock Exchange,issuer
+CHKP,0.02,Israel,CHECK POINT SOFTWARE TECHNOLOGIES,,Israel,NASDAQ,issuer
+RI,0.02,France,PERNOD RICARD SA,,France,Nyse Euronext - Euronext Paris,issuer
+SCG,0.02,Australia,SCENTRE GROUP,,Australia,Asx - All Markets,issuer
+UPM,0.02,Finland,UPM-KYMMENE,,Finland,Nasdaq Omx Helsinki Ltd.,issuer
+HEI,0.02,US,HEICO,,United States,New York Stock Exchange Inc.,issuer
+6,0.02,Hong Kong,POWER ASSETS HOLDINGS,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+SGRO,0.02,United Kingdom,SEGRO REIT PLC,,United Kingdom,London Stock Exchange,issuer
+RO,0.02,Switzerland,ROCHE HOLDING AG,,Switzerland,SIX Swiss Exchange,issuer
+EMA,0.02,CA,EMERA INC,,Canada,Toronto Stock Exchange,issuer
+BG,0.02,US,BUNGE GLOBAL SA,,United States,New York Stock Exchange Inc.,issuer
+AGS,0.02,Belgium,AGEAS,,Belgium,Nyse Euronext - Euronext Brussels,issuer
+823,0.02,Hong Kong,LINK REAL ESTATE INVESTMENT TRUST,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+TOST,0.02,US,TOAST CLASS A,,United States,New York Stock Exchange Inc.,issuer
+NTGY,0.02,Spain,NATURGY ENERGY GROUP SA,,Spain,Bolsa De Madrid,issuer
+2502,0.01,Japan,ASAHI GROUP HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+WY,0.01,US,WEYERHAEUSER REIT,,United States,New York Stock Exchange Inc.,issuer
+KER,0.01,France,KERING SA,,France,Nyse Euronext - Euronext Paris,issuer
+APA,0.01,Australia,APA GROUP UNITS,,Australia,Asx - All Markets,issuer
+SGE,0.01,United Kingdom,THE SAGE GROUP,,United Kingdom,London Stock Exchange,issuer
+METSO,0.01,Finland,METSO CORPORATION,,Finland,Nasdaq Omx Helsinki Ltd.,issuer
+S32,0.01,Australia,SOUTH32,,Australia,Asx - All Markets,issuer
+SPSN,0.01,Switzerland,SWISS PRIME SITE AG,,Switzerland,SIX Swiss Exchange,issuer
+ECHO,0.01,US,ECHOSTAR CLASS A,,United States,NASDAQ,issuer
+LUN,0.01,CA,LUNDIN MINING,,Canada,Toronto Stock Exchange,issuer
+BG,0.01,Austria,BAWAG GROUP AG,,Austria,Wiener Boerse Ag,issuer
+5713,0.01,Japan,SUMITOMO METAL MINING,,Japan,Tokyo Stock Exchange,issuer
+TRN,0.01,Italy,TERNA RETE ELETTRICA NAZIONALE,,Italy,Borsa Italiana,issuer
+WPC,0.01,US,W. P. CAREY REIT,,United States,New York Stock Exchange Inc.,issuer
+3407,0.01,Japan,ASAHI KASEI,,Japan,Tokyo Stock Exchange,issuer
+ELE,0.01,Spain,ENDESA SA,,Spain,Bolsa De Madrid,issuer
+SUI,0.01,US,SUN COMMUNITIES REIT INC,,United States,New York Stock Exchange Inc.,issuer
+8830,0.01,Japan,SUMITOMO REALTY & DEVELOPMENT,,Japan,Tokyo Stock Exchange,issuer
+RDDT,0.01,US,REDDIT CLASS A,,United States,New York Stock Exchange Inc.,issuer
+AKRBP,0.01,Norway,AKER BP,,Norway,Oslo Bors Asa,issuer
+DPLM,0.01,United Kingdom,DIPLOMA PLC,,United Kingdom,London Stock Exchange,issuer
+URW,0.01,France,UNIBAIL RODAMCO WE STAPLED UNITS,,France,Nyse Euronext - Euronext Paris,issuer
+NESTE,0.01,Finland,NESTE,,Finland,Nasdaq Omx Helsinki Ltd.,issuer
+8697,0.01,Japan,JAPAN EXCHANGE GROUP,,Japan,Tokyo Stock Exchange,issuer
+BESI,0.01,Netherlands,BE SEMICONDUCTOR INDUSTRIES NV,,Netherlands,Euronext Amsterdam,issuer
+SCHP,0.01,Switzerland,SCHINDLER HOLDING PAR AG,,Switzerland,SIX Swiss Exchange,issuer
+VNA,0.01,Germany,VONOVIA SE,,Germany,Xetra,issuer
+9531,0.01,Japan,TOKYO GAS LTD,,Japan,Tokyo Stock Exchange,issuer
+TLS,0.01,Australia,TELSTRA GROUP,,Australia,Asx - All Markets,issuer
+1113,0.01,Hong Kong,CK ASSET HOLDINGS LTD,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+BNZL,0.01,United Kingdom,BUNZL,,United Kingdom,London Stock Exchange,issuer
+GFL,0.01,CA,GFL ENVIRONMENTAL SUBORDINATE VOTI,,Canada,Toronto Stock Exchange,issuer
+AGN,0.01,Netherlands,AEGON,,Netherlands,Euronext Amsterdam,issuer
+SMIN,0.01,United Kingdom,SMITHS GROUP PLC,,United Kingdom,London Stock Exchange,issuer
+6988,0.01,Japan,NITTO DENKO,,Japan,Tokyo Stock Exchange,issuer
+SY1,0.01,Germany,SYMRISE AG,,Germany,Xetra,issuer
+ENX,0.01,France,EURONEXT NV,,France,Nyse Euronext - Euronext Paris,issuer
+ASRNL,0.01,Netherlands,ASR NEDERLAND,,Netherlands,Euronext Amsterdam,issuer
+4684,0.01,Japan,OBIC LTD,,Japan,Tokyo Stock Exchange,issuer
+5801,0.01,Japan,FURUKAWA ELECTRIC LTD,,Japan,Tokyo Stock Exchange,issuer
+UNI,0.01,Italy,UNIPOL ASSICURAZIONI SPA,,Italy,Borsa Italiana,issuer
+FDXF,0.01,US,FEDEX FREIGHT HOLDING COMPANY INC,,United States,New York Stock Exchange Inc.,issuer
+ADM,0.01,United Kingdom,ADMIRAL GROUP PLC,,United Kingdom,London Stock Exchange,issuer
+TEN,0.01,Italy,TENARIS SA,,Italy,Borsa Italiana,issuer
+SRG,0.01,Italy,SNAM,,Italy,Borsa Italiana,issuer
+STMN,0.01,Switzerland,STRAUMANN HOLDING AG,,Switzerland,SIX Swiss Exchange,issuer
+FN,0.01,US,FABRINET,,United States,New York Stock Exchange Inc.,issuer
+G1A,0.01,Germany,GEA GROUP AG,,Germany,Xetra,issuer
+TW,0.01,US,TRADEWEB MARKETS INC CLASS A,,United States,NASDAQ,issuer
+6504,0.01,Japan,FUJI ELECTRIC,,Japan,Tokyo Stock Exchange,issuer
+6383,0.01,Japan,DAIFUKU,,Japan,Tokyo Stock Exchange,issuer
+9766,0.01,Japan,KONAMI GROUP,,Japan,Tokyo Stock Exchange,issuer
+1812,0.01,Japan,KAJIMA,,Japan,Tokyo Stock Exchange,issuer
+RCI.B,0.01,CA,ROGERS COMMUNICATIONS NON-VOTING I,,Canada,Toronto Stock Exchange,issuer
+COO,0.01,US,COOPER,,United States,NASDAQ,issuer
+DAL,0.01,US,DELTA AIR LINES,,United States,New York Stock Exchange Inc.,issuer
+DECK,0.01,US,DECKERS OUTDOOR,,United States,New York Stock Exchange Inc.,issuer
+8473,0.01,Japan,SBI HOLDINGS INC,,Japan,Tokyo Stock Exchange,issuer
+SVT,0.01,United Kingdom,SEVERN TRENT PLC,,United Kingdom,London Stock Exchange,issuer
+DSCT,0.01,Israel,ISRAEL DISCOUNT BANK LTD,,Israel,Tel Aviv Stock Exchange,issuer
+CRCL,0.01,US,CIRCLE INTERNET GROUP INC CLASS A,,United States,New York Stock Exchange Inc.,issuer
+IAG,0.01,CA,IA FINANCIAL INC,,Canada,Toronto Stock Exchange,issuer
+MDLN,0.01,US,MEDLINE CLASS A,,United States,NASDAQ,issuer
+ERF,0.01,France,EUROFINS SCIENTIFIC,,France,Nyse Euronext - Euronext Paris,issuer
+AGI,0.01,CA,ALAMOS GOLD CLASS A,,Canada,Toronto Stock Exchange,issuer
+PSON,0.01,United Kingdom,PEARSON PLC,,United Kingdom,London Stock Exchange,issuer
+PNDORA,0.01,Denmark,PANDORA,,Denmark,Omx Nordic Exchange Copenhagen A/S,issuer
+NLY,0.01,US,ANNALY CAPITAL MANAGEMENT REIT,,United States,New York Stock Exchange Inc.,issuer
+1928,0.01,Japan,SEKISUI HOUSE,,Japan,Tokyo Stock Exchange,issuer
+EVO,0.01,Sweden,EVOLUTION,,Sweden,Nasdaq Omx Nordic,issuer
+7733,0.01,Japan,OLYMPUS,,Japan,Tokyo Stock Exchange,issuer
+FORTUM,0.01,Finland,FORTUM,,Finland,Nasdaq Omx Helsinki Ltd.,issuer
+CARL B,0.01,Denmark,CARLSBERG AS CL B,,Denmark,Omx Nordic Exchange Copenhagen A/S,issuer
+H,0.01,CA,HYDRO ONE,,Canada,Toronto Stock Exchange,issuer
+GALP,0.01,Portugal,GALP ENERGIA SGPS SA CLASS B,,Portugal,Nyse Euronext - Euronext Lisbon,issuer
+PHOE,0.01,Israel,PHOENIX FINANCIAL LTD,,Israel,Tel Aviv Stock Exchange,issuer
+LII,0.01,US,LENNOX INTERNATIONAL,,United States,New York Stock Exchange Inc.,issuer
+QIA,0.01,Germany,QIAGEN,,Germany,Deutsche Boerse Xetra,issuer
+MKC,0.01,US,MCCORMICK & CO NON-VOTING,,United States,New York Stock Exchange Inc.,issuer
+1802,0.01,Japan,OBAYASHI,,Japan,Tokyo Stock Exchange,issuer
+SN.,0.01,United Kingdom,SMITH AND NEPHEW PLC,,United Kingdom,London Stock Exchange,issuer
+TELIA,0.01,Sweden,TELIA COMPANY,,Sweden,Nasdaq Omx Nordic,issuer
+LVS,0.01,US,LAS VEGAS SANDS,,United States,New York Stock Exchange Inc.,issuer
+6361,0.01,Japan,EBARA,,Japan,Tokyo Stock Exchange,issuer
+BVI,0.01,France,BUREAU VERITAS SA,,France,Nyse Euronext - Euronext Paris,issuer
+1801,0.01,Japan,TAISEI,,Japan,Tokyo Stock Exchange,issuer
+EQX,0.01,CA,EQUINOX GOLD,,Canada,Toronto Stock Exchange,issuer
+CNA,0.01,United Kingdom,CENTRICA PLC,,United Kingdom,London Stock Exchange,issuer
+5016,0.01,Japan,JX ADVANCED METALS CORP,,Japan,Tokyo Stock Exchange,issuer
+HM B,0.01,Sweden,HENNES & MAURITZ,,Sweden,Nasdaq Omx Nordic,issuer
+MTZ,0.01,US,MASTEC INC,,United States,New York Stock Exchange Inc.,issuer
+OMV,0.01,Austria,OMV,,Austria,Wiener Boerse Ag,issuer
+MOWI,0.01,Norway,MOWI,,Norway,Oslo Bors Asa,issuer
+ROL,0.01,US,ROLLINS INC,,United States,New York Stock Exchange Inc.,issuer
+RIVN,0.01,US,RIVIAN AUTOMOTIVE CLASS A,,United States,NASDAQ,issuer
+TIH,0.01,CA,TOROMONT INDUSTRIES LTD,,Canada,Toronto Stock Exchange,issuer
+RYA,0.01,Ireland,RYANAIR HOLDINGS PLC,,Ireland,Irish Stock Exchange - All Market,issuer
+9502,0.01,Japan,CHUBU ELECTRIC POWER INC,,Japan,Tokyo Stock Exchange,issuer
+RKT,0.01,US,ROCKET COMPANIES INC CLASS A,,United States,New York Stock Exchange Inc.,issuer
+ALA,0.01,CA,ALTAGAS,,Canada,Toronto Stock Exchange,issuer
+X,0.01,CA,TMX GROUP LTD,,Canada,Toronto Stock Exchange,issuer
+MKS,0.01,United Kingdom,MARKS AND SPENCER GROUP PLC,,United Kingdom,London Stock Exchange,issuer
+RTO,0.01,United Kingdom,RENTOKIL INITIAL PLC,,United Kingdom,London Stock Exchange,issuer
+BN4,0.01,Singapore,KEPPEL,,Singapore,Singapore Exchange,issuer
+AKZA,0.01,Netherlands,AKZO NOBEL NV,,Netherlands,Euronext Amsterdam,issuer
+KGF,0.01,United Kingdom,KINGFISHER PLC,,United Kingdom,London Stock Exchange,issuer
+6594,0.01,Japan,NIDEC,,Japan,Tokyo Stock Exchange,issuer
+NWSA,0.01,US,NEWS CLASS A,,United States,NASDAQ,issuer
+BKT,0.01,Spain,BANKINTER,,Spain,Bolsa De Madrid,issuer
+TEL2 B,0.01,Sweden,TELE2 B,,Sweden,Nasdaq Omx Nordic,issuer
+ORSTED,0.01,Denmark,ORSTED A/S,,Denmark,Omx Nordic Exchange Copenhagen A/S,issuer
+MNG,0.01,United Kingdom,M&G PLC,,United Kingdom,London Stock Exchange,issuer
+ATRL,0.01,CA,ATKINSREALIS GROUP INC,,Canada,Toronto Stock Exchange,issuer
+ITRK,0.01,United Kingdom,INTERTEK GROUP PLC,,United Kingdom,London Stock Exchange,issuer
+BCP,0.01,Portugal,BANCO COMERCIAL PORTUGUES SA,,Portugal,Nyse Euronext - Euronext Lisbon,issuer
+4188,0.01,Japan,MITSUBISHI CHEMICAL GROUP,,Japan,Tokyo Stock Exchange,issuer
+EDV,0.01,United Kingdom,ENDEAVOUR MINING,,United Kingdom,London Stock Exchange,issuer
+TLC,0.01,Australia,THE LOTTERY CORPORATION LTD,,Australia,Asx - All Markets,issuer
+CHTR,0.01,US,CHARTER COMMUNICATIONS CLASS A,,United States,NASDAQ,issuer
+NHY,0.01,Norway,NORSK HYDRO,,Norway,Oslo Bors Asa,issuer
+FNF,0.01,US,FIDELITY NATIONAL FINANCIAL INC,,United States,New York Stock Exchange Inc.,issuer
+3402,0.01,Japan,TORAY INDUSTRIES,,Japan,Tokyo Stock Exchange,issuer
+MONC,0.01,Italy,MONCLER,,Italy,Borsa Italiana,issuer
+4523,0.01,Japan,EISAI,,Japan,Tokyo Stock Exchange,issuer
+4911,0.01,Japan,SHISEIDO,,Japan,Tokyo Stock Exchange,issuer
+7012,0.01,Japan,KAWASAKI HEAVY INDUSTRIES,,Japan,Tokyo Stock Exchange,issuer
+LISN,0.01,Switzerland,CHOCOLADEFABRIKEN LINDT & SPRUENGL,,Switzerland,SIX Swiss Exchange,issuer
+SKF B,0.01,Sweden,SKF B,,Sweden,Nasdaq Omx Nordic,issuer
+NVMI,0.01,Israel,NOVA,,Israel,Tel Aviv Stock Exchange,issuer
+7186,0.01,Japan,YOKOHAMA FINANCIAL GROUP,,Japan,Tokyo Stock Exchange,issuer
+7272,0.01,Japan,YAMAHA MOTOR,,Japan,Tokyo Stock Exchange,issuer
+ENLT,0.01,Israel,ENLIGHT RENEWABLE ENERGY,,Israel,Tel Aviv Stock Exchange,issuer
+ORNBV,0.01,Finland,ORION CLASS B,,Finland,Nasdaq Omx Helsinki Ltd.,issuer
+ASTS,0.01,US,AST SPACEMOBILE CLASS A,,United States,NASDAQ,issuer
+TREL B,0.01,Sweden,TRELLEBORG B,,Sweden,Nasdaq Omx Nordic,issuer
+S68,0.01,Singapore,SINGAPORE EXCHANGE,,Singapore,Singapore Exchange,issuer
+WSO,0.01,US,WATSCO,,United States,New York Stock Exchange Inc.,issuer
+HEIO,0.01,Netherlands,HEINEKEN HOLDING NV,,Netherlands,Euronext Amsterdam,issuer
+EN,0.01,France,BOUYGUES SA,,France,Nyse Euronext - Euronext Paris,issuer
+FME,0.01,Germany,FRESENIUS MEDICAL CARE AG,,Germany,Xetra,issuer
+CG,0.01,US,CARLYLE GROUP INC,,United States,NASDAQ,issuer
+BEAN,0.01,Switzerland,BELIMO N AG,,Switzerland,SIX Swiss Exchange,issuer
+EMSN,0.01,Switzerland,EMS-CHEMIE HOLDING AG,,Switzerland,SIX Swiss Exchange,issuer
+5019,0.01,Japan,IDEMITSU KOSAN LTD,,Japan,Tokyo Stock Exchange,issuer
+MICC,0.01,Netherlands,MAGNUM ICE CREAM,,Netherlands,Euronext Amsterdam,issuer
+7532,0.01,Japan,PAN PACIFIC INTERNATIONAL HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+CICT,0.01,Singapore,CAPITALAND INTEGRATED COMMERCIAL T,,Singapore,Singapore Exchange,issuer
+TEL,0.01,Norway,TELENOR,,Norway,Oslo Bors Asa,issuer
+MZTF,0.01,Israel,MIZRAHI TEFAHOT BANK LTD,,Israel,Tel Aviv Stock Exchange,issuer
+STLAM,0.01,Italy,STELLANTIS,,Italy,Borsa Italiana,issuer
+J36,0.01,Hong Kong,JARDINE MATHESON HOLDINGS,,Hong Kong,Singapore Exchange,issuer
+BNR,0.01,Germany,BRENNTAG,,Germany,Xetra,issuer
+BS6,0.01,Singapore,YANGZIJIANG SHIPBUILDING (HOLDINGS,,Singapore,Singapore Exchange,issuer
+9697,0.01,Japan,CAPCOM LTD,,Japan,Tokyo Stock Exchange,issuer
+CCL.B,0.01,CA,CCL INDUSTRIES CLASS B,,Canada,Toronto Stock Exchange,issuer
+KEY,0.01,CA,KEYERA,,Canada,Toronto Stock Exchange,issuer
+SOBI,0.01,Sweden,SWEDISH ORPHAN BIOVITRUM,,Sweden,Nasdaq Omx Nordic,issuer
+9843,0.01,Japan,NITORI HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+SIG,0.01,Australia,SIGMA HEALTHCARE,,Australia,Asx - All Markets,issuer
+3,0.01,Hong Kong,HONG KONG AND CHINA GAS LTD,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+TFII,0.01,CA,TFI INTERNATIONAL,,Canada,Toronto Stock Exchange,issuer
+YAR,0.01,Norway,YARA INTERNATIONAL,,Norway,Oslo Bors Asa,issuer
+RXL,0.01,France,REXEL SA,,France,Nyse Euronext - Euronext Paris,issuer
+AC,0.01,France,ACCOR SA,,France,Nyse Euronext - Euronext Paris,issuer
+66,0.01,Hong Kong,MTR CORPORATION,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+H,0.01,US,HYATT HOTELS CORP CLASS A,,United States,New York Stock Exchange Inc.,issuer
+7735,0.01,Japan,SCREEN HOLDINGS LTD,,Japan,Tokyo Stock Exchange,issuer
+2801,0.01,Japan,KIKKOMAN CORP,,Japan,Tokyo Stock Exchange,issuer
+CRBG,0.01,US,COREBRIDGE FINANCIAL INC,,United States,New York Stock Exchange Inc.,issuer
+7911,0.01,Japan,TOPPAN HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+IREN,0.01,US,IREN,,United States,NASDAQ,issuer
+UAL,0.01,US,UNITED AIRLINES HOLDINGS,,United States,NASDAQ,issuer
+SKA B,0.01,Sweden,SKANSKA B,,Sweden,Nasdaq Omx Nordic,issuer
+BEI,0.01,Germany,BEIERSDORF AG,,Germany,Xetra,issuer
+MPL,0.01,Australia,MEDIBANK PRIVATE,,Australia,Asx - All Markets,issuer
+LISP,0.01,Switzerland,CHOCOLADEFABRIKEN LINDT & SPRUENGL,,Switzerland,SIX Swiss Exchange,issuer
+TLX,0.01,Germany,TALANX AG,,Germany,Xetra,issuer
+EXO,0.01,Netherlands,EXOR NV,,Netherlands,Euronext Amsterdam,issuer
+COLO B,0.01,Denmark,COLOPLAST B,,Denmark,Omx Nordic Exchange Copenhagen A/S,issuer
+DKS,0.01,US,DICKS SPORTING,,United States,New York Stock Exchange Inc.,issuer
+6479,0.01,Japan,MINEBEA MITSUMI INC,,Japan,Tokyo Stock Exchange,issuer
+7270,0.01,Japan,SUBARU,,Japan,Tokyo Stock Exchange,issuer
+RBI,0.01,Austria,RAIFFEISEN BANK INTERNATIONAL AG,,Austria,Wiener Boerse Ag,issuer
+MAERSK A,0.01,Denmark,A P MOLLER MAERSK,,Denmark,Omx Nordic Exchange Copenhagen A/S,issuer
+LYC,0.01,Australia,LYNAS RARE EARTHS,,Australia,Asx - All Markets,issuer
+MRO,0.01,United Kingdom,MELROSE INDUSTRIES PLC,,United Kingdom,London Stock Exchange,issuer
+FOX,0.01,US,FOX CLASS B,,United States,NASDAQ,issuer
+CTVA,0.01,US,CORTEVA,,United States,New York Stock Exchange Inc.,issuer
+LI,0.01,France,KLEPIERRE REIT SA,,France,Nyse Euronext - Euronext Paris,issuer
+HEN,0.01,Germany,HENKEL AG,,Germany,Xetra,issuer
+8331,0.01,Japan,CHIBA BANK,,Japan,Tokyo Stock Exchange,issuer
+9107,0.01,Japan,KAWASAKI KISEN LTD,,Japan,Tokyo Stock Exchange,issuer
+8113,0.01,Japan,UNICHARM,,Japan,Tokyo Stock Exchange,issuer
+ADDT B,0.01,Sweden,ADDTECH CLASS B,,Sweden,Nasdaq Omx Nordic,issuer
+TRYG,0.01,Denmark,TRYG,,Denmark,Omx Nordic Exchange Copenhagen A/S,issuer
+FGR,0.01,France,EIFFAGE SA,,France,Nyse Euronext - Euronext Paris,issuer
+ABF,0.01,United Kingdom,ASSOCIATED BRITISH FOODS PLC,,United Kingdom,London Stock Exchange,issuer
+CA,0.01,France,CARREFOUR SA,,France,Nyse Euronext - Euronext Paris,issuer
+LIFCO B,0.01,Sweden,LIFCO CLASS B,,Sweden,Nasdaq Omx Nordic,issuer
+4689,0.01,Japan,LY CORP,,Japan,Tokyo Stock Exchange,issuer
+PME,0.01,Australia,PRO MEDICUS,,Australia,Asx - All Markets,issuer
+SRT3,0.01,Germany,SARTORIUS PREF AG,,Germany,Xetra,issuer
+GIL,0.01,CA,GILDAN ACTIVEWEAR,,Canada,Toronto Stock Exchange,issuer
+GET,0.01,France,GETLINK,,France,Nyse Euronext - Euronext Paris,issuer
+STN,0.01,CA,STANTEC,,Canada,Toronto Stock Exchange,issuer
+9021,0.01,Japan,WEST JAPAN RAILWAY,,Japan,Tokyo Stock Exchange,issuer
+GBLB,0.01,Belgium,GROUPE BRUXELLES LAMBERT NV,,Belgium,Nyse Euronext - Euronext Brussels,issuer
+H78,0.01,Hong Kong,HONGKONG LAND HOLDINGS LTD,,Hong Kong,Singapore Exchange,issuer
+TIGO,0.01,Sweden,MILLICOM INTERNATIONAL CELLULAR,,Sweden,NASDAQ,issuer
+7309,0.01,Japan,SHIMANO INC,,Japan,Tokyo Stock Exchange,issuer
+ASX,0.01,Australia,ASX LTD,,Australia,Asx - All Markets,issuer
+3659,0.01,Japan,NEXON,,Japan,Tokyo Stock Exchange,issuer
+CTC.A,0.01,CA,CANADIAN TIRE LTD CLASS A,,Canada,Toronto Stock Exchange,issuer
+5706,0.01,Japan,MITSUI KINZOKU LIMITED LTD,,Japan,Tokyo Stock Exchange,issuer
+C6L,0.01,Singapore,SINGAPORE AIRLINES LTD,,Singapore,Singapore Exchange,issuer
+8593,0.01,Japan,MITSUBISHI HC CAPITAL INC,,Japan,Tokyo Stock Exchange,issuer
+SYENS,0.01,Belgium,SYENSQO NV,,Belgium,Nyse Euronext - Euronext Brussels,issuer
+SGH,0.01,Australia,SGH,,Australia,Asx - All Markets,issuer
+7912,0.01,Japan,DAI NIPPON PRINTING,,Japan,Tokyo Stock Exchange,issuer
+GRAB,0.01,Singapore,GRAB HOLDINGS CLASS A,,Singapore,NASDAQ,issuer
+SOL,0.01,Australia,WASHINGTON H SOUL PATTINSON & COMP,,Australia,Asx - All Markets,issuer
+CON,0.01,Germany,CONTINENTAL AG,,Germany,Xetra,issuer
+HARL,0.01,Israel,HAREL INSURANCE INVESTMENTS & FINA,,Israel,Tel Aviv Stock Exchange,issuer
+SCA B,0.01,Sweden,SVENSKA CELLULOSA B,,Sweden,Nasdaq Omx Nordic,issuer
+4612,0.01,Japan,NIPPON PAINT HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+INDU A,0.01,Sweden,INDUSTRIVARDEN A,,Sweden,Nasdaq Omx Nordic,issuer
+KESKOB,0.01,Finland,KESKO CLASS B,,Finland,Nasdaq Omx Helsinki Ltd.,issuer
+ELI,0.01,Belgium,ELIA GROUP SA,,Belgium,Nyse Euronext - Euronext Brussels,issuer
+EPI B,0.01,Sweden,EPIROC CLASS B,,Sweden,Nasdaq Omx Nordic,issuer
+FRES,0.01,United Kingdom,FRESNILLO PLC,,United Kingdom,London Stock Exchange,issuer
+REA,0.01,Australia,REA GROUP LTD,,Australia,Asx - All Markets,issuer
+INDU C,0.01,Sweden,INDUSTRIVARDEN SERIES,,Sweden,Nasdaq Omx Nordic,issuer
+XRO,0.01,Australia,XERO,,Australia,Asx - All Markets,issuer
+IAG,0.01,Spain,INTERNATIONAL AIRLINES GROUP,,Spain,Bolsa De Madrid,issuer
+SBRY,0.01,United Kingdom,SAINSBURY(J) PLC,,United Kingdom,London Stock Exchange,issuer
+INDT,0.01,Sweden,INDUTRADE,,Sweden,Nasdaq Omx Nordic,issuer
+KBX,0.01,Germany,KNORR BREMSE AG,,Germany,Xetra,issuer
+ZAL,0.01,Germany,ZALANDO,,Germany,Xetra,issuer
+1803,0.01,Japan,SHIMIZU,,Japan,Tokyo Stock Exchange,issuer
+AM,0.01,France,DASSAULT AVIATION SA,,France,Nyse Euronext - Euronext Paris,issuer
+LUG,0.01,CA,LUNDIN GOLD,,Canada,Toronto Stock Exchange,issuer
+HOT,0.01,Germany,HOCHTIEF AG,,Germany,Xetra,issuer
+WTC,0.01,Australia,WISETECH GLOBAL,,Australia,Asx - All Markets,issuer
+SDLF,0.01,United Kingdom,STANDARD LIFE PLC,,United Kingdom,London Stock Exchange,issuer
+WISE,0.01,United Kingdom,WISE PLC CLASS A,,United Kingdom,London Stock Exchange,issuer
+ORK,0.01,Norway,ORKLA,,Norway,Oslo Bors Asa,issuer
+CAE,0.01,CA,CAE,,Canada,Toronto Stock Exchange,issuer
+8136,0.01,Japan,SANRIO,,Japan,Tokyo Stock Exchange,issuer
+SECU B,0.01,Sweden,SECURITAS B,,Sweden,Nasdaq Omx Nordic,issuer
+9042,0.01,Japan,HANKYU HANSHIN HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+BCE,0.01,CA,BCE INC,,Canada,Toronto Stock Exchange,issuer
+FUTU,0.01,Hong Kong,FUTU HOLDINGS ADR,,Hong Kong,NASDAQ,issuer
+7202,0.01,Japan,ISUZU MOTORS,,Japan,Tokyo Stock Exchange,issuer
+DIM,0.01,France,SARTORIUS STEDIM BIOTECH SA,,France,Nyse Euronext - Euronext Paris,issuer
+EVK,0.01,Germany,EVONIK INDUSTRIES AG,,Germany,Xetra,issuer
+SCHN,0.01,Switzerland,SCHINDLER HOLDING AG,,Switzerland,SIX Swiss Exchange,issuer
+IFT,0.01,New Zealand,INFRATIL LTD,,New Zealand,New Zealand Exchange Ltd,issuer
+NEM,0.01,Germany,NEMETSCHEK,,Germany,Xetra,issuer
+6823,0.01,Hong Kong,HKT TRUST AND HKT UNITS,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+SW,0.01,France,SODEXO SA,,France,Nyse Euronext - Euronext Paris,issuer
+PLS,0.01,Australia,PLS GROUP LTD,,Australia,Asx - All Markets,issuer
+HAG,0.01,Germany,HENSOLDT AG,,Germany,Xetra,issuer
+VER,0.01,Austria,VERBUND AG,,Austria,Wiener Boerse Ag,issuer
+6525,0.01,Japan,KOKUSAI ELECTRIC,,Japan,Tokyo Stock Exchange,issuer
+DHER,0.01,Germany,DELIVERY HERO,,Germany,Xetra,issuer
+SPX,0.01,United Kingdom,SPIRAX GROUP PLC,,United Kingdom,London Stock Exchange,issuer
+4151,0.01,Japan,KYOWA KIRIN LTD,,Japan,Tokyo Stock Exchange,issuer
+IG,0.01,Italy,ITALGAS,,Italy,Borsa Italiana,issuer
+ABVX,0.01,France,ABIVAX SA,,France,Nyse Euronext - Euronext Paris,issuer
+LHA,0.01,Germany,DEUTSCHE LUFTHANSA AG,,Germany,Xetra,issuer
+RNO,0.01,France,RENAULT SA,,France,Nyse Euronext - Euronext Paris,issuer
+27,0.01,Hong Kong,GALAXY ENTERTAINMENT GROUP,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+VAR,0.01,Norway,VAR ENERGI,,Norway,Oslo Bors Asa,issuer
+8951,0.01,Japan,NIPPON BUILDING FUND REIT,,Japan,Tokyo Stock Exchange,issuer
+CLAR,0.01,Singapore,CAPITALAND ASCENDAS REIT,,Singapore,Singapore Exchange,issuer
+12,0.01,Hong Kong,HENDERSON LAND DEVELOPMENT LTD,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+EFN,0.01,CA,ELEMENT FLEET MANAGEMENT,,Canada,Toronto Stock Exchange,issuer
+JMT,0.01,Portugal,JERONIMO MARTINS SA,,Portugal,Nyse Euronext - Euronext Lisbon,issuer
+IDR,0.01,Spain,INDRA SISTEMAS SA,,Spain,Bolsa De Madrid,issuer
+NIBE B,0.01,Sweden,NIBE INDUSTRIER CLASS B,,Sweden,Nasdaq Omx Nordic,issuer
+4755,0.01,Japan,RAKUTEN GROUP,,Japan,Tokyo Stock Exchange,issuer
+ALO,0.01,France,ALSTOM SA,,France,Nyse Euronext - Euronext Paris,issuer
+GJF,0.01,Norway,GJENSIDIGE FORSIKRING,,Norway,Oslo Bors Asa,issuer
+SAP,0.01,CA,SAPUTO,,Canada,Toronto Stock Exchange,issuer
+7259,0.01,Japan,AISIN,,Japan,Tokyo Stock Exchange,issuer
+288,0.01,Hong Kong,WH GROUP,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+BMED,0.01,Italy,BANCA MEDIOLANUM,,Italy,Borsa Italiana,issuer
+DEMANT,0.01,Denmark,DEMANT,,Denmark,Omx Nordic Exchange Copenhagen A/S,issuer
+IPN,0.01,France,IPSEN SA,,France,Nyse Euronext - Euronext Paris,issuer
+LAND,0.01,United Kingdom,LAND SECURITIES GROUP REIT PLC,,United Kingdom,London Stock Exchange,issuer
+AVOL,0.01,Switzerland,AVOLTA AG,,Switzerland,SIX Swiss Exchange,issuer
+AIA,0.01,New Zealand,AUCKLAND INTERNATIONAL AIRPORT,,New Zealand,New Zealand Exchange Ltd,issuer
+AMUN,0.01,France,AMUNDI SA,,France,Nyse Euronext - Euronext Paris,issuer
+BARN,0.01,Switzerland,BARRY CALLEBAUT AG,,Switzerland,SIX Swiss Exchange,issuer
+P911,0.01,Germany,DR ING HC F PORSCHE PRF AG,,Germany,Xetra,issuer
+5201,0.01,Japan,AGC,,Japan,Tokyo Stock Exchange,issuer
+IGM,0.01,CA,IGM FINANCIAL INC,,Canada,Toronto Stock Exchange,issuer
+OPCE,0.01,Israel,OPC ENERGY LTD,,Israel,Tel Aviv Stock Exchange,issuer
+9602,0.01,Japan,TOHO (TOKYO),,Japan,Tokyo Stock Exchange,issuer
+ANA,0.01,Spain,ACCIONA,,Spain,Bolsa De Madrid,issuer
+VCX,0.01,Australia,VICINITY CENTRES,,Australia,Asx - All Markets,issuer
+UHR,0.01,Switzerland,THE SWATCH GROUP AG,,Switzerland,SIX Swiss Exchange,issuer
+1878,0.01,Japan,DAITO TRUST CONSTRUCTION LTD,,Japan,Tokyo Stock Exchange,issuer
+STERV,0.01,Finland,STORA ENSO CLASS R,,Finland,Nasdaq Omx Helsinki Ltd.,issuer
+CU,0.01,CA,CANADIAN UTILITIES LTD CLASS A,,Canada,Toronto Stock Exchange,issuer
+BEIJ B,0.01,Sweden,BEIJER REF CLASS B,,Sweden,Nasdaq Omx Nordic,issuer
+TUB,0.01,Belgium,FINANCIERE DE TUBIZE SA,,Belgium,Nyse Euronext - Euronext Brussels,issuer
+EMP.A,0.01,CA,EMPIRE CLASS A,,Canada,Toronto Stock Exchange,issuer
+6586,0.01,Japan,MAKITA,,Japan,Tokyo Stock Exchange,issuer
+PAH3,0.01,Germany,PORSCHE AUTOMOBIL HOLDING PREF,,Germany,Xetra,issuer
+ELISA,0.01,Finland,ELISA,,Finland,Nasdaq Omx Helsinki Ltd.,issuer
+3003,0.01,Japan,HULIC,,Japan,Tokyo Stock Exchange,issuer

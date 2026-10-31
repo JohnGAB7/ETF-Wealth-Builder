@@ -1,0 +1,8 @@
+as_of: '2026-10-29'
+source: iShares holdings download
+weight_unit: percent
+generated_by: src.data.holdings_import
+rows: 3267
+file_weight_pct: 99.49
+us_ca_weight_pct: 65.75
+us_ca_with_ticker_pct: 65.75

@@ -18,3 +18,14 @@ def _no_real_email(monkeypatch, tmp_path):
 
     monkeypatch.setattr("smtplib.SMTP", _forbidden)
     monkeypatch.setattr("smtplib.SMTP_SSL", _forbidden)
+
+
+@pytest.fixture(autouse=True)
+def _fresh_provider_caches():
+    """Per-run provider memos must not leak from one test to the next."""
+    from src.data import news_data, valueinvesting
+    valueinvesting._VALUATION_CACHE.clear()
+    news_data._RECOMMENDATION_CACHE.clear()
+    yield
+    valueinvesting._VALUATION_CACHE.clear()
+    news_data._RECOMMENDATION_CACHE.clear()

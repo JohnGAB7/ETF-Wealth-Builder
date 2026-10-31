@@ -1,0 +1,3727 @@
+ticker,weight,market,name,isin,location,exchange,ticker_source
+NVDA,5.0056,US,NVIDIA Corp,,US,,issuer
+AAPL,4.5232,US,Apple Inc,,US,,issuer
+MSFT,3.5799,US,Microsoft Corp,,US,,issuer
+AMZN,2.2704,US,Amazon.com Inc,,US,,issuer
+GOOGL,1.9129,US,Alphabet Inc,,US,,issuer
+2330,1.7816,TW,Taiwan Semiconductor Manufacturing Co Ltd,,TW,,issuer
+AVGO,1.5351,US,Broadcom Inc,,US,,issuer
+META,1.4976,US,Meta Platforms Inc,,US,,issuer
+GOOG,1.4923,US,Alphabet Inc,,US,,issuer
+MU,1.1285,US,Micron Technology Inc,,US,,issuer
+TSLA,0.974,US,Tesla Inc,,US,,issuer
+AMD,0.9354,US,Advanced Micro Devices Inc,,US,,issuer
+LLY,0.8679,US,Eli Lilly & Co,,US,,issuer
+005930,0.8619,KR,Samsung Electronics Co Ltd,,KR,,issuer
+JPM,0.8284,US,JPMorgan Chase & Co,,US,,issuer
+000660,0.7087,KR,SK hynix Inc,,KR,,issuer
+BRK/B,0.7028,US,Berkshire Hathaway Inc,,US,,issuer
+ASML,0.6588,NL,ASML Holding NV,,NL,,issuer
+XOM,0.6282,US,ExxonMobil Holdings Corp,,US,,issuer
+JNJ,0.598,US,Johnson & Johnson,,US,,issuer
+V,0.5704,US,Visa Inc,,US,,issuer
+INTC,0.5164,US,Intel Corp,,US,,issuer
+ABBV,0.4349,US,AbbVie Inc,,US,,issuer
+WMT,0.4277,US,Walmart Inc,,US,,issuer
+MA,0.417,US,Mastercard Inc,,US,,issuer
+CSCO,0.3992,US,Cisco Systems Inc,,US,,issuer
+PLTR,0.3906,US,Palantir Technologies Inc,,US,,issuer
+LRCX,0.3864,US,Lam Research Corp,,US,,issuer
+AMAT,0.3815,US,Applied Materials Inc,,US,,issuer
+COST,0.3777,US,Costco Wholesale Corp,,US,,issuer
+CVX,0.3534,US,Chevron Corp,,US,,issuer
+CAT,0.3461,US,Caterpillar Inc,,US,,issuer
+MRK,0.3377,US,Merck & Co Inc,,US,,issuer
+BAC,0.3328,US,Bank of America Corp,,US,,issuer
+700,0.3239,HK,Tencent Holdings Ltd,,HK,,issuer
+HSBA,0.319,GB,HSBC Holdings PLC,,GB,,issuer
+PG,0.3161,US,Procter & Gamble Co/The,,US,,issuer
+KO,0.3113,US,Coca-Cola Co/The,,US,,issuer
+UNH,0.311,US,UnitedHealth Group Inc,,US,,issuer
+GE,0.303,US,General Electric Co,,US,,issuer
+PANW,0.3014,US,Palo Alto Networks Inc,,US,,issuer
+PM,0.2788,US,Philip Morris International Inc,,US,,issuer
+NFLX,0.2713,US,Netflix Inc,,US,,issuer
+ROP,0.2699,CH,Roche Holding AG,,CH,,issuer
+HD,0.2651,US,Home Depot Inc/The,,US,,issuer
+SHEL,0.2577,GB,Shell PLC,,GB,,issuer
+NOVN,0.2516,CH,Novartis AG,,CH,,issuer
+CRWD,0.2501,US,Crowdstrike Holdings Inc,,US,,issuer
+RY,0.2473,CA,Royal Bank of Canada,,CA,,issuer
+9988,0.2416,HK,Alibaba Group Holding Ltd,,HK,,issuer
+GEV,0.2408,US,GE Vernova Inc,,US,,issuer
+8306,0.2407,JP,Mitsubishi UFJ Financial Group Inc,,JP,,issuer
+KLAC,0.2401,US,KLA Corp,,US,,issuer
+TXN,0.2396,US,Texas Instruments Inc,,US,,issuer
+SNDK,0.2381,US,Sandisk Corp,,US,,issuer
+TMO,0.2346,US,Thermo Fisher Scientific Inc,,US,,issuer
+RTX,0.2344,US,RTX Corp,,US,,issuer
+AZN,0.2297,GB,AstraZeneca PLC,,GB,,issuer
+WFC,0.2273,US,Wells Fargo & Co,,US,,issuer
+ORCL,0.2214,US,Oracle Corp,,US,,issuer
+NESN,0.2195,CH,Nestle SA,,CH,,issuer
+MRVL,0.2169,US,Marvell Technology Inc,,US,,issuer
+2454,0.2142,TW,MediaTek Inc,,TW,,issuer
+AMGN,0.2138,US,Amgen Inc,,US,,issuer
+SIE,0.213,DE,Siemens AG,,DE,,issuer
+LIN,0.2046,US,Linde PLC,,US,,issuer
+BHP,0.2025,AU,BHP Group Ltd,,AU,,issuer
+ANET,0.2001,US,Arista Networks Inc,,US,,issuer
+MS,0.1964,US,Morgan Stanley,,US,,issuer
+C,0.1951,US,Citigroup Inc,,US,,issuer
+APH,0.1948,US,Amphenol Corp,,US,,issuer
+IBM,0.1945,US,International Business Machines Corp,,US,,issuer
+STX,0.1945,US,Seagate Technology Holdings PLC,,US,,issuer
+SAP,0.1938,DE,SAP SE,,DE,,issuer
+SAN,0.1916,ES,Banco Santander SA,,ES,,issuer
+QCOM,0.1828,US,QUALCOMM Inc,,US,,issuer
+7203,0.1825,JP,Toyota Motor Corp,,JP,,issuer
+ADI,0.1821,US,Analog Devices Inc,,US,,issuer
+TD,0.1812,CA,Toronto-Dominion Bank/The,,CA,,issuer
+VZ,0.1797,US,Verizon Communications Inc,,US,,issuer
+GILD,0.1734,US,Gilead Sciences Inc,,US,,issuer
+DIS,0.1725,US,Walt Disney Co/The,,US,,issuer
+GS,0.1719,US,Goldman Sachs Group Inc/The,,US,,issuer
+CRM,0.1714,US,Salesforce Inc,,US,,issuer
+SU,0.1697,FR,Schneider Electric SE,,FR,,issuer
+ALV,0.1657,DE,Allianz SE,,DE,,issuer
+CBA,0.1643,AU,Commonwealth Bank of Australia,,AU,,issuer
+SHOP,0.1636,CA,Shopify Inc,,CA,,issuer
+TTE,0.1612,FR,TotalEnergies SE,,FR,,issuer
+PEP,0.1612,US,PepsiCo Inc,,US,,issuer
+ABT,0.1599,US,Abbott Laboratories,,US,,issuer
+ETN,0.1568,US,Eaton Corp PLC,,US,,issuer
+DE,0.1556,US,Deere & Co,,US,,issuer
+8035,0.1556,JP,Tokyo Electron Ltd,,JP,,issuer
+WELL,0.1556,US,Welltower Inc,,US,,issuer
+T,0.1539,US,AT&T Inc,,US,,issuer
+BRK/A,0.1536,US,Berkshire Hathaway Inc,,US,,issuer
+RR,0.1531,GB,Rolls-Royce Holdings PLC,,GB,,issuer
+MCD,0.1528,US,McDonald's Corp,,US,,issuer
+UNP,0.1519,US,Union Pacific Corp,,US,,issuer
+PFE,0.1518,US,Pfizer Inc,,US,,issuer
+DELL,0.1517,US,Dell Technologies Inc,,US,,issuer
+AXP,0.1515,US,American Express Co,,US,,issuer
+8316,0.1511,JP,Sumitomo Mitsui Financial Group Inc,,JP,,issuer
+BLK,0.1509,US,BlackRock Funding Inc/DE,,US,,issuer
+BBVA,0.149,ES,Banco Bilbao Vizcaya Argentaria SA,,ES,,issuer
+SCHW,0.149,US,Charles Schwab Corp/The,,US,,issuer
+6857,0.1481,JP,Advantest Corp,,JP,,issuer
+NEE,0.1475,US,NextEra Energy Inc,,US,,issuer
+WDC,0.147,US,Western Digital Corp,,US,,issuer
+6501,0.1453,JP,Hitachi Ltd,,JP,,issuer
+9984,0.1451,JP,SoftBank Group Corp,,JP,,issuer
+IBE,0.1434,ES,Iberdrola SA,,ES,,issuer
+COP,0.1429,US,ConocoPhillips,,US,,issuer
+UBSG,0.1392,CH,UBS Group AG,,CH,,issuer
+ABBN,0.1373,CH,ABB Ltd,,CH,,issuer
+TJX,0.1363,US,TJX Cos Inc/The,,US,,issuer
+6098,0.135,JP,Recruit Holdings Co Ltd,,JP,,issuer
+ISRG,0.1345,US,Intuitive Surgical Inc,,US,,issuer
+BA,0.1329,US,Boeing Co/The,,US,,issuer
+6758,0.1329,JP,Sony Group Corp,,JP,,issuer
+DHR,0.1313,US,Danaher Corp,,US,,issuer
+NOW,0.1291,US,ServiceNow Inc,,US,,issuer
+UCG,0.1271,IT,UniCredit SpA,,IT,,issuer
+285A,0.1262,JP,Kioxia Holdings Corp,,JP,,issuer
+UBER,0.1261,US,Uber Technologies Inc,,US,,issuer
+VRTX,0.1252,US,Vertex Pharmaceuticals Inc,,US,,issuer
+8411,0.1246,JP,Mizuho Financial Group Inc,,JP,,issuer
+SAF,0.123,FR,Safran SA,,FR,,issuer
+BMY,0.1196,US,Bristol-Myers Squibb Co,,US,,issuer
+AIR,0.1185,FR,Airbus SE,,FR,,issuer
+ULVR,0.1185,GB,Unilever PLC,,GB,,issuer
+BKNG,0.1183,US,Booking Holdings Inc,,US,,issuer
+ENR,0.1158,DE,Siemens Energy AG,,DE,,issuer
+NOVOB,0.1153,DK,Novo Nordisk A/S,,DK,,issuer
+GLW,0.1147,US,Corning Inc,,US,,issuer
+NEM,0.1146,US,Newmont Corp,,US,,issuer
+PLD,0.1141,US,Prologis Inc,,US,,issuer
+PGR,0.1139,US,Progressive Corp/The,,US,,issuer
+DBS,0.1125,SG,DBS Group Holdings Ltd,,SG,,issuer
+PH,0.1123,US,Parker-Hannifin Corp,,US,,issuer
+COF,0.1114,US,Capital One Financial Corp,,US,,issuer
+SPGI,0.1095,US,S&P Global Inc,,US,,issuer
+005935,0.1092,KR,Samsung Electronics Co Ltd,,KR,,issuer
+MPC,0.109,US,Marathon Petroleum Corp,,US,,issuer
+BMO,0.109,CA,Bank of Montreal,,CA,,issuer
+2308,0.1087,TW,Delta Electronics Inc,,TW,,issuer
+BP,0.1077,GB,BP PLC,,GB,,issuer
+CFR,0.1072,CH,Cie Financiere Richemont SA,,CH,,issuer
+SNOW,0.1071,US,Snowflake Inc,,US,,issuer
+ACN,0.1061,US,Accenture PLC,,US,,issuer
+ISP,0.106,IT,Intesa Sanpaolo SpA,,IT,,issuer
+CB,0.1058,US,Chubb Ltd,,US,,issuer
+VLO,0.105,US,Valero Energy Corp,,US,,issuer
+MO,0.1049,US,Altria Group Inc,,US,,issuer
+939,0.1049,HK,China Construction Bank Corp,,HK,,issuer
+NET,0.1046,US,Cloudflare Inc,,US,,issuer
+BATS,0.104,GB,British American Tobacco PLC,,GB,,issuer
+BNS,0.1039,CA,Bank of Nova Scotia/The,,CA,,issuer
+CVS,0.1032,US,CVS Health Corp,,US,,issuer
+MDT,0.1026,US,Medtronic PLC,,US,,issuer
+MC,0.1022,FR,LVMH Moet Hennessy Louis Vuitton SE,,FR,,issuer
+FTNT,0.1021,US,Fortinet Inc,,US,,issuer
+SBUX,0.1003,US,Starbucks Corp,,US,,issuer
+BNP,0.099,FR,BNP Paribas SA,,FR,,issuer
+LMT,0.0971,US,Lockheed Martin Corp,,US,,issuer
+LOW,0.097,US,Lowe's Cos Inc,,US,,issuer
+ENB,0.0968,CA,Enbridge Inc,,CA,,issuer
+ADP,0.0966,US,Automatic Data Processing Inc,,US,,issuer
+PSX,0.0965,US,Phillips 66,,US,,issuer
+DTE,0.0956,DE,Deutsche Telekom AG,,DE,,issuer
+INGA,0.0956,NL,ING Groep NV,,NL,,issuer
+MCK,0.0953,US,McKesson Corp,,US,,issuer
+FCX,0.0948,US,Freeport-McMoRan Inc,,US,,issuer
+TT,0.0942,US,Trane Technologies PLC,,US,,issuer
+CM,0.0937,CA,Canadian Imperial Bank of Commerce,,CA,,issuer
+EQIX,0.0932,US,Equinix Inc,,US,,issuer
+CNQ,0.0918,CA,Canadian Natural Resources Ltd,,CA,,issuer
+ZURN,0.0917,CH,Zurich Insurance Group AG,,CH,,issuer
+8058,0.0911,JP,Mitsubishi Corp,,JP,,issuer
+1299,0.091,HK,AIA Group Ltd,,HK,,issuer
+2317,0.0907,TW,Hon Hai Precision Industry Co Ltd,,TW,,issuer
+6861,0.0906,JP,Keyence Corp,,JP,,issuer
+GSK,0.0906,GB,GSK PLC,,GB,,issuer
+PWR,0.0906,US,Quanta Services Inc,,US,,issuer
+BNY,0.0905,US,Bank of New York Mellon Corp/The,,US,,issuer
+ADBE,0.0902,US,Adobe Inc,,US,,issuer
+RIO,0.0892,GB,Rio Tinto PLC,,GB,,issuer
+SYK,0.0891,US,Stryker Corp,,US,,issuer
+8766,0.0891,JP,Tokio Marine Holdings Inc,,JP,,issuer
+AEM,0.089,CA,Agnico Eagle Mines Ltd,,CA,,issuer
+CME,0.0887,US,CME Group Inc,,US,,issuer
+SO,0.0887,US,Southern Co/The,,US,,issuer
+VRT,0.0875,US,Vertiv Holdings Co,,US,,issuer
+SPCX,0.0871,US,Space Exploration Technologies Corp,,US,,issuer
+CDNS,0.0859,US,Cadence Design Systems Inc,,US,,issuer
+JCI,0.085,US,Johnson Controls International plc,,US,,issuer
+DDOG,0.0849,US,Datadog Inc,,US,,issuer
+HWM,0.0848,US,Howmet Aerospace Inc,,US,,issuer
+8001,0.0837,JP,ITOCHU Corp,,JP,,issuer
+USB,0.0831,US,US Bancorp,,US,,issuer
+IFX,0.083,DE,Infineon Technologies AG,,DE,,issuer
+SAN,0.0827,FR,Sanofi SA,,FR,,issuer
+6981,0.0824,JP,Murata Manufacturing Co Ltd,,JP,,issuer
+EMR,0.0823,US,Emerson Electric Co,,US,,issuer
+PNC,0.0819,US,PNC Financial Services Group Inc/The,,US,,issuer
+HOOD,0.0815,US,Robinhood Markets Inc,,US,,issuer
+HDFCB,0.0811,IN,HDFC Bank Ltd,,IN,,issuer
+DUK,0.0809,US,Duke Energy Corp,,US,,issuer
+CSX,0.0807,US,CSX Corp,,US,,issuer
+HPE,0.0799,US,Hewlett Packard Enterprise Co,,US,,issuer
+ICE,0.0798,US,Intercontinental Exchange Inc,,US,,issuer
+MMM,0.0794,US,3M Co,,US,,issuer
+NAB,0.0792,AU,National Australia Bank Ltd,,AU,,issuer
+RELIANCE,0.0791,IN,Reliance Industries Ltd,,IN,,issuer
+MRSH,0.079,US,Marsh & McLennan Cos Inc,,US,,issuer
+GD,0.079,US,General Dynamics Corp,,US,,issuer
+BX,0.0781,US,Blackstone Inc,,US,,issuer
+WMB,0.0778,US,Williams Cos Inc/The,,US,,issuer
+SU,0.0775,CA,Suncor Energy Inc,,CA,,issuer
+WBC,0.0773,AU,Westpac Banking Corp,,AU,,issuer
+9983,0.0769,JP,Fast Retailing Co Ltd,,JP,,issuer
+LLOY,0.0767,GB,Lloyds Banking Group PLC,,GB,,issuer
+BARC,0.0765,GB,Barclays PLC,,GB,,issuer
+SNPS,0.0764,US,Synopsys Inc,,US,,issuer
+CEG,0.0761,US,Constellation Energy Corp,,US,,issuer
+MELI,0.0761,US,MercadoLibre Inc,,US,,issuer
+OCBC,0.0752,SG,Oversea-Chinese Banking Corp Ltd,,SG,,issuer
+ANZ,0.0751,AU,ANZ Group Holdings Ltd,,AU,,issuer
+TMUS,0.0748,US,T-Mobile US Inc,,US,,issuer
+7011,0.0745,JP,Mitsubishi Heavy Industries Ltd,,JP,,issuer
+CMCSA,0.0733,US,Comcast Corp,,US,,issuer
+1398,0.0732,HK,Industrial & Commercial Bank of China Ltd,,HK,,issuer
+SPOT,0.0726,US,Spotify Technology SA,,US,,issuer
+8031,0.0725,JP,Mitsui & Co Ltd,,JP,,issuer
+MAR,0.0725,US,Marriott International Inc/MD,,US,,issuer
+CP,0.0724,CA,Canadian Pacific Kansas City Ltd,,CA,,issuer
+BE,0.0718,US,Bloom Energy Corp,,US,,issuer
+AMT,0.0718,US,American Tower Corp,,US,,issuer
+BA,0.0717,GB,BAE Systems PLC,,GB,,issuer
+EOG,0.0712,US,EOG Resources Inc,,US,,issuer
+LITE,0.0711,US,Lumentum Holdings Inc,,US,,issuer
+GLEN,0.0708,GB,Glencore PLC,,GB,,issuer
+CS,0.0708,FR,AXA SA,,FR,,issuer
+ENEL,0.0707,IT,Enel SpA,,IT,,issuer
+REGN,0.0706,US,Regeneron Pharmaceuticals Inc,,US,,issuer
+402340,0.0705,KR,SK Square Co Ltd,,KR,,issuer
+BN,0.0704,CA,Brookfield Corp,,CA,,issuer
+SHW,0.0703,US,Sherwin-Williams Co/The,,US,,issuer
+WBD,0.0701,US,Warner Bros Discovery Inc,,US,,issuer
+INTU,0.0698,US,Intuit Inc,,US,,issuer
+MDLZ,0.0697,US,Mondelez International Inc,,US,,issuer
+WM,0.0697,US,Waste Management Inc,,US,,issuer
+MUV2,0.0695,DE,Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen,,DE,,issuer
+NG,0.0694,GB,National Grid PLC,,GB,,issuer
+MSI,0.0694,US,Motorola Solutions Inc,,US,,issuer
+ICICIBC,0.069,IN,ICICI Bank Ltd,,IN,,issuer
+3711,0.0689,TW,ASE Technology Holding Co Ltd,,TW,,issuer
+SLB,0.0689,US,SLB Ltd,,US,,issuer
+TRV,0.0687,US,Travelers Cos Inc/The,,US,,issuer
+ROST,0.0684,US,Ross Stores Inc,,US,,issuer
+TGT,0.0684,US,Target Corp,,US,,issuer
+NWG,0.068,GB,NatWest Group PLC,,GB,,issuer
+CMI,0.0672,US,Cummins Inc,,US,,issuer
+ITW,0.0669,US,Illinois Tool Works Inc,,US,,issuer
+CI,0.0667,US,Cigna Group/The,,US,,issuer
+MFC,0.0665,CA,Manulife Financial Corp,,CA,,issuer
+ORLY,0.0661,US,O'Reilly Automotive Inc,,US,,issuer
+APP,0.0658,US,AppLovin Corp,,US,,issuer
+HLT,0.0658,US,Hilton Worldwide Holdings Inc,,US,,issuer
+NSC,0.0655,US,Norfolk Southern Corp,,US,,issuer
+UPS,0.0654,US,United Parcel Service Inc,,US,,issuer
+DASH,0.0649,US,DoorDash Inc,,US,,issuer
+ABI,0.0649,BE,Anheuser-Busch InBev SA/NV,,BE,,issuer
+HON,0.0646,US,Honeywell International Inc,,US,,issuer
+4063,0.0644,JP,Shin-Etsu Chemical Co Ltd,,JP,,issuer
+MCO,0.0644,US,Moody's Corp,,US,,issuer
+ELV,0.0644,US,Elevance Health Inc,,US,,issuer
+GM,0.0644,US,General Motors Co,,US,,issuer
+ECL,0.0638,US,Ecolab Inc,,US,,issuer
+ABX,0.0635,CA,Barrick Mining Corp,,CA,,issuer
+CL,0.0635,US,Colgate-Palmolive Co,,US,,issuer
+RCL,0.063,US,Royal Caribbean Cruises Ltd,,US,,issuer
+6503,0.0626,JP,Mitsubishi Electric Corp,,JP,,issuer
+ITX,0.0624,ES,Industria de Diseno Textil SA,,ES,,issuer
+CTAS,0.0622,US,Cintas Corp,,US,,issuer
+6752,0.0622,JP,Panasonic Holdings Corp,,JP,,issuer
+ABNB,0.0621,US,Airbnb Inc,,US,,issuer
+AI,0.0616,FR,Air Liquide SA,,FR,,issuer
+CNR,0.0616,CA,Canadian National Railway Co,,CA,,issuer
+DLR,0.0612,US,Digital Realty Trust Inc,,US,,issuer
+BSX,0.0609,US,Boston Scientific Corp,,US,,issuer
+NOC,0.0607,US,Northrop Grumman Corp,,US,,issuer
+MPWR,0.0607,US,Monolithic Power Systems Inc,,US,,issuer
+KEYS,0.06,US,Keysight Technologies Inc,,US,,issuer
+AEP,0.0598,US,American Electric Power Co Inc,,US,,issuer
+HCA,0.0596,US,HCA Healthcare Inc,,US,,issuer
+TER,0.0593,US,Teradyne Inc,,US,,issuer
+TEL,0.0592,US,TE Connectivity PLC,,US,,issuer
+KKR,0.0589,US,KKR & Co Inc,,US,,issuer
+SPG,0.0588,US,Simon Property Group Inc,,US,,issuer
+009150,0.0587,KR,Samsung Electro-Mechanics Co Ltd,,KR,,issuer
+CSL,0.0583,AU,CSL Ltd,,AU,,issuer
+NDA,0.0583,FI,Nordea Bank Abp,,FI,,issuer
+URI,0.0582,US,United Rentals Inc,,US,,issuer
+FDX,0.058,US,FedEx Corp,,US,,issuer
+DBK,0.0579,DE,Deutsche Bank AG,,DE,,issuer
+WPM,0.0575,CA,Wheaton Precious Metals Corp,,CA,,issuer
+388,0.0574,HK,Hong Kong Exchanges & Clearing Ltd,,HK,,issuer
+PDD,0.0573,US,PDD Holdings Inc,,US,,issuer
+TDG,0.0569,US,TransDigm Group Inc,,US,,issuer
+APD,0.0567,US,Air Products and Chemicals Inc,,US,,issuer
+AAL,0.0563,GB,Anglo American PLC,,GB,,issuer
+4502,0.0562,JP,Takeda Pharmaceutical Co Ltd,,JP,,issuer
+TRP,0.0561,CA,TC Energy Corp,,CA,,issuer
+ARGX,0.0559,BE,Argenx SE,,BE,,issuer
+NXPI,0.0558,US,NXP Semiconductors NV,,US,,issuer
+WES,0.0553,AU,Wesfarmers Ltd,,AU,,issuer
+AJG,0.0551,US,Arthur J Gallagher & Co,,US,,issuer
+DHL,0.055,DE,DHL AG,,DE,,issuer
+KMI,0.055,US,Kinder Morgan Inc,,US,,issuer
+REL,0.0547,GB,RELX PLC,,GB,,issuer
+DB1,0.0547,DE,Deutsche Boerse AG,,DE,,issuer
+MNST,0.0546,US,Monster Beverage Corp,,US,,issuer
+DG,0.0545,FR,Vinci SA,,FR,,issuer
+FIX,0.0544,US,Comfort Systems USA Inc,,US,,issuer
+AON,0.0542,US,Aon PLC,,US,,issuer
+BHARTI,0.054,IN,Bharti Airtel Ltd,,IN,,issuer
+MQG,0.0539,AU,Macquarie Group Ltd,,AU,,issuer
+ALL,0.0535,US,Allstate Corp/The,,US,,issuer
+TFC,0.0533,US,Truist Financial Corp,,US,,issuer
+TRGP,0.0531,US,Targa Resources Corp,,US,,issuer
+2303,0.0531,TW,United Microelectronics Corp,,TW,,issuer
+3988,0.0531,HK,Bank of China Ltd,,HK,,issuer
+AME,0.053,US,AMETEK Inc,,US,,issuer
+PCAR,0.053,US,PACCAR Inc,,US,,issuer
+LNG,0.0529,US,Cheniere Energy Inc,,US,,issuer
+COR,0.0527,US,Cencora Inc,,US,,issuer
+NTRA,0.0526,US,Natera Inc,,US,,issuer
+FAST,0.0524,US,Fastenal Co,,US,,issuer
+1810,0.0522,HK,Xiaomi Corp,,HK,,issuer
+STAN,0.0522,GB,Standard Chartered PLC,,GB,,issuer
+CRH,0.0519,US,CRH PLC,,US,,issuer
+BKR,0.0519,US,Baker Hughes Co,,US,,issuer
+5803,0.0512,JP,Fujikura Ltd,,JP,,issuer
+ALAB,0.051,US,Astera Labs Inc,,US,,issuer
+BAYN,0.0508,DE,Bayer AG,,DE,,issuer
+GWW,0.0505,US,WW Grainger Inc,,US,,issuer
+OKE,0.0503,US,ONEOK Inc,,US,,issuer
+MSTR,0.0502,US,Strategy Inc,,US,,issuer
+DVN,0.0501,US,Devon Energy Corp,,US,,issuer
+COHR,0.0501,US,Coherent Corp,,US,,issuer
+GLE,0.0499,FR,Societe Generale SA,,FR,,issuer
+OR,0.0495,FR,L'Oreal SA,,FR,,issuer
+D,0.0495,US,Dominion Energy Inc,,US,,issuer
+SRE,0.0488,US,Sempra,,US,,issuer
+7974,0.0487,JP,Nintendo Co Ltd,,JP,,issuer
+CABK,0.0486,ES,CaixaBank SA,,ES,,issuer
+CTVA,0.0485,US,Corteva Inc,,US,,issuer
+CAH,0.0484,US,Cardinal Health Inc,,US,,issuer
+NOKIA,0.0484,FI,Nokia Oyj,,FI,,issuer
+ENI,0.0482,IT,Eni SpA,,IT,,issuer
+BAS,0.0482,DE,BASF SE,,DE,,issuer
+7741,0.0482,JP,Hoya Corp,,JP,,issuer
+NUE,0.0481,US,Nucor Corp,,US,,issuer
+9433,0.048,JP,KDDI Corp,,JP,,issuer
+LSEG,0.0479,GB,London Stock Exchange Group PLC,,GB,,issuer
+RMS,0.0479,FR,Hermes International SCA,,FR,,issuer
+MET,0.0473,US,MetLife Inc,,US,,issuer
+3690,0.0471,HK,Meituan,,HK,,issuer
+2914,0.047,JP,Japan Tobacco Inc,,JP,,issuer
+EL,0.0467,FR,EssilorLuxottica SA,,FR,,issuer
+NBIS,0.0466,US,Nebius Group NV,,US,,issuer
+RWE,0.0466,DE,RWE AG,,DE,,issuer
+O,0.0464,US,Realty Income Corp,,US,,issuer
+CIEN,0.0464,US,Ciena Corp,,US,,issuer
+BDX,0.0463,US,Becton Dickinson & Co,,US,,issuer
+RHM,0.0462,DE,Rheinmetall AG,,DE,,issuer
+CPG,0.046,GB,Compass Group PLC,,GB,,issuer
+ROK,0.046,US,Rockwell Automation Inc,,US,,issuer
+EW,0.0459,US,Edwards Lifesciences Corp,,US,,issuer
+APO,0.0458,US,Apollo Global Management Inc,,US,,issuer
+HONA,0.0458,US,Honeywell Aerospace Inc,,US,,issuer
+RJHI,0.0458,SA,Al Rajhi Bank,,SA,,issuer
+WAB,0.0456,US,Westinghouse Air Brake Technologies Corp,,US,,issuer
+SREN,0.0456,CH,Swiss Re AG,,CH,,issuer
+AFL,0.0456,US,Aflac Inc,,US,,issuer
+A,0.0454,US,Agilent Technologies Inc,,US,,issuer
+3037,0.0453,TW,Unimicron Technology Corp,,TW,,issuer
+VOLVB,0.0453,SE,Volvo AB,,SE,,issuer
+ASM,0.0452,NL,ASM International NV,,NL,,issuer
+ANG,0.0452,ZA,Anglogold Ashanti Plc,,ZA,,issuer
+LONN,0.0451,CH,Lonza Group AG,,CH,,issuer
+PRX,0.0451,NL,Prosus NV,,NL,,issuer
+DGE,0.0449,GB,Diageo PLC,,GB,,issuer
+VALE3,0.0447,BR,Vale SA,,BR,,issuer
+F,0.0447,US,Ford Motor Co,,US,,issuer
+STT,0.0444,US,State Street Corp,,US,,issuer
+GRMN,0.0442,US,Garmin Ltd,,US,,issuer
+VST,0.0439,US,Vistra Corp,,US,,issuer
+PSA,0.0438,US,Public Storage,,US,,issuer
+ITUB4,0.0436,BR,Itau Unibanco Holding SA,,BR,,issuer
+HUM,0.0435,US,Humana Inc,,US,,issuer
+INVEB,0.0434,SE,Investor AB,,SE,,issuer
+AZO,0.0434,US,AutoZone Inc,,US,,issuer
+9999,0.0434,HK,NetEase Inc,,HK,,issuer
+8053,0.043,JP,Sumitomo Corp,,JP,,issuer
+VMRK,0.0428,US,Vivmark Residential,,US,,issuer
+ETR,0.0427,US,Entergy Corp,,US,,issuer
+RIO,0.0424,AU,Rio Tinto Ltd,,AU,,issuer
+FNV,0.0424,CA,Franco-Nevada Corp,,CA,,issuer
+CLS,0.0422,CA,Celestica Inc,,CA,,issuer
+IQV,0.0421,US,IQVIA Holdings Inc,,US,,issuer
+8002,0.0421,JP,Marubeni Corp,,JP,,issuer
+G,0.0421,IT,Generali,,IT,,issuer
+FITB,0.042,US,Fifth Third Bancorp,,US,,issuer
+AMP,0.0418,US,Ameriprise Financial Inc,,US,,issuer
+2383,0.0416,TW,Elite Material Co Ltd,,TW,,issuer
+2318,0.0416,HK,Ping An Insurance Group Co of China Ltd,,HK,,issuer
+NU,0.0412,US,NU Holdings Ltd/Cayman Islands,,US,,issuer
+VEEV,0.0412,US,Veeva Systems Inc,,US,,issuer
+RACE,0.0411,IT,Ferrari NV,,IT,,issuer
+PETR3,0.0411,BR,Petroleo Brasileiro SA,,BR,,issuer
+LHX,0.041,US,L3Harris Technologies Inc,,US,,issuer
+9434,0.0409,JP,SoftBank Corp,,JP,,issuer
+8591,0.0409,JP,ORIX Corp,,JP,,issuer
+EBAY,0.0409,US,eBay Inc,,US,,issuer
+ADSK,0.0409,US,Autodesk Inc,,US,,issuer
+VTR,0.0408,US,Ventas Inc,,US,,issuer
+5802,0.0407,JP,Sumitomo Electric Industries Ltd,,JP,,issuer
+CARR,0.0407,US,Carrier Global Corp,,US,,issuer
+CVNA,0.0406,US,Carvana Co,,US,,issuer
+6301,0.0404,JP,Komatsu Ltd,,JP,,issuer
+105560,0.0404,KR,KB Financial Group Inc,,KR,,issuer
+XEL,0.0403,US,Xcel Energy Inc,,US,,issuer
+BN,0.0402,FR,Danone SA,,FR,,issuer
+TWLO,0.0402,US,Twilio Inc,,US,,issuer
+8750,0.0402,JP,Daiichi Life Group Inc,,JP,,issuer
+6702,0.0401,JP,Fujitsu Ltd,,JP,,issuer
+RKT,0.0401,GB,Reckitt Benckiser Group PLC,,GB,,issuer
+WAT,0.0401,US,Waters Corp,,US,,issuer
+FERG,0.04,US,Ferguson Enterprises Inc,,US,,issuer
+CVE,0.04,CA,Cenovus Energy Inc,,CA,,issuer
+WDS,0.0394,AU,Woodside Energy Group Ltd,,AU,,issuer
+TEVA,0.0393,IL,Teva Pharmaceutical Industries Ltd,,IL,,issuer
+SLF,0.0392,CA,Sun Life Financial Inc,,CA,,issuer
+NKE,0.039,US,NIKE Inc,,US,,issuer
+ILMN,0.0389,US,Illumina Inc,,US,,issuer
+LR,0.0388,FR,Legrand SA,,FR,,issuer
+EOAN,0.0388,DE,E.ON SE,,DE,,issuer
+IDXX,0.0387,US,IDEXX Laboratories Inc,,US,,issuer
+COIN,0.0386,US,Coinbase Global Inc,,US,,issuer
+7267,0.0385,JP,Honda Motor Co Ltd,,JP,,issuer
+8725,0.0383,JP,MS&AD Insurance Group Holdings Inc,,JP,,issuer
+MCHP,0.0383,US,Microchip Technology Inc,,US,,issuer
+CSU,0.0383,CA,Constellation Software Inc/Canada,,CA,,issuer
+CMG,0.0383,US,Chipotle Mexican Grill Inc,,US,,issuer
+RSG,0.0382,US,Republic Services Inc,,US,,issuer
+P,0.0381,US,Everpure Inc,,US,,issuer
+ATD,0.0381,CA,Alimentation Couche-Tard Inc,,CA,,issuer
+TSCO,0.038,GB,Tesco PLC,,GB,,issuer
+EXC,0.038,US,Exelon Corp,,US,,issuer
+HOLN,0.0379,CH,Holcim AG,,CH,,issuer
+PRY,0.0379,IT,Prysmian SpA,,IT,,issuer
+OXY,0.0376,US,Occidental Petroleum Corp,,US,,issuer
+NDAQ,0.0375,US,Nasdaq Inc,,US,,issuer
+FLEX,0.0374,US,Flex Ltd,,US,,issuer
+ATCOB,0.0374,SE,Atlas Copco AB,,SE,,issuer
+INVEA,0.0374,SE,Investor AB,,SE,,issuer
+AIG,0.0374,US,American International Group Inc,,US,,issuer
+SSE,0.0373,GB,SSE PLC,,GB,,issuer
+7182,0.0371,JP,Japan Post Bank Co Ltd,,JP,,issuer
+UOB,0.0371,SG,United Overseas Bank Ltd,,SG,,issuer
+1303,0.0371,TW,Nan Ya Plastics Corp,,TW,,issuer
+KDP,0.0369,US,Keurig Dr Pepper Inc,,US,,issuer
+PRU,0.0366,US,Prudential Financial Inc,,US,,issuer
+WCN,0.0365,CA,Waste Connections Inc,,CA,,issuer
+RVMD,0.0364,US,REVOLUTION Medicines Inc,,US,,issuer
+ATCOA,0.0364,SE,Atlas Copco AB,,SE,,issuer
+SAND,0.0364,SE,Sandvik AB,,SE,,issuer
+2891,0.0363,TW,CTBC Financial Holding Co Ltd,,TW,,issuer
+HLN,0.0363,GB,Haleon PLC,,GB,,issuer
+RKLB,0.0362,US,Rocket Lab Corp,,US,,issuer
+ADM,0.0361,US,Archer-Daniels-Midland Co,,US,,issuer
+TTWO,0.0361,US,Take-Two Interactive Software Inc,,US,,issuer
+ARAMCO,0.0359,SA,Saudi Arabian Oil Co,,SA,,issuer
+2881,0.0358,TW,Fubon Financial Holding Co Ltd,,TW,,issuer
+WDAY,0.0358,US,Workday Inc,,US,,issuer
+EBS,0.0357,AT,Erste Group Bank AG,,AT,,issuer
+FANG,0.0357,US,Diamondback Energy Inc,,US,,issuer
+GMG,0.0356,AU,Goodman Group,,AU,,issuer
+6701,0.0356,JP,NEC Corp,,JP,,issuer
+MSCI,0.0355,US,MSCI Inc,,US,,issuer
+YUM,0.0355,US,Yum! Brands Inc,,US,,issuer
+REP,0.0354,ES,Repsol SA,,ES,,issuer
+CBRE,0.0352,US,CBRE Group Inc,,US,,issuer
+SIKA,0.0351,CH,Sika AG,,CH,,issuer
+IBKR,0.0351,US,Interactive Brokers Group Inc,,US,,issuer
+SYY,0.035,US,Sysco Corp,,US,,issuer
+GMEXICOB,0.0349,MX,Grupo Mexico SAB de CV,,MX,,issuer
+CCO,0.0349,CA,Cameco Corp,,CA,,issuer
+WEC,0.0348,US,WEC Energy Group Inc,,US,,issuer
+LUMI,0.0345,IL,Bank Leumi Le-Israel BM,,IL,,issuer
+GALD,0.0343,CH,Galderma Group AG,,CH,,issuer
+6762,0.0343,JP,TDK Corp,,JP,,issuer
+ROP,0.0343,US,Roper Technologies Inc,,US,,issuer
+DANSKE,0.0342,DK,Danske Bank A/S,,DK,,issuer
+ED,0.0342,US,Consolidated Edison Inc,,US,,issuer
+SGO,0.0342,FR,Cie de Saint-Gobain SA,,FR,,issuer
+6367,0.0339,JP,Daikin Industries Ltd,,JP,,issuer
+INFO,0.0338,IN,Infosys Ltd,,IN,,issuer
+PETR4,0.0338,BR,Petroleo Brasileiro SA,,BR,,issuer
+6723,0.0337,JP,Renesas Electronics Corp,,JP,,issuer
+8630,0.0336,JP,Sompo Holdings Inc,,JP,,issuer
+XYZ,0.0333,US,Block Inc,,US,,issuer
+SDZ,0.0332,CH,Sandoz Group AG,,CH,,issuer
+DHI,0.0332,US,DR Horton Inc,,US,,issuer
+8308,0.0331,JP,Resona Holdings Inc,,JP,,issuer
+OKTA,0.0328,US,Okta Inc,,US,,issuer
+1211,0.0326,HK,BYD Co Ltd,,HK,,issuer
+STMMI,0.0325,IT,STMicroelectronics NV,,IT,,issuer
+4062,0.0325,JP,Ibiden Co Ltd,,JP,,issuer
+EME,0.0323,US,EMCOR Group Inc,,US,,issuer
+ASSAB,0.0323,SE,Assa Abloy AB,,SE,,issuer
+BIIB,0.0323,US,Biogen Inc,,US,,issuer
+FFH,0.0322,CA,Fairfax Financial Holdings Ltd,,CA,,issuer
+III,0.0322,GB,3i Group PLC,,GB,,issuer
+6954,0.0321,JP,FANUC Corp,,JP,,issuer
+NTR,0.032,CA,Nutrien Ltd,,CA,,issuer
+MBG,0.032,DE,Mercedes-Benz Group AG,,DE,,issuer
+2882,0.0319,TW,Cathay Financial Holding Co Ltd,,TW,,issuer
+3017,0.0319,TW,Asia Vital Components Co Ltd,,TW,,issuer
+DOL,0.0318,CA,Dollarama Inc,,CA,,issuer
+DSV,0.0318,DK,DSV A/S,,DK,,issuer
+4578,0.0318,JP,Otsuka Holdings Co Ltd,,JP,,issuer
+POLI,0.0317,IL,Bank Hapoalim BM,,IL,,issuer
+992,0.0317,HK,Lenovo Group Ltd,,HK,,issuer
+9618,0.0315,HK,JD.com Inc,,HK,,issuer
+ORA,0.0315,FR,Orange SA,,FR,,issuer
+KVUE,0.0315,US,Kenvue Inc,,US,,issuer
+055550,0.0314,KR,Shinhan Financial Group Co Ltd,,KR,,issuer
+005380,0.0314,KR,Hyundai Motor Co,,KR,,issuer
+KR,0.0313,US,Kroger Co/The,,US,,issuer
+KBC,0.0309,BE,KBC Group NV,,BE,,issuer
+POW,0.0308,CA,Power Corp of Canada,,CA,,issuer
+MTD,0.0308,US,Mettler-Toledo International Inc,,US,,issuer
+ALNY,0.0308,US,Alnylam Pharmaceuticals Inc,,US,,issuer
+NPN,0.0307,ZA,Naspers Ltd,,ZA,,issuer
+DXCM,0.0307,US,Dexcom Inc,,US,,issuer
+HIG,0.0305,US,Hartford Financial Services Group Inc/The,,US,,issuer
+AXON,0.0304,US,Axon Enterprise Inc,,US,,issuer
+4568,0.0304,JP,Daiichi Sankyo Co Ltd,,JP,,issuer
+RMD,0.0303,US,ResMed Inc,,US,,issuer
+IRM,0.0303,US,Iron Mountain Inc,,US,,issuer
+8015,0.0303,JP,Toyota Tsusho Corp,,JP,,issuer
+PEG,0.0303,US,Public Service Enterprise Group Inc,,US,,issuer
+TECK/B,0.0302,CA,Teck Resources Ltd,,CA,,issuer
+CRDO,0.0302,US,Credo Technology Group Holding Ltd,,US,,issuer
+ODFL,0.0302,US,Old Dominion Freight Line Inc,,US,,issuer
+WOW,0.0302,AU,Woolworths Group Ltd,,AU,,issuer
+GFI,0.0302,ZA,Gold Fields Ltd,,ZA,,issuer
+NTAP,0.0299,US,NetApp Inc,,US,,issuer
+GIVN,0.0299,CH,Givaudan SA,,CH,,issuer
+SWEDA,0.0295,SE,Swedbank AB,,SE,,issuer
+KMB,0.0295,US,Kimberly-Clark Corp,,US,,issuer
+PYPL,0.0295,US,PayPal Holdings Inc,,US,,issuer
+6146,0.0295,JP,Disco Corp,,JP,,issuer
+2887,0.0295,TW,TS Financial Holding Co Ltd,,TW,,issuer
+ACGL,0.0294,US,Arch Capital Group Ltd,,US,,issuer
+VMC,0.0293,US,Vulcan Materials Co,,US,,issuer
+AD,0.0293,NL,Koninklijke Ahold Delhaize NV,,NL,,issuer
+MTB,0.0293,US,M&T Bank Corp,,US,,issuer
+IFC,0.0291,CA,Intact Financial Corp,,CA,,issuer
+PAYX,0.0291,US,Paychex Inc,,US,,issuer
+CBK,0.029,DE,Commerzbank AG,,DE,,issuer
+AIRB,0.0289,FR,Air Liquide SA,,FR,,issuer
+ON,0.0289,US,ON Semiconductor Corp,,US,,issuer
+8309,0.0288,JP,Sumitomo Mitsui Trust Group Inc,,JP,,issuer
+PRU,0.0287,GB,Prudential PLC,,GB,,issuer
+CCL,0.0287,US,Carnival Corp Ltd,,US,,issuer
+STLD,0.0286,US,Steel Dynamics Inc,,US,,issuer
+ALC,0.0286,CH,Alcon AG,,CH,,issuer
+SNB,0.0286,SA,Saudi National Bank/The,,SA,,issuer
+CNC,0.0285,US,Centene Corp,,US,,issuer
+HBAN,0.0284,US,Huntington Bancshares Inc/OH,,US,,issuer
+VOD,0.0284,GB,Vodafone Group PLC,,GB,,issuer
+OTP,0.0284,HU,OTP Bank Nyrt,,HU,,issuer
+EQT,0.0284,US,EQT Corp,,US,,issuer
+SEBA,0.0283,SE,Skandinaviska Enskilda Banken AB,,SE,,issuer
+NTRS,0.0282,US,Northern Trust Corp,,US,,issuer
+ZTS,0.0282,US,Zoetis Inc,,US,,issuer
+9432,0.0282,JP,NTT Inc,,JP,,issuer
+CCI,0.0282,US,Crown Castle Inc,,US,,issuer
+EXPE,0.0279,US,Expedia Group Inc,,US,,issuer
+2802,0.0279,JP,Ajinomoto Co Inc,,JP,,issuer
+6971,0.0278,JP,Kyocera Corp,,JP,,issuer
+TDY,0.0278,US,Teledyne Technologies Inc,,US,,issuer
+VWS,0.0277,DK,Vestas Wind Systems A/S,,DK,,issuer
+EXR,0.0276,US,Extra Space Storage Inc,,US,,issuer
+K,0.0276,CA,Kinross Gold Corp,,CA,,issuer
+PKO,0.0275,PL,Powszechna Kasa Oszczednosci Bank Polski SA,,PL,,issuer
+JBL,0.0275,US,Jabil Inc,,US,,issuer
+SLHN,0.0274,CH,Swiss Life Holding AG,,CH,,issuer
+ABN,0.0274,NL,ABN AMRO Bank NV,,NL,,issuer
+MM,0.0274,IN,Mahindra & Mahindra Ltd,,IN,,issuer
+GEHC,0.0273,US,GE HealthCare Technologies Inc,,US,,issuer
+SUNB,0.0273,GB,Sunbelt Rentals Holdings Inc,,GB,,issuer
+HPQ,0.0272,US,HP Inc,,US,,issuer
+MT,0.0271,NL,ArcelorMittal SA,,NL,,issuer
+EXPN,0.027,GB,Experian PLC,,GB,,issuer
+4503,0.0269,JP,Astellas Pharma Inc,,JP,,issuer
+IR,0.0269,US,Ingersoll Rand Inc,,US,,issuer
+8604,0.0268,JP,Nomura Holdings Inc,,JP,,issuer
+BAF,0.0268,IN,Bajaj Finance Ltd,,IN,,issuer
+AXSB,0.0268,IN,Axis Bank Ltd,,IN,,issuer
+6178,0.0267,JP,Japan Post Holdings Co Ltd,,JP,,issuer
+GFNORTEO,0.0266,MX,Grupo Financiero Banorte SAB de CV,,MX,,issuer
+5108,0.0265,JP,Bridgestone Corp,,JP,,issuer
+FSR,0.0265,ZA,FirstRand Ltd,,ZA,,issuer
+CBOE,0.0265,US,Cboe Global Markets Inc,,US,,issuer
+FTS,0.0264,CA,Fortis Inc/Canada,,CA,,issuer
+MLM,0.0263,US,Martin Marietta Materials Inc,,US,,issuer
+FER,0.0262,ES,Ferrovial NV,,ES,,issuer
+2382,0.0262,TW,Quanta Computer Inc,,TW,,issuer
+LT,0.0262,IN,Larsen & Toubro Ltd,,IN,,issuer
+UCB,0.0262,BE,UCB SA,,BE,,issuer
+ENGI,0.0261,FR,Engie SA,,FR,,issuer
+AIBG,0.026,IE,AIB Group PLC,,IE,,issuer
+TCL,0.026,AU,Transurban Group,,AU,,issuer
+WSM,0.0258,US,Williams-Sonoma Inc,,US,,issuer
+3382,0.0257,JP,Seven & i Holdings Co Ltd,,JP,,issuer
+KFH,0.0257,KW,Kuwait Finance House KSCP,,KW,,issuer
+CFG,0.0257,US,Citizens Financial Group Inc,,US,,issuer
+ADYEN,0.0257,NL,Adyen NV,,NL,,issuer
+2269,0.0256,HK,Wuxi Biologics Cayman Inc,,HK,,issuer
+WST,0.0256,US,West Pharmaceutical Services Inc,,US,,issuer
+CRWV,0.0255,US,Coreweave Inc,,US,,issuer
+AV,0.0255,GB,Aviva PLC,,GB,,issuer
+RBLX,0.0255,US,ROBLOX Corp,,US,,issuer
+LYV,0.0255,US,Live Nation Entertainment Inc,,US,,issuer
+CTSH,0.0254,US,Cognizant Technology Solutions Corp,,US,,issuer
+2345,0.0253,TW,Accton Technology Corp,,TW,,issuer
+034020,0.0252,KR,Doosan Enerbility Co Ltd,,KR,,issuer
+MDB,0.0252,US,MongoDB Inc,,US,,issuer
+ADS,0.0251,DE,adidas AG,,DE,,issuer
+WTW,0.0251,US,Willis Towers Watson PLC,,US,,issuer
+Q,0.025,US,Qnity Electronics Inc,,US,,issuer
+HAL,0.025,US,Halliburton Co,,US,,issuer
+857,0.025,HK,PetroChina Co Ltd,,HK,,issuer
+2327,0.025,TW,Yageo Corp,,TW,,issuer
+TSEM,0.0249,IL,Tower Semiconductor Ltd,,IL,,issuer
+FFIV,0.0249,US,F5 Inc,,US,,issuer
+2628,0.0248,HK,China Life Insurance Co Ltd,,HK,,issuer
+4519,0.0248,JP,Chugai Pharmaceutical Co Ltd,,JP,,issuer
+PCG,0.0247,US,PG&E Corp,,US,,issuer
+DGX,0.0247,US,Quest Diagnostics Inc,,US,,issuer
+BMPS,0.0246,IT,Banca Monte dei Paschi di Siena SpA,,IT,,issuer
+FAB,0.0246,AE,First Abu Dhabi Bank PJSC,,AE,,issuer
+EQNR,0.0245,NO,Equinor ASA,,NO,,issuer
+8802,0.0245,JP,Mitsubishi Estate Co Ltd,,JP,,issuer
+086790,0.0245,KR,Hana Financial Group Inc,,KR,,issuer
+AEE,0.0245,US,Ameren Corp,,US,,issuer
+EXPD,0.0244,US,Expeditors International of Washington Inc,,US,,issuer
+2388,0.0244,HK,BOC Hong Kong Holdings Ltd,,HK,,issuer
+4901,0.0244,JP,FUJIFILM Holdings Corp,,JP,,issuer
+1,0.0244,HK,CK Hutchison Holdings Ltd,,HK,,issuer
+CPAY,0.0244,US,Corpay Inc,,US,,issuer
+DG,0.0244,US,Dollar General Corp,,US,,issuer
+SYF,0.0243,US,Synchrony Financial,,US,,issuer
+BAP,0.0243,US,Credicorp Ltd,,US,,issuer
+RF,0.0243,US,Regions Financial Corp,,US,,issuer
+AMS,0.0242,ES,Amadeus IT Group SA,,ES,,issuer
+ERICB,0.0241,SE,Telefonaktiebolaget LM Ericsson,,SE,,issuer
+ML,0.024,FR,Cie Generale des Etablissements Michelin SCA,,FR,,issuer
+8801,0.024,JP,Mitsui Fudosan Co Ltd,,JP,,issuer
+2899,0.0239,HK,Zijin Mining Group Co Ltd,,HK,,issuer
+2885,0.0239,TW,Yuanta Financial Holding Co Ltd,,TW,,issuer
+ST,0.0236,SG,Singapore Telecommunications Ltd,,SG,,issuer
+PPL,0.0236,CA,Pembina Pipeline Corp,,CA,,issuer
+LH,0.0236,US,Labcorp Holdings Inc,,US,,issuer
+9961,0.0235,HK,Trip.com Group Ltd,,HK,,issuer
+IMB,0.0235,GB,Imperial Brands PLC,,GB,,issuer
+DTE,0.0234,US,DTE Energy Co,,US,,issuer
+ZM,0.0233,US,Zoom Video Communications Inc,,US,,issuer
+PST,0.0233,IT,Poste Italiane SpA,,IT,,issuer
+CHD,0.0233,US,Church & Dwight Co Inc,,US,,issuer
+BPE,0.0232,IT,BPER Banca SPA,,IT,,issuer
+HUBB,0.0231,US,Hubbell Inc,,US,,issuer
+NBK,0.0231,KW,National Bank of Kuwait SAKP,,KW,,issuer
+PPG,0.023,US,PPG Industries Inc,,US,,issuer
+KMB,0.023,IN,Kotak Mahindra Bank Ltd,,IN,,issuer
+AWK,0.0229,US,American Water Works Co Inc,,US,,issuer
+PUB,0.0229,FR,Publicis Groupe SA,,FR,,issuer
+PPL,0.0229,US,PPL Corp,,US,,issuer
+CPRT,0.0229,US,Copart Inc,,US,,issuer
+012450,0.0229,KR,Hanwha Aerospace Co Ltd,,KR,,issuer
+QSR,0.0229,CA,Restaurant Brands International Inc,,CA,,issuer
+669,0.0229,HK,Techtronic Industries Co Ltd,,HK,,issuer
+QBE,0.0229,AU,QBE Insurance Group Ltd,,AU,,issuer
+VLTO,0.0228,US,Veralto Corp,,US,,issuer
+PHM,0.0228,US,PulteGroup Inc,,US,,issuer
+DOV,0.0228,US,Dover Corp,,US,,issuer
+ULTA,0.0228,US,Ulta Beauty Inc,,US,,issuer
+5020,0.0228,JP,ENEOS Holdings Inc,,JP,,issuer
+2360,0.0228,TW,Chroma ATE Inc,,TW,,issuer
+INSM,0.0227,US,Insmed Inc,,US,,issuer
+ATO,0.0227,US,Atmos Energy Corp,,US,,issuer
+NXT,0.0227,GB,Next PLC,,GB,,issuer
+IHG,0.0227,GB,InterContinental Hotels Group PLC,,GB,,issuer
+6273,0.0227,JP,SMC Corp,,JP,,issuer
+VICI,0.0226,US,VICI Properties Inc,,US,,issuer
+3968,0.0225,HK,China Merchants Bank Co Ltd,,HK,,issuer
+HSY,0.0225,US,Hershey Co/The,,US,,issuer
+FISV,0.0225,US,Fiserv Inc,,US,,issuer
+CINF,0.0225,US,Cincinnati Financial Corp,,US,,issuer
+ALL,0.0225,AU,Aristocrat Leisure Ltd,,AU,,issuer
+LPLA,0.0225,US,LPL Financial Holdings Inc,,US,,issuer
+6160,0.0224,HK,BeOne Medicines Ltd,,HK,,issuer
+FE,0.0224,US,FirstEnergy Corp,,US,,issuer
+CNP,0.0224,US,CenterPoint Energy Inc,,US,,issuer
+9888,0.0224,HK,Baidu Inc,,HK,,issuer
+PFG,0.0223,US,Principal Financial Group Inc,,US,,issuer
+XYL,0.0223,US,Xylem Inc/NY,,US,,issuer
+7269,0.0223,JP,Suzuki Motor Corp,,JP,,issuer
+L,0.0223,CA,Loblaw Cos Ltd,,CA,,issuer
+RPRX,0.0222,US,Royalty Pharma PLC,,US,,issuer
+DNB,0.0222,NO,DNB Bank ASA,,NO,,issuer
+DTG,0.0221,DE,Daimler Truck Holding AG,,DE,,issuer
+DRI,0.0221,US,Darden Restaurants Inc,,US,,issuer
+MTX,0.022,DE,MTU Aero Engines AG,,DE,,issuer
+OTIS,0.022,US,Otis Worldwide Corp,,US,,issuer
+7751,0.0219,JP,Canon Inc,,JP,,issuer
+2884,0.0219,TW,E.Sun Financial Holding Co Ltd,,TW,,issuer
+EAND,0.0219,AE,Emirates Telecommunications Group Co PJSC,,AE,,issuer
+ES,0.0218,US,Eversource Energy,,US,,issuer
+PKN,0.0218,PL,ORLEN SA,,PL,,issuer
+GMAB,0.0218,DK,Genmab A/S,,DK,,issuer
+MAADEN,0.0218,SA,Saudi Arabian Mining Co,,SA,,issuer
+PKG,0.0217,US,Packaging Corp of America,,US,,issuer
+BIRG,0.0217,IE,Bank of Ireland Group PLC,,IE,,issuer
+SBK,0.0217,ZA,Standard Bank Group Ltd,,ZA,,issuer
+NST,0.0216,AU,Northern Star Resources Ltd,,AU,,issuer
+SAMPO,0.0216,FI,Sampo Oyj,,FI,,issuer
+TPR,0.0214,US,Tapestry Inc,,US,,issuer
+NSISB,0.0214,DK,Novonesis (Novozymes) B,,DK,,issuer
+VRSN,0.0213,US,VeriSign Inc,,US,,issuer
+EL,0.0213,US,Estee Lauder Cos Inc/The,,US,,issuer
+SMCI,0.0213,US,Super Micro Computer Inc,,US,,issuer
+VIE,0.0212,FR,Veolia Environnement SA,,FR,,issuer
+LDO,0.0211,IT,Leonardo SpA,,IT,,issuer
+HO,0.0211,FR,Thales SA,,FR,,issuer
+COL,0.0211,AU,Coles Group Ltd,,AU,,issuer
+4452,0.0211,JP,Kao Corp,,JP,,issuer
+ARES,0.021,US,Ares Management Corp,,US,,issuer
+CPI,0.0209,ZA,Capitec Limited,,ZA,,issuer
+DELTA/F,0.0209,TH,Delta Electronics Thailand PCL,,TH,,issuer
+STC,0.0209,SA,Saudi Telecom Co,,SA,,issuer
+TROW,0.0208,US,T Rowe Price Group Inc,,US,,issuer
+VACN,0.0208,CH,VAT Group AG,,CH,,issuer
+SW,0.0208,US,Smurfit Westrock PLC,,US,,issuer
+DLTR,0.0208,US,Dollar Tree Inc,,US,,issuer
+BBDC4,0.0207,BR,Banco Bradesco SA,,BR,,issuer
+HEXAB,0.0207,SE,Hexagon AB,,SE,,issuer
+DSFIR,0.0206,NL,DSM-Firmenich AG,,NL,,issuer
+CASY,0.0206,US,Casey's General Stores Inc,,US,,issuer
+NN,0.0206,NL,NN Group NV,,NL,,issuer
+9020,0.0205,JP,East Japan Railway Co,,JP,,issuer
+HEIA,0.0205,NL,Heineken NV,,NL,,issuer
+ACA,0.0205,FR,Credit Agricole SA,,FR,,issuer
+GEBN,0.0204,CH,Geberit AG,,CH,,issuer
+VRSK,0.0204,US,Verisk Analytics Inc,,US,,issuer
+7832,0.0204,JP,Bandai Namco Holdings Inc,,JP,,issuer
+OMC,0.0203,US,Omnicom Group Inc,,US,,issuer
+INCY,0.0203,US,Incyte Corp,,US,,issuer
+FEMSAUBD,0.0203,MX,Fomento Economico Mexicano SAB de CV,,MX,,issuer
+6902,0.0203,JP,Denso Corp,,JP,,issuer
+006400,0.0201,KR,Samsung SDI Co Ltd,,KR,,issuer
+BAMI,0.0201,IT,Banco BPM SpA,,IT,,issuer
+VAL,0.0201,ZA,Valterra Platinum Ltd,,ZA,,issuer
+9022,0.0201,JP,Central Japan Railway Co,,JP,,issuer
+IFF,0.02,US,International Flavors & Fragrances Inc,,US,,issuer
+RJF,0.02,US,Raymond James Financial Inc,,US,,issuer
+BMW,0.0199,DE,Bayerische Motoren Werke AG,,DE,,issuer
+1801,0.0199,HK,Innovent Biologics Inc,,HK,,issuer
+EMAAR,0.0198,AE,Emaar Properties PJSC,,AE,,issuer
+TCS,0.0198,IN,Tata Consultancy Services Ltd,,IN,,issuer
+FRE,0.0197,DE,Fresenius SE & Co KGaA,,DE,,issuer
+5401,0.0197,JP,Nippon Steel Corp,,JP,,issuer
+035420,0.0197,KR,NAVER Corp,,KR,,issuer
+LGEN,0.0197,GB,Legal & General Group PLC,,GB,,issuer
+STO,0.0197,AU,Santos Ltd,,AU,,issuer
+8267,0.0197,JP,Aeon Co Ltd,,JP,,issuer
+EIX,0.0197,US,Edison International,,US,,issuer
+AENA,0.0197,ES,Aena SME SA,,ES,,issuer
+MKL,0.0196,US,Markel Group Inc,,US,,issuer
+ZS,0.0196,US,Zscaler Inc,,US,,issuer
+FWONK,0.0196,US,Liberty Media Corp,,US,,issuer
+4543,0.0195,JP,Terumo Corp,,JP,,issuer
+2408,0.0194,TW,Nanya Technology Corp,,TW,,issuer
+CMS,0.0194,US,CMS Energy Corp,,US,,issuer
+AMCR,0.0194,US,Amcor PLC,,US,,issuer
+4661,0.0194,JP,Oriental Land Co Ltd/Japan,,JP,,issuer
+CCEP,0.0193,GB,Coca-Cola Europacific Partners PLC,,GB,,issuer
+KHC,0.0193,US,Kraft Heinz Co/The,,US,,issuer
+068270,0.0193,KR,Celltrion Inc,,KR,,issuer
+SOFI,0.0192,US,SoFi Technologies Inc,,US,,issuer
+HEI,0.0192,DE,Heidelberg Materials AG,,DE,,issuer
+2059,0.0191,TW,King Slide Works Co Ltd,,TW,,issuer
+PHIA,0.0191,NL,Koninklijke Philips NV,,NL,,issuer
+1088,0.0191,HK,China Shenhua Energy Co Ltd,,HK,,issuer
+BBD/B,0.0191,CA,Bombardier Inc,,CA,,issuer
+028260,0.019,KR,Samsung C&T Corp,,KR,,issuer
+STE,0.019,US,STERIS PLC,,US,,issuer
+1288,0.0189,HK,Agricultural Bank of China Ltd,,HK,,issuer
+SAABB,0.0189,SE,Saab AB,,SE,,issuer
+SUNP,0.0189,IN,Sun Pharmaceutical Industries Ltd,,IN,,issuer
+2883,0.0188,TW,KGI Financial Holding Co Ltd,,TW,,issuer
+SAB,0.0188,ES,Banco de Sabadell SA,,ES,,issuer
+1605,0.0188,JP,Inpex Corp,,JP,,issuer
+MRK,0.0188,DE,Merck KGaA,,DE,,issuer
+9101,0.0188,JP,Nippon Yusen KK,,JP,,issuer
+AMRZ,0.0188,CH,Amrize Ltd,,CH,,issuer
+000270,0.0188,KR,Kia Corp,,KR,,issuer
+EXE,0.0187,US,Expand Energy Corp,,US,,issuer
+SHBA,0.0186,SE,Svenska Handelsbanken AB,,SE,,issuer
+3443,0.0186,TW,Global Unichip Corp,,TW,,issuer
+NI,0.0186,US,NiSource Inc,,US,,issuer
+6669,0.0186,TW,Wiwynn Corp,,TW,,issuer
+6920,0.0185,JP,Lasertec Corp,,JP,,issuer
+CAP,0.0185,FR,Capgemini SE,,FR,,issuer
+GPN,0.0185,US,Global Payments Inc,,US,,issuer
+DOW,0.0185,US,Dow Inc,,US,,issuer
+TPL,0.0184,US,Texas Pacific Land Corp,,US,,issuer
+HBAN,0.0184,CH,Helvetia Baloise Holding AG,,CH,,issuer
+PAAS,0.0184,CA,Pan American Silver Corp,,CA,,issuer
+QNBK,0.0183,QA,Qatar National Bank QPSC,,QA,,issuer
+5274,0.0182,TW,ASPEED Technology Inc,,TW,,issuer
+NVR,0.0182,US,NVR Inc,,US,,issuer
+KEY,0.0182,US,KeyCorp,,US,,issuer
+RDDT,0.0182,US,Reddit Inc,,US,,issuer
+NRG,0.0181,US,NRG Energy Inc,,US,,issuer
+HLMA,0.0181,GB,Halma PLC,,GB,,issuer
+MAY,0.018,MY,Malayan Banking Bhd,,MY,,issuer
+ACS,0.018,ES,ACS Actividades de Construccion y Servicios SA,,ES,,issuer
+16,0.018,HK,Sun Hung Kai Properties Ltd,,HK,,issuer
+2357,0.018,TW,Asustek Computer Inc,,TW,,issuer
+SGSN,0.018,CH,SGS SA,,CH,,issuer
+2890,0.018,TW,SinoPac Financial Holdings Co Ltd,,TW,,issuer
+2886,0.018,TW,Mega Financial Holding Co Ltd,,TW,,issuer
+JBHT,0.0179,US,JB Hunt Transport Services Inc,,US,,issuer
+PBK,0.0177,MY,Public Bank Bhd,,MY,,issuer
+2,0.0177,HK,CLP Holdings Ltd,,HK,,issuer
+B3SA3,0.0177,BR,B3 SA - Brasil Bolsa Balcao,,BR,,issuer
+TTAN,0.0177,IN,Titan Co Ltd,,IN,,issuer
+6326,0.0176,JP,Kubota Corp,,JP,,issuer
+FM,0.0176,CA,First Quantum Minerals Ltd,,CA,,issuer
+ZBH,0.0176,US,Zimmer Biomet Holdings Inc,,US,,issuer
+BR,0.0175,US,Broadridge Financial Solutions Inc,,US,,issuer
+316140,0.0175,KR,Woori Financial Group Inc,,KR,,issuer
+SCMN,0.0174,CH,Swisscom AG,,CH,,issuer
+TNB,0.0174,MY,Tenaga Nasional Bhd,,MY,,issuer
+EVN,0.0173,AU,Evolution Mining Ltd,,AU,,issuer
+ALFA,0.0173,SE,Alfa Laval AB,,SE,,issuer
+BRO,0.0173,US,Brown & Brown Inc,,US,,issuer
+EVRG,0.0173,US,Evergy Inc,,US,,issuer
+CRS,0.0173,US,Carpenter Technology Corp,,US,,issuer
+MTN,0.0172,ZA,MTN Group Ltd,,ZA,,issuer
+3653,0.0171,TW,Jentech Precision Industrial Co Ltd,,TW,,issuer
+BAER,0.0171,CH,Julius Baer Group Ltd,,CH,,issuer
+SCCO,0.0171,US,Southern Copper Corp,,US,,issuer
+KRX,0.0171,IE,Kingspan Group PLC,,IE,,issuer
+2412,0.017,TW,Chunghwa Telecom Co Ltd,,TW,,issuer
+BXB,0.017,AU,Brambles Ltd,,AU,,issuer
+HNR1,0.0169,DE,Hannover Rueck SE,,DE,,issuer
+1925,0.0169,JP,Daiwa House Industry Co Ltd,,JP,,issuer
+9503,0.0169,JP,Kansai Electric Power Co Inc/The,,JP,,issuer
+BBCA,0.0168,ID,Bank Central Asia Tbk PT,,ID,,issuer
+KNEBV,0.0168,FI,Kone Oyj,,FI,,issuer
+ESLT,0.0168,IL,Elbit Systems Ltd,,IL,,issuer
+GPC,0.0167,US,Genuine Parts Co,,US,,issuer
+3231,0.0167,TW,Wistron Corp,,TW,,issuer
+CPNG,0.0167,US,Coupang Inc,,US,,issuer
+IMO,0.0167,CA,Imperial Oil Ltd,,CA,,issuer
+HUVR,0.0166,IN,Hindustan Unilever Ltd,,IN,,issuer
+FSLR,0.0166,US,First Solar Inc,,US,,issuer
+FTV,0.0166,US,Fortive Corp,,US,,issuer
+WKL,0.0166,NL,Wolters Kluwer NV,,NL,,issuer
+MSIL,0.0165,IN,Maruti Suzuki India Ltd,,IN,,issuer
+7936,0.0165,JP,Asics Corp,,JP,,issuer
+AMXB,0.0165,MX,America Movil SAB de CV,,MX,,issuer
+9735,0.0165,JP,Secom Co Ltd,,JP,,issuer
+2344,0.0165,TW,Winbond Electronics Corp,,TW,,issuer
+300750,0.0165,CN,Contemporary Amperex Technology Co Ltd,,CN,,issuer
+MG,0.0165,CA,Magna International Inc,,CA,,issuer
+8601,0.0165,JP,Daiwa Securities Group Inc,,JP,,issuer
+KPN,0.0165,NL,Koninklijke KPN NV,,NL,,issuer
+FMG,0.0165,AU,Fortescue Ltd,,AU,,issuer
+RO,0.0164,CH,Roche Holding AG,,CH,,issuer
+MKSI,0.0164,US,MKS Instruments Inc,,US,,issuer
+005490,0.0164,KR,POSCO Holdings Inc,,KR,,issuer
+FCNCA,0.0163,US,First Citizens BancShares Inc/NC,,US,,issuer
+BBY,0.0163,US,Best Buy Co Inc,,US,,issuer
+IP,0.0163,US,International Paper Co,,US,,issuer
+ANTO,0.0163,GB,Antofagasta PLC,,GB,,issuer
+SNA,0.0163,US,Snap-on Inc,,US,,issuer
+EMIRATES,0.0162,AE,Emirates NBD Bank PJSC,,AE,,issuer
+NTPC,0.0162,IN,NTPC Ltd,,IN,,issuer
+4004,0.0162,JP,Resonac Holdings Corp,,JP,,issuer
+WCP,0.0162,CA,Whitecap Resources Inc,,CA,,issuer
+KER,0.0162,FR,Kering SA,,FR,,issuer
+FIS,0.0162,US,Fidelity National Information Services Inc,,US,,issuer
+J,0.0162,US,Jacobs Solutions Inc,,US,,issuer
+SSNC,0.0162,US,SS&C Technologies Holdings Inc,,US,,issuer
+EDP,0.0161,PT,EDP SA,,PT,,issuer
+BURL,0.0161,US,Burlington Stores Inc,,US,,issuer
+3008,0.016,TW,Largan Precision Co Ltd,,TW,,issuer
+TOU,0.016,CA,Tourmaline Oil Corp,,CA,,issuer
+AXIA3,0.016,BR,Axia Energia SA,,BR,,issuer
+ESS,0.0159,US,Essex Property Trust Inc,,US,,issuer
+CDW,0.0159,US,CDW Corp/DE,,US,,issuer
+DD,0.0159,US,DuPont de Nemours Inc,,US,,issuer
+TSCO,0.0159,US,Tractor Supply Co,,US,,issuer
+INF,0.0159,GB,Informa PLC,,GB,,issuer
+032830,0.0158,KR,Samsung Life Insurance Co Ltd,,KR,,issuer
+BALL,0.0158,US,Ball Corp,,US,,issuer
+5801,0.0158,JP,Furukawa Electric Co Ltd,,JP,,issuer
+HEI/A,0.0158,US,HEICO Corp,,US,,issuer
+2503,0.0158,JP,Kirin Holdings Co Ltd,,JP,,issuer
+ESSITYB,0.0158,SE,Essity AB,,SE,,issuer
+GIS,0.0158,US,General Mills Inc,,US,,issuer
+WSP,0.0157,CA,WSP Global Inc,,CA,,issuer
+INVH,0.0157,US,Invitation Homes Inc,,US,,issuer
+LEN,0.0157,US,Lennar Corp,,US,,issuer
+SBAC,0.0156,US,SBA Communications Corp,,US,,issuer
+2328,0.0156,HK,PICC Property & Casualty Co Ltd,,HK,,issuer
+FPH,0.0156,NZ,Fisher & Paykel Healthcare Corp Ltd,,NZ,,issuer
+TATA,0.0156,IN,Tata Steel Ltd,,IN,,issuer
+2301,0.0156,TW,Lite-On Technology Corp,,TW,,issuer
+S32,0.0156,AU,South32 Ltd,,AU,,issuer
+STZ,0.0155,US,Constellation Brands Inc,,US,,issuer
+BAM,0.0155,CA,Brookfield Asset Management Ltd,,CA,,issuer
+823,0.0155,HK,Link REIT,,HK,,issuer
+WRT1V,0.0154,FI,Wartsila OYJ Abp,,FI,,issuer
+UMG,0.0154,NL,Universal Music Group NV,,NL,,issuer
+BESI,0.0154,NL,BE Semiconductor Industries NV,,NL,,issuer
+SBIN,0.0154,IN,State Bank of India,,IN,,issuer
+6988,0.0154,JP,Nitto Denko Corp,,JP,,issuer
+9104,0.0154,JP,Mitsui OSK Lines Ltd,,JP,,issuer
+CPU,0.0154,AU,Computershare Ltd,,AU,,issuer
+DSY,0.0153,FR,Dassault Systemes SE,,FR,,issuer
+LNT,0.0153,US,Alliant Energy Corp,,US,,issuer
+ICT,0.0153,PH,International Container Terminal Services Inc,,PH,,issuer
+ETERNAL,0.0153,IN,Zomato Ltd,,IN,,issuer
+UTCEM,0.0152,IN,UltraTech Cement Ltd,,IN,,issuer
+TEF,0.0152,ES,Telefonica SA,,ES,,issuer
+DAL,0.0152,US,Delta Air Lines Inc,,US,,issuer
+EFX,0.0151,US,Equifax Inc,,US,,issuer
+CIMB,0.0151,MY,CIMB Group Holdings Bhd,,MY,,issuer
+L,0.0151,US,Loews Corp,,US,,issuer
+034730,0.0151,KR,SK Inc,,KR,,issuer
+PTT/F,0.0151,TH,PTT PCL,,TH,,issuer
+DPLM,0.0151,GB,Diploma PLC,,GB,,issuer
+8697,0.0151,JP,Japan Exchange Group Inc,,JP,,issuer
+BHE,0.015,IN,Bharat Electronics Ltd,,IN,,issuer
+SHFL,0.015,IN,Shriram Finance Ltd,,IN,,issuer
+SGRO,0.0149,GB,Segro PLC,,GB,,issuer
+ETE,0.0149,GR,National Bank of Greece SA,,GR,,issuer
+NESTE,0.0149,FI,Neste Oyj,,FI,,issuer
+8795,0.0149,JP,T&D Holdings Inc,,JP,,issuer
+BOL,0.0149,SE,Boliden AB,,SE,,issuer
+VOW3,0.0149,DE,Volkswagen AG,,DE,,issuer
+SGX,0.0148,SG,Singapore Exchange Ltd,,SG,,issuer
+SUN,0.0148,AU,Suncorp Group Ltd,,AU,,issuer
+2502,0.0148,JP,Asahi Group Holdings Ltd,,JP,,issuer
+012330,0.0148,KR,Hyundai Mobis Co Ltd,,KR,,issuer
+7735,0.0148,JP,SCREEN Holdings Co Ltd,,JP,,issuer
+066570,0.0148,KR,LG Electronics Inc,,KR,,issuer
+LUN,0.0147,CA,Lundin Mining Corp,,CA,,issuer
+600519,0.0147,CN,Kweichow Moutai Co Ltd,,CN,,issuer
+7013,0.0147,JP,IHI Corp,,JP,,issuer
+IEX,0.0147,US,IDEX Corp,,US,,issuer
+HNDL,0.0147,IN,Hindalco Industries Ltd,,IN,,issuer
+PGHN,0.0146,CH,Partners Group Holding AG,,CH,,issuer
+BKT,0.0146,ES,Bankinter SA,,ES,,issuer
+9987,0.0146,HK,Yum China Holdings Inc,,HK,,issuer
+LOGN,0.0146,CH,Logitech International SA,,CH,,issuer
+EG,0.0146,US,Everest Group Ltd,,US,,issuer
+BG,0.0145,AT,BAWAG Group AG,,AT,,issuer
+SHL,0.0145,DE,Siemens Healthineers AG,,DE,,issuer
+KEP,0.0144,SG,Keppel Ltd,,SG,,issuer
+FBK,0.0144,IT,FinecoBank Banca Fineco SpA,,IT,,issuer
+ENX,0.0144,FR,Euronext NV,,FR,,issuer
+EQT,0.0144,SE,EQT AB,,SE,,issuer
+TRN,0.0143,IT,Terna - Rete Elettrica Nazionale,,IT,,issuer
+CEMEXCPO,0.0143,MX,Cemex SAB de CV,,MX,,issuer
+MDLN,0.0143,US,Medline Inc,,US,,issuer
+PHOE,0.0143,IL,Phoenix Financial Ltd,,IL,,issuer
+RBA,0.0143,CA,RB Global Inc,,CA,,issuer
+3407,0.0143,JP,Asahi Kasei Corp,,JP,,issuer
+5713,0.0142,JP,Sumitomo Metal Mining Co Ltd,,JP,,issuer
+SOON,0.0142,CH,Sonova Holding AG,,CH,,issuer
+ADCB,0.0142,AE,Abu Dhabi Commercial Bank PJSC,,AE,,issuer
+GWO,0.0142,CA,Great-West Lifeco Inc,,CA,,issuer
+BT/A,0.0142,GB,BT Group PLC,,GB,,issuer
+TIH,0.0142,CA,Toromont Industries Ltd,,CA,,issuer
+EUROB,0.0141,GR,Eurobank SA,,GR,,issuer
+LYB,0.0141,US,LyondellBasell Industries NV,,US,,issuer
+TPEIR,0.0141,GR,Piraeus Bank SA,,GR,,issuer
+FDXF,0.014,US,Fedex Freight Holding Co Inc,,US,,issuer
+AGS,0.014,BE,Ageas SA/NV,,BE,,issuer
+STE,0.014,SG,Singapore Technologies Engineering Ltd,,SG,,issuer
+PWGR,0.0139,IN,Power Grid Corp of India Ltd,,IN,,issuer
+9532,0.0139,JP,Osaka Gas Co Ltd,,JP,,issuer
+JHX,0.0139,AU,James Hardie Industries PLC,,AU,,issuer
+AGI,0.0138,CA,Alamos Gold Inc,,CA,,issuer
+ITSA4,0.0138,BR,Itausa SA,,BR,,issuer
+KYGA,0.0138,IE,Kerry Group PLC,,IE,,issuer
+KIM,0.0138,US,Kimco Realty Corp,,US,,issuer
+SUI,0.0138,US,Sun Communities Inc,,US,,issuer
+CLNX,0.0138,ES,Cellnex Telecom SA,,ES,,issuer
+GIB/A,0.0137,CA,CGI Inc,,CA,,issuer
+2892,0.0137,TW,First Financial Holding Co Ltd,,TW,,issuer
+6594,0.0137,JP,NIDEC CORP,,JP,,issuer
+386,0.0137,HK,China Petroleum & Chemical Corp,,HK,,issuer
+QIBK,0.0136,QA,Qatar Islamic Bank QPSC,,QA,,issuer
+9531,0.0136,JP,Tokyo Gas Co Ltd,,JP,,issuer
+1113,0.0135,HK,CK Asset Holdings Ltd,,HK,,issuer
+EPIB,0.0135,SE,Epiroc AB,,SE,,issuer
+WEGE3,0.0135,BR,WEG SA,,BR,,issuer
+7186,0.0135,JP,Yokohama Financial Group Inc,,JP,,issuer
+4507,0.0134,JP,Shionogi & Co Ltd,,JP,,issuer
+RI,0.0134,FR,Pernod Ricard SA,,FR,,issuer
+SBSP3,0.0134,BR,Cia de Saneamento Basico do Estado de Sao Paulo SABESP,,BR,,issuer
+BPAC11,0.0134,BR,Banco BTG Pactual SA,,BR,,issuer
+1812,0.0134,JP,Kajima Corp,,JP,,issuer
+RIVN,0.0134,US,Rivian Automotive Inc,,US,,issuer
+WPC,0.0133,US,WP Carey Inc,,US,,issuer
+000810,0.0133,KR,Samsung Fire & Marine Insurance Co Ltd,,KR,,issuer
+3665,0.0133,TW,Bizlink Holding Inc,,TW,,issuer
+6361,0.0133,JP,Ebara Corp,,JP,,issuer
+9502,0.0133,JP,Chubu Electric Power Co Inc,,JP,,issuer
+MAA,0.0133,US,Mid-America Apartment Communities Inc,,US,,issuer
+1928,0.0132,JP,Sekisui House Ltd,,JP,,issuer
+SCHP,0.0132,CH,Schindler Holding AG,,CH,,issuer
+METSO,0.0132,FI,Metso Oyj,,FI,,issuer
+HEI,0.0131,US,HEICO Corp,,US,,issuer
+7733,0.0131,JP,Olympus Corp,,JP,,issuer
+1802,0.0131,JP,Obayashi Corp,,JP,,issuer
+8830,0.0131,JP,Sumitomo Realty & Development Co Ltd,,JP,,issuer
+NTGY,0.0131,ES,Naturgy Energy Group SA,,ES,,issuer
+6383,0.0131,JP,Daifuku Co Ltd,,JP,,issuer
+IAG,0.013,AU,Insurance Australia Group Ltd,,AU,,issuer
+TXT,0.013,US,Textron Inc,,US,,issuer
+WALMEX*,0.013,MX,Wal-Mart de Mexico SAB de CV,,MX,,issuer
+KOG,0.013,NO,Kongsberg Gruppen ASA,,NO,,issuer
+2880,0.013,TW,Hua Nan Financial Holdings Co Ltd,,TW,,issuer
+TSN,0.013,US,Tyson Foods Inc,,US,,issuer
+VNA,0.013,DE,Vonovia SE,,DE,,issuer
+HCLT,0.013,IN,HCL Technologies Ltd,,IN,,issuer
+WRB,0.0129,US,W R Berkley Corp,,US,,issuer
+WY,0.0129,US,Weyerhaeuser Co,,US,,issuer
+2020,0.0128,HK,ANTA Sports Products Ltd,,HK,,issuer
+9992,0.0128,HK,Pop Mart International Group Ltd,,HK,,issuer
+4307,0.0127,JP,Nomura Research Institute Ltd,,JP,,issuer
+IAG,0.0127,CA,iA Financial Corp Inc,,CA,,issuer
+033780,0.0127,KR,KT&G Corp,,KR,,issuer
+ORG,0.0127,AU,Origin Energy Ltd,,AU,,issuer
+8331,0.0127,JP,Chiba Bank Ltd/The,,JP,,issuer
+IMI,0.0127,GB,IMI PLC,,GB,,issuer
+UU,0.0127,GB,United Utilities Group PLC,,GB,,issuer
+6223,0.0127,TW,MPI Corp,,TW,,issuer
+TRI,0.0126,CA,Thomson Reuters Corp,,CA,,issuer
+7453,0.0126,JP,Ryohin Keikaku Co Ltd,,JP,,issuer
+ALE,0.0126,PL,Allegro.eu SA,,PL,,issuer
+DSCT,0.0126,IL,Israel Discount Bank Ltd,,IL,,issuer
+SGE,0.0126,GB,Sage Group PLC/The,,GB,,issuer
+DIVI,0.0126,IN,Divi's Laboratories Ltd,,IN,,issuer
+CARLB,0.0125,DK,Carlsberg AS,,DK,,issuer
+1024,0.0125,HK,Kuaishou Technology,,HK,,issuer
+UPM,0.0125,FI,UPM-Kymmene Oyj,,FI,,issuer
+EMA,0.0125,CA,Emera Inc,,CA,,issuer
+6525,0.0125,JP,Kokusai Electric Corp,,JP,,issuer
+TELIA,0.0125,SE,Telia Co AB,,SE,,issuer
+VIK,0.0125,US,Viking Holdings Ltd,,US,,issuer
+STMN,0.0125,CH,Straumann Holding AG,,CH,,issuer
+SY1,0.0124,DE,Symrise AG,,DE,,issuer
+AKZA,0.0123,NL,Akzo Nobel NV,,NL,,issuer
+MTZ,0.0123,US,MasTec Inc,,US,,issuer
+KGH,0.0122,PL,KGHM Polska Miedz SA,,PL,,issuer
+3402,0.0122,JP,Toray Industries Inc,,JP,,issuer
+ELE,0.0121,ES,Endesa SA,,ES,,issuer
+SABIC,0.0121,SA,Saudi Basic Industries Corp,,SA,,issuer
+1216,0.0121,TW,Uni-President Enterprises Corp,,TW,,issuer
+5016,0.0121,JP,JX Advanced Metals Corp,,JP,,issuer
+EDV,0.012,GB,Endeavour Mining PLC,,GB,,issuer
+ADM,0.012,GB,Admiral Group PLC,,GB,,issuer
+SDLF,0.012,GB,Standard Life PLC,,GB,,issuer
+ADSEZ,0.012,IN,Adani Ports & Special Economic Zone Ltd,,IN,,issuer
+AKRBP,0.012,NO,Aker BP ASA,,NO,,issuer
+3481,0.012,TW,Innolux Corp,,TW,,issuer
+FICO,0.012,US,Fair Isaac Corp,,US,,issuer
+MNG,0.0119,GB,M&G PLC,,GB,,issuer
+1109,0.0119,HK,China Resources Land Ltd,,HK,,issuer
+207940,0.0119,KR,Samsung Biologics Co Ltd,,KR,,issuer
+ADANI,0.0118,IN,Adani Power Ltd,,IN,,issuer
+APNT,0.0118,IN,Asian Paints Ltd,,IN,,issuer
+2423,0.0118,HK,KE Holdings Inc,,HK,,issuer
+BBRI,0.0118,ID,Bank Rakyat Indonesia Persero Tbk PT,,ID,,issuer
+G1A,0.0117,DE,GEA Group AG,,DE,,issuer
+KBANK/F,0.0117,TH,Kasikornbank PCL,,TH,,issuer
+5831,0.0117,JP,Shizuoka Financial Group Inc,,JP,,issuer
+MRU,0.0116,CA,Metro Inc/CN,,CA,,issuer
+EMBJ3,0.0116,BR,Embraer SA,,BR,,issuer
+9766,0.0116,JP,Konami Group Corp,,JP,,issuer
+EPIA,0.0116,SE,Epiroc AB,,SE,,issuer
+CA,0.0115,FR,Carrefour SA,,FR,,issuer
+SVT,0.0115,GB,Severn Trent PLC,,GB,,issuer
+KNIN,0.0115,CH,Kuehne + Nagel International AG,,CH,,issuer
+MAERSKB,0.0115,DK,AP Moller - Maersk A/S,,DK,,issuer
+4958,0.0115,TW,Zhen Ding Technology Holding Ltd,,TW,,issuer
+URW,0.0114,FR,Unibail-Rodamco-Westfield,,FR,,issuer
+FORTUM,0.0114,FI,Fortum Oyj,,FI,,issuer
+373220,0.0114,KR,LG Energy Solution Ltd,,KR,,issuer
+COAL,0.0114,IN,Coal India Ltd,,IN,,issuer
+WN,0.0114,CA,George Weston Ltd,,CA,,issuer
+SN,0.0114,GB,Smith & Nephew PLC,,GB,,issuer
+CHTR,0.0113,US,Charter Communications Inc,,US,,issuer
+175,0.0113,HK,Geely Automobile Holdings Ltd,,HK,,issuer
+8299,0.0113,TW,Phison Electronics Corp,,TW,,issuer
+AGN,0.0112,NL,Aegon Ltd,,NL,,issuer
+ITRK,0.0112,GB,Intertek Group PLC,,GB,,issuer
+SMIN,0.0111,GB,Smiths Group PLC,,GB,,issuer
+7012,0.0111,JP,Kawasaki Heavy Industries Ltd,,JP,,issuer
+2368,0.0111,TW,Gold Circuit Electronics Ltd,,TW,,issuer
+HEN3,0.0111,DE,Henkel AG & Co KGaA,,DE,,issuer
+EIM,0.0111,IN,Eicher Motors Ltd,,IN,,issuer
+NVMI,0.0111,IL,Nova Ltd,,IL,,issuer
+GRASIM,0.0111,IN,Grasim Industries Ltd,,IN,,issuer
+4684,0.0111,JP,Obic Co Ltd,,JP,,issuer
+7167,0.011,JP,Mebuki Financial Group Inc,,JP,,issuer
+6504,0.011,JP,Fuji Electric Co Ltd,,JP,,issuer
+4188,0.011,JP,Mitsubishi Chemical Group Corp,,JP,,issuer
+6,0.011,HK,Power Assets Holdings Ltd,,HK,,issuer
+6446,0.011,TW,PharmaEssentia Corp,,TW,,issuer
+267260,0.011,KR,HD Hyundai Electric Co Ltd,,KR,,issuer
+TLS,0.0109,AU,Telstra Group Ltd,,AU,,issuer
+6274,0.0109,TW,Taiwan Union Technology Corp,,TW,,issuer
+8473,0.0109,JP,SBI Holdings Inc,,JP,,issuer
+SCG,0.0109,AU,Scentre Group,,AU,,issuer
+ALA,0.0109,CA,AltaGas Ltd,,CA,,issuer
+ADVANC/F,0.0108,TH,Advanced Info Service PCL,,TH,,issuer
+PFCIBEST,0.0108,CO,Grupo Cibest SA,,CO,,issuer
+PEO,0.0108,PL,Bank Polska Kasa Opieki SA,,PL,,issuer
+LVS,0.0107,US,Las Vegas Sands Corp,,US,,issuer
+IMP,0.0107,ZA,Impala Platinum Holdings Ltd,,ZA,,issuer
+8593,0.0107,JP,Mitsubishi HC Capital Inc,,JP,,issuer
+NWSA,0.0107,US,News Corp,,US,,issuer
+8354,0.0106,JP,Fukuoka Financial Group Inc,,JP,,issuer
+CEZ,0.0106,CZ,CEZ AS,,CZ,,issuer
+010120,0.0106,KR,LS Electric Co Ltd,,KR,,issuer
+GEN,0.0106,US,Gen Digital Inc,,US,,issuer
+BMRI,0.0106,ID,Bank Mandiri Persero Tbk PT,,ID,,issuer
+IMG,0.0106,CA,IAMGOLD Corp,,CA,,issuer
+MONC,0.0106,IT,Moncler SpA,,IT,,issuer
+IAG,0.0106,GB,International Consolidated Airlines Group SA,,GB,,issuer
+GALP,0.0106,PT,Galp Energia SGPS SA,,PT,,issuer
+EQX,0.0106,CA,Equinox Gold Corp,,CA,,issuer
+2379,0.0106,TW,Realtek Semiconductor Corp,,TW,,issuer
+2601,0.0106,HK,China Pacific Insurance Group Co Ltd,,HK,,issuer
+009540,0.0105,KR,HD Korea Shipbuilding & Offshore Engineering Co Ltd,,KR,,issuer
+AC,0.0105,FR,Accor SA,,FR,,issuer
+ABEV3,0.0105,BR,Ambev SA,,BR,,issuer
+NHY,0.0105,NO,Norsk Hydro ASA,,NO,,issuer
+LISN,0.0104,CH,Chocoladefabriken Lindt & Spruengli AG,,CH,,issuer
+FLUT,0.0104,US,Flutter Entertainment PLC,,US,,issuer
+BEAN,0.0104,CH,Belimo Holding AG,,CH,,issuer
+CNA,0.0103,GB,Centrica PLC,,GB,,issuer
+267,0.0103,HK,CITIC Ltd,,HK,,issuer
+600036,0.0103,CN,China Merchants Bank Co Ltd,,CN,,issuer
+SCAB,0.0103,SE,Svenska Cellulosa AB SCA,,SE,,issuer
+ACWA,0.0103,SA,ACWA Power Co,,SA,,issuer
+9633,0.0103,HK,Nongfu Spring Co Ltd,,HK,,issuer
+298040,0.0103,KR,Hyosung Heavy Industries Corp,,KR,,issuer
+1093,0.0103,HK,CSPC Pharmaceutical Group Ltd,,HK,,issuer
+BCP,0.0102,PT,Banco Comercial Portugues SA,,PT,,issuer
+KEY,0.0102,CA,Keyera Corp,,CA,,issuer
+2395,0.0102,TW,Advantech Co Ltd,,TW,,issuer
+INDIGO,0.0102,IN,InterGlobe Aviation Ltd,,IN,,issuer
+SRG,0.0102,IT,Snam SpA,,IT,,issuer
+MZTF,0.0101,IL,Mizrahi Tefahot Bank Ltd,,IL,,issuer
+WEIR,0.0101,GB,Weir PLC,,GB,,issuer
+HBM,0.0101,CA,Hudbay Minerals Inc,,CA,,issuer
+ATRL,0.0101,CA,AtkinsRealis Group Inc,,CA,,issuer
+TFII,0.0101,CA,TFI International Inc,,CA,,issuer
+OMV,0.0101,AT,OMV AG,,AT,,issuer
+INDUC,0.0101,SE,Industrivarden AB,,SE,,issuer
+EQTL3,0.0101,BR,Equatorial SA,,BR,,issuer
+CCH,0.01,GB,Coca-Cola HBC AG,,GB,,issuer
+1801,0.01,JP,Taisei Corp,,JP,,issuer
+6963,0.01,JP,Rohm Co Ltd,,JP,,issuer
+HNAL,0.01,IN,Hindustan Aeronautics Ltd,,IN,,issuer
+UNI,0.01,IT,Unipol Gruppo SpA,,IT,,issuer
+FOX,0.01,US,Fox Corp,,US,,issuer
+998,0.01,HK,China CITIC Bank Corp Ltd,,HK,,issuer
+ORSTED,0.01,DK,Orsted AS,,DK,,issuer
+ADE,0.0099,IN,Adani Enterprises Ltd,,IN,,issuer
+SOL,0.0098,AU,Washington H Soul Pattinson & Co Ltd,,AU,,issuer
+FOXA,0.0098,US,Fox Corp,,US,,issuer
+329180,0.0098,KR,HD Hyundai Heavy Industries Co Ltd,,KR,,issuer
+5333,0.0098,JP,NGK Corp,,JP,,issuer
+JM,0.0097,SG,Jardine Matheson Holdings Ltd,,SG,,issuer
+PRIO3,0.0097,BR,PRIO SA/Brazil,,BR,,issuer
+CG,0.0097,US,Carlyle Group Inc/The,,US,,issuer
+ORNBV,0.0097,FI,Orion Oyj,,FI,,issuer
+010140,0.0097,KR,Samsung Heavy Industries Co Ltd,,KR,,issuer
+ENLT,0.0096,IL,Enlight Renewable Energy Ltd,,IL,,issuer
+ERF,0.0096,FR,Eurofins Scientific SE,,FR,,issuer
+ASRNL,0.0096,NL,ASR Nederland NV,,NL,,issuer
+CICT,0.0096,SG,CapitaLand Integrated Commercial Trust,,SG,,issuer
+JSTL,0.0096,IN,JSW Steel Ltd,,IN,,issuer
+8046,0.0096,TW,Nan Ya Printed Circuit Board Corp,,TW,,issuer
+ALINMA,0.0096,SA,Alinma Bank,,SA,,issuer
+X,0.0095,CA,TMX Group Ltd,,CA,,issuer
+TMCV,0.0095,IN,Tata Motors Ltd /new,,IN,,issuer
+SPSN,0.0095,CH,Swiss Prime Site AG,,CH,,issuer
+2449,0.0095,TW,King Yuan Electronics Co Ltd,,TW,,issuer
+MKS,0.0095,GB,Marks & Spencer Group PLC,,GB,,issuer
+196170,0.0094,KR,Alteogen Inc,,KR,,issuer
+TECHM,0.0094,IN,Tech Mahindra Ltd,,IN,,issuer
+SAFCO,0.0094,SA,SABIC Agri-Nutrients Co,,SA,,issuer
+SKAB,0.0094,SE,Skanska AB,,SE,,issuer
+KBX,0.0093,DE,Knorr-Bremse AG,,DE,,issuer
+9926,0.0093,HK,Akeso Inc,,HK,,issuer
+BNZL,0.0093,GB,Bunzl PLC,,GB,,issuer
+2057,0.0093,HK,ZTO Express Cayman Inc,,HK,,issuer
+CON,0.0093,DE,Continental AG,,DE,,issuer
+HSX,0.0093,GB,Hiscox Ltd,,GB,,issuer
+5880,0.0093,TW,Taiwan Cooperative Financial Holding Co Ltd,,TW,,issuer
+RTO,0.0092,GB,Rentokil Initial PLC,,GB,,issuer
+UAL,0.0092,US,United Airlines Holdings Inc,,US,,issuer
+H,0.0092,CA,Hydro One Ltd,,CA,,issuer
+MPL,0.0092,AU,Medibank Pvt Ltd,,AU,,issuer
+1378,0.0092,HK,China Hongqiao Group Ltd,,HK,,issuer
+3,0.0092,HK,Hong Kong & China Gas Co Ltd,,HK,,issuer
+ALPHA,0.0092,GR,Alpha Bank SA,,GR,,issuer
+3189,0.0092,TW,Kinsus Interconnect Technology Corp,,TW,,issuer
+6479,0.0092,JP,MINEBEA MITSUMI Inc,,JP,,issuer
+BLND,0.0092,GB,British Land Co PLC/The,,GB,,issuer
+CAE,0.0091,CA,CAE Inc,,CA,,issuer
+7532,0.0091,JP,Pan Pacific International Holdings Corp,,JP,,issuer
+SBRY,0.0091,GB,J Sainsbury PLC,,GB,,issuer
+TPWR,0.0091,IN,Tata Power Co Ltd/The,,IN,,issuer
+APHS,0.009,IN,Apollo Hospitals Enterprise Ltd,,IN,,issuer
+IH,0.009,IN,Indian Hotels Co Ltd/The,,IN,,issuer
+PSON,0.009,GB,Pearson PLC,,GB,,issuer
+3750,0.009,HK,Contemporary Amperex Technology Co Ltd,,HK,,issuer
+4911,0.009,JP,Shiseido Co Ltd,,JP,,issuer
+3661,0.009,TW,Alchip Technologies Ltd,,TW,,issuer
+7769,0.0089,TW,Hon Precision Inc,,TW,,issuer
+1179,0.0089,HK,H World Group Ltd,,HK,,issuer
+GPT,0.0089,AU,GPT Group/The,,AU,,issuer
+BVI,0.0089,FR,Bureau Veritas SA,,FR,,issuer
+ALDAR,0.0089,AE,Aldar Properties PJSC,,AE,,issuer
+6586,0.0089,JP,Makita Corp,,JP,,issuer
+AIA,0.0089,NZ,Auckland International Airport Ltd,,NZ,,issuer
+ITC,0.0089,IN,ITC Ltd,,IN,,issuer
+2768,0.0089,JP,Sojitz Corp,,JP,,issuer
+DRRD,0.0088,IN,Dr Reddy's Laboratories Ltd,,IN,,issuer
+PSPN,0.0088,CH,PSP Swiss Property AG,,CH,,issuer
+1658,0.0088,HK,Postal Savings Bank of China Co Ltd,,HK,,issuer
+7912,0.0088,JP,Dai Nippon Printing Co Ltd,,JP,,issuer
+HAR,0.0088,ZA,Harmony Gold Mining Co Ltd,,ZA,,issuer
+SQM/B,0.0088,CL,Sociedad Quimica y Minera de Chile SA,,CL,,issuer
+STLAM,0.0088,IT,Stellantis NV,,IT,,issuer
+YZJSGD,0.0088,SG,Yangzijiang Shipbuilding Holdings Ltd,,SG,,issuer
+FTT,0.0088,CA,Finning International Inc,,CA,,issuer
+ADIB,0.0088,AE,Abu Dhabi Islamic Bank PJSC,,AE,,issuer
+600900,0.0087,CN,China Yangtze Power Co Ltd,,CN,,issuer
+1301,0.0087,TW,Formosa Plastics Corp,,TW,,issuer
+BSF,0.0087,SA,Banque Saudi Fransi,,SA,,issuer
+7272,0.0087,JP,Yamaha Motor Co Ltd,,JP,,issuer
+LISP,0.0087,CH,Chocoladefabriken Lindt & Spruengli AG,,CH,,issuer
+PNDORA,0.0087,DK,Pandora A/S,,DK,,issuer
+LAND,0.0087,GB,Land Securities Group PLC,,GB,,issuer
+SKFB,0.0086,SE,SKF AB,,SE,,issuer
+TEN,0.0086,IT,Tenaris SA,,IT,,issuer
+4021,0.0086,JP,Nissan Chemical Corp,,JP,,issuer
+HKL,0.0086,SG,Hongkong Land Holdings Ltd,,SG,,issuer
+GFL,0.0086,CA,GFL Environmental Inc,,CA,,issuer
+LYC,0.0086,AU,Lynas Rare Earths Ltd,,AU,,issuer
+RBI,0.0086,AT,Raiffeisen Bank International AG,,AT,,issuer
+2359,0.0086,HK,WuXi AppTec Co Ltd,,HK,,issuer
+MOWI,0.0086,NO,Mowi ASA,,NO,,issuer
+ALMARAI,0.0086,SA,Almarai Co JSC,,SA,,issuer
+ABG,0.0085,ZA,Absa Group Ltd,,ZA,,issuer
+3034,0.0085,TW,Novatek Microelectronics Corp,,TW,,issuer
+HARL,0.0085,IL,Harel Insurance Investments & Financial Services Ltd,,IL,,issuer
+CHILE,0.0084,CL,Banco de Chile,,CL,,issuer
+BIMAS,0.0084,TR,BIM Birlesik Magazalar AS,,TR,,issuer
+GIL,0.0084,CA,Gildan Activewear Inc,,CA,,issuer
+VBBR3,0.0084,BR,Vibra Energia SA,,BR,,issuer
+RIBL,0.0084,SA,Riyad Bank,,SA,,issuer
+MOTHERSO,0.0084,IN,Samvardhana Motherson International Ltd,,IN,,issuer
+300308,0.0084,CN,Zhongji Innolight Co Ltd,,CN,,issuer
+LPP,0.0084,PL,LPP SA,,PL,,issuer
+SHP,0.0083,ZA,Shoprite Holdings Ltd,,ZA,,issuer
+ORI,0.0083,AU,Orica Ltd,,AU,,issuer
+BEZQ,0.0083,IL,Bezeq The Israeli Telecommunication Corp Ltd,,IL,,issuer
+RY,0.0083,US,Royal Bank of Canada,,US,,issuer
+NEST,0.0083,IN,Nestle India Ltd,,IN,,issuer
+RENT3,0.0083,BR,Localiza Rent a Car SA,,BR,,issuer
+ALD,0.0083,AU,Ampol Ltd,,AU,,issuer
+TRELB,0.0082,SE,Trelleborg AB,,SE,,issuer
+TATACONS,0.0082,IN,Tata Consumer Products Ltd,,IN,,issuer
+CLAR,0.0082,SG,CapitaLand Ascendas REIT,,SG,,issuer
+9697,0.0082,JP,Capcom Co Ltd,,JP,,issuer
+FME,0.0082,DE,Fresenius Medical Care AG,,DE,,issuer
+3003,0.0082,JP,Hulic Co Ltd,,JP,,issuer
+APA,0.0082,AU,APA Group,,AU,,issuer
+TEL2B,0.0082,SE,Tele2 AB,,SE,,issuer
+6770,0.0082,TW,Powerchip Semiconductor Manufacturing Corp,,TW,,issuer
+9901,0.0082,HK,New Oriental Education & Technology Group Inc,,HK,,issuer
+SOL,0.0082,ZA,Sasol Ltd,,ZA,,issuer
+BSL,0.0081,AU,BlueScope Steel Ltd,,AU,,issuer
+ALQ,0.0081,AU,ALS Ltd,,AU,,issuer
+GAM,0.0081,MY,Gamuda Bhd,,MY,,issuer
+DSY,0.0081,ZA,Discovery Ltd,,ZA,,issuer
+8359,0.0081,JP,Hachijuni Nagano Bank Ltd,,JP,,issuer
+4612,0.0081,JP,Nippon Paint Holdings Co Ltd,,JP,,issuer
+7202,0.0081,JP,Isuzu Motors Ltd,,JP,,issuer
+BEI,0.0081,DE,Beiersdorf AG,,DE,,issuer
+ASELS,0.0081,TR,Aselsan Elektronik Sanayi Ve Ticaret AS,,TR,,issuer
+5201,0.008,JP,AGC Inc,,JP,,issuer
+BMED,0.008,IT,Banca Mediolanum SpA,,IT,,issuer
+TVSL,0.008,IN,TVS Motor Co Ltd,,IN,,issuer
+FGR,0.008,FR,Eiffage SA,,FR,,issuer
+JIOFIN,0.008,IN,Jio Financial Services Ltd,,IN,,issuer
+051910,0.008,KR,LG Chem Ltd,,KR,,issuer
+PE&OLES*,0.008,MX,Industrias Penoles SAB de CV,,MX,,issuer
+EVO,0.008,SE,Evolution AB,,SE,,issuer
+MOL,0.008,HU,MOL Hungarian Oil & Gas PLC,,HU,,issuer
+PPC,0.008,GR,Public Power Corp SA,,GR,,issuer
+300,0.008,HK,Midea Group Co Ltd,,HK,,issuer
+ACKB,0.0079,BE,Ackermans & van Haaren NV,,BE,,issuer
+SHOP,0.0079,US,Shopify Inc,,US,,issuer
+DSG,0.0079,CA,Descartes Systems Group Inc/The,,CA,,issuer
+FALAB,0.0079,CL,Falabella SA,,CL,,issuer
+PLS,0.0079,AU,PLS Group Ltd,,AU,,issuer
+REM,0.0079,ZA,Remgro Ltd,,ZA,,issuer
+SOBI,0.0079,SE,Swedish Orphan Biovitrum AB,,SE,,issuer
+CIPLA,0.0079,IN,Cipla Ltd/India,,IN,,issuer
+4523,0.0079,JP,Eisai Co Ltd,,JP,,issuer
+CPALL/F,0.0078,TH,CP ALL PCL,,TH,,issuer
+035720,0.0078,KR,Kakao Corp,,KR,,issuer
+BID,0.0078,ZA,Bid Corp Ltd,,ZA,,issuer
+KTB/F,0.0078,TH,Krung Thai Bank PCL,,TH,,issuer
+6841,0.0078,JP,Yokogawa Electric Corp,,JP,,issuer
+AC*,0.0078,MX,Arca Continental SAB de CV,,MX,,issuer
+9021,0.0078,JP,West Japan Railway Co,,JP,,issuer
+8951,0.0078,JP,Nippon Building Fund Inc,,JP,,issuer
+SIG,0.0078,AU,Sigma Healthcare Ltd,,AU,,issuer
+KKC,0.0078,IN,Cummins India Ltd,,IN,,issuer
+ROL,0.0078,US,Rollins Inc,,US,,issuer
+7270,0.0078,JP,Subaru Corp,,JP,,issuer
+NED,0.0078,ZA,Nedbank Group Ltd,,ZA,,issuer
+PZU,0.0078,PL,Powszechny Zaklad Ubezpieczen SA,,PL,,issuer
+SFR,0.0077,AU,Sandfire Resources Ltd,,AU,,issuer
+5411,0.0077,JP,JFE Holdings Inc,,JP,,issuer
+SSABB,0.0077,SE,SSAB AB,,SE,,issuer
+6488,0.0077,TW,Globalwafers Co Ltd,,TW,,issuer
+SPIE,0.0077,FR,SPIE SA,,FR,,issuer
+SULAIMAN,0.0077,SA,Dr Sulaiman Al Habib Medical Services Group Co,,SA,,issuer
+ANDR,0.0077,AT,ANDRITZ AG,,AT,,issuer
+INDT,0.0077,SE,Indutrade AB,,SE,,issuer
+GBLB,0.0077,BE,Groupe Bruxelles Lambert NV,,BE,,issuer
+5334,0.0077,JP,Niterra Co Ltd,,JP,,issuer
+042660,0.0077,KR,Hanwha Ocean Co Ltd,,KR,,issuer
+9147,0.0077,JP,NIPPON EXPRESS HOLDINGS INC,,JP,,issuer
+7701,0.0076,JP,Shimadzu Corp,,JP,,issuer
+288,0.0076,HK,WH Group Ltd,,HK,,issuer
+1347,0.0076,HK,Hua Hong Grace Semiconductor Ltd,,HK,,issuer
+AG,0.0076,CA,First Majestic Silver Corp,,CA,,issuer
+EBP,0.0076,PL,Erste Bank Polska SA,,PL,,issuer
+PAYTM,0.0076,IN,One 97 Communications Ltd,,IN,,issuer
+836,0.0076,HK,China Resources Power Holdings Co Ltd,,HK,,issuer
+TLX,0.0076,DE,Talanx AG,,DE,,issuer
+RXL,0.0076,FR,Rexel SA,,FR,,issuer
+WISE,0.0076,GB,Wise Group PLC,,GB,,issuer
+EN,0.0075,FR,Bouygues SA,,FR,,issuer
+TLV,0.0075,RO,Banca Transilvania SA,,RO,,issuer
+CHC,0.0075,AU,Charter Hall Group,,AU,,issuer
+MICC,0.0075,NL,Magnum Ice Cream Co NV/The,,NL,,issuer
+ONGC,0.0075,IN,Oil & Natural Gas Corp Ltd,,IN,,issuer
+PIDI,0.0075,IN,Pidilite Industries Ltd,,IN,,issuer
+4528,0.0075,JP,Ono Pharmaceutical Co Ltd,,JP,,issuer
+MRL,0.0074,ES,Merlin Properties Socimi SA,,ES,,issuer
+QIA,0.0074,DE,QIAGEN NV,,DE,,issuer
+FB,0.0074,IN,Federal Bank Ltd,,IN,,issuer
+5706,0.0074,JP,Mitsui Kinzoku Co Ltd,,JP,,issuer
+HDFCLIFE,0.0074,IN,HDFC Life Insurance Co Ltd,,IN,,issuer
+6506,0.0074,JP,Yaskawa Electric Corp,,JP,,issuer
+PMAH,0.0074,MY,Press Metal Aluminium Holdings Bhd,,MY,,issuer
+SUBC,0.0073,NO,Subsea 7 SA,,NO,,issuer
+EDEN,0.0073,FR,Edenred SE,,FR,,issuer
+TRP,0.0073,IN,Torrent Pharmaceuticals Ltd,,IN,,issuer
+7259,0.0073,JP,Aisin Corp,,JP,,issuer
+ACLN,0.0073,CH,Accelleron Industries AG,,CH,,issuer
+042700,0.0073,KR,Hanmi Semiconductor Co Ltd,,KR,,issuer
+LI,0.0073,FR,Klepierre SA,,FR,,issuer
+BEZ,0.0073,GB,Beazley PLC,,GB,,issuer
+CGPOWER,0.0073,IN,CG Power & Industrial Solutions Ltd,,IN,,issuer
+8113,0.0073,JP,Unicharm Corp,,JP,,issuer
+27,0.0073,HK,Galaxy Entertainment Group Ltd,,HK,,issuer
+SLM,0.0073,ZA,Sanlam Ltd,,ZA,,issuer
+CLI,0.0072,SG,CapitaLand Investment Ltd/Singapore,,SG,,issuer
+2409,0.0072,TW,AUO Corp,,TW,,issuer
+LTM,0.0072,CL,Latam Airlines Group SA,,CL,,issuer
+RDOR3,0.0072,BR,Rede D'Or Sao Luiz SA,,BR,,issuer
+EEC,0.0072,SA,Etihad Etisalat Co,,SA,,issuer
+4042,0.0072,JP,Tosoh Corp,,JP,,issuer
+ATZ,0.0072,CA,Aritzia Inc,,CA,,issuer
+3289,0.0071,JP,Tokyu Fudosan Holdings Corp,,JP,,issuer
+2015,0.0071,HK,Li Auto Inc,,HK,,issuer
+2259,0.0071,HK,Zijin Gold International Co Ltd,,HK,,issuer
+VOLVA,0.0071,SE,Volvo AB,,SE,,issuer
+DHER,0.0071,DE,Delivery Hero SE,,DE,,issuer
+2319,0.0071,HK,China Mengniu Dairy Co Ltd,,HK,,issuer
+1308,0.0071,HK,SITC International Holdings Co Ltd,,HK,,issuer
+COLOB,0.0071,DK,Coloplast A/S,,DK,,issuer
+IMCD,0.0071,NL,IMCD NV,,NL,,issuer
+EXO,0.0071,NL,EXOR NV,,NL,,issuer
+7309,0.0071,JP,Shimano Inc,,JP,,issuer
+HEN,0.0071,DE,Henkel AG & Co KGaA,,DE,,issuer
+6690,0.0071,HK,Haier Smart Home Co Ltd,,HK,,issuer
+4732,0.0071,JP,USS Co Ltd,,JP,,issuer
+ABVX,0.007,FR,Abivax SA,,FR,,issuer
+TEL,0.007,NO,Telenor ASA,,NO,,issuer
+BTRW,0.007,GB,Barratt Redrow PLC,,GB,,issuer
+MOTV3,0.007,BR,Motiva Infraestrutura de Mobilidade SA,,BR,,issuer
+SDG,0.007,MY,SD Guthrie Bhd,,MY,,issuer
+4689,0.007,JP,LY Corp,,JP,,issuer
+6724,0.007,JP,Seiko Epson Corp,,JP,,issuer
+6869,0.007,HK,Yangtze Optical Fibre & Cable Joint Stock Ltd Co,,HK,,issuer
+788,0.007,HK,China Tower Corp Ltd,,HK,,issuer
+9868,0.007,HK,XPeng Inc,,HK,,issuer
+3044,0.0069,TW,Tripod Technology Corp,,TW,,issuer
+SABB,0.0069,SA,Saudi Awwal Bank,,SA,,issuer
+6976,0.0069,JP,Taiyo Yuden Co Ltd,,JP,,issuer
+601138,0.0069,CN,Foxconn Industrial Internet Co Ltd,,CN,,issuer
+ADDTB,0.0069,SE,AddTech AB,,SE,,issuer
+HEIO,0.0069,NL,Heineken Holding NV,,NL,,issuer
+HMCL,0.0069,IN,Hero MotoCorp Ltd,,IN,,issuer
+BEIJB,0.0069,SE,Beijer Ref AB,,SE,,issuer
+9843,0.0069,JP,Nitori Holdings Co Ltd,,JP,,issuer
+8136,0.0069,JP,Sanrio Co Ltd,,JP,,issuer
+TRENT,0.0069,IN,Trent Ltd,,IN,,issuer
+GAPB,0.0069,MX,Grupo Aeroportuario del Pacifico SAB de CV,,MX,,issuer
+5019,0.0068,JP,Idemitsu Kosan Co Ltd,,JP,,issuer
+2801,0.0068,TW,Chang Hwa Commercial Bank Ltd,,TW,,issuer
+3436,0.0068,JP,SUMCO Corp,,JP,,issuer
+TLC,0.0068,AU,Lottery Corp Ltd/The,,AU,,issuer
+CRDA,0.0068,GB,Croda International PLC,,GB,,issuer
+KESKOB,0.0068,FI,Kesko Oyj,,FI,,issuer
+RHC,0.0068,AU,Ramsay Health Care Ltd,,AU,,issuer
+7752,0.0068,JP,Ricoh Co Ltd,,JP,,issuer
+LPC,0.0068,IN,Lupin Ltd,,IN,,issuer
+DIM,0.0067,FR,Sartorius Stedim Biotech,,FR,,issuer
+MRO,0.0067,GB,Melrose Industries PLC,,GB,,issuer
+1519,0.0067,HK,J&T Global Express Ltd,,HK,,issuer
+DIB,0.0067,AE,Dubai Islamic Bank PJSC,,AE,,issuer
+PTG,0.0067,MY,Petronas Gas Bhd,,MY,,issuer
+1888,0.0067,HK,Kingboard Laminates Holdings Ltd,,HK,,issuer
+1177,0.0067,HK,Sino Biopharmaceutical Ltd,,HK,,issuer
+096770,0.0067,KR,SK Innovation Co Ltd,,KR,,issuer
+AUBANK,0.0066,IN,AU Small Finance Bank Ltd,,IN,,issuer
+WIL,0.0066,SG,Wilmar International Ltd,,SG,,issuer
+ACEM,0.0066,IN,Ambuja Cements Ltd,,IN,,issuer
+6645,0.0066,JP,Omron Corp,,JP,,issuer
+BBAS3,0.0066,BR,Banco do Brasil SA,,BR,,issuer
+1326,0.0066,TW,Formosa Chemicals & Fibre Corp,,TW,,issuer
+FHZN,0.0066,CH,Flughafen Zurich AG,,CH,,issuer
+LAURUS,0.0066,IN,Laurus Labs Ltd,,IN,,issuer
+KGF,0.0066,GB,Kingfisher PLC,,GB,,issuer
+2313,0.0066,TW,Compeq Manufacturing Co Ltd,,TW,,issuer
+ASX,0.0066,AU,ASX Ltd,,AU,,issuer
+VBL,0.0066,IN,Varun Beverages Ltd,,IN,,issuer
+000150,0.0066,KR,Doosan Co Ltd,,KR,,issuer
+STJ,0.0066,GB,St James's Place PLC,,GB,,issuer
+600030,0.0066,CN,CITIC Securities Co Ltd,,CN,,issuer
+2337,0.0066,TW,Macronix International Co Ltd,,TW,,issuer
+TUPRS,0.0066,TR,Turkiye Petrol Rafinerileri AS,,TR,,issuer
+STN,0.0066,CA,Stantec Inc,,CA,,issuer
+BNR,0.0066,DE,Brenntag SE,,DE,,issuer
+SSW,0.0066,ZA,Sibanye Stillwater Ltd,,ZA,,issuer
+DLFU,0.0065,IN,DLF Ltd,,IN,,issuer
+603259,0.0065,CN,WuXi AppTec Co Ltd,,CN,,issuer
+138040,0.0065,KR,Meritz Financial Group Inc,,KR,,issuer
+BJFIN,0.0065,IN,Bajaj Finserv Ltd,,IN,,issuer
+ELI,0.0065,BE,Elia Group SA/NV,,BE,,issuer
+8729,0.0065,JP,Sony Financial Group Inc,,JP,,issuer
+TNE,0.0065,AU,Technology One Ltd,,AU,,issuer
+PPH,0.0065,ZA,Pepkor Holdings Ltd,,ZA,,issuer
+278470,0.0065,KR,APR Corp/Korea,,KR,,issuer
+HOT,0.0065,DE,HOCHTIEF AG,,DE,,issuer
+BHEL,0.0065,IN,Bharat Heavy Electricals Ltd,,IN,,issuer
+ICG,0.0065,GB,ICG PLC,,GB,,issuer
+SCB/F,0.0064,TH,SCB X PCL,,TH,,issuer
+SPM,0.0064,IT,Saipem SpA,,IT,,issuer
+9107,0.0064,JP,Kawasaki Kisen Kaisha Ltd,,JP,,issuer
+SHL,0.0064,AU,Sonic Healthcare Ltd,,AU,,issuer
+2688,0.0064,HK,ENN Energy Holdings Ltd,,HK,,issuer
+83,0.0064,HK,Sino Land Co Ltd,,HK,,issuer
+BHFC,0.0064,IN,Bharat Forge Ltd,,IN,,issuer
+MAERSKA,0.0064,DK,AP Moller - Maersk A/S,,DK,,issuer
+2801,0.0064,JP,Kikkoman Corp,,JP,,issuer
+GAW,0.0064,GB,Games Workshop Group PLC,,GB,,issuer
+7911,0.0064,JP,TOPPAN Holdings Inc,,JP,,issuer
+1803,0.0064,JP,Shimizu Corp,,JP,,issuer
+3529,0.0064,TW,eMemory Technology Inc,,TW,,issuer
+CAR,0.0064,AU,CAR Group Ltd,,AU,,issuer
+CIBEST,0.0063,CO,Grupo Cibest SA,,CO,,issuer
+INDUSTOW,0.0063,IN,Indus Towers Ltd,,IN,,issuer
+8952,0.0063,JP,Japan Real Estate Investment Corp,,JP,,issuer
+601899,0.0063,CN,Zijin Mining Group Co Ltd,,CN,,issuer
+2603,0.0063,TW,Evergreen Marine Corp Taiwan Ltd,,TW,,issuer
+EFN,0.0063,CA,Element Fleet Management Corp,,CA,,issuer
+SBILIFE,0.0063,IN,SBI Life Insurance Co Ltd,,IN,,issuer
+FSV,0.0063,CA,FirstService Corp,,CA,,issuer
+PTTEP/F,0.0063,TH,PTT Exploration & Production PCL,,TH,,issuer
+CIFC,0.0063,IN,Cholamandalam Investment and Finance Co Ltd,,IN,,issuer
+BOUBYAN,0.0063,KW,Boubyan Bank KSCP,,KW,,issuer
+1548,0.0062,HK,Genscript Biotech Corp,,HK,,issuer
+4005,0.0062,JP,Sumitomo Chemical Co Ltd,,JP,,issuer
+CPLE3,0.0062,BR,Cia Paranaense de Energia - Copel,,BR,,issuer
+000720,0.0062,KR,Hyundai Engineering & Construction Co Ltd,,KR,,issuer
+BSAN,0.0062,CL,Banco Santander Chile,,CL,,issuer
+MAXHEALT,0.0062,IN,Max Healthcare Institute Ltd,,IN,,issuer
+079550,0.0062,KR,LIG Defense&Aerospace Co Ltd,,KR,,issuer
+5844,0.0062,JP,Kyoto Financial Group Inc,,JP,,issuer
+018260,0.0062,KR,Samsung SDS Co Ltd,,KR,,issuer
+DMART,0.0062,IN,Avenue Supermarts Ltd,,IN,,issuer
+2002,0.0062,TW,China Steel Corp,,TW,,issuer
+2376,0.0062,TW,Gigabyte Technology Co Ltd,,TW,,issuer
+IFT,0.0062,NZ,Infratil Ltd,,NZ,,issuer
+MRCO,0.0062,IN,Marico Ltd,,IN,,issuer
+003550,0.0062,KR,LG Corp,,KR,,issuer
+601328,0.0062,CN,Bank of Communications Co Ltd,,CN,,issuer
+HDFCAMC,0.0062,IN,HDFC Asset Management Co Ltd,,IN,,issuer
+CLIS,0.0062,IL,Clal Insurance Enterprises Holdings Ltd,,IL,,issuer
+601398,0.0062,CN,Industrial & Commercial Bank of China Ltd,,CN,,issuer
+SGP,0.0061,AU,Stockland,,AU,,issuer
+3659,0.0061,JP,Nexon Co Ltd,,JP,,issuer
+4938,0.0061,TW,Pegatron Corp,,TW,,issuer
+AUTO,0.0061,GB,Autotrader Group PLC,,GB,,issuer
+9866,0.0061,HK,NIO Inc,,HK,,issuer
+IQCD,0.0061,QA,Industries Qatar QSC,,QA,,issuer
+SIGN,0.0061,CH,SIG Group AG,,CH,,issuer
+3563,0.0061,JP,Food & Life Cos Ltd,,JP,,issuer
+SECUB,0.0061,SE,Securitas AB,,SE,,issuer
+COH,0.0061,AU,Cochlear Ltd,,AU,,issuer
+1101,0.0061,TW,TCC Group Holdings Co Ltd,,TW,,issuer
+YAR,0.0061,NO,Yara International ASA,,NO,,issuer
+2099,0.0061,HK,China Gold International Resources Corp Ltd,,HK,,issuer
+MEL,0.0061,NZ,Meridian Energy Ltd,,NZ,,issuer
+NICE,0.006,IL,Nice Ltd,,IL,,issuer
+MGR,0.006,AU,Mirvac Group,,AU,,issuer
+GFS,0.006,US,GLOBALFOUNDRIES Inc,,US,,issuer
+ZAL,0.006,DE,Zalando SE,,DE,,issuer
+BVT,0.006,ZA,Bidvest Group Ltd,,ZA,,issuer
+6856,0.006,JP,Horiba Ltd,,JP,,issuer
+5347,0.006,TW,Vanguard International Semiconductor Corp,,TW,,issuer
+JBH,0.006,AU,JB Hi-Fi Ltd,,AU,,issuer
+CTEC,0.006,GB,Convatec Group PLC,,GB,,issuer
+ADNOCGAS,0.006,AE,Adnoc Gas PLC,,AE,,issuer
+UNITDSPR,0.006,IN,United Spirits Ltd,,IN,,issuer
+688256,0.006,CN,Cambricon Technologies Corp Ltd,,CN,,issuer
+522,0.0059,HK,ASMPT Ltd,,HK,,issuer
+3861,0.0059,JP,Oji Holdings Corp,,JP,,issuer
+6845,0.0059,JP,Azbil Corp,,JP,,issuer
+GJF,0.0059,NO,Gjensidige Forsikring ASA,,NO,,issuer
+FIBRAPL,0.0059,MX,Prologis Property Mexico SA de CV,,MX,,issuer
+FRES,0.0059,GB,Fresnillo PLC,,GB,,issuer
+CTC/A,0.0059,CA,Canadian Tire Corp Ltd,,CA,,issuer
+6532,0.0059,JP,BayCurrent Inc,,JP,,issuer
+6113,0.0059,JP,Amada Co Ltd,,JP,,issuer
+TPRO,0.0059,IT,Technoprobe SpA,,IT,,issuer
+071050,0.0059,KR,Korea Investment Holdings Co Ltd,,KR,,issuer
+ABF,0.0059,GB,Associated British Foods PLC,,GB,,issuer
+PSYS,0.0059,IN,Persistent Systems Ltd,,IN,,issuer
+BDMS/F,0.0059,TH,Bangkok Dusit Medical Services PCL,,TH,,issuer
+LHA,0.0058,DE,Deutsche Lufthansa AG,,DE,,issuer
+BPCL,0.0058,IN,Bharat Petroleum Corp Ltd,,IN,,issuer
+2404,0.0058,TW,United Integrated Services Co Ltd,,TW,,issuer
+064350,0.0058,KR,Hyundai Rotem Co Ltd,,KR,,issuer
+XRO,0.0058,AU,Xero Ltd,,AU,,issuer
+NIBEB,0.0058,SE,Nibe Industrier AB,,SE,,issuer
+9005,0.0058,JP,Tokyu Corp,,JP,,issuer
+EVK,0.0058,DE,Evonik Industries AG,,DE,,issuer
+011070,0.0058,KR,LG Innotek Co Ltd,,KR,,issuer
+IVN,0.0058,CA,Ivanhoe Mines Ltd,,CA,,issuer
+GULF/F,0.0058,TH,Gulf Development PCL,,TH,,issuer
+3231,0.0058,JP,Nomura Real Estate Holdings Inc,,JP,,issuer
+BEN,0.0058,AU,Bendigo & Adelaide Bank Ltd,,AU,,issuer
+4204,0.0057,JP,Sekisui Chemical Co Ltd,,JP,,issuer
+601288,0.0057,CN,Agricultural Bank of China Ltd,,CN,,issuer
+002594,0.0057,CN,BYD Co Ltd,,CN,,issuer
+COMI,0.0057,EG,Commercial International Bank - Egypt (CIB),,EG,,issuer
+4755,0.0057,JP,Rakuten Group Inc,,JP,,issuer
+CPN/F,0.0057,TH,Central Pattana PCL,,TH,,issuer
+267250,0.0057,KR,HD Hyundai Co Ltd,,KR,,issuer
+DCC,0.0057,GB,DCC Energy plc,,GB,,issuer
+BJAUT,0.0057,IN,Bajaj Auto Ltd,,IN,,issuer
+GAIL,0.0057,IN,GAIL India Ltd,,IN,,issuer
+G24,0.0057,DE,Scout24 SE,,DE,,issuer
+ASURB,0.0056,MX,Grupo Aeroportuario del Sureste SAB de CV,,MX,,issuer
+BSE,0.0056,IN,BSE Ltd,,IN,,issuer
+SCI,0.0056,SG,Sembcorp Industries Ltd,,SG,,issuer
+AMM,0.0056,MY,AMMB Holdings Bhd,,MY,,issuer
+TMPV,0.0056,IN,Tata Motors Passenger Vehicles Limited,,IN,,issuer
+BCE,0.0056,CA,BCE Inc,,CA,,issuer
+TLKM,0.0055,ID,Telkom Indonesia Persero Tbk PT,,ID,,issuer
+028050,0.0055,KR,Samsung E&A Co Ltd,,KR,,issuer
+CPR,0.0055,IT,Davide Campari-Milano NV,,IT,,issuer
+SGH,0.0055,AU,Seven Group Holdings Ltd,,AU,,issuer
+DIXON,0.0055,IN,Dixon Technologies India Ltd,,IN,,issuer
+2382,0.0055,HK,Sunny Optical Technology Group Co Ltd,,HK,,issuer
+GGBR4,0.0055,BR,Gerdau SA,,BR,,issuer
+5876,0.0055,TW,Shanghai Commercial & Savings Bank Ltd/The,,TW,,issuer
+OPCE,0.0055,IL,OPC Energy Ltd,,IL,,issuer
+ADP,0.0055,FR,Aeroports de Paris SA,,FR,,issuer
+MIN,0.0055,AU,Mineral Resources Ltd,,AU,,issuer
+2POINTZE,0.0055,AE,Two Point Zero Group PJSC,,AE,,issuer
+2834,0.0055,TW,Taiwan Business Bank,,TW,,issuer
+8377,0.0054,JP,Hokuhoku Financial Group Inc,,JP,,issuer
+BRIT,0.0054,IN,Britannia Industries Ltd,,IN,,issuer
+PME,0.0054,AU,Pro Medicus Ltd,,AU,,issuer
+DIE,0.0054,BE,D'ieteren Group,,BE,,issuer
+4091,0.0054,JP,Nippon Sanso Holdings Corp,,JP,,issuer
+SAP,0.0054,CA,Saputo Inc,,CA,,issuer
+3692,0.0054,HK,Hansoh Pharmaceutical Group Co Ltd,,HK,,issuer
+6239,0.0054,TW,Powertech Technology Inc,,TW,,issuer
+GET,0.0054,FR,Getlink SE,,FR,,issuer
+9962,0.0054,JP,MISUMI Group Inc,,JP,,issuer
+2611,0.0054,HK,Guotai Junan Securities Co Ltd,,HK,,issuer
+005830,0.0054,KR,DB Insurance Co Ltd,,KR,,issuer
+005387,0.0054,KR,Hyundai Motor Co,,KR,,issuer
+COFORGE,0.0054,IN,Coforge Ltd,,IN,,issuer
+JARIR,0.0054,SA,Jarir Marketing Co,,SA,,issuer
+8334,0.0054,JP,Gunma Bank Ltd/The,,JP,,issuer
+047810,0.0054,KR,Korea Aerospace Industries Ltd,,KR,,issuer
+688041,0.0054,CN,Hygon Information Technology Co Ltd,,CN,,issuer
+LUG,0.0054,CA,Lundin Gold Inc,,CA,,issuer
+VMS,0.0054,SG,Venture Corp Ltd,,SG,,issuer
+7550,0.0053,JP,Zensho Holdings Co Ltd,,JP,,issuer
+HMB,0.0053,SE,H & M Hennes & Mauritz AB,,SE,,issuer
+ORK,0.0053,NO,Orkla ASA,,NO,,issuer
+086520,0.0053,KR,Ecopro Co Ltd,,KR,,issuer
+RED,0.0053,ES,Redeia Corp SA,,ES,,issuer
+BIMBOA,0.0053,MX,Grupo Bimbo SAB de CV,,MX,,issuer
+LIFCOB,0.0053,SE,Lifco AB,,SE,,issuer
+601995,0.0053,CN,China International Capital Corp Ltd,,CN,,issuer
+1336,0.0053,HK,New China Life Insurance Co Ltd,,HK,,issuer
+FORH,0.0053,IN,Fortis Healthcare Ltd,,IN,,issuer
+1339,0.0053,HK,People's Insurance Co Group of China Ltd/The,,HK,,issuer
+688,0.0053,HK,China Overseas Land & Investment Ltd,,HK,,issuer
+3099,0.0053,JP,Isetan Mitsukoshi Holdings Ltd,,JP,,issuer
+5406,0.0053,JP,Kobe Steel Ltd,,JP,,issuer
+YMM,0.0053,US,Full Truck Alliance Co Ltd,,US,,issuer
+NXT,0.0053,AU,NEXTDC Ltd,,AU,,issuer
+AOT/F,0.0053,TH,Airports of Thailand PCL,,TH,,issuer
+GCPL,0.0053,IN,Godrej Consumer Products Ltd,,IN,,issuer
+ARBP,0.0053,IN,Aurobindo Pharma Ltd,,IN,,issuer
+UHR,0.0053,CH,Swatch Group AG/The,,CH,,issuer
+ADNOCDIS,0.0052,AE,Abu Dhabi National Oil Co for Distribution PJSC,,AE,,issuer
+9501,0.0052,JP,Tokyo Electric Power Co Holdings Inc,,JP,,issuer
+2338,0.0052,HK,Weichai Power Co Ltd,,HK,,issuer
+SYENS,0.0052,BE,Syensqo SA,,BE,,issuer
+8341,0.0052,JP,77 Bank Ltd/The,,JP,,issuer
+601318,0.0052,CN,Ping An Insurance Group Co of China Ltd,,CN,,issuer
+3088,0.0052,JP,MatsukiyoCocokara & Co,,JP,,issuer
+3105,0.0052,TW,Win Semiconductors Corp,,TW,,issuer
+NXSN,0.0052,IL,Next Vision Stabilized Systems Ltd,,IL,,issuer
+4768,0.0052,JP,Otsuka Corp,,JP,,issuer
+EMSN,0.0052,CH,EMS-Chemie Holding AG,,CH,,issuer
+SIA,0.0052,SG,Singapore Airlines Ltd,,SG,,issuer
+DEWA,0.0052,AE,Dubai Electricity & Water Authority PJSC,,AE,,issuer
+ENEV3,0.0051,BR,Eneva SA,,BR,,issuer
+ALBI,0.0051,SA,Bank AlBilad,,SA,,issuer
+010950,0.0051,KR,S-Oil Corp,,KR,,issuer
+ATS,0.0051,AT,AT&S Austria Technologie & Systemtechnik AG,,AT,,issuer
+LNW,0.0051,AU,Light & Wonder Inc,,AU,,issuer
+300502,0.0051,CN,Eoptolink Technology Inc Ltd,,CN,,issuer
+2269,0.0051,JP,MEIJI Holdings Co Ltd,,JP,,issuer
+CMIG4,0.0051,BR,Cia Energetica de Minas Gerais,,BR,,issuer
+ANA,0.0051,ES,Acciona SA,,ES,,issuer
+MTLN,0.0051,GB,Metlen Energy & Metals PLC,,GB,,issuer
+NPH,0.0051,ZA,Northam Platinum Holdings Ltd,,ZA,,issuer
+KCHOL,0.0051,TR,KOC Holding AS,,TR,,issuer
+A2A,0.0051,IT,A2A SpA,,IT,,issuer
+603993,0.0051,CN,CMOC Group Ltd,,CN,,issuer
+AM,0.0051,FR,Dassault Aviation SA,,FR,,issuer
+SPX,0.0051,GB,Spirax Group PLC,,GB,,issuer
+SCR,0.0051,FR,SCOR SE,,FR,,issuer
+STERV,0.005,FI,Stora Enso Oyj,,FI,,issuer
+TRYG,0.005,DK,Tryg A/S,,DK,,issuer
+AYV,0.005,FR,Ayvens SA,,FR,,issuer
+IDR,0.005,ES,Indra Sistemas SA,,ES,,issuer
+IIB,0.005,IN,IndusInd Bank Ltd,,IN,,issuer
+AZJ,0.005,AU,Aurizon Holdings Ltd,,AU,,issuer
+6448,0.005,JP,Brother Industries Ltd,,JP,,issuer
+66,0.005,HK,MTR Corp Ltd,,HK,,issuer
+RADL3,0.005,BR,Raia Drogasil SA,,BR,,issuer
+015760,0.005,KR,Korea Electric Power Corp,,KR,,issuer
+600276,0.005,CN,Jiangsu Hengrui Pharmaceuticals Co Ltd,,CN,,issuer
+IG,0.0049,IT,Italgas SpA,,IT,,issuer
+6618,0.0049,HK,JD Health International Inc,,HK,,issuer
+BZ,0.0049,US,Kanzhun Ltd,,US,,issuer
+RYA,0.0049,IE,Ryanair Holdings PLC,,IE,,issuer
+148,0.0049,HK,Kingboard Holdings Ltd,,HK,,issuer
+6471,0.0049,JP,NSK Ltd,,JP,,issuer
+2324,0.0049,TW,Compal Electronics Inc,,TW,,issuer
+VAML,0.0049,IN,Vedanta Aluminium Metal Ltd,,IN,,issuer
+NDX1,0.0049,DE,Nordex SE,,DE,,issuer
+9042,0.0048,JP,Hankyu Hanshin Holdings Inc,,JP,,issuer
+VCX,0.0048,AU,Vicinity Ltd,,AU,,issuer
+011200,0.0048,KR,HMM Co Ltd,,KR,,issuer
+HAG,0.0048,DE,Hensoldt AG,,DE,,issuer
+GVTD,0.0048,IN,GE Vernova T&D India Ltd,,IN,,issuer
+RNO,0.0048,FR,Renault SA,,FR,,issuer
+MARK,0.0048,QA,Masraf Al Rayan QSC,,QA,,issuer
+THYAO,0.0048,TR,Turk Hava Yollari AO,,TR,,issuer
+5332,0.0047,JP,TOTO Ltd,,JP,,issuer
+BIM,0.0047,FR,BioMerieux,,FR,,issuer
+JMT,0.0047,PT,Jeronimo Martins SGPS SA,,PT,,issuer
+LENSKART,0.0047,IN,Lenskart Solutions Ltd,,IN,,issuer
+CBQK,0.0047,QA,Commercial Bank PSQC/The,,QA,,issuer
+086280,0.0047,KR,Hyundai Glovis Co Ltd,,KR,,issuer
+FUNO11,0.0047,MX,Fibra Uno Administracion SA de CV,,MX,,issuer
+8953,0.0047,JP,Japan Metropolitan Fund Invest,,JP,,issuer
+ALO,0.0047,FR,Alstom SA,,FR,,issuer
+TAL,0.0047,US,TAL Education Group,,US,,issuer
+8963,0.0047,JP,Invincible Investment Corp,,JP,,issuer
+RAIL3,0.0047,BR,Rumo SA,,BR,,issuer
+POWF,0.0047,IN,Power Finance Corp Ltd,,IN,,issuer
+4186,0.0047,JP,Tokyo Ohka Kogyo Co Ltd,,JP,,issuer
+IPN,0.0047,FR,Ipsen SA,,FR,,issuer
+6473,0.0047,JP,JTEKT Corp,,JP,,issuer
+BCI,0.0047,CL,Banco de Credito e Inversiones SA,,CL,,issuer
+1590,0.0047,TW,Airtac International Group,,TW,,issuer
+MBGL,0.0047,US,Mobility Global Inc,,US,,issuer
+RAA,0.0047,DE,Rational AG,,DE,,issuer
+OTEX,0.0047,CA,Open Text Corp,,CA,,issuer
+BRBY,0.0047,GB,Burberry Group PLC,,GB,,issuer
+1951,0.0046,JP,EXEO Group Inc,,JP,,issuer
+9508,0.0046,JP,Kyushu Electric Power Co Inc,,JP,,issuer
+7181,0.0046,JP,Japan Post Insurance Co Ltd,,JP,,issuer
+1997,0.0046,HK,Wharf Real Estate Investment Co Ltd,,HK,,issuer
+SUEL,0.0046,IN,Suzlon Energy Ltd,,IN,,issuer
+1721,0.0046,JP,COMSYS Holdings Corp,,JP,,issuer
+2356,0.0046,TW,Inventec Corp,,TW,,issuer
+MBK,0.0046,PL,mBank SA,,PL,,issuer
+1208,0.0046,HK,MMG Ltd,,HK,,issuer
+GMD,0.0046,AU,Genesis Minerals Ltd,,AU,,issuer
+BIG,0.0046,IL,Big Shopping Centers Ltd,,IL,,issuer
+REC,0.0046,IT,Recordati Industria Chimica e Farmaceutica SpA,,IT,,issuer
+1808,0.0046,JP,Haseko Corp,,JP,,issuer
+6305,0.0045,JP,Hitachi Construction Machinery Co Ltd,,JP,,issuer
+VAR,0.0045,NO,Var Energi ASA,,NO,,issuer
+1919,0.0045,HK,COSCO SHIPPING Holdings Co Ltd,,HK,,issuer
+3328,0.0045,HK,Bank of Communications Co Ltd,,HK,,issuer
+016360,0.0045,KR,Samsung Securities Co Ltd,,KR,,issuer
+5101,0.0045,JP,Yokohama Rubber Co Ltd/The,,JP,,issuer
+GFL,0.0045,US,GFL Environmental Inc,,US,,issuer
+8985,0.0045,JP,Japan Hotel REIT Investment Corp,,JP,,issuer
+5830,0.0044,JP,Iyogin Holdings Inc,,JP,,issuer
+4904,0.0044,TW,Far EasTone Telecommunications Co Ltd,,TW,,issuer
+EDPR,0.0044,PT,EDP Renewables SA,,PT,,issuer
+UOL,0.0044,SG,UOL Group Ltd,,SG,,issuer
+3702,0.0044,TW,WPG Holdings Ltd,,TW,,issuer
+NWS,0.0044,US,News Corp,,US,,issuer
+20,0.0044,HK,SenseTime Group Inc,,HK,,issuer
+9626,0.0044,HK,Bilibili Inc,,HK,,issuer
+3293,0.0044,TW,International Games System Co Ltd,,TW,,issuer
+AMUN,0.0044,FR,Amundi SA,,FR,,issuer
+12,0.0044,HK,Henderson Land Development Co Ltd,,HK,,issuer
+4704,0.0044,JP,Trend Micro Inc/Japan,,JP,,issuer
+007660,0.0044,KR,IsuPetasys Co Ltd,,KR,,issuer
+3993,0.0044,HK,CMOC Group Ltd,,HK,,issuer
+RMS,0.0044,AU,Ramelius Resources Ltd,,AU,,issuer
+2618,0.0043,TW,Eva Airways Corp,,TW,,issuer
+9660,0.0043,HK,Horizon Robotics,,HK,,issuer
+LUV,0.0043,US,Southwest Airlines Co,,US,,issuer
+6965,0.0043,JP,Hamamatsu Photonics KK,,JP,,issuer
+IDFCFB,0.0043,IN,IDFC First Bank Ltd,,IN,,issuer
+BOS,0.0043,IN,Bosch Ltd,,IN,,issuer
+4183,0.0043,JP,Mitsui Chemicals Inc,,JP,,issuer
+LOTB,0.0043,BE,Lotus Bakeries NV,,BE,,issuer
+RICHT,0.0043,HU,Richter Gedeon Nyrt,,HU,,issuer
+AL,0.0043,IN,Ashok Leyland Ltd,,IN,,issuer
+JINDALST,0.0043,IN,Jindal Steel Ltd,,IN,,issuer
+UGPA3,0.0043,BR,Ultrapar Participacoes SA,,BR,,issuer
+6515,0.0043,TW,WinWay Technology Co Ltd,,TW,,issuer
+8418,0.0043,JP,Yamaguchi Financial Group Inc,,JP,,issuer
+4088,0.0042,JP,Air Water Inc,,JP,,issuer
+ENGI11,0.0042,BR,Energisa S/A,,BR,,issuer
+REA,0.0042,AU,REA Group Ltd,,AU,,issuer
+8012,0.0042,JP,Nagase & Co Ltd,,JP,,issuer
+SOIL,0.0042,IN,Solar Industries India Ltd,,IN,,issuer
+SMPH,0.0042,PH,SM Prime Holdings Inc,,PH,,issuer
+EVD,0.0042,DE,CTS Eventim AG & Co KGaA,,DE,,issuer
+RHBBANK,0.0042,MY,RHB Bank Bhd,,MY,,issuer
+IOCL,0.0042,IN,Indian Oil Corp Ltd,,IN,,issuer
+TCELL,0.0042,TR,Turkcell Iletisim Hizmetleri AS,,TR,,issuer
+ELISA,0.0042,FI,Elisa Oyj,,FI,,issuer
+KOFUBL,0.0041,MX,Coca-Cola Femsa SAB de CV,,MX,,issuer
+IHH,0.0041,MY,IHH Healthcare Bhd,,MY,,issuer
+TOTS3,0.0041,BR,TOTVS SA,,BR,,issuer
+NMDC,0.0041,IN,NMDC Ltd,,IN,,issuer
+AVOL,0.0041,CH,Avolta AG,,CH,,issuer
+MASAR,0.0041,SA,Umm Al Qura for Development & Construction Co,,SA,,issuer
+2875,0.0041,JP,Toyo Suisan Kaisha Ltd,,JP,,issuer
+6869,0.0041,JP,Sysmex Corp,,JP,,issuer
+002371,0.0041,CN,NAURA Technology Group Co Ltd,,CN,,issuer
+CLS,0.0041,ZA,Clicks Group Ltd,,ZA,,issuer
+7276,0.0041,JP,Koito Manufacturing Co Ltd,,JP,,issuer
+ORDS,0.0041,QA,Ooredoo QPSC,,QA,,issuer
+GFINBURO,0.0041,MX,Grupo Financiero Inbursa SAB de CV,,MX,,issuer
+BARN,0.0041,CH,Barry Callebaut AG,,CH,,issuer
+INFOE,0.0041,IN,Info Edge India Ltd,,IN,,issuer
+QAN,0.0041,AU,Qantas Airways Ltd,,AU,,issuer
+9602,0.0041,JP,Toho Co Ltd/Tokyo,,JP,,issuer
+100,0.0041,HK,Minimax Group Inc,,HK,,issuer
+HWDN,0.004,GB,Howden Joinery Group PLC,,GB,,issuer
+2268,0.004,HK,WuXi XDC Cayman Inc,,HK,,issuer
+2413,0.004,JP,M3 Inc,,JP,,issuer
+VEND,0.004,NO,Schibsted ASA,,NO,,issuer
+CGF,0.004,AU,Challenger Ltd,,AU,,issuer
+1878,0.004,JP,Daito Trust Construction Co Ltd,,JP,,issuer
+SUZB3,0.004,BR,Suzano SA,,BR,,issuer
+HTO,0.004,GR,Hellenic Telecommunications Organization SA,,GR,,issuer
+3036,0.004,TW,WT Microelectronics Co Ltd,,TW,,issuer
+GENS,0.004,SG,Genting Singapore Ltd,,SG,,issuer
+SQN,0.004,CH,Swissquote Group Holding SA,,CH,,issuer
+VOD,0.004,ZA,Vodacom Group Ltd,,ZA,,issuer
+UHRN,0.004,CH,Swatch Group AG/The,,CH,,issuer
+601919,0.0039,CN,COSCO SHIPPING Holdings Co Ltd,,CN,,issuer
+7337,0.0039,JP,Hirogin Holdings Inc,,JP,,issuer
+247540,0.0039,KR,Ecopro BM Co Ltd,,KR,,issuer
+6415,0.0039,TW,Silergy Corp,,TW,,issuer
+9684,0.0039,JP,Square Enix Holdings Co Ltd,,JP,,issuer
+EDV,0.0039,AU,Endeavour Group Ltd/Australia,,AU,,issuer
+6990,0.0039,HK,Sichuan Kelun-Biotech Biopharmaceutical Co Ltd,,HK,,issuer
+CAMT,0.0039,IL,Camtek Ltd/Israel,,IL,,issuer
+6370,0.0039,JP,Kurita Water Industries Ltd,,JP,,issuer
+3626,0.0039,JP,TISI Inc,,JP,,issuer
+GETIB,0.0039,SE,Getinge AB,,SE,,issuer
+VER,0.0039,AT,Verbund AG,,AT,,issuer
+WTC,0.0039,AU,WiseTech Global Ltd,,AU,,issuer
+TEMN,0.0039,CH,Temenos AG,,CH,,issuer
+3281,0.0039,JP,GLP J-Reit,,JP,,issuer
+7729,0.0039,JP,Tokyo Seimitsu Co Ltd,,JP,,issuer
+BUPA,0.0039,SA,Bupa Arabia for Cooperative Insurance Co,,SA,,issuer
+POLICYBZ,0.0038,IN,PB Fintech Ltd,,IN,,issuer
+4324,0.0038,JP,Dentsu Group Inc,,JP,,issuer
+MCX,0.0038,IN,Multi Commodity Exchange of India Ltd,,IN,,issuer
+006800,0.0038,KR,Mirae Asset Securities Co Ltd,,KR,,issuer
+NRP,0.0038,ZA,NEPI Rockcastle NV,,ZA,,issuer
+3533,0.0038,TW,Lotes Co Ltd,,TW,,issuer
+5832,0.0038,JP,Chugin Financial Group Inc,,JP,,issuer
+WTB,0.0038,GB,Whitbread PLC,,GB,,issuer
+003670,0.0038,KR,POSCO Future M Co Ltd,,KR,,issuer
+WDP,0.0038,BE,Warehouses De Pauw CVA,,BE,,issuer
+AMP,0.0038,AU,AMP Ltd,,AU,,issuer
+4182,0.0038,JP,Mitsubishi Gas Chemical Co Inc,,JP,,issuer
+1944,0.0038,JP,Kinden Corp,,JP,,issuer
+KOMB,0.0038,CZ,Komercni Banka AS,,CZ,,issuer
+CWY,0.0038,AU,Cleanaway Waste Management Ltd,,AU,,issuer
+7201,0.0038,JP,Nissan Motor Co Ltd,,JP,,issuer
+SALM,0.0038,NO,Salmar ASA,,NO,,issuer
+TEVA,0.0038,US,Teva Pharmaceutical Industries Ltd,,US,,issuer
+1963,0.0038,JP,JGC Holdings Corp,,JP,,issuer
+1530,0.0037,HK,3SBio Inc,,HK,,issuer
+9143,0.0037,JP,SG Holdings Co Ltd,,JP,,issuer
+VMM,0.0037,IN,Vishal Mega Mart Ltd,,IN,,issuer
+VEDL,0.0037,IN,Vedanta Ltd,,IN,,issuer
+5711,0.0037,JP,Mitsubishi Materials Corp,,JP,,issuer
+000338,0.0037,CN,Weichai Power Co Ltd,,CN,,issuer
+000166,0.0037,CN,Shenwan Hongyuan Group Co Ltd,,CN,,issuer
+7282,0.0037,JP,Toyoda Gosei Co Ltd,,JP,,issuer
+RAND,0.0037,NL,Randstad NV,,NL,,issuer
+600958,0.0037,CN,Orient Securities Co Ltd/China,,CN,,issuer
+ADANIENS,0.0037,IN,Adani Energy Solutions Ltd,,IN,,issuer
+NEM,0.0037,DE,Nemetschek SE,,DE,,issuer
+VIVT3,0.0037,BR,Telefonica Brasil SA,,BR,,issuer
+272210,0.0037,KR,Hanwha Systems Co Ltd,,KR,,issuer
+BBSE3,0.0037,BR,BB Seguridade Participacoes SA,,BR,,issuer
+6481,0.0036,JP,THK Co Ltd,,JP,,issuer
+SOF,0.0036,BE,Sofina SA,,BE,,issuer
+ISB,0.0036,IS,Islandsbanki HF,,IS,,issuer
+SCHN,0.0036,CH,Schindler Holding AG,,CH,,issuer
+ARNB,0.0036,SA,Arab National Bank,,SA,,issuer
+1102,0.0036,TW,Asia Cement Corp,,TW,,issuer
+7261,0.0036,JP,Mazda Motor Corp,,JP,,issuer
+ASII,0.0036,ID,Astra International Tbk PT,,ID,,issuer
+1942,0.0036,JP,Kandenko Co Ltd,,JP,,issuer
+7747,0.0036,JP,Asahi Intecc Co Ltd,,JP,,issuer
+UNI,0.0036,ES,Unicaja Banco SA,,ES,,issuer
+WHL,0.0036,ZA,Woolworths Holdings Ltd/South Africa,,ZA,,issuer
+AKBNK,0.0036,TR,Akbank TAS,,TR,,issuer
+YES,0.0036,IN,Yes Bank Ltd,,IN,,issuer
+SDR,0.0036,GB,Schroders PLC,,GB,,issuer
+3045,0.0036,TW,Taiwan Mobile Co Ltd,,TW,,issuer
+1698,0.0035,HK,Tencent Music Entertainment Group,,HK,,issuer
+966,0.0035,HK,China Taiping Insurance Holdings Co Ltd,,HK,,issuer
+1818,0.0035,HK,Zhaojin Mining Industry Co Ltd,,HK,,issuer
+DNP,0.0035,PL,Dino Polska SA,,PL,,issuer
+POWERIND,0.0035,IN,Hitachi Energy India Ltd,,IN,,issuer
+AZRG,0.0035,IL,Azrieli Group Ltd,,IL,,issuer
+2331,0.0035,JP,ALSOK Co Ltd,,JP,,issuer
+WHC,0.0035,AU,Whitehaven Coal Ltd,,AU,,issuer
+2501,0.0035,JP,Sapporo Breweries Ltd,,JP,,issuer
+POLYCAB,0.0035,IN,Polycab India Ltd,,IN,,issuer
+FIBI,0.0035,IL,First International Bank Of Israel Ltd/The,,IL,,issuer
+3808,0.0035,HK,Sinotruk Hong Kong Ltd,,HK,,issuer
+INDUA,0.0035,SE,Industrivarden AB,,SE,,issuer
+MLSR,0.0035,IL,Melisron Ltd,,IL,,issuer
+XYZ,0.0035,AU,Block Inc,,AU,,issuer
+1816,0.0034,HK,CGN Power Co Ltd,,HK,,issuer
+CCRI,0.0034,IN,Container Corp Of India Ltd,,IN,,issuer
+2207,0.0034,TW,Hotai Motor Co Ltd,,TW,,issuer
+9698,0.0034,HK,GDS Holdings Ltd,,HK,,issuer
+1911,0.0034,JP,Sumitomo Forestry Co Ltd,,JP,,issuer
+2615,0.0034,TW,Wan Hai Lines Ltd,,TW,,issuer
+GEKTERNA,0.0034,GR,GEK TERNA SA,,GR,,issuer
+006260,0.0034,KR,LS Corp,,KR,,issuer
+APN,0.0034,ZA,Aspen Pharmacare Holdings Ltd,,ZA,,issuer
+1402,0.0034,TW,Far Eastern New Century Corp,,TW,,issuer
+OUT,0.0034,ZA,OUTsurance Group Ltd,,ZA,,issuer
+010130,0.0034,KR,Korea Zinc Co Ltd,,KR,,issuer
+ADNOCDRI,0.0034,AE,ADNOC Drilling Co PJSC,,AE,,issuer
+6770,0.0034,JP,Alps Alpine Co Ltd,,JP,,issuer
+BDO,0.0034,PH,BDO Unibank Inc,,PH,,issuer
+BCVN,0.0034,CH,Banque Cantonale Vaudoise,,CH,,issuer
+DNL,0.0034,AU,Incitec Pivot Ltd,,AU,,issuer
+259960,0.0033,KR,Krafton Inc,,KR,,issuer
+600406,0.0033,CN,NARI Technology Co Ltd,,CN,,issuer
+YTLP,0.0033,MY,YTL Power International Bhd,,MY,,issuer
+2353,0.0033,TW,Acer Inc,,TW,,issuer
+600999,0.0033,CN,China Merchants Securities Co Ltd,,CN,,issuer
+TASE,0.0033,IL,Tel Aviv Stock Exchange Ltd,,IL,,issuer
+TUB,0.0033,BE,Financiere de Tubize SA,,BE,,issuer
+EGIE3,0.0033,BR,Engie Brasil Energia SA,,BR,,issuer
+SRF,0.0033,IN,SRF Ltd,,IN,,issuer
+2331,0.0033,HK,Li Ning Co Ltd,,HK,,issuer
+003490,0.0033,KR,Korean Air Lines Co Ltd,,KR,,issuer
+SONACOMS,0.0033,IN,Sona Blw Precision Forgings Ltd,,IN,,issuer
+CAST,0.0033,SE,Castellum AB,,SE,,issuer
+2018,0.0033,HK,AAC Technologies Holdings Inc,,HK,,issuer
+600660,0.0033,CN,Fuyao Glass Industry Group Co Ltd,,CN,,issuer
+1038,0.0033,HK,CK Infrastructure Holdings Ltd,,HK,,issuer
+1766,0.0033,HK,CRRC Corp Ltd,,HK,,issuer
+003230,0.0033,KR,Samyang Foods Co Ltd,,KR,,issuer
+002475,0.0033,CN,Luxshare Precision Industry Co Ltd,,CN,,issuer
+5871,0.0033,TW,Chailease Holding Co Ltd,,TW,,issuer
+MGOR,0.0033,IL,Mega Or Holdings Ltd,,IL,,issuer
+601166,0.0033,CN,Industrial Bank Co Ltd,,CN,,issuer
+028300,0.0033,KR,HLB Co Ltd,,KR,,issuer
+ADANIGR,0.0032,IN,Adani Green Energy Ltd,,IN,,issuer
+IGM,0.0032,CA,IGM Financial Inc,,CA,,issuer
+3197,0.0032,JP,Skylark Holdings Co Ltd,,JP,,issuer
+MAXF,0.0032,IN,Max Financial Services Ltd,,IN,,issuer
+SAVE,0.0032,SE,Nordnet AB publ,,SE,,issuer
+SAGAB,0.0032,SE,Sagax AB,,SE,,issuer
+TTB/F,0.0032,TH,TMBThanachart Bank PCL,,TH,,issuer
+MGDL,0.0032,IL,Migdal Insurance & Financial Holdings Ltd,,IL,,issuer
+601211,0.0032,CN,Guotai Junan Securities Co Ltd,,CN,,issuer
+ANN,0.0032,AU,Ansell Ltd,,AU,,issuer
+IDEA,0.0032,IN,Vodafone Idea Ltd,,IN,,issuer
+PHNX,0.0032,IN,Phoenix Mills Ltd/The,,IN,,issuer
+DEMANT,0.0032,DK,Demant A/S,,DK,,issuer
+T,0.0032,CA,TELUS Corp,,CA,,issuer
+601990,0.0032,CN,Nanjing Securities Co Ltd,,CN,,issuer
+WPRO,0.0032,IN,Wipro Ltd,,IN,,issuer
+SDF,0.0032,AU,Steadfast Group Ltd,,AU,,issuer
+021240,0.0032,KR,Coway Co Ltd,,KR,,issuer
+BIOS,0.0031,IN,Biocon Ltd,,IN,,issuer
+AAK,0.0031,SE,AAK AB,,SE,,issuer
+8050,0.0031,JP,Seiko Group Corp,,JP,,issuer
+6139,0.0031,TW,L&K Engineering Co Ltd,,TW,,issuer
+5838,0.0031,JP,Rakuten Bank Ltd,,JP,,issuer
+9513,0.0031,JP,Electric Power Development Co Ltd,,JP,,issuer
+2633,0.0031,TW,Taiwan High Speed Rail Corp,,TW,,issuer
+5929,0.0031,JP,Sanwa Holdings Corp,,JP,,issuer
+443060,0.0031,KR,HD Hyundai Marine Solution Co Ltd,,KR,,issuer
+009830,0.0031,KR,Hanwha Solutions Corp,,KR,,issuer
+2267,0.0031,JP,Yakult Honsha Co Ltd,,JP,,issuer
+ISA,0.0031,CO,Interconexion Electrica SA ESP,,CO,,issuer
+3086,0.0031,JP,J Front Retailing Co Ltd,,JP,,issuer
+NYKAA,0.0031,IN,FSN E-Commerce Ventures Ltd,,IN,,issuer
+6302,0.0031,JP,Sumitomo Heavy Industries Ltd,,JP,,issuer
+2702,0.0031,JP,McDonald's Holdings Co Japan Ltd,,JP,,issuer
+002352,0.0031,CN,SF Holding Co Ltd,,CN,,issuer
+ELM,0.0031,SA,Elm Co,,SA,,issuer
+601878,0.0031,CN,Zheshang Securities Co Ltd,,CN,,issuer
+6862,0.0031,HK,Haidilao International Holding Ltd,,HK,,issuer
+291,0.0031,HK,China Resources Beer Holdings Co Ltd,,HK,,issuer
+COPEC,0.0031,CL,Empresas Copec SA,,CL,,issuer
+6592,0.0031,JP,Mabuchi Motor Co Ltd,,JP,,issuer
+2610,0.0031,TW,China Airlines Ltd,,TW,,issuer
+DU,0.0031,AE,Emirates Integrated Telecommunications Co PJSC,,AE,,issuer
+APAT,0.003,IN,APL Apollo Tubes Ltd,,IN,,issuer
+ICL,0.003,IL,ICL Group Ltd,,IL,,issuer
+601857,0.003,CN,PetroChina Co Ltd,,CN,,issuer
+2607,0.003,HK,Shanghai Pharmaceuticals Holding Co Ltd,,HK,,issuer
+601688,0.003,CN,Huatai Securities Co Ltd,,CN,,issuer
+017670,0.003,KR,SK Telecom Co Ltd,,KR,,issuer
+390,0.003,HK,China Railway Group Ltd,,HK,,issuer
+DXS,0.003,AU,Dexus,,AU,,issuer
+GCARSOA1,0.003,MX,Grupo Carso SAB de CV,,MX,,issuer
+1988,0.003,HK,China Minsheng Banking Corp Ltd,,HK,,issuer
+600600,0.003,CN,Tsingtao Brewery Co Ltd,,CN,,issuer
+CEN,0.003,NZ,Contact Energy Ltd,,NZ,,issuer
+1171,0.003,HK,Yankuang Energy Group Co Ltd,,HK,,issuer
+ICICIGI,0.003,IN,ICICI Lombard General Insurance Co Ltd,,IN,,issuer
+3132,0.003,JP,Macnica Holdings Inc,,JP,,issuer
+RNI,0.003,ZA,Reinet Investments SCA,,ZA,,issuer
+EMBASSY,0.003,IN,Embassy Office Parks REIT,,IN,,issuer
+MEESHO,0.003,IN,Meesho Ltd,,IN,,issuer
+5483,0.003,TW,Sino-American Silicon Products Inc,,TW,,issuer
+BC,0.003,IT,Brunello Cucinelli SpA,,IT,,issuer
+GROWW,0.003,IN,Billionbrains Garage Ventures Ltd,,IN,,issuer
+8069,0.003,TW,E Ink Holdings Inc,,TW,,issuer
+FIBIH,0.003,IL,FIBI Holdings Ltd,,IL,,issuer
+GRT,0.0029,ZA,Growthpoint Properties Ltd,,ZA,,issuer
+ZAIN,0.0029,KW,Mobile Telecommunications Co KSCP,,KW,,issuer
+RACE,0.0029,US,Ferrari NV,,US,,issuer
+19,0.0029,HK,Swire Pacific Ltd,,HK,,issuer
+002384,0.0029,CN,Suzhou Dongshan Precision Manufacturing Co Ltd,,CN,,issuer
+MMHD,0.0029,IL,Menora Mivtachim Holdings Ltd,,IL,,issuer
+LTM,0.0029,IN,LTM Ltd,,IN,,issuer
+8960,0.0029,JP,United Urban Investment Corp,,JP,,issuer
+600183,0.0029,CN,Shengyi Technology Co Ltd,,CN,,issuer
+APR,0.0029,IN,Apar Industries Ltd,,IN,,issuer
+3288,0.0029,JP,Open House Group Co Ltd,,JP,,issuer
+9072,0.0029,JP,Nikkon Holdings Co Ltd,,JP,,issuer
+6806,0.0029,JP,Hirose Electric Co Ltd,,JP,,issuer
+6134,0.0029,JP,Fuji Corp/Aichi,,JP,,issuer
+078930,0.0029,KR,GS Holdings Corp,,KR,,issuer
+688012,0.0029,CN,Advanced Micro-Fabrication Equipment Inc China,,CN,,issuer
+HUB,0.0029,AU,HUB24 Ltd,,AU,,issuer
+6505,0.0029,TW,Formosa Petrochemical Corp,,TW,,issuer
+9435,0.0029,JP,Hikari Tsushin Inc,,JP,,issuer
+1258,0.0029,HK,China Nonferrous Mining Corp Ltd,,HK,,issuer
+000088,0.0028,CN,Shenzhen Yan Tian Port Holding Co Ltd,,CN,,issuer
+358,0.0028,HK,Jiangxi Copper Co Ltd,,HK,,issuer
+SATS,0.0028,SG,SATS Ltd,,SG,,issuer
+HPCL,0.0028,IN,Hindustan Petroleum Corp Ltd,,IN,,issuer
+AC,0.0028,PH,Ayala Corp,,PH,,issuer
+601881,0.0028,CN,China Galaxy Securities Co Ltd,,CN,,issuer
+601600,0.0028,CN,Aluminum Corp of China Ltd,,CN,,issuer
+9506,0.0028,JP,Tohoku Electric Power Co Inc,,JP,,issuer
+600050,0.0028,CN,China United Network Communications Ltd,,CN,,issuer
+2897,0.0028,JP,Nissin Foods Holdings Co Ltd,,JP,,issuer
+000776,0.0028,CN,GF Securities Co Ltd,,CN,,issuer
+3462,0.0028,JP,Nomura Real Estate Master Fund Inc,,JP,,issuer
+ABB,0.0028,IN,ABB India Ltd,,IN,,issuer
+ECOPETL,0.0028,CO,Ecopetrol SA,,CO,,issuer
+AKER,0.0028,NO,Aker ASA,,NO,,issuer
+135,0.0028,HK,Kunlun Energy Co Ltd,,HK,,issuer
+9024,0.0028,JP,Seibu Holdings Inc,,JP,,issuer
+032640,0.0028,KR,LG Uplus Corp,,KR,,issuer
+FMTY14,0.0028,MX,Fibra MTY SAPI de CV,,MX,,issuer
+603288,0.0028,CN,Foshan Haitian Flavouring & Food Co Ltd,,CN,,issuer
+BPI,0.0028,PH,Bank of the Philippine Islands,,PH,,issuer
+A2M,0.0027,AU,a2 Milk Co Ltd/The,,AU,,issuer
+FPE3,0.0027,DE,FUCHS SE,,DE,,issuer
+ITUB3,0.0027,BR,Itau Unibanco Holding SA,,BR,,issuer
+005385,0.0027,KR,Hyundai Motor Co,,KR,,issuer
+4980,0.0027,JP,Dexerials Corp,,JP,,issuer
+4527,0.0027,JP,Rohto Pharmaceutical Co Ltd,,JP,,issuer
+HAVL,0.0027,IN,Havells India Ltd,,IN,,issuer
+TLX,0.0027,AU,Telix Pharmaceuticals Ltd,,AU,,issuer
+SWIGGY,0.0027,IN,Swiggy Ltd,,IN,,issuer
+GNP,0.0027,IN,Glenmark Pharmaceuticals Ltd,,IN,,issuer
+600918,0.0027,CN,Zhongtai Securities Co Ltd,,CN,,issuer
+GGPS3,0.0027,BR,GPS Participacoes e Empreendimentos SA,,BR,,issuer
+8972,0.0027,JP,KDX Realty Investment Corp,,JP,,issuer
+3092,0.0027,JP,ZOZO Inc,,JP,,issuer
+3898,0.0027,HK,Zhuzhou CRRC Times Electric Co Ltd,,HK,,issuer
+7180,0.0027,JP,Kyushu Financial Group Inc,,JP,,issuer
+EXX,0.0027,ZA,Exxaro Resources Ltd,,ZA,,issuer
+WOR,0.0027,AU,Worley Ltd,,AU,,issuer
+601869,0.0027,CN,Yangtze Optical Fibre & Cable Joint Stock Ltd Co,,CN,,issuer
+2845,0.0027,TW,Far Eastern International Bank,,TW,,issuer
+9009,0.0027,JP,Keisei Electric Railway Co Ltd,,JP,,issuer
+600029,0.0027,CN,China Southern Airlines Co Ltd,,CN,,issuer
+JOMAR,0.0027,SA,Jabal Omar Development Co,,SA,,issuer
+PARAUCO,0.0027,CL,Parque Arauco SA,,CL,,issuer
+2016,0.0027,HK,China Zheshang Bank Co Ltd,,HK,,issuer
+2354,0.0027,TW,Foxconn Technology Co Ltd,,TW,,issuer
+4751,0.0027,JP,CyberAgent Inc,,JP,,issuer
+MALLPLAZ,0.0027,CL,Plaza SA,,CL,,issuer
+2181,0.0027,JP,Persol Holdings Co Ltd,,JP,,issuer
+MISC,0.0027,MY,MISC Bhd,,MY,,issuer
+2347,0.0027,TW,Synnex Technology International Corp,,TW,,issuer
+5110,0.0027,JP,Sumitomo Rubber Industries Ltd,,JP,,issuer
+KLK,0.0027,MY,Kuala Lumpur Kepong Bhd,,MY,,issuer
+2313,0.0027,HK,Shenzhou International Group Holdings Ltd,,HK,,issuer
+HYUNDAI,0.0026,IN,Hyundai Motor India Ltd,,IN,,issuer
+SEBC,0.0026,SE,Skandinaviska Enskilda Banken AB,,SE,,issuer
+QGTS,0.0026,QA,Qatar Gas Transport Co Ltd,,QA,,issuer
+6787,0.0026,JP,Meiko Electronics Co Ltd,,JP,,issuer
+6409,0.0026,TW,Voltronic Power Technology Corp,,TW,,issuer
+1605,0.0026,TW,Walsin Lihwa Corp,,TW,,issuer
+3110,0.0026,JP,Nitto Boseki Co Ltd,,JP,,issuer
+600000,0.0026,CN,Shanghai Pudong Development Bank Co Ltd,,CN,,issuer
+1898,0.0026,HK,China Coal Energy Co Ltd,,HK,,issuer
+300760,0.0026,CN,Shenzhen Mindray Bio-Medical Electronics Co Ltd,,CN,,issuer
+3908,0.0026,HK,China International Capital Corp Ltd,,HK,,issuer
+SUF,0.0026,IN,Sundaram Finance Ltd,,IN,,issuer
+IGO,0.0026,AU,IGO Ltd,,AU,,issuer
+LODHA,0.0026,IN,Lodha Developers Ltd,,IN,,issuer
+1928,0.0026,HK,Sands China Ltd,,HK,,issuer
+KRDMA,0.0026,TR,Kardemir Karabuk Demir Celik Sanayi ve Ticaret AS,,TR,,issuer
+AGL,0.0026,AU,AGL Energy Ltd,,AU,,issuer
+ASAI3,0.0026,BR,Sendas Distribuidora S/A,,BR,,issuer
+097955,0.0026,KR,CJ CheilJedang Corp,,KR,,issuer
+RECL,0.0026,IN,REC Ltd,,IN,,issuer
+GRF/P,0.0026,ES,Grifols SA,,ES,,issuer
+4151,0.0026,JP,Kyowa Kirin Co Ltd,,JP,,issuer
+352820,0.0026,KR,HYBE Co Ltd,,KR,,issuer
+2588,0.0026,HK,BOC Aviation Ltd,,HK,,issuer
+1519,0.0025,TW,Fortune Electric Co Ltd,,TW,,issuer
+300394,0.0025,CN,Suzhou TFC Optical Communication Co Ltd,,CN,,issuer
+024110,0.0025,KR,Industrial Bank of Korea,,KR,,issuer
+NACL,0.0025,IN,National Aluminium Co Ltd,,IN,,issuer
+MUTH,0.0025,IN,Muthoot Finance Ltd,,IN,,issuer
+1860,0.0025,JP,Toda Corp,,JP,,issuer
+7731,0.0025,JP,Nikon Corp,,JP,,issuer
+6268,0.0025,JP,Nabtesco Corp,,JP,,issuer
+600905,0.0025,CN,China Three Gorges Renewables Group Co Ltd,,CN,,issuer
+BZU,0.0025,IT,Buzzi SpA,,IT,,issuer
+8233,0.0025,JP,Takashimaya Co Ltd,,JP,,issuer
+MODON,0.0025,AE,Modon Holding PSC,,AE,,issuer
+6005,0.0025,TW,Capital Securities Corp,,TW,,issuer
+5214,0.0025,JP,Nippon Electric Glass Co Ltd,,JP,,issuer
+UPLL,0.0025,IN,UPL Ltd,,IN,,issuer
+3283,0.0025,JP,Nippon Prologis REIT Inc,,JP,,issuer
+900948,0.0025,CN,Inner Mongolia Yitai Coal Co Ltd,,CN,,issuer
+902,0.0025,HK,Huaneng Power International Inc,,HK,,issuer
+601163,0.0025,CN,Triangle Tyre Co Ltd,,CN,,issuer
+2282,0.0025,JP,NH Foods Ltd,,JP,,issuer
+BOB,0.0025,IN,Bank of Baroda,,IN,,issuer
+PTTGC/F,0.0025,TH,PTT Global Chemical PCL,,TH,,issuer
+600188,0.0025,CN,Yankuang Energy Group Co Ltd,,CN,,issuer
+144,0.0025,HK,China Merchants Port Holdings Co Ltd,,HK,,issuer
+000869,0.0025,CN,Yantai Changyu Pioneer Wine Co Ltd,,CN,,issuer
+GFC,0.0025,FR,Gecina SA,,FR,,issuer
+MINT,0.0025,SG,Mapletree Industrial Trust,,SG,,issuer
+5631,0.0025,JP,Japan Steel Works Ltd/The,,JP,,issuer
+PETROR,0.0025,SA,Rabigh Refining & Petrochemical Co,,SA,,issuer
+323410,0.0025,KR,KakaoBank Corp,,KR,,issuer
+5991,0.0024,JP,NHK Spring Co Ltd,,JP,,issuer
+6871,0.0024,JP,Micronics Japan Co Ltd,,JP,,issuer
+MTM,0.0024,ZA,Momentum Group Ltd,,ZA,,issuer
+9001,0.0024,JP,Tobu Railway Co Ltd,,JP,,issuer
+384,0.0024,HK,China Gas Holdings Ltd,,HK,,issuer
+EIC,0.0024,SA,Electrical Industries Co,,SA,,issuer
+5344,0.0024,JP,Maruwa Co Ltd/Aichi,,JP,,issuer
+002236,0.0024,CN,Zhejiang Dahua Technology Co Ltd,,CN,,issuer
+9880,0.0024,HK,UBTech Robotics Corp Ltd,,HK,,issuer
+BH/F,0.0024,TH,Bumrungrad Hospital PCL,,TH,,issuer
+9688,0.0024,HK,Zai Lab Ltd,,HK,,issuer
+3969,0.0024,HK,China Railway Signal & Communication Corp Ltd,,HK,,issuer
+2105,0.0024,TW,Cheng Shin Rubber Industry Co Ltd,,TW,,issuer
+SIEM,0.0024,IN,Siemens Ltd,,IN,,issuer
+322,0.0024,HK,Tingyi Cayman Islands Holding Corp,,HK,,issuer
+6674,0.0024,JP,GS Yuasa Corp,,JP,,issuer
+PCHEM,0.0024,MY,Petronas Chemicals Group Bhd,,MY,,issuer
+ENRIN,0.0024,IN,Siemens Energy India Ltd,,IN,,issuer
+268,0.0024,HK,Kingdee International Software Group Co Ltd,,HK,,issuer
+1209,0.0024,HK,China Resources Mixc Lifestyle Services Ltd,,HK,,issuer
+3064,0.0024,JP,MonotaRO Co Ltd,,JP,,issuer
+161390,0.0024,KR,Hankook Tire & Technology Co Ltd,,KR,,issuer
+MONET,0.0024,CZ,Moneta Money Bank AS,,CZ,,issuer
+3405,0.0024,JP,Kuraray Co Ltd,,JP,,issuer
+9041,0.0024,JP,Kintetsu Group Holdings Co Ltd,,JP,,issuer
+600887,0.0024,CN,Inner Mongolia Yili Industrial Group Co Ltd,,CN,,issuer
+VIG,0.0024,AT,Vienna Insurance Group AG Wiener Versicherung Gruppe,,AT,,issuer
+9945,0.0024,TW,Ruentex Development Co Ltd,,TW,,issuer
+601236,0.0024,CN,Hongta Securities Co Ltd,,CN,,issuer
+000063,0.0024,CN,ZTE Corp,,CN,,issuer
+VESTA*,0.0024,MX,Corp Inmobiliaria Vesta SAB de CV,,MX,,issuer
+MCDCO,0.0024,SA,Makkah Construction & Development Co,,SA,,issuer
+KGX,0.0024,DE,KION Group AG,,DE,,issuer
+CD,0.0024,SG,ComfortDelGro Corp Ltd,,SG,,issuer
+MAP,0.0024,ES,Mapfre SA,,ES,,issuer
+090430,0.0024,KR,Amorepacific Corp,,KR,,issuer
+5105,0.0024,JP,Toyo Tire Corp,,JP,,issuer
+AIRARABI,0.0024,AE,Air Arabia PJSC,,AE,,issuer
+4631,0.0024,JP,DIC Corp,,JP,,issuer
+4203,0.0023,JP,Sumitomo Bakelite Co Ltd,,JP,,issuer
+5714,0.0023,JP,Dowa Holdings Co Ltd,,JP,,issuer
+4536,0.0023,JP,Santen Pharmaceutical Co Ltd,,JP,,issuer
+9863,0.0023,HK,Zhejiang Leapmotor Technology Co Ltd,,HK,,issuer
+TWE,0.0023,AU,Treasury Wine Estates Ltd,,AU,,issuer
+601766,0.0023,CN,CRRC Corp Ltd,,CN,,issuer
+9007,0.0023,JP,Odakyu Electric Railway Co Ltd,,JP,,issuer
+6465,0.0023,JP,Hoshizaki Corp,,JP,,issuer
+688008,0.0023,CN,Montage Technology Co Ltd,,CN,,issuer
+MLT,0.0023,SG,Mapletree Logistics Trust,,SG,,issuer
+SBID,0.0023,GB,State Bank of India,,GB,,issuer
+9904,0.0023,TW,Pou Chen Corp,,TW,,issuer
+MB,0.0023,IT,Mediobanca Banca di Credito Finanziario SpA,,IT,,issuer
+2049,0.0023,TW,Hiwin Technologies Corp,,TW,,issuer
+ARION,0.0023,IS,Arion Banki HF,,IS,,issuer
+991,0.0023,HK,Datang International Power Generation Co Ltd,,HK,,issuer
+STM,0.0023,SG,Seatrium Ltd,,SG,,issuer
+MPHL,0.0023,IN,Mphasis Ltd,,IN,,issuer
+IOI,0.0023,MY,IOI Corp Bhd,,MY,,issuer
+ELAL,0.0023,IL,El Al Israel Airlines Ltd,,IL,,issuer
+000623,0.0023,CN,Jilin Aodong Pharmaceutical Group Co Ltd,,CN,,issuer
+300059,0.0023,CN,East Money Information Co Ltd,,CN,,issuer
+GRF,0.0023,ES,Grifols SA,,ES,,issuer
+SECO,0.0023,SA,Saudi Energy Co,,SA,,issuer
+5393,0.0023,JP,Nichias Corp,,JP,,issuer
+8804,0.0023,JP,Tokyo Tatemono Co Ltd,,JP,,issuer
+UI,0.0022,US,Ubiquiti Inc,,US,,issuer
+BANB,0.0022,CH,Bachem Holding AG,,CH,,issuer
+2492,0.0022,TW,Walsin Technology Corp,,TW,,issuer
+1972,0.0022,HK,Swire Properties Ltd,,HK,,issuer
+303,0.0022,HK,VTech Holdings Ltd,,HK,,issuer
+IPCA,0.0022,IN,Ipca Laboratories Ltd,,IN,,issuer
+002916,0.0022,CN,Shennan Circuits Co Ltd,,CN,,issuer
+UNBK,0.0022,IN,Union Bank of India Ltd,,IN,,issuer
+6460,0.0022,JP,Sega Sammy Holdings Inc,,JP,,issuer
+4,0.0022,HK,Wharf Holdings Ltd/The,,HK,,issuer
+1787,0.0022,HK,Shandong Gold Mining Co Ltd,,HK,,issuer
+2371,0.0022,JP,Kakaku.com Inc,,JP,,issuer
+6886,0.0022,HK,Huatai Securities Co Ltd,,HK,,issuer
+STR,0.0022,AT,Strabag SE,,AT,,issuer
+TRUE/F,0.0022,TH,True Corp PCL,,TH,,issuer
+066970,0.0022,KR,L&F Co Ltd,,KR,,issuer
+CLGT,0.0022,IN,Colgate-Palmolive India Ltd,,IN,,issuer
+600150,0.0022,CN,China CSSC Holdings Ltd,,CN,,issuer
+277810,0.0022,KR,Rainbow Robotics,,KR,,issuer
+3360,0.0022,HK,Far East Horizon Ltd,,HK,,issuer
+5076,0.0022,JP,INFRONEER Holdings Inc,,JP,,issuer
+KIMBERA,0.0022,MX,Kimberly-Clark de Mexico SAB de CV,,MX,,issuer
+000100,0.0022,KR,Yuhan Corp,,KR,,issuer
+6269,0.0022,JP,Modec Inc,,JP,,issuer
+VIPS,0.0022,US,Vipshop Holdings Ltd,,US,,issuer
+ISCTR,0.0022,TR,Turkiye Is Bankasi AS,,TR,,issuer
+AAF,0.0022,GB,Airtel Africa PLC,,GB,,issuer
+4966,0.0022,TW,Parade Technologies Ltd,,TW,,issuer
+REH,0.0022,AU,Reece Ltd,,AU,,issuer
+270,0.0022,HK,Guangdong Investment Ltd,,HK,,issuer
+BOMH,0.0022,IN,Bank of Maharashtra,,IN,,issuer
+MFT,0.0022,NZ,Mainfreight Ltd,,NZ,,issuer
+MANKIND,0.0022,IN,Mankind Pharma Ltd,,IN,,issuer
+3888,0.0022,HK,Kingsoft Corp Ltd,,HK,,issuer
+2377,0.0022,TW,Micro-Star International Co Ltd,,TW,,issuer
+601601,0.0022,CN,China Pacific Insurance Group Co Ltd,,CN,,issuer
+1504,0.0022,TW,Teco Electric and Machinery Co Ltd,,TW,,issuer
+VOLT,0.0022,IN,Voltas Ltd,,IN,,issuer
+VSURE,0.0022,SE,Verisure Group Topholding AB,,SE,,issuer
+6919,0.0022,TW,Caliway Biopharmaceuticals Co Ltd,,TW,,issuer
+601375,0.0022,CN,Central China Securities Co Ltd,,CN,,issuer
+KEII,0.0022,IN,KEI Industries Ltd,,IN,,issuer
+ENELCHIL,0.0022,CL,Enel Chile SA,,CL,,issuer
+OMU,0.0022,ZA,Old Mutual Ltd,,ZA,,issuer
+2531,0.0022,JP,Takara Holdings Inc,,JP,,issuer
+064400,0.0022,KR,LG CNS Co Ltd,,KR,,issuer
+2912,0.0022,TW,President Chain Store Corp,,TW,,issuer
+KDCREIT,0.0022,SG,Keppel DC REIT,,SG,,issuer
+MBRF3,0.0022,BR,MBRF Global Foods Co SA,,BR,,issuer
+QBR/B,0.0022,CA,Quebecor Inc,,CA,,issuer
+9023,0.0022,JP,Tokyo Metro Co Ltd,,JP,,issuer
+2609,0.0022,TW,Yang Ming Marine Transport Corp,,TW,,issuer
+MTRX,0.0022,IL,Matrix IT Ltd,,IL,,issuer
+6030,0.0022,HK,CITIC Securities Co Ltd,,HK,,issuer
+3800,0.0022,HK,GCL Technology Holdings Ltd,,HK,,issuer
+1138,0.0022,HK,COSCO SHIPPING Energy Transportation Co Ltd,,HK,,issuer
+SCC/F,0.0022,TH,Siam Cement PCL/The,,TH,,issuer
+CLAS,0.0022,SG,CapitaLand Ascott Trust,,SG,,issuer
+688498,0.0021,CN,Yuanjie Semiconductor Technology Co Ltd,,CN,,issuer
+2212,0.0021,JP,Yamazaki Baking Co Ltd,,JP,,issuer
+TAWUNIYA,0.0021,SA,Co for Cooperative Insurance/The,,SA,,issuer
+MRP,0.0021,ZA,Mr Price Group Ltd,,ZA,,issuer
+6526,0.0021,JP,Socionext Inc,,JP,,issuer
+601108,0.0021,CN,Caitong Securities Co Ltd,,CN,,issuer
+000858,0.0021,CN,Wuliangye Yibin Co Ltd,,CN,,issuer
+3396,0.0021,HK,Legend Holdings Corp,,HK,,issuer
+097950,0.0021,KR,CJ CheilJedang Corp,,KR,,issuer
+LUNDB,0.0021,SE,L E Lundbergforetagen AB,,SE,,issuer
+ZYDUSLIF,0.0021,IN,Zydus Lifesciences Ltd,,IN,,issuer
+6141,0.0021,JP,DMG Mori Co Ltd,,JP,,issuer
+SWB,0.0021,MY,Sunway Bhd,,MY,,issuer
+SEK,0.0021,AU,SEEK Ltd,,AU,,issuer
+6082,0.0021,HK,Shanghai Biren Technology Co Ltd,,HK,,issuer
+1717,0.0021,TW,Eternal Materials Co Ltd,,TW,,issuer
+9064,0.0021,JP,Yamato Holdings Co Ltd,,JP,,issuer
+6323,0.0021,JP,Rorze Corp,,JP,,issuer
+8439,0.0021,JP,Tokyo Century Corp,,JP,,issuer
+SANB11,0.0021,BR,Banco Santander Brasil SA,,BR,,issuer
+051905,0.0021,KR,LG H&H Co Ltd,,KR,,issuer
+5444,0.0021,JP,Yamato Kogyo Co Ltd,,JP,,issuer
+3606,0.0021,HK,Fuyao Glass Industry Group Co Ltd,,HK,,issuer
+VZN,0.0021,CH,VZ Holding AG,,CH,,issuer
+1969,0.0021,JP,Takasago Thermal Engineering Co Ltd,,JP,,issuer
+SHBB,0.0021,SE,Svenska Handelsbanken AB,,SE,,issuer
+4506,0.0021,JP,Sumitomo Pharma Co Ltd,,JP,,issuer
+BALDB,0.0021,SE,Fastighets AB Balder,,SE,,issuer
+ADNOCLS,0.0021,AE,ADNOC Logistics & Services,,AE,,issuer
+2579,0.0021,JP,Coca-Cola Bottlers Japan Holdings Inc,,JP,,issuer
+EMAARDEV,0.0021,AE,Emaar Development PJSC,,AE,,issuer
+TBS,0.0021,ZA,Tiger Brands Ltd,,ZA,,issuer
+6324,0.0021,JP,Harmonic Drive Systems Inc,,JP,,issuer
+SGM,0.0021,AU,Sims Ltd,,AU,,issuer
+000800,0.0021,CN,FAW Jiefang Group Co Ltd,,CN,,issuer
+7003,0.0021,JP,Mitsui E&S Co Ltd,,JP,,issuer
+293,0.0021,HK,Cathay Pacific Airways Ltd,,HK,,issuer
+9917,0.0021,TW,Taiwan Secom Co Ltd,,TW,,issuer
+SIGMAFA,0.0021,MX,Sigma Foods SAB de CV,,MX,,issuer
+4385,0.002,JP,Mercari Inc,,JP,,issuer
+603501,0.002,CN,OmniVision Integrated Circuits Group Inc,,CN,,issuer
+000100,0.002,CN,TCL Technology Group Corp,,CN,,issuer
+MTAV,0.002,IL,Meitav Investment House Ltd,,IL,,issuer
+BKW,0.002,CH,BKW AG,,CH,,issuer
+BJHI,0.002,IN,Bajaj Holdings & Investment Ltd,,IN,,issuer
+136,0.002,HK,China Ruyi Holdings Ltd,,HK,,issuer
+603986,0.002,CN,GigaDevice Semiconductor Inc,,CN,,issuer
+601225,0.002,CN,Shaanxi Coal Industry Co Ltd,,CN,,issuer
+1722,0.002,TW,Taiwan Fertilizer Co Ltd,,TW,,issuer
+688347,0.002,CN,Hua Hong Grace Semiconductor Ltd,,CN,,issuer
+PFGRUPSU,0.002,CO,Grupo de Inversiones Suramericana SA,,CO,,issuer
+H2O,0.002,RO,Societatea De Producere A Energiei Electrice in Hidrocentrale Hidroelectrica SA,,RO,,issuer
+OMAB,0.002,MX,Grupo Aeroportuario del Centro Norte SAB de CV,,MX,,issuer
+601985,0.002,CN,China National Nuclear Power Co Ltd,,CN,,issuer
+601888,0.002,CN,China Tourism Group Duty Free Corp Ltd,,CN,,issuer
+300408,0.002,CN,Chaozhou Three-Circle Group Co Ltd,,CN,,issuer
+PINFRA*,0.002,MX,Promotora y Operadora de Infraestructura SAB de CV,,MX,,issuer
+TPW,0.002,IN,Torrent Power Ltd,,IN,,issuer
+128940,0.002,KR,Hanmi Pharm Co Ltd,,KR,,issuer
+6181,0.002,HK,Laopu Gold Co Ltd,,HK,,issuer
+2474,0.002,TW,Catcher Technology Co Ltd,,TW,,issuer
+002463,0.002,CN,WUS Printed Circuit Kunshan Co Ltd,,CN,,issuer
+6881,0.002,HK,China Galaxy Securities Co Ltd,,HK,,issuer
+HAL,0.002,NL,HAL Trust,,NL,,issuer
+2809,0.002,JP,Kewpie Corp,,JP,,issuer
+3769,0.002,JP,GMO Payment Gateway Inc,,JP,,issuer
+4403,0.002,JP,NOF Corp,,JP,,issuer
+1913,0.002,HK,PRADA SpA,,HK,,issuer
+2618,0.002,HK,JD Logistics Inc,,HK,,issuer
+002714,0.002,CN,Muyuan Foods Group Co Ltd,,CN,,issuer
+SAIL,0.002,IN,Steel Authority of India Ltd,,IN,,issuer
+9008,0.002,JP,Keio Corp,,JP,,issuer
+CSG,0.002,NL,CSG NV,,NL,,issuer
+BOL,0.002,FR,Bollore SE,,FR,,issuer
+6728,0.002,JP,Ulvac Inc,,JP,,issuer
+JSW,0.002,IN,JSW Energy Ltd,,IN,,issuer
+YANSAB,0.002,SA,Yanbu National Petrochemical Co,,SA,,issuer
+8304,0.002,JP,Aozora Bank Ltd,,JP,,issuer
+EREGL,0.002,TR,Eregli Demir ve Celik Fabrikalari TAS,,TR,,issuer
+GMRAIRPO,0.002,IN,GMR Airports Infrastructure Ltd,,IN,,issuer
+YTL,0.002,MY,YTL Corp Bhd,,MY,,issuer
+OFSS,0.002,IN,Oracle Financial Services Software Ltd,,IN,,issuer
+3998,0.002,HK,Bosideng International Holdings Ltd,,HK,,issuer
+4626,0.002,JP,Taiyo Holdings Co Ltd,,JP,,issuer
+WAAREEEN,0.0019,IN,WAAREE Energies Ltd,,IN,,issuer
+PIRAMALF,0.0019,IN,Piramal Finance Ltd,,IN,,issuer
+180640,0.0019,KR,Hanjin Kal Corp,,KR,,issuer
+1929,0.0019,HK,Chow Tai Fook Jewellery Group Ltd,,HK,,issuer
+HCP,0.0019,IN,Hindustan Copper Ltd,,IN,,issuer
+600062,0.0019,CN,China Resources Double Crane Pharmaceutical Co Ltd,,CN,,issuer
+SIME,0.0019,MY,Sime Darby Bhd,,MY,,issuer
+3406,0.0019,TW,Genius Electronic Optical Co Ltd,,TW,,issuer
+SKBN,0.0019,IL,Shikun & Binui Ltd,,IL,,issuer
+KMAR,0.0019,NO,Kongsberg Maritime ASA,,NO,,issuer
+601633,0.0019,CN,Great Wall Motor Co Ltd,,CN,,issuer
+138930,0.0019,KR,BNK Financial Group Inc,,KR,,issuer
+AMMN,0.0019,ID,Amman Mineral Internasional PT,,ID,,issuer
+257,0.0019,HK,China Everbright Environment Group Ltd,,HK,,issuer
+CSAN3,0.0019,BR,Cosan SA,,BR,,issuer
+600196,0.0019,CN,Shanghai Fosun Pharmaceutical Group Co Ltd,,CN,,issuer
+DOW,0.0019,AU,Downer EDI Ltd,,AU,,issuer
+YKBNK,0.0019,TR,Yapi ve Kredi Bankasi AS,,TR,,issuer
+KALYANKJ,0.0019,IN,Kalyan Jewellers India Ltd,,IN,,issuer
+LATOB,0.0019,SE,Investment AB Latour,,SE,,issuer
+LTM,0.0019,US,Latam Airlines Group SA,,US,,issuer
+AXFO,0.0019,SE,Axfood AB,,SE,,issuer
+3391,0.0019,JP,Tsuruha Holdings Inc,,JP,,issuer
+8303,0.0019,JP,SBI Shinsei Bank Ltd,,JP,,issuer
+3986,0.0019,HK,GigaDevice Semiconductor Inc,,HK,,issuer
+8060,0.0019,JP,Canon Marketing Japan Inc,,JP,,issuer
+HZ,0.0019,IN,Hindustan Zinc Ltd,,IN,,issuer
+6969,0.0019,HK,Smoore International Holdings Ltd,,HK,,issuer
+PAZ,0.0019,IL,Paz Retail And Energy Ltd,,IL,,issuer
+9301,0.0019,JP,Mitsubishi Logistics Corp,,JP,,issuer
+FRA,0.0019,DE,Fraport AG Frankfurt Airport Services Worldwide,,DE,,issuer
+000815,0.0019,KR,Samsung Fire & Marine Insurance Co Ltd,,KR,,issuer
+5901,0.0019,JP,Toyo Seikan Group Holdings Ltd,,JP,,issuer
+600663,0.0018,CN,Shanghai Lujiazui Finance & Trade Zone Development Co Ltd,,CN,,issuer
+THBEV,0.0018,SG,Thai Beverage PCL,,SG,,issuer
+CSMG3,0.0018,BR,Cia de Saneamento de Minas Gerais Copasa MG,,BR,,issuer
+QIIK,0.0018,QA,Qatar International Islamic Bank QSC,,QA,,issuer
+2871,0.0018,JP,Nichirei Corp,,JP,,issuer
+SW,0.0018,FR,Sodexo SA,,FR,,issuer
+8253,0.0018,JP,Credit Saison Co Ltd,,JP,,issuer
+SALIK,0.0018,AE,Salik Co PJSC,,AE,,issuer
+066575,0.0018,KR,LG Electronics Inc,,KR,,issuer
+SAE,0.0018,IL,Shufersal Ltd,,IL,,issuer
+285,0.0018,HK,BYD Electronic International Co Ltd,,HK,,issuer
+ALARKAN,0.0018,SA,Dar Al Arkan Real Estate Development Co,,SA,,issuer
+601880,0.0018,CN,Liaoning Port Co Ltd,,CN,,issuer
+ABCAP,0.0018,IN,Aditya Birla Capital Ltd,,IN,,issuer
+3038,0.0018,JP,Kobe Bussan Co Ltd,,JP,,issuer
+002142,0.0018,CN,Bank of Ningbo Co Ltd,,CN,,issuer
+600019,0.0018,CN,Baoshan Iron & Steel Co Ltd,,CN,,issuer
+000725,0.0018,CN,BOE Technology Group Co Ltd,,CN,,issuer
+TIMS3,0.0018,BR,TIM SA/Brazil,,BR,,issuer
+900926,0.0018,CN,Shanghai Baosight Software Co Ltd,,CN,,issuer
+6952,0.0018,JP,Casio Computer Co Ltd,,JP,,issuer
+CRC/F,0.0018,TH,Central Retail Corp PCL,,TH,,issuer
+VOW,0.0018,DE,Volkswagen AG,,DE,,issuer
+6166,0.0018,HK,CIG Shanghai Co Ltd,,HK,,issuer
+4912,0.0018,JP,Lion Corp,,JP,,issuer
+DORL,0.0018,IL,Doral Group Renewable Energy Resources Ltd,,IL,,issuer
+CENCOSUD,0.0018,CL,Cencosud SA,,CL,,issuer
+LEN/B,0.0018,US,Lennar Corp,,US,,issuer
+SCC-R,0.0018,TH,Siam Cement PCL/The,,TH,,issuer
+600109,0.0018,CN,Sinolink Securities Co Ltd,,CN,,issuer
+OINL,0.0018,IN,Oil India Ltd,,IN,,issuer
+3249,0.0018,JP,Industrial & Infrastructure Fund Investment Corp,,JP,,issuer
+MER,0.0018,PH,Manila Electric Co,,PH,,issuer
+CVC,0.0018,NL,CVC Capital Partners PLC,,NL,,issuer
+005940,0.0018,KR,NH Investment & Securities Co Ltd,,KR,,issuer
+425,0.0018,HK,Minth Group Ltd,,HK,,issuer
+KLBN11,0.0018,BR,Klabin SA,,BR,,issuer
+2587,0.0018,JP,Suntory Beverage & Food Ltd,,JP,,issuer
+1044,0.0018,HK,Hengan International Group Co Ltd,,HK,,issuer
+IPRU,0.0018,IN,ICICI Prudential Life Insurance Co Ltd,,IN,,issuer
+SAHOL,0.0018,TR,Haci Omer Sabanci Holding AS,,TR,,issuer
+LTF,0.0018,IN,L&T Finance Ltd,,IN,,issuer
+360ONE,0.0018,IN,360 ONE WAM Ltd,,IN,,issuer
+002926,0.0018,CN,Huaxi Securities Co Ltd,,CN,,issuer
+TIINDIA,0.0018,IN,Tube Investments of India Ltd,,IN,,issuer
+ALWN,0.0017,GR,Allwyn AG,,GR,,issuer
+002938,0.0017,CN,Avary Holding Shenzhen Co Ltd,,CN,,issuer
+GENTERA*,0.0017,MX,Gentera SAB de CV,,MX,,issuer
+VIC,0.0017,VN,Vingroup JSC,,VN,,issuer
+2600,0.0017,HK,Aluminum Corp of China Ltd,,HK,,issuer
+PIRC,0.0017,IT,Pirelli & C SpA,,IT,,issuer
+5471,0.0017,JP,Daido Steel Co Ltd,,JP,,issuer
+688072,0.0017,CN,Piotech Inc,,CN,,issuer
+IOB,0.0017,IN,Indian Overseas Bank,,IN,,issuer
+5021,0.0017,JP,Cosmo Energy Holdings Co Ltd,,JP,,issuer
+AXIA7,0.0017,BR,Axia Energia SA,,BR,,issuer
+MDKA,0.0017,ID,Merdeka Copper Gold Tbk PT,,ID,,issuer
+1772,0.0017,HK,Ganfeng Lithium Group Co Ltd,,HK,,issuer
+T,0.0017,MY,Telekom Malaysia Bhd,,MY,,issuer
+7951,0.0017,JP,Yamaha Corp,,JP,,issuer
+HLUNB,0.0017,DK,H Lundbeck A/S,,DK,,issuer
+MMFS,0.0017,IN,Mahindra & Mahindra Financial Services Ltd,,IN,,issuer
+HER,0.0017,IT,Hera SpA,,IT,,issuer
+300274,0.0017,CN,Sungrow Power Supply Co Ltd,,CN,,issuer
+011790,0.0017,KR,SKC Co Ltd,,KR,,issuer
+LLOYDSME,0.0017,IN,Lloyds Metals & Energy Ltd,,IN,,issuer
+8954,0.0017,JP,Orix JREIT Inc,,JP,,issuer
+916,0.0017,HK,China Longyuan Power Group Corp Ltd,,HK,,issuer
+HDBFS,0.0017,IN,HDB Financial Services Ltd,,IN,,issuer
+543A,0.0017,JP,ARCHION Corp,,JP,,issuer
+JDSL,0.0017,IN,Jindal Stainless Ltd,,IN,,issuer
+DLG,0.0017,MY,Dialog Group Bhd,,MY,,issuer
+600919,0.0017,CN,Bank of Jiangsu Co Ltd,,CN,,issuer
+200725,0.0017,CN,BOE Technology Group Co Ltd,,CN,,issuer
+MCY,0.0017,NZ,Mercury NZ Ltd,,NZ,,issuer
+WARBABAN,0.0017,KW,Warba Bank KSCP,,KW,,issuer
+000513,0.0017,CN,Livzon Pharmaceutical Group Inc,,CN,,issuer
+BBNI,0.0017,ID,Bank Negara Indonesia Persero Tbk PT,,ID,,issuer
+000880,0.0017,KR,Hanwha Corp,,KR,,issuer
+300476,0.0017,CN,Victory Giant Technology Huizhou Co Ltd,,CN,,issuer
+DLEKG,0.0016,IL,Delek Group Ltd,,IL,,issuer
+1910,0.0016,HK,Samsonite International SA,,HK,,issuer
+STRS,0.0016,IL,Strauss Group Ltd,,IL,,issuer
+ITCHOTEL,0.0016,IN,New Issuer: BB Company ID:183206,,IN,,issuer
+000157,0.0016,CN,Zoomlion Heavy Industry Science and Technology Co Ltd,,CN,,issuer
+600309,0.0016,CN,Wanhua Chemical Group Co Ltd,,CN,,issuer
+TOP/F,0.0016,TH,Thai Oil PCL,,TH,,issuer
+BOQ,0.0016,AU,Bank of Queensland Ltd,,AU,,issuer
+FBU,0.0016,NZ,Fletcher Building Ltd,,NZ,,issuer
+688469,0.0016,CN,United Nova Technology Co Ltd,,CN,,issuer
+DSTKF,0.0016,TR,Destek Finans Faktoring AS,,TR,,issuer
+JOYY,0.0016,US,JOYY Inc,,US,,issuer
+PEPL,0.0016,IN,Prestige Estates Projects Ltd,,IN,,issuer
+COV,0.0016,FR,Covivio SA/France,,FR,,issuer
+001450,0.0016,KR,Hyundai Marine & Fire Insurance Co Ltd,,KR,,issuer
+ROCKB,0.0016,DK,ROCKWOOL A/S,,DK,,issuer
+CRIN,0.0016,IN,Coromandel International Ltd,,IN,,issuer
+BBAJIOO,0.0016,MX,Banco del Bajio SA,,MX,,issuer
+MINT/F,0.0016,TH,Minor International PCL,,TH,,issuer
+7459,0.0016,JP,Medipal Holdings Corp,,JP,,issuer
+1357,0.0016,HK,Meitu Inc,,HK,,issuer
+BBDC3,0.0016,BR,Banco Bradesco SA,,BR,,issuer
+5233,0.0016,JP,Taiheiyo Cement Corp,,JP,,issuer
+036570,0.0016,KR,NC Corp,,KR,,issuer
+3774,0.0016,JP,Internet Initiative Japan Inc,,JP,,issuer
+JD,0.0016,GB,JD Sports Fashion PLC,,GB,,issuer
+1099,0.0016,HK,Sinopharm Group Co Ltd,,HK,,issuer
+HVN,0.0016,AU,Harvey Norman Holdings Ltd,,AU,,issuer
+600004,0.0016,CN,Guangzhou Baiyun International Airport Co Ltd,,CN,,issuer
+MRF,0.0016,IN,MRF Ltd,,IN,,issuer
+MAXIS,0.0016,MY,Maxis Bhd,,MY,,issuer
+9995,0.0016,HK,Remegen Co Ltd,,HK,,issuer
+SUNB,0.0016,US,Sunbelt Rentals Holdings Inc,,US,,issuer
+PARKIN,0.0016,AE,Parkin Co PJSC,,AE,,issuer
+2333,0.0016,HK,Great Wall Motor Co Ltd,,HK,,issuer
+8088,0.0016,JP,Iwatani Corp,,JP,,issuer
+AGILITY,0.0016,AE,Agility Global PLC,,AE,,issuer
+SUNMED,0.0016,MY,Sunway Healthcare Holdings bhd,,MY,,issuer
+PAG,0.0016,IN,Page Industries Ltd,,IN,,issuer
+307950,0.0016,KR,Hyundai Autoever Corp,,KR,,issuer
+NMDC,0.0016,AE,NMDC Group PJSC,,AE,,issuer
+2371,0.0016,TW,Tatung Co Ltd,,TW,,issuer
+13,0.0016,HK,HUTCHMED China Ltd,,HK,,issuer
+000657,0.0016,CN,China Tungsten And Hightech Materials Co Ltd,,CN,,issuer
+000001,0.0016,CN,Ping An Bank Co Ltd,,CN,,issuer
+LREN3,0.0015,BR,Lojas Renner SA,,BR,,issuer
+1776,0.0015,HK,GF Securities Co Ltd,,HK,,issuer
+RIYADHCA,0.0015,SA,Riyadh Cables Group Co,,SA,,issuer
+142,0.0015,HK,First Pacific Co Ltd,,HK,,issuer
+241,0.0015,HK,Alibaba Health Information Technology Ltd,,HK,,issuer
+600872,0.0015,CN,Jonjee Hi-Tech Industrial And Commercial Holding Co Ltd,,CN,,issuer
+601066,0.0015,CN,CSC Financial Co Ltd,,CN,,issuer
+8955,0.0015,JP,Japan Prime Realty Investment Corp,,JP,,issuer
+9903,0.0015,HK,Shanghai Iluvatar CoreX Semiconductor Co Ltd,,HK,,issuer
+IJM,0.0015,MY,IJM Corp Bhd,,MY,,issuer
+CDB,0.0015,MY,CELCOMDIGI BHD,,MY,,issuer
+BRPT,0.0015,ID,Barito Pacific Tbk PT,,ID,,issuer
+600362,0.0015,CN,Jiangxi Copper Co Ltd,,CN,,issuer
+NHPC,0.0015,IN,NHPC Ltd,,IN,,issuer
+3311,0.0015,HK,China State Construction International Holdings Ltd,,HK,,issuer
+047050,0.0015,KR,Posco International Corp,,KR,,issuer
+867,0.0015,HK,China Medical System Holdings Ltd,,HK,,issuer
+SNN,0.0015,RO,Societatea Nationala Nuclearelectrica SA,,RO,,issuer
+5938,0.0015,JP,Lixil Corp,,JP,,issuer
+004020,0.0015,KR,Hyundai Steel Co,,KR,,issuer
+HYPE3,0.0015,BR,Hypera SA,,BR,,issuer
+6923,0.0015,JP,Stanley Electric Co Ltd,,JP,,issuer
+326030,0.0015,KR,SK Biopharmaceuticals Co Ltd,,KR,,issuer
+ISDMR,0.0015,TR,Iskenderun Demir ve Celik AS,,TR,,issuer
+MEGACPO,0.0015,MX,Megacable Holdings SAB de CV,,MX,,issuer
+034220,0.0015,KR,LG Display Co Ltd,,KR,,issuer
+241560,0.0015,KR,Doosan Bobcat Inc,,KR,,issuer
+600690,0.0015,CN,Haier Smart Home Co Ltd,,CN,,issuer
+NHC,0.0015,AU,New Hope Corp Ltd,,AU,,issuer
+PLNG,0.0015,IN,Petronet LNG Ltd,,IN,,issuer
+601088,0.0015,CN,China Shenhua Energy Co Ltd,,CN,,issuer
+601336,0.0015,CN,New China Life Insurance Co Ltd,,CN,,issuer
+JKCE,0.0015,IN,JK Cement Ltd,,IN,,issuer
+ALOS3,0.0015,BR,Allos SA,,BR,,issuer
+168,0.0015,HK,Tsingtao Brewery Co Ltd,,HK,,issuer
+6951,0.0015,JP,Jeol Ltd,,JP,,issuer
+6818,0.0015,HK,China Everbright Bank Co Ltd,,HK,,issuer
+960,0.0015,HK,Longfor Group Holdings Ltd,,HK,,issuer
+ICICIAMC,0.0015,IN,ICICI Prudential Asset Management Co Ltd/India,,IN,,issuer
+1364,0.0015,HK,Guming Holdings Ltd,,HK,,issuer
+DRR,0.0014,AU,Deterra Royalties Ltd,,AU,,issuer
+SRCM,0.0014,IN,Shree Cement Ltd,,IN,,issuer
+603893,0.0014,CN,Rockchip Electronics Co Ltd,,CN,,issuer
+1802,0.0014,TW,Taiwan Glass Industry Corp,,TW,,issuer
+AJP,0.0014,IN,Ajanta Pharma Ltd,,IN,,issuer
+MTS,0.0014,AU,Metcash Ltd,,AU,,issuer
+601872,0.0014,CN,China Merchants Energy Shipping Co Ltd,,CN,,issuer
+ASTOR,0.0014,TR,Astor Transformator Enerji Turizm Insaat Ve Petrol Sanayi Ticaret AS,,TR,,issuer
+ILU,0.0014,AU,Iluka Resources Ltd,,AU,,issuer
+MTELEKOM,0.0014,HU,Magyar Telekom Telecommunications PLC,,HU,,issuer
+316,0.0014,HK,Orient Overseas International Ltd,,HK,,issuer
+4613,0.0014,JP,Kansai Paint Co Ltd,,JP,,issuer
+ANDINAB,0.0014,CL,Embotelladora Andina SA,,CL,,issuer
+CPF/F,0.0014,TH,Charoen Pokphand Foods PCL,,TH,,issuer
+600176,0.0014,CN,China Jushi Co Ltd,,CN,,issuer
+INPST,0.0014,NL,InPost SA,,NL,,issuer
+600031,0.0014,CN,Sany Heavy Industry Co Ltd,,CN,,issuer
+0126Z0,0.0014,KR,Samsung Episholdings Co Ltd,,KR,,issuer
+300433,0.0014,CN,Lens Technology Co Ltd,,CN,,issuer
+6368,0.0014,JP,Organo Corp,,JP,,issuer
+271560,0.0014,KR,Orion Corp/Republic of Korea,,KR,,issuer
+CIT,0.0014,SG,City Developments Ltd,,SG,,issuer
+8984,0.0014,JP,Daiwa House REIT Investment Corp,,JP,,issuer
+9533,0.0014,JP,Toho Gas Co Ltd,,JP,,issuer
+300604,0.0014,CN,Hangzhou Chang Chuan Technology Co Ltd,,CN,,issuer
+INBK,0.0014,IN,Indian Bank,,IN,,issuer
+23,0.0014,HK,Bank of East Asia Ltd/The,,HK,,issuer
+SHA0,0.0014,DE,Schaeffler AG,,DE,,issuer
+7649,0.0014,JP,Sugi Holdings Co Ltd,,JP,,issuer
+AMR,0.0014,AE,Americana Restaurants International PLC - Foreign Co,,AE,,issuer
+SPEN,0.0014,IL,Shapir Engineering and Industry Ltd,,IL,,issuer
+TCOM,0.0014,IN,Tata Communications Ltd,,IN,,issuer
+9831,0.0014,JP,Yamada Holdings Co Ltd,,JP,,issuer
+2577,0.0014,HK,InnoScience Suzhou Technology Holding Co Ltd,,HK,,issuer
+601868,0.0014,CN,China Energy Engineering Corp Ltd,,CN,,issuer
+9468,0.0014,JP,Kadokawa Corp,,JP,,issuer
+6936,0.0014,HK,SF Holding Co Ltd,,HK,,issuer
+BLSTR,0.0014,IN,Blue Star Ltd,,IN,,issuer
+UNTR,0.0014,ID,United Tractors Tbk PT,,ID,,issuer
+000060,0.0014,CN,Shenzhen Zhongjin Lingnan Nonfemet Co Ltd,,CN,,issuer
+2367,0.0014,HK,Giant Biogene Holding Co ltd,,HK,,issuer
+NAM,0.0014,IN,Nippon Life India Asset Management Ltd,,IN,,issuer
+006405,0.0014,KR,Samsung SDI Co Ltd,,KR,,issuer
+HAGA,0.0014,IS,Hagar hf,,IS,,issuer
+780,0.0014,HK,Tongcheng Travel Holdings Ltd,,HK,,issuer
+HLBK,0.0014,MY,Hong Leong Bank Bhd,,MY,,issuer
+ALPEKA,0.0014,MX,Alpek SAB de CV,,MX,,issuer
+3618,0.0014,HK,Chongqing Rural Commercial Bank Co Ltd,,HK,,issuer
+SPK,0.0014,NZ,Spark New Zealand Ltd,,NZ,,issuer
+9412,0.0014,JP,SKY Perfect JSAT Corp,,JP,,issuer
+ENRG,0.0014,IL,Energix-Renewable Energies Ltd,,IL,,issuer
+PEP,0.0014,MY,PPB Group Bhd,,MY,,issuer
+1959,0.0014,JP,Kraftia Corp,,JP,,issuer
+EBO,0.0013,NZ,EBOS Group Ltd,,NZ,,issuer
+2026,0.0013,HK,New Issuer: BB Company ID:71327236,,HK,,issuer
+BRAV3,0.0013,BR,Brava Energia,,BR,,issuer
+DRD,0.0013,ZA,DRDGOLD Ltd,,ZA,,issuer
+ALX,0.0013,AU,Atlas Arteria Ltd,,AU,,issuer
+688271,0.0013,CN,Shanghai United Imaging Healthcare Co Ltd,,CN,,issuer
+2050,0.0013,HK,Zhejiang Sanhua Intelligent Controls Co Ltd,,HK,,issuer
+8252,0.0013,JP,Marui Group Co Ltd,,JP,,issuer
+CHOLAHLD,0.0013,IN,Cholamandalam Financial Holdings Ltd,,IN,,issuer
+1797,0.0013,HK,East Buy Holding Ltd,,HK,,issuer
+2002,0.0013,JP,Nisshin Seifun Group Inc,,JP,,issuer
+8410,0.0013,JP,Seven Bank Ltd,,JP,,issuer
+CENOMICE,0.0013,SA,Arabian Centres Co,,SA,,issuer
+JUBI,0.0013,IN,Jubilant Foodworks Ltd,,IN,,issuer
+2451,0.0013,TW,Transcend Information Inc,,TW,,issuer
+8056,0.0013,JP,BIPROGY Inc,,JP,,issuer
+600989,0.0013,CN,Ningxia Baofeng Energy Group Co Ltd,,CN,,issuer
+600026,0.0013,CN,COSCO SHIPPING Energy Transportation Co Ltd,,CN,,issuer
+GPL,0.0013,IN,Godrej Properties Ltd,,IN,,issuer
+ENKAI,0.0013,TR,Enka Insaat ve Sanayi AS,,TR,,issuer
+002493,0.0013,CN,Rongsheng Petrochemical Co Ltd,,CN,,issuer
+8TRA,0.0013,DE,Traton SE,,DE,,issuer
+CXSE3,0.0013,BR,Caixa Seguridade Participacoes S/A,,BR,,issuer
+4716,0.0013,JP,Oracle Corp Japan,,JP,,issuer
+2799,0.0013,HK,China CITIC Financial Asset Management Co Ltd,,HK,,issuer
+DWS,0.0013,DE,DWS Group GmbH & Co KGaA,,DE,,issuer
+4733,0.0013,JP,OBIC Business Consultants Co Ltd,,JP,,issuer
+1908,0.0013,HK,C&D International Investment Group Ltd,,HK,,issuer
+ASTRA,0.0013,IN,Astral Ltd,,IN,,issuer
+ALKEM,0.0013,IN,Alkem Laboratories Ltd,,IN,,issuer
+PI,0.0013,IN,PI Industries Ltd,,IN,,issuer
+CEMARGOS,0.0013,CO,Cementos Argos SA,,CO,,issuer
+9076,0.0013,JP,Seino Holdings Co Ltd,,JP,,issuer
+6809,0.0013,HK,Montage Technology Co Ltd,,HK,,issuer
+PNB,0.0013,IN,Punjab National Bank,,IN,,issuer
+KEN,0.0013,IL,Kenon Holdings Ltd/Singapore,,IL,,issuer
+3323,0.0013,HK,China National Building Material Co Ltd,,HK,,issuer
+DABUR,0.0013,IN,Dabur India Ltd,,IN,,issuer
+FLUOROCH,0.0013,IN,Gujarat Fluorochemicals Ltd,,IN,,issuer
+600809,0.0013,CN,Shanxi Xinghuacun Fen Wine Factory Co Ltd,,CN,,issuer
+ARPT,0.0013,IL,Airport City Ltd,,IL,,issuer
+KBANK-R,0.0013,TH,Kasikornbank PCL,,TH,,issuer
+5269,0.0013,TW,ASMedia Technology Inc,,TW,,issuer
+3269,0.0013,JP,Advance Residence Investment Corp,,JP,,issuer
+601369,0.0013,CN,Xi'An Shaangu Power Co Ltd,,CN,,issuer
+601816,0.0013,CN,Beijing-Shanghai High Speed Railway Co Ltd,,CN,,issuer
+SI,0.0013,IN,Supreme Industries Ltd,,IN,,issuer
+600585,0.0013,CN,Anhui Conch Cement Co Ltd,,CN,,issuer
+INW,0.0013,IT,Infrastrutture Wireless Italiane SpA,,IT,,issuer
+TAIBA,0.0012,SA,Taiba Investments Co,,SA,,issuer
+LUBEREF,0.0012,SA,Saudi Aramco Base Oil Co,,SA,,issuer
+RDF,0.0012,ZA,Redefine Properties Ltd,,ZA,,issuer
+CCOLA,0.0012,TR,Coca-Cola Icecek AS,,TR,,issuer
+MPACT,0.0012,SG,Mapletree Pan Asia Commercial Trust,,SG,,issuer
+2606,0.0012,TW,U-Ming Marine Transport Corp,,TW,,issuer
+POONAWAL,0.0012,IN,Poonawalla Fincorp Ltd,,IN,,issuer
+3309,0.0012,JP,Sekisui House Reit Inc,,JP,,issuer
+ATHM,0.0012,US,Autohome Inc,,US,,issuer
+CENER,0.0012,GR,Cenergy Holdings SA,,GR,,issuer
+AXIATA,0.0012,MY,Axiata Group Bhd,,MY,,issuer
+TEL,0.0012,PH,PLDT Inc,,PH,,issuer
+SIE,0.0012,SG,SIA Engineering Co Ltd,,SG,,issuer
+8227,0.0012,JP,Shimamura Co Ltd,,JP,,issuer
+9202,0.0012,JP,ANA Holdings Inc,,JP,,issuer
+000783,0.0012,CN,Changjiang Securities Co Ltd,,CN,,issuer
+2727,0.0012,HK,Shanghai Electric Group Co Ltd,,HK,,issuer
+151,0.0012,HK,Want Want China Holdings Ltd,,HK,,issuer
+2264,0.0012,JP,Morinaga Milk Industry Co Ltd,,JP,,issuer
+BIL,0.0012,IN,Balkrishna Industries Ltd,,IN,,issuer
+763,0.0012,HK,ZTE Corp,,HK,,issuer
+600489,0.0012,CN,Zhongjin Gold Corp Ltd,,CN,,issuer
+7988,0.0012,JP,Nifco Inc/Japan,,JP,,issuer
+1882,0.0012,HK,Haitian International Holdings Ltd,,HK,,issuer
+MPHC,0.0012,QA,Mesaieed Petrochemical Holding Co,,QA,,issuer
+688002,0.0012,CN,Raytron Technology Co Ltd,,CN,,issuer
+139130,0.0012,KR,DGB Financial Group Inc,,KR,,issuer
+SBICARD,0.0012,IN,SBI Cards & Payment Services Ltd,,IN,,issuer
+051915,0.0012,KR,LG Chem Ltd,,KR,,issuer
+YAL,0.0012,AU,Yancoal Australia Ltd,,AU,,issuer
+BBL-R,0.0012,TH,Bangkok Bank PCL,,TH,,issuer
+6005,0.0012,JP,Miura Co Ltd,,JP,,issuer
+TALABAT,0.0012,AE,New Issuer: BB Company ID:72035566,,AE,,issuer
+CBK,0.0012,IN,Canara Bank,,IN,,issuer
+656,0.0012,HK,Fosun International Ltd,,HK,,issuer
+600959,0.0012,CN,Jiangsu Broadcasting Cable Information Network Corp Ltd,,CN,,issuer
+298380,0.0012,KR,ABLBio Inc,,KR,,issuer
+002460,0.0012,CN,Ganfeng Lithium Group Co Ltd,,CN,,issuer
+600267,0.0012,CN,Zhejiang Hisun Pharmaceutical Co Ltd,,CN,,issuer
+SAL,0.0012,SA,SAL Saudi Logistics Services,,SA,,issuer
+6031,0.0012,HK,Sany Heavy Industry Co Ltd,,HK,,issuer
+8YZ,0.0012,SG,Yangzijiang Maritime Development Ltd,,SG,,issuer
+9201,0.0012,JP,Japan Airlines Co Ltd,,JP,,issuer
+000538,0.0012,CN,Yunnan Baiyao Group Co Ltd,,CN,,issuer
+002202,0.0012,CN,Goldwind Science & Technology Co Ltd,,CN,,issuer
+601228,0.0011,CN,Guangzhou Port Co Ltd,,CN,,issuer
+RBK,0.0011,IN,RBL Bank Ltd,,IN,,issuer
+002281,0.0011,CN,Accelink Technologies Co Ltd,,CN,,issuer
+688361,0.0011,CN,Skyverse Technology Co Ltd,,CN,,issuer
+600111,0.0011,CN,China Northern Rare Earth Group High-Tech Co Ltd,,CN,,issuer
+601998,0.0011,CN,China CITIC Bank Corp Ltd,,CN,,issuer
+9142,0.0011,JP,Kyushu Railway Co,,JP,,issuer
+001040,0.0011,KR,CJ Corp,,KR,,issuer
+7984,0.0011,JP,Kokuyo Co Ltd,,JP,,issuer
+JSWINFRA,0.0011,IN,JSW Infrastructure Ltd,,IN,,issuer
+631,0.0011,HK,Sany Heavy Equipment International Holdings Co Ltd,,HK,,issuer
+051900,0.0011,KR,LG H&H Co Ltd,,KR,,issuer
+GOAU4,0.0011,BR,Metalurgica Gerdau SA,,BR,,issuer
+8,0.0011,HK,PCCW Ltd,,HK,,issuer
+601668,0.0011,CN,China State Construction Engineering Corp Ltd,,CN,,issuer
+UNOMINDA,0.0011,IN,UNO Minda Ltd,,IN,,issuer
+EGCO/F,0.0011,TH,Electricity Generating PCL,,TH,,issuer
+BANDHAN,0.0011,IN,Bandhan Bank Ltd,,IN,,issuer
+6060,0.0011,HK,ZhongAn Online P&C Insurance Co Ltd,,HK,,issuer
+BBDC10,0.0011,BR,Banco Bradesco SA,,BR,,issuer
+600703,0.0011,CN,Sanan Optoelectronics Co Ltd,,CN,,issuer
+3349,0.0011,JP,Cosmos Pharmaceutical Corp,,JP,,issuer
+002380,0.0011,KR,KCC Corp,,KR,,issuer
+301308,0.0011,CN,Shenzhen Longsys Electronics Co Ltd,,CN,,issuer
+RRTL,0.0011,DE,RTL Group SA,,DE,,issuer
+2883,0.0011,HK,China Oilfield Services Ltd,,HK,,issuer
+DIC,0.0011,AE,Dubai Investments PJSC,,AE,,issuer
+914,0.0011,HK,Anhui Conch Cement Co Ltd,,HK,,issuer
+RASAN,0.0011,SA,New Issuer: BB Company ID:71655234,,SA,,issuer
+600875,0.0011,CN,Dongfang Electric Corp Ltd,,CN,,issuer
+EL,0.0011,RO,Societatea Energetica Electrica SA,,RO,,issuer
+00680K,0.0011,KR,Mirae Asset Securities Co Ltd,,KR,,issuer
+MABANEE,0.0011,KW,Mabanee Co KPSC,,KW,,issuer
+4194,0.0011,JP,Visional Inc,,JP,,issuer
+RA,0.0011,MX,Regional SAB de CV,,MX,,issuer
+GOTO,0.0011,ID,GoTo Gojek Tokopedia Tbk PT,,ID,,issuer
+MVNE,0.0011,IL,Mivne Real Estate KD Ltd,,IL,,issuer
+002340,0.0011,CN,GEM Co Ltd,,CN,,issuer
+600460,0.0011,CN,Hangzhou Silan Microelectronics Co Ltd,,CN,,issuer
+ARCCI,0.0011,SA,Al Rajhi Co for Co-operative Insurance,,SA,,issuer
+00088K,0.0011,KR,Hanwha Corp,,KR,,issuer
+3931,0.0011,HK,New Issuer: BB Company ID:70038993,,HK,,issuer
+9504,0.0011,JP,Chugoku Electric Power Co Inc/The,,JP,,issuer
+NTPCGREE,0.0011,IN,NTPC Green Energy Ltd,,IN,,issuer
+TADAWULG,0.0011,SA,Saudi Tadawul Group Holding Co,,SA,,issuer
+300857,0.0011,CN,Sharetronic Data Technology Co Ltd,,CN,,issuer
+601100,0.0011,CN,Jiangsu Hengli Hydraulic Co Ltd,,CN,,issuer
+NATU3,0.0011,BR,Natura Cosmeticos SA,,BR,,issuer
+489790,0.0011,KR,Hanwha Industrial Solutions Co Ltd/ New,,KR,,issuer
+586,0.0011,HK,China Conch Venture Holdings Ltd,,HK,,issuer
+DLPL,0.0011,IN,Dr Lal PathLabs Ltd,,IN,,issuer
+968,0.001,HK,Xinyi Solar Holdings Ltd,,HK,,issuer
+VFQS,0.001,QA,Vodafone Qatar PQSC,,QA,,issuer
+9987,0.001,JP,Suzuken Co Ltd/Aichi Japan,,JP,,issuer
+177,0.001,HK,Jiangsu Expressway Co Ltd,,HK,,issuer
+002203,0.001,CN,Zhejiang Hailiang Co Ltd,,CN,,issuer
+1157,0.001,HK,Zoomlion Heavy Industry Science and Technology Co Ltd,,HK,,issuer
+002129,0.001,CN,TCL Zhonghuan Renewable Energy Technology Co Ltd,,CN,,issuer
+2222,0.001,JP,Kotobuki Spirits Co Ltd,,JP,,issuer
+600886,0.001,CN,SDIC Power Holdings Co Ltd,,CN,,issuer
+4202,0.001,JP,Daicel Corp,,JP,,issuer
+688120,0.001,CN,Hwatsing Technology Co Ltd,,CN,,issuer
+772,0.001,HK,China Literature Ltd,,HK,,issuer
+6088,0.001,HK,FIT Hon Teng Ltd,,HK,,issuer
+601988,0.001,CN,Bank of China Ltd,,CN,,issuer
+605117,0.001,CN,Ningbo Deye Technology Corp,,CN,,issuer
+ALI,0.001,PH,Ayala Land Inc,,PH,,issuer
+300014,0.001,CN,Eve Energy Co Ltd,,CN,,issuer
+IVL/F,0.001,TH,Indorama Ventures PCL,,TH,,issuer
+601009,0.001,CN,Bank of Nanjing Co Ltd,,CN,,issuer
+GRUMAB,0.001,MX,Gruma SAB de CV,,MX,,issuer
+ADES,0.001,SA,Ades Holding Co,,SA,,issuer
+2784,0.001,JP,Alfresa Holdings Corp,,JP,,issuer
+SUN,0.001,SG,Suntec Real Estate Investment Trust,,SG,,issuer
+CPIN,0.001,ID,Charoen Pokphand Indonesia Tbk PT,,ID,,issuer
+817,0.001,HK,China Jinmao Holdings Group Ltd,,HK,,issuer
+6693,0.001,HK,Chifeng Jilong Gold Mining Group Ltd,,HK,,issuer
+300458,0.001,CN,All Winner Technology Co Ltd,,CN,,issuer
+300033,0.001,CN,Hithink RoyalFlush Information Network Co Ltd,,CN,,issuer
+PETD,0.001,MY,Petronas Dagangan Bhd,,MY,,issuer
+300442,0.001,CN,Range Intelligent Computing Technology Group Co Ltd,,CN,,issuer
+600584,0.001,CN,JCET Group Co Ltd,,CN,,issuer
+LLC,0.001,AU,Lendlease Corp Ltd,,AU,,issuer
+002353,0.001,CN,Yantai Jereh Oilfield Services Group Co Ltd,,CN,,issuer
+300124,0.001,CN,Shenzhen Inovance Technology Co Ltd,,CN,,issuer
+2433,0.001,JP,Hakuhodo DY Holdings Inc,,JP,,issuer
+TRUE-R,0.001,TH,True Corp PCL,,TH,,issuer
+AMRT,0.001,ID,Sumber Alfaria Trijaya Tbk PT,,ID,,issuer
+FTAL,0.001,IL,Fattal Holdings 1998 Ltd,,IL,,issuer
+002080,0.001,CN,Sinoma Science & Technology Co Ltd,,CN,,issuer
+601939,0.001,CN,China Construction Bank Corp,,CN,,issuer
+OBER,0.001,IN,Oberoi Realty Ltd,,IN,,issuer
+603268,0.001,CN,Guangdong Songfa Ceramics Co Ltd,,CN,,issuer
+2327,0.001,JP,NS Solutions Corp,,JP,,issuer
+MAZDOCKS,0.001,IN,Mazagon Dock Shipbuilders Ltd,,IN,,issuer
+000408,0.001,CN,Zangge Mining Co Ltd,,CN,,issuer
+603228,0.001,CN,Shenzhen Kinwong Electronic Co Ltd,,CN,,issuer
+2788,0.001,HK,Chuangxin Industries Holdings Ltd,,HK,,issuer
+TTKOM,0.001,TR,Turk Telekomunikasyon AS,,TR,,issuer
+6963,0.001,HK,Sunshine Insurance Group Co Ltd,,HK,,issuer
+ENELAM,0.001,CL,Enel Americas SA,,CL,,issuer
+PETKM,0.001,TR,Petkim Petrokimya Holding AS,,TR,,issuer
+301526,0.001,CN,Chongqing Polycomp International Corp,,CN,,issuer
+600893,0.001,CN,AECC Aviation Power Co Ltd,,CN,,issuer
+600219,0.001,CN,Shandong Nanshan Aluminum Co Ltd,,CN,,issuer
+688702,0.001,CN,New Issuer: BB Company ID:37276143,,CN,,issuer
+204320,0.0009,KR,HL Mando Co Ltd,,KR,,issuer
+5947,0.0009,JP,Rinnai Corp,,JP,,issuer
+001391,0.0009,CN,Air China Cargo Co Ltd,,CN,,issuer
+688521,0.0009,CN,Verisilicon Microelectronics Shanghai Co Ltd,,CN,,issuer
+035250,0.0009,KR,Kangwon Land Inc,,KR,,issuer
+600673,0.0009,CN,Guangdong HEC Technology Holding Co Ltd,,CN,,issuer
+601229,0.0009,CN,Bank of Shanghai Co Ltd,,CN,,issuer
+601865,0.0009,CN,Flat Glass Group Co Ltd,,CN,,issuer
+4205,0.0009,JP,Zeon Corp,,JP,,issuer
+FLT,0.0009,SG,Frasers Logistics & Commercial Trust,,SG,,issuer
+1193,0.0009,HK,China Resources Gas Group Ltd,,HK,,issuer
+ELTR,0.0009,IL,Electra Ltd/Israel,,IL,,issuer
+ALDREES,0.0009,SA,Aldrees Petroleum and Transport Services Co,,SA,,issuer
+3401,0.0009,JP,Teijin Ltd,,JP,,issuer
+2385,0.0009,TW,Chicony Electronics Co Ltd,,TW,,issuer
+1503,0.0009,TW,Shihlin Electric & Engineering Corp,,TW,,issuer
+GBK,0.0009,KW,Gulf Bank KSCP,,KW,,issuer
+JCNC,0.0009,SG,Jardine Matheson Southeast Asia Ltd,,SG,,issuer
+MBT,0.0009,PH,Metropolitan Bank & Trust Co,,PH,,issuer
+BBL/F,0.0009,TH,Bangkok Bank PCL,,TH,,issuer
+PREMIERE,0.0009,IN,New Issuer: BB Company ID:20732815,,IN,,issuer
+417A,0.0009,JP,Blue Zones Holdings Co Ltd,,JP,,issuer
+001309,0.0009,CN,Shenzhen Techwinsemi Technology Co Ltd,,CN,,issuer
+600028,0.0009,CN,China Petroleum & Chemical Corp,,CN,,issuer
+BANPU/F,0.0009,TH,Banpu PCL,,TH,,issuer
+1579,0.0009,HK,Yihai International Holding Ltd,,HK,,issuer
+KRT,0.0009,IN,Knowledge Realty Trust,,IN,,issuer
+220,0.0009,HK,Uni-President China Holdings Ltd,,HK,,issuer
+CRISIL,0.0009,IN,CRISIL Ltd,,IN,,issuer
+3759,0.0009,HK,Pharmaron Beijing Co Ltd,,HK,,issuer
+8464,0.0009,TW,Nien Made Enterprise Co Ltd,,TW,,issuer
+139480,0.0009,KR,E-MART Inc,,KR,,issuer
+688082,0.0009,CN,ACM Research Shanghai Inc,,CN,,issuer
+012750,0.0009,KR,S-1 Corp,,KR,,issuer
+868,0.0009,HK,Xinyi Glass Holdings Ltd,,HK,,issuer
+ATGL,0.0009,IN,Adani Total Gas Ltd,,IN,,issuer
+600522,0.0009,CN,Jiangsu Zhongtian Technology Co Ltd,,CN,,issuer
+MSKE,0.0009,IL,Meshek Energy Renewable Energies Ltd,,IL,,issuer
+LGEL,0.0009,IN,LG Electronics India Ltd,,IN,,issuer
+Q*,0.0009,MX,Qualitas Controladora SAB de CV,,MX,,issuer
+SMFT3,0.0009,BR,Smartfit Escola de Ginastica e Danca SA,,BR,,issuer
+CUAN,0.0009,ID,Petrindo Jaya Kreasi Tbk PT,,ID,,issuer
+87,0.0009,HK,Swire Pacific Ltd,,HK,,issuer
+ALSEA*,0.0009,MX,Alsea SAB de CV,,MX,,issuer
+NWL,0.0009,AU,Netwealth Group Ltd,,AU,,issuer
+TATACAP,0.0009,IN,TATA CAPITAL LTD,,IN,,issuer
+CMIG3,0.0009,BR,Cia Energetica de Minas Gerais,,BR,,issuer
+DALLAH,0.0009,SA,Dallah Healthcare Co,,SA,,issuer
+EXID,0.0009,IN,Exide Industries Ltd,,IN,,issuer
+SAVOLA,0.0009,SA,Savola Group/The,,SA,,issuer
+ESCORTS,0.0009,IN,Escorts Kubota Ltd,,IN,,issuer
+2607,0.0009,JP,Fuji Oil Holdings Inc,,JP,,issuer
+1513,0.0009,HK,Livzon Pharmaceutical Group Inc,,HK,,issuer
+1318,0.0009,HK,Mao Geping Cosmetics Co LTD,,HK,,issuer
+9045,0.0008,JP,Keihan Holdings Co Ltd,,JP,,issuer
+4967,0.0008,JP,Kobayashi Pharmaceutical Co Ltd,,JP,,issuer
+MOFS,0.0008,IN,Motilal Oswal Financial Services Ltd,,IN,,issuer
+LICHF,0.0008,IN,LIC Housing Finance Ltd,,IN,,issuer
+3635,0.0008,JP,Koei Tecmo Holdings Co Ltd,,JP,,issuer
+9706,0.0008,JP,Japan Airport Terminal Co Ltd,,JP,,issuer
+KAYNES,0.0008,IN,Kaynes Technology India Ltd,,IN,,issuer
+002010,0.0008,CN,Transfar Zhilian Co Ltd,,CN,,issuer
+DIF/F,0.0008,TH,Digital Telecommunications Infrastructure Fund,,TH,,issuer
+2689,0.0008,HK,Nine Dragons Paper Holdings Ltd,,HK,,issuer
+601898,0.0008,CN,China Coal Energy Co Ltd,,CN,,issuer
+088350,0.0008,KR,Hanwha Life Insurance Co Ltd,,KR,,issuer
+PGOLD,0.0008,PH,Puregold Price Club Inc,,PH,,issuer
+INDF,0.0008,ID,Indofood Sukses Makmur Tbk PT,,ID,,issuer
+600160,0.0008,CN,Zhejiang Juhua Co Ltd,,CN,,issuer
+9006,0.0008,JP,Keikyu Corp,,JP,,issuer
+SIBC,0.0008,SA,Saudi Investment Bank/The,,SA,,issuer
+KAYAN,0.0008,SA,Saudi Kayan Petrochemical Co,,SA,,issuer
+688385,0.0008,CN,Shanghai Fudan Microelectronics Group Co Ltd,,CN,,issuer
+263750,0.0008,KR,Pearl Abyss Corp,,KR,,issuer
+000977,0.0008,CN,IEIT Systems Co Ltd,,CN,,issuer
+1508,0.0008,HK,China Reinsurance Group Corp,,HK,,issuer
+BAJAJHFL,0.0008,IN,New Issuer: BB Company ID:27928662,,IN,,issuer
+9364,0.0008,JP,Kamigumi Co Ltd,,JP,,issuer
+QEWS,0.0008,QA,Nebras Energy,,QA,,issuer
+377300,0.0008,KR,Kakaopay Corp,,KR,,issuer
+200581,0.0008,CN,Weifu High-Technology Group Co Ltd,,CN,,issuer
+000807,0.0008,CN,Yunnan Aluminium Co Ltd,,CN,,issuer
+605499,0.0008,CN,Eastroc Beverage Group Co Ltd,,CN,,issuer
+011780,0.0008,KR,Kumho Petrochemical Co Ltd,,KR,,issuer
+3320,0.0008,HK,China Resources Pharmaceutical Group Ltd,,HK,,issuer
+002156,0.0008,CN,TongFu Microelectronics Co Ltd,,CN,,issuer
+600674,0.0008,CN,Sichuan Chuantou Energy Co Ltd,,CN,,issuer
+670,0.0008,HK,China Eastern Airlines Corp Ltd,,HK,,issuer
+1476,0.0008,TW,Eclat Textile Co Ltd,,TW,,issuer
+011170,0.0008,KR,Lotte Chemical Corp,,KR,,issuer
+7211,0.0008,JP,Mitsubishi Motors Corp,,JP,,issuer
+4666,0.0008,JP,Park24 Co Ltd,,JP,,issuer
+TATATECH,0.0008,IN,Tata Technologies Ltd,,IN,,issuer
+601319,0.0008,CN,People's Insurance Co Group of China Ltd/The,,CN,,issuer
+5463,0.0008,JP,Maruichi Steel Tube Ltd,,JP,,issuer
+002602,0.0008,CN,Zhejiang Century Huatong Group Co Ltd,,CN,,issuer
+3532,0.0008,TW,Formosa Sumco Technology Corp,,TW,,issuer
+BEM/F,0.0008,TH,Bangkok Expressway & Metro PCL,,TH,,issuer
+9896,0.0008,HK,MINISO Group Holding Ltd,,HK,,issuer
+GARAN,0.0008,TR,Turkiye Garanti Bankasi AS,,TR,,issuer
+600352,0.0008,CN,Zhejiang Longsheng Group Co Ltd,,CN,,issuer
+QLG,0.0008,MY,QL Resources Bhd,,MY,,issuer
+CDSL,0.0008,IN,Central Depository Services India Ltd,,IN,,issuer
+600415,0.0008,CN,Zhejiang China Commodities City Group Co Ltd,,CN,,issuer
+688183,0.0008,CN,Shengyi Electronics Co Ltd,,CN,,issuer
+JFC,0.0008,PH,Jollibee Foods Corp,,PH,,issuer
+600346,0.0008,CN,Hengli Petrochemical Co Ltd,,CN,,issuer
+3397,0.0008,JP,Toridoll Holdings Corp,,JP,,issuer
+MARAFIQ,0.0008,SA,Power & Water Utility Co for Jubail & Yanbu,,SA,,issuer
+9899,0.0008,HK,Cloud Music Inc,,HK,,issuer
+ETEL,0.0008,EG,Telecom Egypt Co,,EG,,issuer
+ZAINKSA,0.0008,SA,Mobile Telecommunications Co Saudi Arabia,,SA,,issuer
+DALBHARA,0.0008,IN,Dalmia Bharat Ltd,,IN,,issuer
+688249,0.0008,CN,Nexchip Semiconductor Corp,,CN,,issuer
+BHARTIHE,0.0008,IN,New Issuer: BB Company ID:21672911,,IN,,issuer
+000988,0.0008,CN,Hgtech Co Ltd,,CN,,issuer
+3900,0.0008,HK,Greentown China Holdings Ltd,,HK,,issuer
+9696,0.0008,HK,Tianqi Lithium Corp,,HK,,issuer
+000792,0.0008,CN,Qinghai Salt Lake Industry Co Ltd,,CN,,issuer
+FLT,0.0008,AU,Flight Centre Travel Group Ltd,,AU,,issuer
+IEYHO,0.0008,TR,New Issuer: BB Company ID:376108,,TR,,issuer
+600547,0.0008,CN,Shandong Gold Mining Co Ltd,,CN,,issuer
+200596,0.0008,CN,Anhui Gujing Distillery Co Ltd,,CN,,issuer
+002422,0.0008,CN,Sichuan Kelun Pharmaceutical Co Ltd,,CN,,issuer
+2196,0.0008,HK,Shanghai Fosun Pharmaceutical Group Co Ltd,,HK,,issuer
+601577,0.0008,CN,Bank of Changsha Co Ltd,,CN,,issuer
+300001,0.0008,CN,Qingdao TGOOD Electric Co Ltd,,CN,,issuer
+6066,0.0008,HK,CSC Financial Co Ltd,,HK,,issuer
+BRGR,0.0008,IN,Berger Paints India Ltd,,IN,,issuer
+6127,0.0007,HK,Joinn Laboratories China Co Ltd,,HK,,issuer
+MRDIY,0.0007,MY,MR DIY Group M Bhd,,MY,,issuer
+2097,0.0007,HK,Mixue Group,,HK,,issuer
+1060,0.0007,HK,Damai Entertainment Holdings Ltd,,HK,,issuer
+600926,0.0007,CN,Bank of Hangzhou Co Ltd,,CN,,issuer
+GICRE,0.0007,IN,General Insurance Corp of India,,IN,,issuer
+600516,0.0007,CN,Fangda Carbon New Material Co Ltd,,CN,,issuer
+TAVHL,0.0007,TR,TAV Havalimanlari Holding AS,,TR,,issuer
+022100,0.0007,KR,Posco DX Co Ltd,,KR,,issuer
+9910,0.0007,TW,Feng TAY Enterprise Co Ltd,,TW,,issuer
+9989,0.0007,JP,Sundrug Co Ltd,,JP,,issuer
+AGHOL,0.0007,TR,AG Anadolu Grubu Holding AS,,TR,,issuer
+688506,0.0007,CN,Sichuan Biokin Pharmaceutical Co Ltd,,CN,,issuer
+7564,0.0007,JP,Workman Co Ltd,,JP,,issuer
+601298,0.0007,CN,Qingdao Port International Co Ltd,,CN,,issuer
+PSSA3,0.0007,BR,Porto Seguro SA,,BR,,issuer
+6186,0.0007,HK,China Feihe Ltd,,HK,,issuer
+688146,0.0007,CN,Peric Special Gases Co Ltd,,CN,,issuer
+002001,0.0007,CN,Zhejiang NHU Co Ltd,,CN,,issuer
+002653,0.0007,CN,Haisco Pharmaceutical Group Co Ltd,,CN,,issuer
+552,0.0007,HK,China Communications Services Corp Ltd,,HK,,issuer
+CTPNV,0.0007,NL,CTP NV,,NL,,issuer
+600320,0.0007,CN,Shanghai Zhenhua Heavy Industries Co Ltd,,CN,,issuer
+1585,0.0007,HK,Yadea Group Holdings Ltd,,HK,,issuer
+9048,0.0007,JP,Nagoya Railroad Co Ltd,,JP,,issuer
+SIIG,0.0007,SA,Saudi Industrial Investment Group,,SA,,issuer
+688396,0.0007,CN,China Resources Microelectronics Ltd,,CN,,issuer
+2009,0.0007,HK,BBMG Corp,,HK,,issuer
+SISE,0.0007,TR,Turkiye Sise ve Cam Fabrikalari AS,,TR,,issuer
+9449,0.0007,JP,GMO internet group Inc,,JP,,issuer
+002027,0.0007,CN,Focus Media Information Technology Co Ltd,,CN,,issuer
+6655,0.0007,HK,Huaxin Building Materials Group Co Ltd,,HK,,issuer
+6613,0.0007,HK,Lens Technology Co Ltd,,HK,,issuer
+600025,0.0007,CN,Huaneng Lancang River Hydropower Inc,,CN,,issuer
+600648,0.0007,CN,Shanghai Waigaoqiao Free Trade Zone Group Co Ltd,,CN,,issuer
+APEX,0.0007,AE,Apex Investment Co PSC,,AE,,issuer
+3291,0.0007,JP,Iida Group Holdings Co Ltd,,JP,,issuer
+300223,0.0007,CN,Ingenic Semiconductor Co Ltd,,CN,,issuer
+600016,0.0007,CN,China Minsheng Banking Corp Ltd,,CN,,issuer
+338,0.0007,HK,Sinopec Shanghai Petrochemical Co Ltd,,HK,,issuer
+601006,0.0007,CN,Daqin Railway Co Ltd,,CN,,issuer
+1359,0.0007,HK,China Cinda Asset Management Co Ltd,,HK,,issuer
+AIIL,0.0007,IN,Authum Investment & Infrastructure Ltd,,IN,,issuer
+ILCO,0.0007,IL,Israel Corp Ltd,,IL,,issuer
+COCHIN,0.0007,IN,Cochin Shipyard Ltd,,IN,,issuer
+6979,0.0007,HK,ZJLD Group Inc,,HK,,issuer
+9065,0.0007,JP,Sankyu Inc,,JP,,issuer
+KREIT,0.0007,SG,Keppel REIT,,SG,,issuer
+601222,0.0007,CN,Jiangsu Linyang Energy Co Ltd,,CN,,issuer
+6098,0.0007,HK,Country Garden Services Holdings Co Ltd,,HK,,issuer
+688200,0.0007,CN,Beijing Huafeng Test & Control Technology Co Ltd,,CN,,issuer
+IRFC,0.0007,IN,Indian Railway Finance Corp Ltd,,IN,,issuer
+392,0.0007,HK,Beijing Enterprises Holdings Ltd,,HK,,issuer
+601825,0.0007,CN,Shanghai Rural Commercial Bank Co Ltd,,CN,,issuer
+300498,0.0007,CN,Wens Foodstuff Group Co Ltd,,CN,,issuer
+600409,0.0007,CN,Tangshan Sanyou Chemical Industries Co Ltd,,CN,,issuer
+002648,0.0007,CN,Satellite Chemical Co Ltd,,CN,,issuer
+BJAZ,0.0007,SA,Bank Al-Jazira,,SA,,issuer
+002966,0.0007,CN,Bank of Suzhou Co Ltd,,CN,,issuer
+INL,0.0007,ZA,Investec Ltd,,ZA,,issuer
+603256,0.0007,CN,Grace Fabric Technology Co Ltd,,CN,,issuer
+601788,0.0007,CN,Everbright Securities Co Ltd,,CN,,issuer
+551,0.0007,HK,Yue Yuen Industrial Holdings Ltd,,HK,,issuer
+9973,0.0007,HK,Chery Automobile Co Ltd,,HK,,issuer
+603290,0.0007,CN,StarPower Semiconductor Ltd,,CN,,issuer
+000039,0.0007,CN,China International Marine Containers Group Co Ltd,,CN,,issuer
+2380,0.0007,HK,China Power International Development Ltd,,HK,,issuer
+301217,0.0007,CN,Anhui Tongguan Copper Foil Group Co Ltd,,CN,,issuer
+000301,0.0007,CN,Jiangsu Eastern Shenghong Co Ltd,,CN,,issuer
+300759,0.0007,CN,Pharmaron Beijing Co Ltd,,CN,,issuer
+000685,0.0007,CN,Zhongshan Public Utilities Group Co Ltd,,CN,,issuer
+AKSEN,0.0007,TR,Aksa Enerji Uretim AS,,TR,,issuer
+179,0.0007,HK,Johnson Electric Holdings Ltd,,HK,,issuer
+4812,0.0007,JP,Dentsu Soken Inc,,JP,,issuer
+EMPOWER,0.0007,AE,Emirates Central Cooling Systems Corp,,AE,,issuer
+GP,0.0007,IN,Godfrey Phillips India Ltd,,IN,,issuer
+000651,0.0007,CN,Gree Electric Appliances Inc of Zhuhai,,CN,,issuer
+301377,0.0007,CN,Guangdong Dtech Technology Co Ltd,,CN,,issuer
+000568,0.0007,CN,Luzhou Laojiao Co Ltd,,CN,,issuer
+PATANJAL,0.0007,IN,Patanjali Foods Ltd,,IN,,issuer
+000895,0.0007,CN,Henan Shuanghui Investment & Development Co Ltd,,CN,,issuer
+RGN,0.0007,AU,Region RE Ltd,,AU,,issuer
+NETLINK,0.0006,SG,NETLINK NBN TRUST,,SG,,issuer
+DUBK,0.0006,QA,Dukhan Bank,,QA,,issuer
+IRCTC,0.0006,IN,Indian Railway Catering & Tourism Corp Ltd,,IN,,issuer
+3923,0.0006,JP,Rakus Co Ltd,,JP,,issuer
+MOUWASAT,0.0006,SA,Mouwasat Medical Services Co,,SA,,issuer
+HPHT,0.0006,SG,Hutchison Port Holdings Trust,,SG,,issuer
+GUJENERG,0.0006,IN,Gujarat Energy Ltd,,IN,,issuer
+ASTRA,0.0006,SA,Astra Industrial Group,,SA,,issuer
+002008,0.0006,CN,Han's Laser Technology Industry Group Co Ltd,,CN,,issuer
+000938,0.0006,CN,Unisplendour Corp Ltd,,CN,,issuer
+SCHFL,0.0006,IN,Schaeffler India Ltd,,IN,,issuer
+FROTO,0.0006,TR,Ford Otomotiv Sanayi AS,,TR,,issuer
+300757,0.0006,CN,RoboTechnik Intelligent Technology Co Ltd,,CN,,issuer
+CBG/F,0.0006,TH,Carabao Group PCL,,TH,,issuer
+028670,0.0006,KR,Pan Ocean Co Ltd,,KR,,issuer
+688126,0.0006,CN,National Silicon Industry Group Co Ltd,,CN,,issuer
+1071,0.0006,HK,Huadian Power International Corp Ltd,,HK,,issuer
+ACC,0.0006,IN,ACC Ltd,,IN,,issuer
+CMPC,0.0006,CL,Empresas CMPC SA,,CL,,issuer
+LUNR,0.0006,CA,LunR Royalties Corp,,CA,,issuer
+RVNL,0.0006,IN,Rail Vikas Nigam Ltd,,IN,,issuer
+NESZ,0.0006,MY,Nestle Malaysia Bhd,,MY,,issuer
+601238,0.0006,CN,Guangzhou Automobile Group Co Ltd,,CN,,issuer
+601169,0.0006,CN,Bank of Beijing Co Ltd,,CN,,issuer
+300015,0.0006,CN,Aier Eye Hospital Group Co Ltd,,CN,,issuer
+PFGRUPOA,0.0006,CO,Grupo Argos SA/Colombia,,CO,,issuer
+601808,0.0006,CN,China Oilfield Services Ltd,,CN,,issuer
+BDL,0.0006,IN,Bharat Dynamics Ltd,,IN,,issuer
+4816,0.0006,JP,Toei Animation Co Ltd,,JP,,issuer
+600350,0.0006,CN,Shandong Hi-speed Co Ltd,,CN,,issuer
+3471,0.0006,JP,Mitsui Fudosan Logistics Park Inc,,JP,,issuer
+688111,0.0006,CN,Beijing Kingsoft Office Software Inc,,CN,,issuer
+NARH,0.0006,IN,Narayana Hrudayalaya Ltd,,IN,,issuer
+688313,0.0006,CN,Henan Shijia Photons Technology Co Ltd,,CN,,issuer
+TEHOL,0.0006,TR,Tera Yatirim Teknoloji Holding AS,,TR,,issuer
+1COV,0.0006,DE,Covestro AG,,DE,,issuer
+TPG,0.0006,AU,TPG Telecom Ltd,,AU,,issuer
+QUINENC,0.0006,CL,Quinenco SA,,CL,,issuer
+FNH,0.0006,MY,Fraser & Neave Holdings Bhd,,MY,,issuer
+600436,0.0006,CN,Zhangzhou Pientzehuang Pharmaceutical Co Ltd,,CN,,issuer
+3M,0.0006,IN,3M India Ltd,,IN,,issuer
+AGUAS/A,0.0006,CL,Aguas Andinas SA,,CL,,issuer
+018880,0.0006,KR,Hanon Systems,,KR,,issuer
+688037,0.0006,CN,Kingsemi Co Ltd,,CN,,issuer
+300489,0.0006,CN,Optics Technology Holding Co Ltd,,CN,,issuer
+300475,0.0006,CN,Shannon Semiconductor Technology Co Ltd,,CN,,issuer
+RYSAS,0.0006,TR,Reysas Tasimacilik ve Lojistik Ticaret AS,,TR,,issuer
+600418,0.0006,CN,Anhui Jianghuai Automobile Group Corp Ltd,,CN,,issuer
+601111,0.0006,CN,Air China Ltd,,CN,,issuer
+1066,0.0006,HK,Shandong Weigao Group Medical Polymer Co Ltd,,HK,,issuer
+600011,0.0006,CN,Huaneng Power International Inc,,CN,,issuer
+600295,0.0006,CN,Inner Mongolia ERDOS Resources Co Ltd,,CN,,issuer
+DIMRI,0.0006,IL,YH Dimri Construction & Development Ltd,,IL,,issuer
+921,0.0006,HK,Hisense Home Appliances Group Co Ltd,,HK,,issuer
+ARTO,0.0006,IN,Aarti Industries Ltd,,IN,,issuer
+QFLS,0.0006,QA,Qatar Fuel QSC,,QA,,issuer
+SASA,0.0006,TR,Sasa Polyester Sanayi AS,,TR,,issuer
+600015,0.0006,CN,Huaxia Bank Co Ltd,,CN,,issuer
+688519,0.0006,CN,Nanya New Material Technology Co Ltd,,CN,,issuer
+TRALT,0.0006,TR,Koza Altin Isletmeleri AS,,TR,,issuer
+3549,0.0006,JP,Kusuri no Aoki Holdings Co Ltd,,JP,,issuer
+BOROUGE,0.0006,AE,Borouge PLC,,AE,,issuer
+2357,0.0006,HK,AviChina Industry & Technology Co Ltd,,HK,,issuer
+BDMS-R,0.0006,TH,Bangkok Dusit Medical Services PCL,,TH,,issuer
+688235,0.0006,CN,BeOne Medicines Ltd,,CN,,issuer
+002851,0.0006,CN,Shenzhen Megmeet Electrical Co Ltd,,CN,,issuer
+300661,0.0006,CN,SG Micro Corp,,CN,,issuer
+ORBIA*,0.0006,MX,Orbia Advance Corp SAB de CV,,MX,,issuer
+CCU,0.0006,CL,Cia Cervecerias Unidas SA,,CL,,issuer
+023530,0.0006,KR,Lotte Shopping Co Ltd,,KR,,issuer
+JAMJOOMP,0.0006,SA,Jamjoom Pharmaceuticals Factory Co,,SA,,issuer
+AIAE,0.0006,IN,AIA Engineering Ltd,,IN,,issuer
+300620,0.0006,CN,Advanced Fiber Resources Zhuhai Ltd,,CN,,issuer
+152,0.0006,HK,Shenzhen International Holdings Ltd,,HK,,issuer
+TMGH,0.0006,EG,Talaat Moustafa Group,,EG,,issuer
+600038,0.0006,CN,AVICOPTER PLC,,CN,,issuer
+601818,0.0006,CN,China Everbright Bank Co Ltd,,CN,,issuer
+300296,0.0006,CN,Leyard Optoelectronic Co Ltd,,CN,,issuer
+GLO,0.0006,PH,Globe Telecom Inc,,PH,,issuer
+300666,0.0006,CN,Konfoong Materials International Co Ltd,,CN,,issuer
+6699,0.0006,HK,Angelalign Technology Inc,,HK,,issuer
+000012,0.0006,CN,CSG Holding Co Ltd,,CN,,issuer
+TELX,0.0006,IN,Tata Elxsi Ltd,,IN,,issuer
+SOLUTION,0.0006,SA,Arabian Internet & Communications Services Co,,SA,,issuer
+002049,0.0006,CN,Unigroup Guoxin Microelectronics Co Ltd,,CN,,issuer
+GLXO,0.0006,IN,GlaxoSmithKline Pharmaceuticals Ltd,,IN,,issuer
+ISAT,0.0006,ID,Indosat Tbk PT,,ID,,issuer
+ADRO,0.0005,ID,Adaro Energy Indonesia Tbk PT,,ID,,issuer
+002837,0.0005,CN,Shenzhen Envicool Technology Co Ltd,,CN,,issuer
+300347,0.0005,CN,Hangzhou Tigermed Consulting Co Ltd,,CN,,issuer
+001389,0.0005,CN,Delton Technology Guangzhou Inc,,CN,,issuer
+ICBP,0.0005,ID,Indofood CBP Sukses Makmur Tbk PT,,ID,,issuer
+VOLCARB,0.0005,SE,Volvo Car AB,,SE,,issuer
+AMOT,0.0005,IL,Amot Investments Ltd,,IL,,issuer
+301511,0.0005,CN,Jiujiang Defu Technology Co Ltd,,CN,,issuer
+002821,0.0005,CN,Asymchem Laboratories Tianjin Co Ltd,,CN,,issuer
+688331,0.0005,CN,Remegen Co Ltd,,CN,,issuer
+NIC,0.0005,SA,National Industrialization Co,,SA,,issuer
+IGL,0.0005,IN,Indraprastha Gas Ltd,,IN,,issuer
+600177,0.0005,CN,Youngor Fashion Co Ltd,,CN,,issuer
+SIPCHEM,0.0005,SA,Sahara International Petrochemical Co,,SA,,issuer
+601168,0.0005,CN,Western Mining Co Ltd,,CN,,issuer
+000630,0.0005,CN,Tongling Nonferrous Metals Group Co Ltd,,CN,,issuer
+300418,0.0005,CN,Kunlun Tech Co Ltd,,CN,,issuer
+FWONA,0.0005,US,Liberty Media Corp,,US,,issuer
+300316,0.0005,CN,Zhejiang Jingsheng Mechanical & Electrical Co Ltd,,CN,,issuer
+BOI,0.0005,IN,Bank of India,,IN,,issuer
+600820,0.0005,CN,Shanghai Tunnel Engineering Co Ltd,,CN,,issuer
+601021,0.0005,CN,Spring Airlines Co Ltd,,CN,,issuer
+17,0.0005,HK,New World Development Co Ltd,,HK,,issuer
+LIIL,0.0005,IN,Linde India Ltd,,IN,,issuer
+KTC/F,0.0005,TH,Krungthai Card PCL,,TH,,issuer
+000089,0.0005,CN,Shenzhen Airport Co Ltd,,CN,,issuer
+300776,0.0005,CN,Wuhan DR Laser Technology Corp Ltd,,CN,,issuer
+ALVO,0.0005,IS,Alvotech SA,,IS,,issuer
+000703,0.0005,CN,Hengyi Petrochemical Co Ltd,,CN,,issuer
+300548,0.0005,CN,EverProX Technologies Co Ltd,,CN,,issuer
+6781,0.0005,TW,Advanced Energy Solution Holding Co Ltd,,TW,,issuer
+600549,0.0005,CN,Xiamen Tungsten Co Ltd,,CN,,issuer
+003816,0.0005,CN,CGN Power Co Ltd,,CN,,issuer
+548,0.0005,HK,Shenzhen Expressway Corp Ltd,,HK,,issuer
+CHDRAUIB,0.0005,MX,Grupo Comercial Chedraui SA de CV,,MX,,issuer
+1385,0.0005,HK,Shanghai Fudan Microelectronics Group Co Ltd,,HK,,issuer
+001965,0.0005,CN,China Merchants Expressway Network & Technology Holdings Co Ltd,,CN,,issuer
+601233,0.0005,CN,Tongkun Group Co Ltd,,CN,,issuer
+STARHEAL,0.0005,IN,Star Health & Allied Insurance Co Ltd,,IN,,issuer
+601360,0.0005,CN,360 Security Technology Inc,,CN,,issuer
+600012,0.0005,CN,Anhui Expressway Co Ltd,,CN,,issuer
+601969,0.0005,CN,Hainan Mining Co Ltd,,CN,,issuer
+002636,0.0005,CN,Goldenmax International Group Ltd,,CN,,issuer
+CATERING,0.0005,SA,Catrion Catering Holding Co,,SA,,issuer
+GCC*,0.0005,MX,GCC SAB de CV,,MX,,issuer
+600037,0.0005,CN,Beijing Gehua CATV Network Co Ltd,,CN,,issuer
+601608,0.0005,CN,CITIC Heavy Industries Co Ltd,,CN,,issuer
+300037,0.0005,CN,Shenzhen Capchem Technology Co Ltd,,CN,,issuer
+002812,0.0005,CN,Yunnan Energy New Material Group Co Ltd,,CN,,issuer
+603087,0.0005,CN,Gan & Lee Pharmaceuticals Co Ltd,,CN,,issuer
+002050,0.0005,CN,Zhejiang Sanhua Intelligent Controls Co Ltd,,CN,,issuer
+INKP,0.0005,ID,Indah Kiat Pulp & Paper Tbk PT,,ID,,issuer
+000021,0.0005,CN,Shenzhen Kaifa Technology Co Ltd,,CN,,issuer
+688409,0.0005,CN,Shenyang Fortune Precision Equipment Co Ltd,,CN,,issuer
+600707,0.0005,CN,IRICO Display Devices Co Ltd,,CN,,issuer
+VIO,0.0005,GR,Viohalco SA,,GR,,issuer
+688766,0.0005,CN,Puya Semiconductor Shanghai Co Ltd,,CN,,issuer
+853,0.0005,HK,Microport Scientific Corp,,HK,,issuer
+605358,0.0005,CN,Hangzhou Lion Microelectronics Co Ltd,,CN,,issuer
+ISAE4,0.0005,BR,CTEEP-Cia de Transmissao de Energia Eletrica Paulista,,BR,,issuer
+301536,0.0005,CN,Sigmastar Technology Ltd,,CN,,issuer
+002532,0.0005,CN,Tianshan Aluminum Group Co Ltd,,CN,,issuer
+300570,0.0005,CN,T&S Communications Co Ltd,,CN,,issuer
+601012,0.0005,CN,LONGi Green Energy Technology Co Ltd,,CN,,issuer
+002436,0.0005,CN,Shenzhen Fastprint Circuit Tech Co Ltd,,CN,,issuer
+300672,0.0005,CN,Goke Microelectronics Co Ltd,,CN,,issuer
+300054,0.0005,CN,Hubei Dinglong Co Ltd,,CN,,issuer
+601991,0.0005,CN,Datang International Power Generation Co Ltd,,CN,,issuer
+002379,0.0005,CN,Shandong Hongqiao Aluminum Industry Holding Co Ltd,,CN,,issuer
+002409,0.0005,CN,Jiangsu Yoke Technology Co Ltd,,CN,,issuer
+000155,0.0005,KR,Doosan Co Ltd,,KR,,issuer
+3347,0.0005,HK,Hangzhou Tigermed Consulting Co Ltd,,HK,,issuer
+RYGYO,0.0005,TR,Reysas Gayrimenkul Yatirim Ortakligi AS,,TR,,issuer
+688548,0.0005,CN,Guangzhou Guanggang Gases & Energy Co Ltd,,CN,,issuer
+002304,0.0005,CN,Jiangsu Yanghe Distillery Co Ltd,,CN,,issuer
+002128,0.0005,CN,Inner Mongolia Dian Tou Energy Corp Ltd,,CN,,issuer
+2282,0.0005,HK,MGM China Holdings Ltd,,HK,,issuer
+ITAUCL,0.0005,CL,Banco Itau Chile SA,,CL,,issuer
+071055,0.0005,KR,Korea Investment Holdings Co Ltd,,KR,,issuer
+603806,0.0005,CN,Hangzhou First Applied Material Co Ltd,,CN,,issuer
+688432,0.0005,CN,GRINM Semiconductor Materials Co Ltd,,CN,,issuer
+900912,0.0005,CN,Shanghai Waigaoqiao Free Trade Zone Group Co Ltd,,CN,,issuer
+688025,0.0005,CN,Shenzhen JPT Opto-Electronics Co Ltd,,CN,,issuer
+601607,0.0005,CN,Shanghai Pharmaceuticals Holding Co Ltd,,CN,,issuer
+AEFES,0.0005,TR,Anadolu Efes Biracilik Ve Malt Sanayii AS,,TR,,issuer
+000728,0.0005,CN,Guoyuan Securities Co Ltd,,CN,,issuer
+688213,0.0005,CN,Smartsens Technology Shanghai Co Ltd,,CN,,issuer
+603296,0.0005,CN,Huaqin Co Ltd,,CN,,issuer
+000636,0.0005,CN,Guangdong Fenghua Advanced Technology Holding Co Ltd,,CN,,issuer
+301205,0.0005,CN,Linktel Technologies Co Ltd,,CN,,issuer
+URC,0.0005,PH,Universal Robina Corp,,PH,,issuer
+000625,0.0005,CN,Chongqing Changan Automobile Co Ltd,,CN,,issuer
+OR/F,0.0005,TH,PTT Oil & Retail Business PCL,,TH,,issuer
+688048,0.0005,CN,Suzhou Everbright Photonics Co Ltd,,CN,,issuer
+002600,0.0005,CN,Lingyi iTech Guangdong Co,,CN,,issuer
+ARI,0.0005,ZA,African Rainbow Minerals Ltd,,ZA,,issuer
+600010,0.0005,CN,Inner Mongolia BaoTou Steel Union Co Ltd,,CN,,issuer
+688172,0.0005,CN,Beijing Yandong Microelectronic Co Ltd,,CN,,issuer
+688536,0.0005,CN,3peak Inc,,CN,,issuer
+688777,0.0005,CN,SUPCON Technology Co Ltd,,CN,,issuer
+IRB,0.0005,IN,IRB Infrastructure Developers Ltd,,IN,,issuer
+688387,0.0005,CN,CICT Mobile Communication Technology Co Ltd,,CN,,issuer
+1128,0.0004,HK,Wynn Macau Ltd,,HK,,issuer
+688110,0.0004,CN,Dosilicon Co Ltd,,CN,,issuer
+HMPRO/F,0.0004,TH,Home Product Center PCL,,TH,,issuer
+601689,0.0004,CN,Ningbo Tuopu Group Co Ltd,,CN,,issuer
+601077,0.0004,CN,Chongqing Rural Commercial Bank Co Ltd,,CN,,issuer
+688167,0.0004,CN,Focuslight Technologies Inc,,CN,,issuer
+2202,0.0004,HK,China Vanke Co Ltd,,HK,,issuer
+1833,0.0004,HK,Ping An Healthcare and Technology Co Ltd,,HK,,issuer
+600104,0.0004,CN,SAIC Motor Corp Ltd,,CN,,issuer
+1276,0.0004,HK,Jiangsu Hengrui Pharmaceuticals Co Ltd,,HK,,issuer
+GPSC/F,0.0004,TH,Global Power Synergy PCL,,TH,,issuer
+301165,0.0004,CN,Ruijie Networks Co Ltd,,CN,,issuer
+301297,0.0004,CN,Ferrotec Anhui Technology Development Co Ltd,,CN,,issuer
+EKGYO,0.0004,TR,Emlak Konut Gayrimenkul Yatirim Ortakligi AS,,TR,,issuer
+688052,0.0004,CN,Suzhou Novosense Microelectronics Co Ltd,,CN,,issuer
+HUDCO,0.0004,IN,Housing & Urban Development Corp Ltd,,IN,,issuer
+600378,0.0004,CN,Haohua Chemical Science & Technology Co Ltd,,CN,,issuer
+DFI,0.0004,SG,DFI Retail Group Holdings Ltd,,SG,,issuer
+HALKB,0.0004,TR,Turkiye Halk Bankasi AS,,TR,,issuer
+603979,0.0004,CN,JCHX Mining Management Co Ltd,,CN,,issuer
+SYNG,0.0004,IN,Syngene International Ltd,,IN,,issuer
+NLC,0.0004,IN,NLC India Ltd,,IN,,issuer
+688728,0.0004,CN,GalaxyCore Inc,,CN,,issuer
+NMDCENR,0.0004,AE,NMDC Energy PJSC,,AE,,issuer
+300017,0.0004,CN,Wangsu Science & Technology Co Ltd,,CN,,issuer
+600206,0.0004,CN,Grinm Advanced Materials Co Ltd,,CN,,issuer
+002185,0.0004,CN,Tianshui Huatian Technology Co Ltd,,CN,,issuer
+KPITTECH,0.0004,IN,KPIT Technologies Ltd,,IN,,issuer
+TKFEN,0.0004,TR,Tekfen Holding AS,,TR,,issuer
+688147,0.0004,CN,Jiangsu Leadmicro Nano Technology Co Ltd,,CN,,issuer
+000811,0.0004,CN,Moon Environment Technology Co Ltd,,CN,,issuer
+99SMART,0.0004,MY,99 Speed Mart Retail Holdings Bhd,,MY,,issuer
+HMN,0.0004,IN,Emami Ltd,,IN,,issuer
+600085,0.0004,CN,Beijing Tong Ren Tang Co Ltd,,CN,,issuer
+688630,0.0004,CN,Circuit Fabology Microelectronics Equipment Co Ltd,,CN,,issuer
+603061,0.0004,CN,JHT Design Co Ltd,,CN,,issuer
+1876,0.0004,HK,Budweiser Brewing Co APAC Ltd,,HK,,issuer
+002428,0.0004,CN,Yunnan Lincang Xinyuan Germanium Industrial Co Ltd,,CN,,issuer
+AWC/F,0.0004,TH,Asset World Corp PCL,,TH,,issuer
+DN,0.0004,IN,Deepak Nitrite Ltd,,IN,,issuer
+300487,0.0004,CN,Sunresin New Materials Co Ltd,,CN,,issuer
+002958,0.0004,CN,Qingdao Rural Commercial Bank Corp,,CN,,issuer
+2208,0.0004,HK,Goldwind Science & Technology Co Ltd,,HK,,issuer
+BRES,0.0004,QA,Barwa Real Estate Co,,QA,,issuer
+688017,0.0004,CN,Leader Harmonious Drive Systems Co Ltd,,CN,,issuer
+600863,0.0004,CN,Inner Mongolia MengDian HuaNeng Thermal Power Corp Ltd,,CN,,issuer
+000933,0.0004,CN,Henan Shenhuo Coal Industry & Electricity Power Co Ltd,,CN,,issuer
+688411,0.0004,CN,Beijing HyperStrong Technology Co Ltd,,CN,,issuer
+601208,0.0004,CN,Sichuan EM Technology Co Ltd,,CN,,issuer
+TMX,0.0004,IN,Thermax Ltd,,IN,,issuer
+300395,0.0004,CN,Hubei Feilihua Quartz Glass Co Ltd,,CN,,issuer
+ARCLK,0.0004,TR,Arcelik AS,,TR,,issuer
+CPAXT/F,0.0004,TH,CP AXTRA PCL,,TH,,issuer
+688019,0.0004,CN,Anji Microelectronics Technology Shanghai Co Ltd,,CN,,issuer
+HEXT,0.0004,IN,Hexaware Technologies Ltd,,IN,,issuer
+002466,0.0004,CN,Tianqi Lithium Corp,,CN,,issuer
+601838,0.0004,CN,Bank of Chengdu Co Ltd,,CN,,issuer
+300058,0.0004,CN,Bluefocus Intelligent Communications Group Co Ltd,,CN,,issuer
+600089,0.0004,CN,TBEA Co Ltd,,CN,,issuer
+300567,0.0004,CN,Wuhan Jingce Electronic Group Co Ltd,,CN,,issuer
+601958,0.0004,CN,Jinduicheng Molybdenum Co Ltd,,CN,,issuer
+003031,0.0004,CN,Hebei Sinopack Electronic Technology Co Ltd,,CN,,issuer
+VHM,0.0004,VN,Vinhomes JSC,,VN,,issuer
+601231,0.0004,CN,Universal Scientific Industrial Shanghai Co Ltd,,CN,,issuer
+301626,0.0004,CN,Suzhou Tianmai Thermal Technology Co Ltd,,CN,,issuer
+300346,0.0004,CN,Jiangsu Nata Opto-electronic Material Co Ltd,,CN,,issuer
+688322,0.0004,CN,Orbbec Inc,,CN,,issuer
+AURE3,0.0004,BR,Auren Energia SA,,BR,,issuer
+603156,0.0004,CN,Hebei Yangyuan Zhihui Beverage Co Ltd,,CN,,issuer
+001203,0.0004,CN,Dazhong Mining Co Ltd,,CN,,issuer
+603129,0.0004,CN,Zhejiang Cfmoto Power Co Ltd,,CN,,issuer
+600871,0.0004,CN,Sinopec Oilfield Service Corp,,CN,,issuer
+600578,0.0004,CN,Beijing Jingneng Power Co Ltd,,CN,,issuer
+301611,0.0004,CN,Suzhou Kematek Inc,,CN,,issuer
+301396,0.0004,CN,Glory View Technology Co Ltd,,CN,,issuer
+600601,0.0004,CN,Founder Technology Group Corp,,CN,,issuer
+GENT,0.0004,MY,Genting Bhd,,MY,,issuer
+600795,0.0004,CN,GD Power Development Co Ltd,,CN,,issuer
+2386,0.0004,HK,Sinopec Engineering Group Co Ltd,,HK,,issuer
+688629,0.0004,CN,Sichuan Huafeng Technology Co Ltd,,CN,,issuer
+000688,0.0004,CN,Guocheng Mining Co Ltd,,CN,,issuer
+GRUPOSUR,0.0004,CO,Grupo de Inversiones Suramericana SA,,CO,,issuer
+ANE,0.0004,ES,Corp ACCIONA Energias Renovables SA,,ES,,issuer
+601126,0.0004,CN,Beijing Sifang Automation Co Ltd,,CN,,issuer
+CSTRL,0.0004,IN,Castrol India Ltd,,IN,,issuer
+3279,0.0004,JP,Activia Properties Inc,,JP,,issuer
+688627,0.0004,CN,Shenzhen SEICHI Technologies Co Ltd,,CN,,issuer
+QFIN,0.0004,US,Qfin Holdings Inc,,US,,issuer
+688375,0.0004,CN,Guobo Electronics Co Ltd,,CN,,issuer
+000425,0.0004,CN,XCMG Construction Machinery Co Ltd,,CN,,issuer
+090435,0.0004,KR,Amorepacific Corp,,KR,,issuer
+101,0.0004,HK,Hang Lung Properties Ltd,,HK,,issuer
+1055,0.0004,HK,China Southern Airlines Co Ltd,,HK,,issuer
+600737,0.0004,CN,COFCO Sugar Holding Co Ltd,,CN,,issuer
+601127,0.0004,CN,Seres Group Co Ltd,,CN,,issuer
+VEDPOWER,0.0004,IN,Vedanta Power Ltd,,IN,,issuer
+200012,0.0004,CN,CSG Holding Co Ltd,,CN,,issuer
+688549,0.0004,CN,Grandit Co Ltd,,CN,,issuer
+002241,0.0004,CN,GoerTek Inc,,CN,,issuer
+600667,0.0004,CN,Wuxi Taiji Industry Ltd Co,,CN,,issuer
+000893,0.0004,CN,Asia - Potash International Investment Guangzhou Co Ltd,,CN,,issuer
+301018,0.0004,CN,Guangdong Shenling Environmental Systems Co Ltd,,CN,,issuer
+300765,0.0004,CN,CSPC Innovation Pharmaceutical Co Ltd,,CN,,issuer
+300136,0.0004,CN,Shenzhen Sunway Communication Co Ltd,,CN,,issuer
+688545,0.0004,CN,Hubei Sinophorus Electronic Materials Co Ltd,,CN,,issuer
+603650,0.0004,CN,Red Avenue New Materials Group Co Ltd,,CN,,issuer
+603929,0.0004,CN,L&K Engineering Suzhou Co Ltd,,CN,,issuer
+SOKM,0.0004,TR,Sok Marketler Ticaret AS,,TR,,issuer
+000066,0.0004,CN,China Greatwall Technology Group Co Ltd,,CN,,issuer
+RATCH/F,0.0004,TH,Ratch Group PCL,,TH,,issuer
+MGROS,0.0004,TR,Migros Ticaret AS,,TR,,issuer
+4118,0.0004,JP,Kaneka Corp,,JP,,issuer
+NAHDI,0.0004,SA,Nahdi Medical Co,,SA,,issuer
+688362,0.0004,CN,Forehope Electronic Ningbo Co Ltd,,CN,,issuer
+VOGL,0.0004,IN,Vedanta Oil and Gas Ltd,,IN,,issuer
+6806,0.0004,HK,Shenwan Hongyuan Group Co Ltd,,HK,,issuer
+300751,0.0004,CN,Suzhou Maxwell Technologies Co Ltd,,CN,,issuer
+6753,0.0004,JP,Sharp Corp/Japan,,JP,,issuer
+6178,0.0004,HK,Everbright Securities Co Ltd,,HK,,issuer
+002850,0.0004,CN,Shenzhen Kedali Industry Co Ltd,,CN,,issuer
+450080,0.0004,KR,Ecopro Materials Co Ltd,,KR,,issuer
+688585,0.0004,CN,Swancor Advanced Materials Co Ltd,,CN,,issuer
+FAKEEHCA,0.0004,SA,New Issuer: BB Company ID:71589552,,SA,,issuer
+COLT,0.0004,CZ,Colt CZ Group SE,,CZ,,issuer
+PGSUS,0.0004,TR,Pegasus Hava Tasimaciligi AS,,TR,,issuer
+AWL,0.0004,IN,Adani Wilmar Ltd,,IN,,issuer
+600105,0.0004,CN,Jiangsu Etern Co Ltd,,CN,,issuer
+600498,0.0004,CN,Fiberhome Telecommunication Technologies Co Ltd,,CN,,issuer
+300870,0.0004,CN,Shenzhen Honor Electronic Co Ltd,,CN,,issuer
+ANSGR,0.0004,TR,Anadolu Anonim Turk Sigorta Sirketi,,TR,,issuer
+603629,0.0004,CN,Jiangsu Lettall Electronic Co Ltd,,CN,,issuer
+000426,0.0004,CN,Inner Mongolia Xingye Silver&Tin Mining Co Ltd,,CN,,issuer
+688141,0.0004,CN,JoulWatt Technology Co Ltd,,CN,,issuer
+INVES,0.0004,TR,Investco Holding AS,,TR,,issuer
+002484,0.0004,CN,Nantong Jianghai Capacitor Co Ltd,,CN,,issuer
+301200,0.0004,CN,Shenzhen Han's CNC Technology Co Ltd,,CN,,issuer
+371,0.0004,HK,Beijing Enterprises Water Group Ltd,,HK,,issuer
+KLBF,0.0004,ID,Kalbe Farma Tbk PT,,ID,,issuer
+956,0.0004,HK,China Suntien Green Energy Corp Ltd,,HK,,issuer
+688220,0.0004,CN,ASR Microelectronics Co Ltd,,CN,,issuer
+1072,0.0004,HK,Dongfang Electric Corp Ltd,,HK,,issuer
+7164,0.0004,JP,Zenkoku Hosho Co Ltd,,JP,,issuer
+002230,0.0004,CN,Iflytek Co Ltd,,CN,,issuer
+603369,0.0004,CN,Jiangsu King's Luck Brewery JSC Ltd,,CN,,issuer
+SADAFCO,0.0004,SA,Saudia Dairy & Foodstuff Co,,SA,,issuer
+605376,0.0004,CN,Jiangsu Boqian New Materials Stock Co Ltd,,CN,,issuer
+TLI/F,0.0004,TH,Thai Life Insurance PCL,,TH,,issuer
+300806,0.0004,CN,Jiangsu Sidike New Material Science & Technology Co Ltd,,CN,,issuer
+600848,0.0004,CN,Shanghai Lingang Holdings Corp Ltd,,CN,,issuer
+GUBRF,0.0004,TR,Gubre Fabrikalari TAS,,TR,,issuer
+300903,0.0004,CN,Guangdong Kingshine Electronic Technology Co Ltd,,CN,,issuer
+688668,0.0004,CN,Dongguan Dingtong Precision Metal Co Ltd,,CN,,issuer
+IREDA,0.0004,IN,Indian Renewable Energy Development Agency Ltd,,IN,,issuer
+600808,0.0004,CN,Maanshan Iron & Steel Co Ltd,,CN,,issuer
+AHGAZ,0.0004,TR,Ahlatci Dogal Gaz Dagitim Enerji VE Yatirim AS,,TR,,issuer
+600869,0.0004,CN,Far East Smarter Energy Co Ltd,,CN,,issuer
+MTEL,0.0004,ID,Dayamitra Telekomunikasi PT,,ID,,issuer
+002311,0.0004,CN,Guangdong Haid Group Co Ltd,,CN,,issuer
+900947,0.0004,CN,Shanghai Zhenhua Heavy Industries Co Ltd,,CN,,issuer
+TAEE11,0.0004,BR,Transmissora Alianca de Energia Eletrica S/A,,BR,,issuer
+LTTS,0.0004,IN,L&T Technology Services Ltd,,IN,,issuer
+3308,0.0004,HK,Zhongji Innolight Co Ltd,,HK,,issuer
+688036,0.0004,CN,Shenzhen Transsion Holdings Co Ltd,,CN,,issuer
+2810,0.0003,JP,House Foods Group Inc,,JP,,issuer
+600623,0.0003,CN,Shanghai Huayi Group Co Ltd,,CN,,issuer
+ERICA,0.0003,SE,Telefonaktiebolaget LM Ericsson,,SE,,issuer
+036460,0.0003,KR,Korea Gas Corp,,KR,,issuer
+753,0.0003,HK,Air China Ltd,,HK,,issuer
+6993,0.0003,HK,Blue Moon Group Holdings Ltd,,HK,,issuer
+598,0.0003,HK,Sinotrans Ltd,,HK,,issuer
+688300,0.0003,CN,Novoray Corp,,CN,,issuer
+GQG,0.0003,AU,GQG Partners Inc,,AU,,issuer
+FPE,0.0003,DE,FUCHS SE,,DE,,issuer
+COLBUN,0.0003,CL,Colbun SA,,CL,,issuer
+PRESIGHT,0.0003,AE,Presight AI Holding PLC,,AE,,issuer
+ENDU,0.0003,IN,Endurance Technologies Ltd,,IN,,issuer
+JGS,0.0003,PH,JG Summit Holdings Inc,,PH,,issuer
+251270,0.0003,KR,Netmarble Corp,,KR,,issuer
+DWNI,0.0003,DE,Deutsche Wohnen SE,,DE,,issuer
+601669,0.0003,CN,Power Construction Corp of China Ltd,,CN,,issuer
+PGAS,0.0003,ID,Perusahaan Gas Negara Persero Tbk PT,,ID,,issuer
+002709,0.0003,CN,Guangzhou Tinci Materials Technology Co Ltd,,CN,,issuer
+874,0.0003,HK,Guangzhou Baiyunshan Pharmaceutical Holdings Co Ltd,,HK,,issuer
+300454,0.0003,CN,Sangfor Technologies Inc,,CN,,issuer
+SGS,0.0003,SA,Saudi Ground Services Co,,SA,,issuer
+601377,0.0003,CN,Industrial Securities Co Ltd,,CN,,issuer
+600132,0.0003,CN,Chongqing Brewery Co Ltd,,CN,,issuer
+4676,0.0003,JP,Fuji Media Holdings Inc,,JP,,issuer
+002385,0.0003,CN,Beijing Dabeinong Technology Group Co Ltd,,CN,,issuer
+GDSP,0.0003,IN,Godrej Industries Ltd,,IN,,issuer
+601696,0.0003,CN,BOC International China Co Ltd,,CN,,issuer
+1199,0.0003,HK,COSCO SHIPPING Ports Ltd,,HK,,issuer
+MAVI,0.0003,TR,Mavi Giyim Sanayi Ve Ticaret AS,,TR,,issuer
+ARABIAND,0.0003,SA,Arabian Drilling Co,,SA,,issuer
+688525,0.0003,CN,Biwin Storage Technology Co Ltd,,CN,,issuer
+601212,0.0003,CN,Baiyin Nonferrous Group Co Ltd,,CN,,issuer
+OSP/F,0.0003,TH,Osotspa PCL,,TH,,issuer
+600988,0.0003,CN,Chifeng Jilong Gold Mining Group Ltd,,CN,,issuer
+002625,0.0003,CN,Kuang-Chi Technologies Co Ltd,,CN,,issuer
+VAPORES,0.0003,CL,Cia Sud Americana de Vapores SA,,CL,,issuer
+601179,0.0003,CN,China XD Electric Co Ltd,,CN,,issuer
+603799,0.0003,CN,Zhejiang Huayou Cobalt Co Ltd,,CN,,issuer
+APPC,0.0003,SA,Advanced Petrochemical Co,,SA,,issuer
+UNVR,0.0003,ID,Unilever Indonesia Tbk PT,,ID,,issuer
+688234,0.0003,CN,SICC Co Ltd,,CN,,issuer
+EUPWR,0.0003,TR,Europower Enerji VE Otomasyon Teknolojileri Sanayi Ticaret AS,,TR,,issuer
+000596,0.0003,CN,Anhui Gujing Distillery Co Ltd,,CN,,issuer
+576,0.0003,HK,Zhejiang Expressway Co Ltd,,HK,,issuer
+000547,0.0003,CN,Addsino Co Ltd,,CN,,issuer
+600233,0.0003,CN,YTO Express Group Co Ltd,,CN,,issuer
+EXCL,0.0003,ID,XL Axiata Tbk PT,,ID,,issuer
+SAGAD,0.0003,SE,Sagax AB,,SE,,issuer
+1618,0.0003,HK,Metallurgical Corp of China Ltd,,HK,,issuer
+AYGAZ,0.0003,TR,Aygaz AS,,TR,,issuer
+600438,0.0003,CN,Tongwei Co Ltd,,CN,,issuer
+MPARK,0.0003,TR,MLP Saglik Hizmetleri AS,,TR,,issuer
+000831,0.0003,CN,China Rare Earth Resources And Technology Co Ltd,,CN,,issuer
+SRE*,0.0003,MX,Sempra,,MX,,issuer
+300251,0.0003,CN,Beijing Enlight Media Co Ltd,,CN,,issuer
+GMAT3,0.0003,BR,Grupo Mateus SA,,BR,,issuer
+600039,0.0003,CN,Sichuan Road and Bridge Group Co Ltd,,CN,,issuer
+302440,0.0003,KR,SK Bioscience Co Ltd,,KR,,issuer
+000921,0.0003,CN,Hisense Home Appliances Group Co Ltd,,CN,,issuer
+300866,0.0003,CN,Anker Innovations Technology Co Ltd,,CN,,issuer
+002429,0.0003,CN,Shenzhen MTC Co Ltd,,CN,,issuer
+RESEARCH,0.0003,SA,Saudi Research & Media Group,,SA,,issuer
+AP,0.0003,PH,Aboitiz Power Corp,,PH,,issuer
+2229,0.0003,JP,Calbee Inc,,JP,,issuer
+646A,0.0003,JP,Crasus Chemical Inc,,JP,,issuer
+UBBL,0.0003,IN,United Breweries Ltd,,IN,,issuer
+600487,0.0003,CN,Hengtong Optic-electric Co Ltd,,CN,,issuer
+659,0.0003,HK,CTF Services Ltd,,HK,,issuer
+688099,0.0003,CN,Amlogic Shanghai Co Ltd,,CN,,issuer
+GENM,0.0003,MY,Genting Malaysia Bhd,,MY,,issuer
+688578,0.0003,CN,Shanghai Allist Pharmaceuticals Co Ltd,,CN,,issuer
+123,0.0003,HK,Yuexiu Property Co Ltd,,HK,,issuer
+BRSAN,0.0003,TR,Borusan Birlesik Boru Fabrikalari Sanayi ve Ticaret AS,,TR,,issuer
+301269,0.0003,CN,Empyrean Technology Co Ltd,,CN,,issuer
+ENERY,0.0003,TR,Enerya Enerji AS,,TR,,issuer
+TRMET,0.0003,TR,TR Anadolu Metal Madencilik Isletmeleri AS,,TR,,issuer
+CPFE3,0.0003,BR,CPFL Energia SA,,BR,,issuer
+2206,0.0003,JP,Ezaki Glico Co Ltd,,JP,,issuer
+MULT3,0.0003,BR,Multiplan Empreendimentos Imobiliarios SA,,BR,,issuer
+FESTI,0.0003,IS,Festi hf,,IS,,issuer
+RALYH,0.0003,TR,Ral Yatirim Holding AS,,TR,,issuer
+688180,0.0003,CN,Shanghai Junshi Biosciences Co Ltd,,CN,,issuer
+600835,0.0003,CN,Shanghai Mechanical and Electrical Industry Co Ltd,,CN,,issuer
+SJVN,0.0003,IN,SJVN Ltd,,IN,,issuer
+601992,0.0003,CN,BBMG Corp,,CN,,issuer
+639,0.0003,HK,Shougang Fushan Resources Group Ltd,,HK,,issuer
+FLYNAS,0.0003,SA,flynas Co SJSC,,SA,,issuer
+EXTRA,0.0003,SA,United Electronics Co,,SA,,issuer
+000009,0.0003,CN,China Baoan Group Co Ltd,,CN,,issuer
+1999,0.0003,HK,Man Wah Holdings Ltd,,HK,,issuer
+TERA,0.0003,TR,Tera Yatirim Menkul Degerler AS,,TR,,issuer
+ABMB,0.0003,MY,Alliance Bank Malaysia Bhd,,MY,,issuer
+300390,0.0003,CN,Canmax Technologies Co Ltd,,CN,,issuer
+2670,0.0003,JP,ABC-Mart Inc,,JP,,issuer
+601866,0.0003,CN,COSCO SHIPPING Development Co Ltd,,CN,,issuer
+SCGP/F,0.0003,TH,SCG Packaging PCL,,TH,,issuer
+601727,0.0003,CN,Shanghai Electric Group Co Ltd,,CN,,issuer
+LULU,0.0003,AE,Lulu Retail Holdings PLC,,AE,,issuer
+CENCOMAL,0.0003,CL,Cencosud Shopping SA,,CL,,issuer
+FERTIGLB,0.0003,AE,Fertiglobe plc,,AE,,issuer
+002074,0.0003,CN,Gotion High-tech Co Ltd,,CN,,issuer
+600845,0.0002,CN,Shanghai Baosight Software Co Ltd,,CN,,issuer
+EMTK,0.0002,ID,Elang Mahkota Teknologi Tbk PT,,ID,,issuer
+4681,0.0002,JP,Resorttrust Inc,,JP,,issuer
+002252,0.0002,CN,Shanghai RAAS Blood Products Co Ltd,,CN,,issuer
+600021,0.0002,CN,Shanghai Electric Power Co Ltd,,CN,,issuer
+600066,0.0002,CN,Yutong Bus Co Ltd,,CN,,issuer
+002044,0.0002,CN,Meinian Onehealth Healthcare Holdings Co Ltd,,CN,,issuer
+600588,0.0002,CN,Yonyou Network Technology Co Ltd,,CN,,issuer
+002287,0.0002,CN,Tibet Cheezheng Tibetan Medicine Co Ltd,,CN,,issuer
+KTLEV,0.0002,TR,Katilimevim Tasarruf Finansman AS,,TR,,issuer
+300803,0.0002,CN,Beijing Compass Technology Development Co Ltd,,CN,,issuer
+000617,0.0002,CN,CNPC Capital Co Ltd,,CN,,issuer
+INTP,0.0002,ID,Indocement Tunggal Prakarsa Tbk PT,,ID,,issuer
+000975,0.0002,CN,Shanjin International Gold Co Ltd,,CN,,issuer
+600096,0.0002,CN,Yunnan Yuntianhua Co Ltd,,CN,,issuer
+ISRO,0.0002,IL,Isrotel Ltd,,IL,,issuer
+PEKGY,0.0002,TR,Peker Gayrimenkul Yatirim Ortakligi AS,,TR,,issuer
+002673,0.0002,CN,Western Securities Co Ltd,,CN,,issuer
+600256,0.0002,CN,Guanghui Energy Co Ltd,,CN,,issuer
+8570,0.0002,JP,AEON Financial Service Co Ltd,,JP,,issuer
+002558,0.0002,CN,Giant Network Group Co Ltd,,CN,,issuer
+696,0.0002,HK,TravelSky Technology Ltd,,HK,,issuer
+600018,0.0002,CN,Shanghai International Port Group Co Ltd,,CN,,issuer
+000559,0.0002,CN,Wanxiang Qianchao Co Ltd,,CN,,issuer
+002064,0.0002,CN,Huafon Chemical Co Ltd,,CN,,issuer
+683,0.0002,HK,Kerry Properties Ltd,,HK,,issuer
+688297,0.0002,CN,AVIC Chengdu UAS Co Ltd,,CN,,issuer
+8572,0.0002,JP,Acom Co Ltd,,JP,,issuer
+CMIN3,0.0002,BR,CSN Mineracao SA,,BR,,issuer
+002195,0.0002,CN,Shanghai Stonehill Technology Co Ltd,,CN,,issuer
+CVKMD,0.0002,TR,CVK Maden Isletmeleri Sanayi VE Ticaret AS,,TR,,issuer
+000999,0.0002,CN,China Resources Sanjiu Medical & Pharmaceutical Co Ltd,,CN,,issuer
+9898,0.0002,HK,Weibo Corp,,HK,,issuer
+600221,0.0002,CN,Hainan Airlines Holding Co Ltd,,CN,,issuer
+900934,0.0002,CN,Shanghai Jinjiang International Hotels Co Ltd,,CN,,issuer
+2039,0.0002,HK,China International Marine Containers Group Co Ltd,,HK,,issuer
+688047,0.0002,CN,Loongson Technology Corp Ltd,,CN,,issuer
+M,0.0002,RO,MED Life SA,,RO,,issuer
+000581,0.0002,CN,Weifu High-Technology Group Co Ltd,,CN,,issuer
+900905,0.0002,CN,Lao Feng Xiang Co Ltd,,CN,,issuer
+1368,0.0002,HK,Xtep International Holdings Ltd,,HK,,issuer
+300832,0.0002,CN,Shenzhen New Industries Biomedical Engineering Co Ltd,,CN,,issuer
+301358,0.0002,CN,Hunan Yuneng New Energy Battery Material Co Ltd,,CN,,issuer
+HWA,0.0002,IN,Honeywell Automation India Ltd,,IN,,issuer
+AKSA,0.0002,TR,Aksa Akrilik Kimya Sanayii AS,,TR,,issuer
+QAMC,0.0002,QA,Qatar Aluminum Manufacturing Co,,QA,,issuer
+14,0.0002,HK,Hysan Development Co Ltd,,HK,,issuer
+8424,0.0002,JP,Fuyo General Lease Co Ltd,,JP,,issuer
+001979,0.0002,CN,China Merchants Shekou Industrial Zone Holdings Co Ltd,,CN,,issuer
+1877,0.0002,HK,Shanghai Junshi Biosciences Co Ltd,,HK,,issuer
+002920,0.0002,CN,Huizhou Desay Sv Automotive Co Ltd,,CN,,issuer
+383220,0.0002,KR,F&F Co Ltd / New,,KR,,issuer
+600895,0.0002,CN,Shanghai Zhangjiang High-Tech Park Development Co Ltd,,CN,,issuer
+RENT4,0.0002,BR,Localiza Rent a Car SA,,BR,,issuer
+002459,0.0002,CN,JA Solar Technology Co Ltd,,CN,,issuer
+002261,0.0002,CN,Talkweb Information System Co Ltd,,CN,,issuer
+MONDE,0.0002,PH,Monde Nissin Corp,,PH,,issuer
+000028,0.0002,CN,China National Accord Medicines Corp Ltd,,CN,,issuer
+600580,0.0002,CN,Wolong Electric Group Co Ltd,,CN,,issuer
+TKA,0.0002,AT,Telekom Austria AG,,AT,,issuer
+301236,0.0002,CN,Isoftstone Information Technology Group Co Ltd,,CN,,issuer
+754,0.0002,HK,Hopson Development Holdings Ltd,,HK,,issuer
+688472,0.0002,CN,CSI Solar Co Ltd,,CN,,issuer
+002517,0.0002,CN,Kingnet Network Co Ltd,,CN,,issuer
+9989,0.0002,HK,Shenzhen Hepalink Pharmaceutical Group Co Ltd,,HK,,issuer
+CUERVO*,0.0002,MX,Becle SAB de CV,,MX,,issuer
+600143,0.0002,CN,Kingfa Sci & Tech Co Ltd,,CN,,issuer
+603077,0.0002,CN,Sichuan Hebang Biotechnology Co Ltd,,CN,,issuer
+300748,0.0002,CN,JL Mag Rare-Earth Co Ltd,,CN,,issuer
+10,0.0002,HK,Hang Lung Group Ltd,,HK,,issuer
+300339,0.0002,CN,Jiangsu Hoperun Software Co Ltd,,CN,,issuer
+000998,0.0002,CN,Yuan Longping High-tech Agriculture Co Ltd,,CN,,issuer
+300144,0.0002,CN,Songcheng Performance Development Co Ltd,,CN,,issuer
+300724,0.0002,CN,Shenzhen SC New Energy Technology Corp,,CN,,issuer
+6099,0.0002,HK,China Merchants Securities Co Ltd,,HK,,issuer
+TURSG,0.0002,TR,Turkiye Sigorta AS,,TR,,issuer
+300085,0.0002,CN,Shenzhen Infogem Technologies Co Ltd,,CN,,issuer
+002294,0.0002,CN,Shenzhen Salubris Pharmaceuticals Co Ltd,,CN,,issuer
+688303,0.0002,CN,Xinjiang Daqo New Energy Co Ltd,,CN,,issuer
+SELEC,0.0002,TR,Selcuk Ecza Deposu Ticaret ve Sanayi A.S.,,TR,,issuer
+200625,0.0002,CN,Chongqing Changan Automobile Co Ltd,,CN,,issuer
+6110,0.0002,HK,Topsports International Holdings Ltd,,HK,,issuer
+688608,0.0002,CN,Bestechnic Shanghai Co Ltd,,CN,,issuer
+ZRGYO,0.0002,TR,Ziraat Gayrimenkul Yatirim Ortakligi AS,,TR,,issuer
+KVIKA,0.0002,IS,Kvika banki hf,,IS,,issuer
+002414,0.0002,CN,Wuhan Guide Infrared Co Ltd,,CN,,issuer
+688223,0.0002,CN,Jinko Solar Co Ltd,,CN,,issuer
+SNT,0.0002,ZA,Santam Ltd,,ZA,,issuer
+600536,0.0002,CN,China National Software & Service Co Ltd,,CN,,issuer
+AVIA,0.0002,ID,Avia Avian Tbk PT,,ID,,issuer
+TBIG,0.0002,ID,PT Tower Bersama Infrastructure Tbk,,ID,,issuer
+ENJSA,0.0002,TR,Enerjisa Enerji AS,,TR,,issuer
+002595,0.0002,CN,Shandong Himile Mechanical Science & Technology Co Ltd,,CN,,issuer
+002736,0.0002,CN,Guosen Securities Co Ltd,,CN,,issuer
+LIVEPOLC,0.0002,MX,El Puerto de Liverpool SAB de CV,,MX,,issuer
+601933,0.0001,CN,Yonghui Superstores Co Ltd,,CN,,issuer
+000158,0.0001,CN,Shijiazhuang Changshan BeiMing Technology Co Ltd,,CN,,issuer
+ULKER,0.0001,TR,Ulker Biskuvi Sanayi AS,,TR,,issuer
+UFUK,0.0001,TR,Ufuk Yatirim Yonetim ve Gayrimenkul AS,,TR,,issuer
+601811,0.0001,CN,Xinhua Winshare Publishing and Media Co Ltd,,CN,,issuer
+ECILC,0.0001,TR,EIS Eczacibasi Ilac ve Sinai ve Finansal Yatirimlar Sanayi ve Ticaret AS,,TR,,issuer
+300115,0.0001,CN,Shenzhen Everwin Precision Technology Co Ltd,,CN,,issuer
+STLA,0.0001,US,Stellantis NV,,US,,issuer
+601098,0.0001,CN,China South Publishing & Media Group Co Ltd,,CN,,issuer
+DOAS,0.0001,TR,Dogus Otomotiv Servis ve Ticaret AS,,TR,,issuer
+363,0.0001,HK,Shanghai Industrial Holdings Ltd,,HK,,issuer
+PTBA,0.0001,ID,Bukit Asam Persero Tbk PT,,ID,,issuer
+ISMEN,0.0001,TR,Is Yatirim Menkul Degerler AS,,TR,,issuer
+8454,0.0001,TW,momo.com Inc,,TW,,issuer
+KIO,0.0001,ZA,Kumba Iron Ore Ltd,,ZA,,issuer
+002603,0.0001,CN,Shijiazhuang Yiling Pharmaceutical Co Ltd,,CN,,issuer
+2238,0.0001,HK,Guangzhou Automobile Group Co Ltd,,HK,,issuer
+SEERA,0.0001,SA,Seera Group Holding,,SA,,issuer
+002939,0.0001,CN,China Great Wall Securities Co Ltd,,CN,,issuer
+000564,0.0001,CN,CCOOP Group Co Ltd,,CN,,issuer
+3116,0.0001,JP,Toyota Boshoku Corp,,JP,,issuer
+000983,0.0001,CN,Shanxi Coking Coal Energy Group Co Ltd,,CN,,issuer
+000959,0.0001,CN,Beijing Shougang Co Ltd,,CN,,issuer
+ODINE,0.0001,TR,New Issuer: BB Company ID:69455999,,TR,,issuer
+000825,0.0001,CN,Shanxi Taigang Stainless Steel Co Ltd,,CN,,issuer
+BRYAT,0.0001,TR,Borusan Yatirim ve Pazarlama AS,,TR,,issuer
+7489,0.0001,HK,VOYAH Automobile Technology Co Ltd,,HK,,issuer
+GTCAP,0.0001,PH,GT Capital Holdings Inc,,PH,,issuer
+3918,0.0001,HK,NagaCorp Ltd,,HK,,issuer
+300628,0.0001,CN,Yealink Network Technology Corp Ltd,,CN,,issuer
+000960,0.0001,CN,Yunnan Tin Co Ltd,,CN,,issuer
+601916,0.0001,CN,China Zheshang Bank Co Ltd,,CN,,issuer
+300255,0.0001,CN,Hebei Changshan Biochemical Pharmaceutical Co Ltd,,CN,,issuer
+600612,0.0001,CN,Lao Feng Xiang Co Ltd,,CN,,issuer
+2314,0.0001,HK,Lee & Man Paper Manufacturing Ltd,,HK,,issuer
+600027,0.0001,CN,Huadian Power International Corp Ltd,,CN,,issuer
+TOASO,0.0001,TR,Tofas Turk Otomobil Fabrikasi AS,,TR,,issuer
+600048,0.0001,CN,Poly Developments and Holdings Group Co Ltd,,CN,,issuer
+300779,0.0001,CN,New Issuer: BB Company ID:28698077,,CN,,issuer
+2356,0.0001,HK,Dah Sing Banking Group Ltd,,HK,,issuer
+600216,0.0001,CN,Zhejiang Medicine Co Ltd,,CN,,issuer
+MYOR,0.0001,ID,Mayora Indah Tbk PT,,ID,,issuer
+000708,0.0001,CN,Citic Pacific Special Steel Group Co Ltd,,CN,,issuer
+881,0.0001,HK,Zhongsheng Group Holdings Ltd,,HK,,issuer
+ACEN,0.0001,PH,ACEN Corp,,PH,,issuer
+TOWR,0.0001,ID,Sarana Menara Nusantara Tbk PT,,ID,,issuer
+6049,0.0001,HK,Poly Property Services Co Ltd,,HK,,issuer
+026960,0.0001,KR,Dongsuh Cos Inc,,KR,,issuer
+9401,0.0001,JP,TBS Holdings Inc,,JP,,issuer
+MIATK,0.0001,TR,MIA Teknoloji AS,,TR,,issuer
+PASEU,0.0001,TR,New Issuer: BB Company ID:67720311,,TR,,issuer
+300133,0.0001,CN,Zhejiang Huace Film & Television Co Ltd,,CN,,issuer
+601117,0.0001,CN,China National Chemical Engineering Co Ltd,,CN,,issuer
+601618,0.0001,CN,Metallurgical Corp of China Ltd,,CN,,issuer
+300769,0.0001,CN,Shenzhen Dynanonic Co Ltd,,CN,,issuer
+002155,0.0001,CN,Hunan Gold Corp Ltd,,CN,,issuer
+525,0.0001,HK,Guangshen Railway Co Ltd,,HK,,issuer
+MTC/F,0.0001,TH,Muangthai Capital PCL,,TH,,issuer
+995,0.0001,HK,Anhui Expressway Co Ltd,,HK,,issuer
+OPUS,0.0001,HU,Opus Global Nyrt,,HU,,issuer
+601699,0.0001,CN,Shanxi Lu'an Environmental Energy Development Co Ltd,,CN,,issuer
+0220WL,0.0001,KR,Hanwha Machinery & Service Holdings Co Ltd,,KR,,issuer
+1083,0.0001,HK,Towngas Smart Energy Co Ltd,,HK,,issuer
+600426,0.0001,CN,Shandong Hualu Hengsheng Chemical Co Ltd,,CN,,issuer
+300122,0.0001,CN,Chongqing Zhifei Biological Products Co Ltd,,CN,,issuer
+300999,0.0001,CN,Yihai Kerry Arawana Holdings Co Ltd,,CN,,issuer
+BBDC9,0.0001,BR,Banco Bradesco SA,,BR,,issuer
+1033,0.0001,HK,Sinopec Oilfield Service Corp,,HK,,issuer
+000876,0.0001,CN,New Hope Liuhe Co Ltd,,CN,,issuer
+600007,0.0001,CN,China World Trade Center Co Ltd,,CN,,issuer
+603659,0.0001,CN,Shanghai Putailai New Energy Technology Group Co Ltd,,CN,,issuer
+4IG,0.0001,HU,4iG Nyrt,,HU,,issuer
+002266,0.0001,CN,Zhefu Holding Group Co Ltd,,CN,,issuer
+EFOR,0.0001,TR,Efor Yatirim Sanayi Ticaret AS,,TR,,issuer
+KUYAS,0.0001,TR,Kuyumcukent Gayrimenkul Yatirimlari AS,,TR,,issuer
+2128,0.0001,HK,China Lesso Group Holdings Ltd,,HK,,issuer
+METROBRA,0.0001,IN,Metro Brands Ltd,,IN,,issuer
+029780,0.0001,KR,Samsung Card Co Ltd,,KR,,issuer
+601333,0.0001,CN,Guangshen Railway Co Ltd,,CN,,issuer
+600392,0.0001,CN,Shenghe Resources Holding Co Ltd,,CN,,issuer
+GENIL,0.0001,TR,GEN Ilac VE Saglik Urunleri Sanayi VE Ticaret AS,,TR,,issuer
+DMC,0.0001,PH,DMCI Holdings Inc,,PH,,issuer
+OLG,0.0001,SG,Olam Group Ltd,,SG,,issuer
+600383,0.0001,CN,Gemdale Corp,,CN,,issuer
+DLAS,0.0001,IL,Delek Yizum Nechasim Ltd,,IL,,issuer
+GULF-R,0.0001,TH,Gulf Development PCL,,TH,,issuer
+MAGEN,0.0001,TR,Margun Enerji Uretim Sanayi VE Ticaret AS,,TR,,issuer
+300782,0.0001,CN,Maxscend Microelectronics Co Ltd,,CN,,issuer
+INCO,0.0001,ID,Vale Indonesia Tbk PT,,ID,,issuer
+GGRM,0.0001,ID,Gudang Garam Tbk PT,,ID,,issuer
+BJC/F,0.0001,TH,Berli Jucker PCL,,TH,,issuer
+GRTHO,0.0001,TR,Grainturk Tarim AS,,TR,,issuer
+688599,0.0001,CN,Trina Solar Co Ltd,,CN,,issuer
+HEKTS,0.0001,TR,Hektas Ticaret TAS,,TR,,issuer
+6865,0.0001,HK,Flat Glass Group Co Ltd,,HK,,issuer
+601016,0.0001,CN,CECEP Wind-Power Corp,,CN,,issuer
+2475401G,0.0001,KR,Ecopro BM Co Ltd,,KR,,issuer
+69,0.0001,HK,Shangri-La Asia Ltd,,HK,,issuer
+002555,0.0001,CN,37 Interactive Entertainment Network Technology Group Co Ltd,,CN,,issuer
+900911,0.0001,CN,Shanghai Jinqiao Export Processing Zone Development Co Ltd,,CN,,issuer
+SUNTV,0.0001,IN,Sun TV Network Ltd,,IN,,issuer
+TIT,0.0001,IT,Telecom Italia SpA/Milano,,IT,,issuer
+000883,0.0001,CN,Hubei Energy Group Co Ltd,,CN,,issuer
+002601,0.0001,CN,LB Group Co Ltd,,CN,,issuer
+600570,0.0001,CN,Hundsun Technologies Inc,,CN,,issuer
+BURG,0.0001,KW,Burgan Bank SAK,,KW,,issuer
+000629,0.0001,CN,Pangang Group Vanadium Titanium & Resources Co Ltd,,CN,,issuer
+579,0.0001,HK,Beijing Jingneng Clean Energy Co Ltd,,HK,,issuer
+2778,0.0001,HK,Champion REIT,,HK,,issuer
+601877,0.0001,CN,Zhejiang Chint Electrics Co Ltd,,CN,,issuer
+000963,0.0001,CN,Huadong Medicine Co Ltd,,CN,,issuer
+300413,0.0001,CN,Mango Excellent Media Co Ltd,,CN,,issuer
+002407,0.0001,CN,Do-Fluoride New Materials Co Ltd,,CN,,issuer
+347,0.0001,HK,Angang Steel Co Ltd,,HK,,issuer
+000069,0.0001,CN,Shenzhen Overseas Chinese Town Co Ltd,,CN,,issuer
+2866,0.0001,HK,COSCO SHIPPING Development Co Ltd,,HK,,issuer
+603486,0.0001,CN,Ecovacs Robotics Co Ltd,,CN,,issuer
+603185,0.0001,CN,Hoyuan Green Energy Co Ltd,,CN,,issuer
+600521,0.0001,CN,Zhejiang Huahai Pharmaceutical Co Ltd,,CN,,issuer
+LYDYE,0.0001,TR,Lydia Yesil Enerji Kaynaklari Anonimsirketi,,TR,,issuer
+300146,0.0001,CN,By-health Co Ltd,,CN,,issuer
+300207,0.0001,CN,Sunwoda Electronic Co Ltd,,CN,,issuer
+000027,0.0001,CN,Shenzhen Energy Group Co Ltd,,CN,,issuer
+BRIS,0.0001,ID,Bank Syariah Indonesia Persero Tbk PT,,ID,,issuer
+000661,0.0001,CN,Changchun High-Tech Industry Group Co Ltd,,CN,,issuer
+BYRCS,0.0001,IN,Bayer CropScience Ltd/India,,IN,,issuer
+600985,0.0001,CN,Huaibei Mining Holdings Co Ltd,,CN,,issuer
+600741,0.0001,CN,Huayu Automotive Systems Co Ltd,,CN,,issuer
+000937,0.0001,CN,Jizhong Energy Resources Co Ltd,,CN,,issuer
+KLRHO,0.0001,TR,Kiler Holding AS,,TR,,issuer
+JSMR,0.0001,ID,Jasa Marga Persero Tbk PT,,ID,,issuer
+601567,0.0001,CN,Ningbo Sanxing Medical Electric Co Ltd,,CN,,issuer
+811,0.0001,HK,Xinhua Winshare Publishing and Media Co Ltd,,HK,,issuer
+000932,0.0001,CN,Hunan Valin Steel Co Ltd,,CN,,issuer
+002007,0.0001,CN,Hualan Biological Engineering Inc,,CN,,issuer
+300003,0.0001,CN,Lepu Medical Technology Beijing Co Ltd,,CN,,issuer
+000878,0.0001,CN,Yunnan Copper Co Ltd,,CN,,issuer
+600009,0.0001,CN,Shanghai International Airport Co Ltd,,CN,,issuer
+001570,0.0001,KR,Kum Yang Co Ltd,,KR,,issuer
+300142,0.0001,CN,Walvax Biotechnology Co Ltd,,CN,,issuer
+SMGR,0.0001,ID,Semen Indonesia Persero Tbk PT,,ID,,issuer
+600763,0.0001,CN,Topchoice Medical Corp,,CN,,issuer
+SCC,0.0001,PH,Semirara Mining & Power Corp,,PH,,issuer
+603444,0.0001,CN,G-bits Network Technology Xiamen Co Ltd,,CN,,issuer
+000799,0.0001,CN,JiuGui Liquor Co Ltd,,CN,,issuer
+600803,0.0001,CN,ENN Natural Gas Co Ltd,,CN,,issuer
