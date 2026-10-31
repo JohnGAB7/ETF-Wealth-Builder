@@ -25,6 +25,14 @@
 - Calculate fundamental valuation coverage against total ETF weight; report the supported-market share and the successfully valued share separately.
 - A weighted DCF upside on the covered subset is a partial constituent indicator, not an ETF fair value.
 - If coverage is low, do not describe the fundamental signal as representative of the entire ETF.
+- Holdings weights are never renormalized; partial files keep their real share of the ETF.
+- DCF upside values with |upside| > 300 % are excluded as implausible and counted (unit check), never rescaled.
+
+## Freshness
+
+- A review signal is blocked (INSUFFICIENT_EVIDENCE) when the last price is older than `max_price_age_days` (strategy.yaml, default 5 calendar days).
+- Macro observations older than 10 days (daily), 100 days (monthly) or 240 days (quarterly) after the start of their period are flagged as old in reports; they are not removed or replaced.
+- Each report records its UTC retrieval timestamp (`retrieved_at`).
 
 ## Required benchmarks and metrics
 
