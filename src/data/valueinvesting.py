@@ -49,17 +49,29 @@ def get_valuations(tickers: list[str]) -> dict:
                         len(batch), type(exc).__name__)
     return result
 
+# |upside| above this (300 %) is treated as implausible for a DCF upside expressed
+# as a fraction. Such values are excluded and counted, never rescaled: if the API
+# ever returned percentages, coverage would visibly fall to zero instead of the
+# score silently saturating.
+MAX_ABS_UPSIDE = 3.0
+
+
 def weighted_constituent_upside(payload: dict, holdings: list[dict],
-                                model: str = "upside_dcf_ebitda_10") -> dict:
+                                model: str = "upside_dcf_ebitda_10",
+                                etf_total_weight: float = 1.0,
+                                max_abs_upside: float = MAX_ABS_UPSIDE) -> dict:
     """Return a covered-slice DCF upside and coverage against the entire ETF.
 
     ValueInvesting.io in this project is limited to US and Canadian holdings. The
     weighted upside is the weighted average of successfully valued eligible names.
-    coverage_weight is their weight divided by total ETF holdings weight, not by
-    the supported-country slice. This is NOT an ETF fair value.
+    `holdings` weights are fractions of the whole ETF (see src.data.holdings); a
+    partial file is not rescaled. Every coverage ratio is divided by
+    max(etf_total_weight, sum of file weights), i.e. by the whole ETF. This is NOT
+    an ETF fair value.
     """
     weighted_sum, covered_weight = 0.0, 0.0
-    eligible_weight, total_weight = 0.0, 0.0
+    eligible_weight, file_weight = 0.0, 0.0
+    implausible = 0
     for row in holdings:
         ticker, weight = row.get("ticker"), row.get("weight")
         try:
@@ -68,7 +80,7 @@ def weighted_constituent_upside(payload: dict, holdings: list[dict],
                 continue
         except (TypeError, ValueError):
             continue
-        total_weight += w
+        file_weight += w
         if normalize_market(row.get("market")) not in SUPPORTED_MARKETS:
             continue
         eligible_weight += w
@@ -78,11 +90,19 @@ def weighted_constituent_upside(payload: dict, holdings: list[dict],
         try:
             if upside is None:
                 continue
-            weighted_sum += w * float(upside)
-            covered_weight += w
+            value = float(upside)
         except (TypeError, ValueError):
             continue
+        if value != value or abs(value) > max_abs_upside:
+            implausible += 1
+            continue
+        weighted_sum += w * value
+        covered_weight += w
 
+    if implausible:
+        log.warning("ValueInvesting.io: %s implausible upside value(s) excluded "
+                    "(|upside| > %.0f%%); check the API unit", implausible, max_abs_upside * 100)
+    total_weight = max(float(etf_total_weight or 0.0), file_weight)
     return {
         "weighted_upside": weighted_sum / covered_weight if covered_weight else None,
         "coverage_weight": covered_weight / total_weight if total_weight else 0.0,
@@ -90,11 +110,17 @@ def weighted_constituent_upside(payload: dict, holdings: list[dict],
         "coverage_within_supported_markets": (
             covered_weight / eligible_weight if eligible_weight else 0.0
         ),
+        # Share of the ETF that is in a supported market *and* listed in the file
+        # is supported_market_weight; the rest of the ETF is either in another
+        # market or simply absent from a partial holdings file.
         "unsupported_market_weight": (
-            max(0.0, total_weight - eligible_weight) / total_weight if total_weight else 0.0
+            (file_weight - eligible_weight) / total_weight if total_weight else 0.0
         ),
+        "holdings_file_weight": file_weight / total_weight if total_weight else 0.0,
+        "implausible_upside_count": implausible,
         "covered_weight_raw": covered_weight,
-        "total_holdings_weight_raw": total_weight,
+        "total_holdings_weight_raw": file_weight,
+        "etf_total_weight": total_weight,
         "model": model,
         "scope": "US_AND_CANADA_ONLY",
     }

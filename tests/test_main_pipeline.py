@@ -8,7 +8,7 @@ import src.main as main
 
 def _history(n=900, seed=0):
     rng = np.random.default_rng(seed)
-    idx = pd.bdate_range("2023-01-02", periods=n)
+    idx = pd.bdate_range(end=pd.Timestamp.now(tz="UTC").date(), periods=n)
     close = 100 * np.exp(np.cumsum(rng.normal(0.0003, 0.01, n)))
     return pd.DataFrame({"Close": close}, index=idx)
 
@@ -60,3 +60,16 @@ def test_report_is_written_before_notifications(monkeypatch, mocked, tmp_path):
     monkeypatch.setattr(main, "send_digest", lambda *a, **k: order.append("digest") or True)
     main.run_once()
     assert order == ["report", "digest"]
+
+
+def test_stale_price_blocks_review_signal(monkeypatch, mocked):
+    # History ending long before the run date: any signal must fail closed.
+    old = _history()
+    old.index = old.index - pd.Timedelta(days=60)
+    monkeypatch.setattr(main, "get_history", lambda symbol: old)
+    report = main.run_once()
+    for r in report["etfs"]:
+        if r.get("prob_positive") is not None:
+            assert r["price_stale"] is True
+            assert r["signal"] == "INSUFFICIENT_EVIDENCE"
+    assert not [s for s in mocked if s[0] == "alert"]

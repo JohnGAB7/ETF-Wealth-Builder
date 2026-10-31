@@ -12,6 +12,7 @@ from src.data.valueinvesting import (
     get_valuations, weighted_constituent_upside, eligible_holdings_for_valueinvesting,
 )
 from src.data.analyst_data import aggregate_recommendations
+from src.data.holdings import etf_total_weight, load_holdings_with_meta
 from src.features.technical import build_technical_features
 from src.features.news import summarize_news
 from src.models.probabilistic import make_training_frame, fit_predict
@@ -40,27 +41,14 @@ def _float_or_none(value):
 
 
 def load_holdings(path):
-    file_path = ROOT / path
-    if not file_path.exists():
-        return []
-    try:
-        frame = pd.read_csv(file_path)
-        if not {"ticker", "weight"}.issubset(frame.columns):
-            log.warning("Holdings file %s must contain ticker,weight", path)
-            return []
-        frame["weight"] = pd.to_numeric(frame["weight"], errors="coerce")
-        frame = frame.dropna(subset=["ticker", "weight"])
-        total = frame["weight"].sum()
-        if total > 1.5:  # likely percentage weights
-            frame["weight"] = frame["weight"] / 100.0
-        total = frame["weight"].sum()
-        if total <= 0:
-            return []
-        frame["weight"] = frame["weight"] / total
-        return frame.to_dict("records")
-    except Exception as exc:
-        log.warning("Could not read holdings %s: %s", path, type(exc).__name__)
-        return []
+    """Backward-compatible wrapper: rows only, weights as fractions of the ETF."""
+    return load_holdings_with_meta(path)[0]
+
+
+def price_age_days(history, run_date: str) -> int:
+    last = pd.Timestamp(history.index[-1]).date()
+    return (datetime.fromisoformat(run_date).date() - last).days
+
 
 def run_once():
     universe = load_yaml("config/etf_universe.yaml")["etfs"]
@@ -68,7 +56,9 @@ def run_once():
     macro = get_macro_snapshot()
     news_items = get_market_news()
     news = summarize_news(news_items)
-    run_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    retrieved_at = datetime.now(timezone.utc)
+    run_date = retrieved_at.strftime("%Y-%m-%d")
+    max_price_age = int(strategy.get("max_price_age_days", 5))
     horizon = strategy["primary_horizon_days"]
     results, alerts = [], []
 
@@ -90,11 +80,12 @@ def run_once():
                                     strategy["primary_horizon_days"])
         model_result = fit_predict(frame, strategy["minimum_training_rows"])
 
-        holdings = load_holdings(etf.get("constituents_file", ""))
+        holdings, holdings_meta = load_holdings_with_meta(etf.get("constituents_file", ""))
         valuation_holdings = eligible_holdings_for_valueinvesting(holdings)
         tickers = [h["ticker"] for h in valuation_holdings]
         valuation_payload = get_valuations(tickers) if tickers else {}
-        valuation_result = weighted_constituent_upside(valuation_payload, holdings)
+        valuation_result = weighted_constituent_upside(
+            valuation_payload, holdings, etf_total_weight=etf_total_weight(holdings_meta))
         valuation_gap = valuation_result.get("weighted_upside")
         valuation_coverage = float(valuation_result.get("coverage_weight", 0.0) or 0.0)
         analyst = aggregate_recommendations(holdings) if holdings else {
@@ -157,8 +148,23 @@ def run_once():
                 probability_threshold=strategy["probability_buy_threshold"],
                 min_coverage=strategy["minimum_data_coverage"],
             )
+            age = price_age_days(history, run_date)
+            price_stale = age > max_price_age
+            if price_stale and signal != "INSUFFICIENT_EVIDENCE":
+                # MODEL_GOVERNANCE.md: never alert on stale data; fail closed.
+                log.warning("%s: last price is %s days old; signal %s blocked",
+                            symbol, age, signal)
+                signal = "INSUFFICIENT_EVIDENCE"
             result = {
                 **identity,
+                "price_age_days": age,
+                "price_stale": price_stale,
+                "max_price_age_days": max_price_age,
+                "holdings_file_weight": valuation_result.get("holdings_file_weight", 0.0),
+                "holdings_as_of": holdings_meta.get("as_of"),
+                "holdings_source": holdings_meta.get("source"),
+                "holdings_warnings": holdings_meta.get("warnings", []),
+                "valuation_implausible_count": valuation_result.get("implausible_upside_count", 0),
                 "as_of": str(pd.Timestamp(history.index[-1]).date()),
                 "price": float(history["Close"].iloc[-1]),
                 "drawdown": _float_or_none(latest["drawdown"]),
@@ -179,7 +185,8 @@ def run_once():
 
         results.append(result)
 
-    report = {"macro_snapshot": macro, "news_summary": news, "etfs": results}
+    report = {"retrieved_at": retrieved_at.isoformat(timespec="seconds"),
+              "macro_snapshot": macro, "news_summary": news, "etfs": results}
     # Persist the report before any network notification so that an SMTP outage
     # can never lose the day's results.
     path = write_report(report)
@@ -189,7 +196,8 @@ def run_once():
         _notify(f"alert {result['id']}", send_signal_alert, result, horizon,
                 strategy=strategy, run_date=run_date)
     _notify("daily digest", send_digest, results, run_date,
-            macro_snapshot=macro, strategy=strategy)
+            macro_snapshot=macro, strategy=strategy,
+            retrieved_at=retrieved_at.isoformat(timespec="seconds"))
     for item in results:
         log.info("%s | %s | %s", item.get("id"), item.get("signal", item.get("status")), item.get("score"))
     return report
