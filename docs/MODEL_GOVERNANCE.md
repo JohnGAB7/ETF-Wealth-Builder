@@ -15,7 +15,7 @@
 - FRED requires a free API key; its latest observations can be revised. Archive ALFRED vintages for point-in-time historical reconstruction.
 - ECB Data Portal exposes public SDMX observations and supports historical observation versions through its API, but this starter currently fetches the latest observations only.
 - Eurostat's public Statistics API serves the latest dataset version and does not provide historical dataset vintages. Archive each scheduled snapshot with retrieval timestamp and observation period before using macro data in historical model training.
-- Latest ECB and Eurostat values are currently contextual report data; they are not backfilled across historical training rows.
+- Latest ECB and Eurostat values are currently contextual report data; they are not backfilled across historical training rows.\n- Daily report artifacts are retained for 90 days only. This temporary retention does not replace a long-term, versioned macro data store.
 
 ## Geographic coverage of fundamental valuation
 
