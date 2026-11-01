@@ -16,8 +16,10 @@ from src.data.holdings import etf_total_weight, load_holdings_with_meta
 from src.features.technical import build_technical_features
 from src.features.news import summarize_news
 from src.models.probabilistic import make_training_frame, fit_predict
+from src.models.validation import walk_forward_validate
+from src.state import validation_cache
 from src.strategy.opportunity import opportunity_score, classify_signal
-from src.reporting.report import write_report
+from src.reporting.report import _clean, write_report
 from src.state.alert_state import (
     load_state, previous_signals, record_alert, record_signal, save_state, should_alert,
 )
@@ -53,6 +55,37 @@ def price_age_days(history, run_date: str) -> int:
     return (datetime.fromisoformat(run_date).date() - last).days
 
 
+def observe_validation(etf_id, symbol, frame, strategy, run_date, cache) -> dict:
+    """Out-of-sample validation in OBSERVATION mode (lot 5.1).
+
+    Reported in the JSON and the e-mail; no signal reads it. Cached for
+    `validation.refresh_days`. Never raises: a failure is reported as such.
+    """
+    settings = strategy.get("validation") or {}
+    horizon = int(strategy["primary_horizon_days"])
+    test_block = int(settings.get("test_block_days", 126))
+    labelled = frame.dropna(subset=["forward_return"])
+    first = str(labelled.index[0])[:10] if len(labelled) else ""
+    fp = validation_cache.fingerprint(symbol, first, horizon, test_block)
+    cached = validation_cache.get_fresh(cache, etf_id, fp, run_date,
+                                        int(settings.get("refresh_days", 7)))
+    if cached is not None:
+        return cached
+    try:
+        summary = walk_forward_validate(
+            frame, horizon=horizon, min_train=int(strategy["minimum_training_rows"]),
+            test_block=test_block,
+            probability_threshold=strategy.get("probability_buy_threshold"),
+            gate=strategy.get("validation_gate_proposed"),
+            bootstrap_draws=int(settings.get("bootstrap_draws", 1000)))
+    except Exception as exc:  # observation only: never break the daily cycle
+        log.error("Validation failed for %s: %s", etf_id, type(exc).__name__)
+        return {"mode": "observation", "status": "ERROR", "error": type(exc).__name__}
+    summary = _clean({**summary, "computed_at": run_date})
+    validation_cache.put(cache, etf_id, fp, run_date, summary)
+    return summary
+
+
 def run_once():
     universe = load_yaml("config/etf_universe.yaml")["etfs"]
     strategy = load_yaml("config/strategy.yaml")
@@ -64,6 +97,7 @@ def run_once():
     max_price_age = int(strategy.get("max_price_age_days", 5))
     horizon = strategy["primary_horizon_days"]
     results, alerts = [], []
+    vcache = validation_cache.load_cache()
 
     for etf in [x for x in universe if x.get("enabled", True)]:
         symbol = etf["yahoo_symbol"]
@@ -82,6 +116,7 @@ def run_once():
         frame = make_training_frame(features, history["Close"],
                                     strategy["primary_horizon_days"])
         model_result = fit_predict(frame, strategy["minimum_training_rows"])
+        validation_oos = observe_validation(etf["id"], symbol, frame, strategy, run_date, vcache)
 
         holdings, holdings_meta = load_holdings_with_meta(etf.get("constituents_file", ""))
         valuation_holdings = eligible_holdings_for_valueinvesting(holdings)
@@ -186,7 +221,13 @@ def run_once():
             if signal == "BUY_OPPORTUNITY_REVIEW":
                 alerts.append(result)
 
+        result["validation_oos"] = validation_oos
         results.append(result)
+
+    try:
+        validation_cache.save_cache(vcache)
+    except Exception as exc:
+        log.error("Validation cache not saved: %s", type(exc).__name__)
 
     # Previous statuses come from the persisted alert state (last run).
     state = load_state()

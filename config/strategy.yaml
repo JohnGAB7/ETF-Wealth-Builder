@@ -21,3 +21,20 @@ score_weights:
   technical_setup: 0.10
   macro_news: 0.10
   data_quality: 0.05
+
+# Lot 5.1 — purged walk-forward validation, OBSERVATION MODE ONLY.
+# Results are reported (JSON + e-mail) but no signal reads them.
+validation:
+  test_block_days: 126      # length of each out-of-sample block (sessions)
+  refresh_days: 7           # recompute at most once a week (cached in data/state)
+  bootstrap_draws: 1000
+
+# Proposed gate (docs/audit/LOT5_REPONSE_REVUE_CHATGPT.md, 3.6). PENDING A HUMAN
+# DECISION: used only to compute `proposed_status`, never to change a signal.
+validation_gate_proposed:
+  min_effective_windows: 20
+  bss_ci_lower_above: 0.0
+  min_positive_block_share: 0.60
+  max_brier_excess_vs_logistic: 0.005
+  calibration_slope_min: 0.5
+  calibration_slope_max: 1.5

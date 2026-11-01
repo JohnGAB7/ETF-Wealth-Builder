@@ -29,3 +29,10 @@ def _fresh_provider_caches():
     yield
     valueinvesting._VALUATION_CACHE.clear()
     news_data._RECOMMENDATION_CACHE.clear()
+
+
+@pytest.fixture(autouse=True)
+def _validation_cache_in_tmp(monkeypatch, tmp_path):
+    """Never write the validation cache into the repository during tests."""
+    from src.state import validation_cache
+    monkeypatch.setattr(validation_cache, "DEFAULT_PATH", tmp_path / "validation_cache.json")

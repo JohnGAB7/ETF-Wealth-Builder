@@ -38,6 +38,19 @@ MACRO_FULL = {
 }
 MACRO_PARTIAL = {k: v for k, v in MACRO_FULL.items() if not k.startswith("us_")}
 
+# Fictitious out-of-sample tests (lot 5.1, observation mode).
+_OOS_NOT_VALIDATED = {
+    "mode": "observation", "status": "EVALUATED", "proposed_status": "NOT_VALIDATED",
+    "proposed_status_reasons": ["borne basse de l'IC du BSS non > 0",
+                                "BSS positif dans trop peu de blocs"],
+    "oos_start": "2021-06-01", "oos_end": "2026-08-03", "oos_rows": 1300, "n_eff": 20.6,
+    "blocks": 11, "bss": 0.012, "bss_ci_low": -0.071, "bss_ci_high": 0.094,
+    "base_rate_oos": 0.69, "share_model_above_threshold": 0.83,
+    "probability_threshold": 0.62, "computed_at": "2026-10-28",
+}
+_OOS_SHORT = {"mode": "observation", "status": "INSUFFICIENT_HISTORY",
+              "proposed_status": "INSUFFICIENT_HISTORY", "blocks": 0}
+
 
 def _etf(**overrides):
     base = {
@@ -51,6 +64,7 @@ def _etf(**overrides):
         "price_age_days": 0, "price_stale": False, "max_price_age_days": 5,
         "holdings_file_weight": 0.62, "holdings_as_of": "2026-09-30",
         "holdings_source": "fichier émetteur (fictif)",
+        "validation_oos": _OOS_NOT_VALIDATED,
     }
     base.update(overrides)
     return base
@@ -69,7 +83,8 @@ def scenarios() -> dict:
     regular = _etf(id="iwda", name="iShares Core MSCI World UCITS ETF", isin="IE00B4L5Y983",
                    symbol="IWDA.AS", price=104.1, drawdown=-0.02, rsi14=58.0,
                    signal="REGULAR_DCA", score=48.0, prob_positive=0.58,
-                   expected_return=0.012, base_rate_positive=0.69)
+                   expected_return=0.012, base_rate_positive=0.69,
+                   validation_oos=_OOS_SHORT)
     insufficient = {"id": "eimi", "name": "iShares Core MSCI Emerging Markets IMI UCITS ETF",
                     "isin": "IE00BKM4GZ66", "symbol": "EIMI.L", "currency": "USD",
                     "horizon_days": 63, "status": "INSUFFICIENT_EVIDENCE", "rows": 310}
