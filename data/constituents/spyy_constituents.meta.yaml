@@ -1,0 +1,8 @@
+as_of: '2026-10-29'
+source: SSGA (SPDR) holdings download
+weight_unit: percent
+generated_by: src.data.holdings_import
+rows: 2228
+file_weight_pct: 100.0
+us_ca_weight_pct: 68.0
+us_ca_with_ticker_pct: 67.84

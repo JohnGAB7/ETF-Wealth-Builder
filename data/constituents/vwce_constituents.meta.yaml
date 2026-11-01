@@ -1,0 +1,8 @@
+as_of: '2026-09-30'
+source: Vanguard holdings download
+weight_unit: percent
+generated_by: src.data.holdings_import
+rows: 3726
+file_weight_pct: 99.42
+us_ca_weight_pct: 64.86
+us_ca_with_ticker_pct: 64.86

@@ -1,0 +1,232 @@
+ticker,weight,market,name,isin,location,exchange,ticker_source
+AMD,9.16,US,ADVANCED MICRO DEVICES,,United States,NASDAQ,issuer
+2330,7.62,Taiwan,TAIWAN SEMICONDUCTOR MANUFACTURING,,Taiwan,Taiwan Stock Exchange,issuer
+MU,7.52,US,MICRON TECHNOLOGY,,United States,NASDAQ,issuer
+NVDA,7.41,US,NVIDIA,,United States,NASDAQ,issuer
+AVGO,7.18,US,BROADCOM INC,,United States,NASDAQ,issuer
+000660,4.81,Korea (South),SK HYNIX,,Korea (South),Korea Exchange (Stock Market),issuer
+INTC,4.49,US,INTEL CORPORATION,,United States,NASDAQ,issuer
+ASML,4.33,Netherlands,ASML HOLDING,,Netherlands,Euronext Amsterdam,issuer
+AMAT,3.85,US,APPLIED MATERIAL INC,,United States,NASDAQ,issuer
+LRCX,3.75,US,LAM RESEARCH,,United States,NASDAQ,issuer
+TXN,3.56,US,TEXAS INSTRUMENT,,United States,NASDAQ,issuer
+KLAC,2.74,US,KLA,,United States,NASDAQ,issuer
+ADI,2.64,US,ANALOG DEVICES,,United States,NASDAQ,issuer
+QCOM,2.45,US,QUALCOMM,,United States,NASDAQ,issuer
+MRVL,2.33,US,MARVELL TECHNOLOGY,,United States,NASDAQ,issuer
+2454,2.24,Taiwan,MEDIATEK,,Taiwan,Taiwan Stock Exchange,issuer
+6857,2.15,Japan,ADVANTEST,,Japan,Tokyo Stock Exchange,issuer
+8035,1.77,Japan,TOKYO ELECTRON,,Japan,Tokyo Stock Exchange,issuer
+285A,1.32,Japan,KIOXIA HOLDINGS,,Japan,Tokyo Stock Exchange,issuer
+IFX,0.99,Germany,INFINEON TECHNOLOGIES AG,,Germany,Xetra,issuer
+3711,0.87,Taiwan,ASE TECHNOLOGY HOLDING,,Taiwan,Taiwan Stock Exchange,issuer
+NXPI,0.84,US,NXP SEMICONDUCTORS NV,,United States,NASDAQ,issuer
+MPWR,0.7,US,MONOLITHIC POWER SYSTEMS INC,,United States,NASDAQ,issuer
+TER,0.58,US,TERADYNE,,United States,NASDAQ,issuer
+MCHP,0.55,US,MICROCHIP TECHNOLOGY INC,,United States,NASDAQ,issuer
+ASM,0.52,Netherlands,ASM INTERNATIONAL NV,,Netherlands,Euronext Amsterdam,issuer
+ALAB,0.5,US,ASTERA LABS,,United States,NASDAQ,issuer
+2303,0.5,Taiwan,UNITED MICRO ELECTRONICS CORP,,Taiwan,Taiwan Stock Exchange,issuer
+6723,0.41,Japan,RENESAS ELECTRONICS CORP,,Japan,Tokyo Stock Exchange,issuer
+STMPA,0.39,France,STMICROELECTRONICS,,France,Nyse Euronext - Euronext Paris,issuer
+ON,0.37,US,ON SEMICONDUCTOR CORP,,United States,NASDAQ,issuer
+6146,0.36,Japan,DISCO CORP,,Japan,Tokyo Stock Exchange,issuer
+CRDO,0.35,US,CREDO TECHNOLOGY GROUP HOLDING LTD,,United States,NASDAQ,issuer
+Q,0.32,US,QNITY ELECTRONICS,,United States,New York Stock Exchange Inc.,issuer
+ENTG,0.31,US,ENTEGRIS INC,,United States,NASDAQ,issuer
+TSEM,0.27,Israel,TOWER SEMICONDUCTOR,,Israel,Tel Aviv Stock Exchange,issuer
+SWKS,0.26,US,SKYWORKS SOLUTIONS,,United States,NASDAQ,issuer
+6920,0.25,Japan,LASERTEC,,Japan,Tokyo Stock Exchange,issuer
+3443,0.25,Taiwan,GLOBAL UNICHIP,,Taiwan,Taiwan Stock Exchange,issuer
+2408,0.24,Taiwan,NANYA TECHNOLOGY CORP,,Taiwan,Taiwan Stock Exchange,issuer
+FSLR,0.22,US,FIRST SOLAR,,United States,NASDAQ,issuer
+MTSI,0.22,US,MACOM TECHNOLOGY SOLUTIONS,,United States,NASDAQ,issuer
+5274,0.21,Taiwan,ASPEED TECHNOLOGY,,Taiwan,Gretai Securities Market,issuer
+3653,0.21,Taiwan,JENTECH PRECISION INDUSTRIAL LTD,,Taiwan,Taiwan Stock Exchange,issuer
+2344,0.21,Taiwan,WINBOND ELECTRONICS,,Taiwan,Taiwan Stock Exchange,issuer
+MKSI,0.18,US,MKS,,United States,NASDAQ,issuer
+LSCC,0.17,US,LATTICE SEMICONDUCTOR,,United States,NASDAQ,issuer
+BESI,0.16,Netherlands,BE SEMICONDUCTOR INDUSTRIES NV,,Netherlands,Euronext Amsterdam,issuer
+SMTC,0.16,US,SEMTECH,,United States,NASDAQ,issuer
+2379,0.16,Taiwan,REALTEK SEMICONDUCTOR,,Taiwan,Taiwan Stock Exchange,issuer
+7769,0.16,Taiwan,HONPRECISION INC,,Taiwan,Taiwan Stock Exchange,issuer
+6223,0.15,Taiwan,MPI CORP,,Taiwan,Gretai Securities Market,issuer
+IONQ,0.15,US,IONQ,,United States,New York Stock Exchange Inc.,issuer
+7735,0.15,Japan,SCREEN HOLDINGS LTD,,Japan,Tokyo Stock Exchange,issuer
+8299,0.15,Taiwan,PHISON ELECTRONICS CORP,,Taiwan,Gretai Securities Market,issuer
+SITM,0.14,US,SITIME,,United States,NASDAQ,issuer
+ONTO,0.14,US,ONTO INNOVATION,,United States,New York Stock Exchange Inc.,issuer
+NVMI,0.13,Israel,NOVA,,Israel,Tel Aviv Stock Exchange,issuer
+6525,0.13,Japan,KOKUSAI ELECTRIC,,Japan,Tokyo Stock Exchange,issuer
+3034,0.13,Taiwan,NOVATEK MICROELECTRONICS,,Taiwan,Taiwan Stock Exchange,issuer
+3189,0.12,Taiwan,KINSUS INTERCONNECT TECHNOLOGY COR,,Taiwan,Taiwan Stock Exchange,issuer
+RMBS,0.12,US,RAMBUS,,United States,NASDAQ,issuer
+2449,0.12,Taiwan,KING YUAN ELECTRONICS,,Taiwan,Taiwan Stock Exchange,issuer
+3661,0.11,Taiwan,ALCHIP TECHNOLOGIES,,Taiwan,Taiwan Stock Exchange,issuer
+6770,0.1,Taiwan,POWERCHIP SEMICONDUCTOR MANUFACTUR,,Taiwan,Taiwan Stock Exchange,issuer
+6488,0.09,Taiwan,GLOBALWAFERS LTD,,Taiwan,Gretai Securities Market,issuer
+FORM,0.09,US,FORMFACTOR INC,,United States,NASDAQ,issuer
+6963,0.09,Japan,ROHM,,Japan,Tokyo Stock Exchange,issuer
+SLAB,0.09,US,SILICON LABORATORIES,,United States,NASDAQ,issuer
+5347,0.08,Taiwan,VANGUARD INTERNATIONAL SEMICONDUCT,,Taiwan,Gretai Securities Market,issuer
+MXL,0.08,US,MAXLINEAR,,United States,NASDAQ,issuer
+1347,0.08,China,HUA HONG GRACE SEMICONDUCTOR LTD,,China,Hong Kong Exchanges And Clearing Ltd,issuer
+CRUS,0.08,US,CIRRUS LOGIC,,United States,NASDAQ,issuer
+3105,0.07,Taiwan,WIN SEMICONDUCTORS CORP,,Taiwan,Gretai Securities Market,issuer
+3081,0.07,Taiwan,LAND MARK CORP,,Taiwan,Gretai Securities Market,issuer
+042700,0.07,Korea (South),HANMI SEMICONDUCTOR,,Korea (South),Korea Exchange (Stock Market),issuer
+2337,0.07,Taiwan,MACRONIX INTERNATIONAL,,Taiwan,Taiwan Stock Exchange,issuer
+3436,0.07,Japan,SUMCO,,Japan,Tokyo Stock Exchange,issuer
+6239,0.07,Taiwan,POWERTECH TECHNOLOGY,,Taiwan,Taiwan Stock Exchange,issuer
+PI,0.07,US,IMPINJ,,United States,NASDAQ,issuer
+AMKR,0.06,US,AMKOR TECHNOLOGY,,United States,NASDAQ,issuer
+688256,0.06,China,CAMBRICON TECHNOLOGIES CORPORATION,,China,Shanghai Stock Exchange,issuer
+6415,0.06,Taiwan,SILERGY,,Taiwan,Taiwan Stock Exchange,issuer
+3529,0.06,Taiwan,EMEMORY TECHNOLOGY INC,,Taiwan,Gretai Securities Market,issuer
+522,0.06,Hong Kong,ASMPT LTD,,Hong Kong,Hong Kong Exchanges And Clearing Ltd,issuer
+SYNA,0.06,US,SYNAPTICS,,United States,NASDAQ,issuer
+AIXA,0.05,Germany,AIXTRON,,Germany,Xetra,issuer
+KLIC,0.05,US,KULICKE AND SOFFA INDUSTRIES INC,,United States,NASDAQ,issuer
+ALGM,0.05,US,ALLEGRO MICROSYSTEMS INC,,United States,NASDAQ,issuer
+DIOD,0.05,US,DIODES,,United States,NASDAQ,issuer
+688041,0.05,China,HYGON INFORMATION TECHNOLOGY LTD A,,China,Shanghai Stock Exchange,issuer
+SOI,0.05,France,SOITEC SA,,France,Nyse Euronext - Euronext Paris,issuer
+OLED,0.05,US,UNIVERSAL DISPLAY CORP,,United States,NASDAQ,issuer
+7729,0.05,Japan,TOKYO SEIMITSU LTD,,Japan,Tokyo Stock Exchange,issuer
+CAMT,0.05,Israel,CAMTEK,,Israel,Tel Aviv Stock Exchange,issuer
+RGTI,0.05,US,RIGETTI COMPUTING,,United States,NASDAQ,issuer
+5434,0.05,Taiwan,TOPCO SCIENTIFIC LTD,,Taiwan,Taiwan Stock Exchange,issuer
+002371,0.05,China,NAURA TECHNOLOGY GROUP LTD A,,China,Shenzhen Stock Exchange,issuer
+AXTI,0.05,US,AXT,,United States,NASDAQ,issuer
+NOD,0.04,Norway,NORDIC SEMICONDUCTOR,,Norway,Oslo Bors Asa,issuer
+6257,0.04,Taiwan,SIGURD MICROELECTRONICS CORP,,Taiwan,Taiwan Stock Exchange,issuer
+6147,0.04,Taiwan,CHIPBOND TECHNOLOGY CORP,,Taiwan,Gretai Securities Market,issuer
+036930,0.04,Korea (South),JUSUNG ENGINEERING LTD,,Korea (South),Korea Exchange (Kosdaq),issuer
+ACLS,0.04,US,AXCELIS TECHNOLOGIES,,United States,NASDAQ,issuer
+6515,0.04,Taiwan,WINWAY TECHNOLOGY,,Taiwan,Taiwan Stock Exchange,issuer
+3374,0.04,Taiwan,XINTEC INC,,Taiwan,Gretai Securities Market,issuer
+ENPH,0.04,US,ENPHASE ENERGY,,United States,NASDAQ,issuer
+5483,0.04,Taiwan,SINO-AMERICAN SILICON PRODUCTS,,Taiwan,Gretai Securities Market,issuer
+3260,0.04,Taiwan,ADATA TECHNOLOGY LTD,,Taiwan,Gretai Securities Market,issuer
+AMBA,0.04,US,AMBARELLA,,United States,NASDAQ,issuer
+VECO,0.03,US,VEECO INSTRUMENTS,,United States,NASDAQ,issuer
+POWI,0.03,US,POWER INTEGRATIONS,,United States,NASDAQ,issuer
+PENG,0.03,US,PENGUIN SOLUTIONS INC,,United States,NASDAQ,issuer
+039030,0.03,Korea (South),EO TECHNICS LTD,,Korea (South),Korea Exchange (Kosdaq),issuer
+2455,0.03,Taiwan,VISUAL PHOTONICS EPITAXY,,Taiwan,Taiwan Stock Exchange,issuer
+6531,0.03,Taiwan,AP MEMORY TECHNOLOGY,,Taiwan,Taiwan Stock Exchange,issuer
+6526,0.03,Japan,SOCIONEXT,,Japan,Tokyo Stock Exchange,issuer
+058470,0.03,Korea (South),LEENO INDUSTRIAL INC,,Korea (South),Korea Exchange (Kosdaq),issuer
+3264,0.03,Taiwan,ARDENTEC CORP,,Taiwan,Gretai Securities Market,issuer
+ACMR,0.03,US,ACM RESEARCH CLASS A,,United States,NASDAQ,issuer
+COHU,0.03,US,COHU,,United States,NASDAQ,issuer
+6890,0.03,Japan,FERROTEC CORP,,Japan,Tokyo Stock Exchange,issuer
+403870,0.03,Korea (South),HPSP LTD,,Korea (South),Korea Exchange (Kosdaq),issuer
+000990,0.03,Korea (South),DB HITEK LTD,,Korea (South),Korea Exchange (Stock Market),issuer
+UCTT,0.03,US,ULTRA CLEAN HOLDINGS INC,,United States,NASDAQ,issuer
+AMS,0.03,Switzerland,AMS-OSRAM AG,,Switzerland,SIX Swiss Exchange,issuer
+WAAREEENER,0.03,India,WAAREE ENERGIES LTD,,India,National Stock Exchange Of India,issuer
+6871,0.03,Japan,MICRONICS JAPAN,,Japan,Tokyo Stock Exchange,issuer
+6323,0.03,Japan,RORZE,,Japan,Tokyo Stock Exchange,issuer
+3006,0.03,Taiwan,ELITE SEMICONDUCTOR MICROELECTRONI,,Taiwan,Taiwan Stock Exchange,issuer
+SEDG,0.03,US,SOLAREDGE TECHNOLOGIES,,United States,NASDAQ,issuer
+240810,0.03,Korea (South),WONIK IPS LTD,,Korea (South),Korea Exchange (Kosdaq),issuer
+NVTS,0.02,US,NAVITAS SEMICONDUCTOR,,United States,NASDAQ,issuer
+688012,0.02,China,ADVANCED MICRO-FABRICATION EQUIPME,,China,Shanghai Stock Exchange,issuer
+3450,0.02,Taiwan,ELITE ADVANCED LASER CORP,,Taiwan,Taiwan Stock Exchange,issuer
+222800,0.02,Korea (South),SIMMTECH,,Korea (South),Korea Exchange (Kosdaq),issuer
+AEHR,0.02,US,AEHR TEST SYSTEMS,,United States,NASDAQ,issuer
+603986,0.02,China,GIGADEVICE SEMICONDUCTOR INC A,,China,Shanghai Stock Exchange,issuer
+3800,0.02,China,GCL TECHNOLOGY HOLDINGS,,China,Hong Kong Exchanges And Clearing Ltd,issuer
+6728,0.02,Japan,ULVAC,,Japan,Tokyo Stock Exchange,issuer
+688008,0.02,China,MONTAGE TECHNOLOGY A,,China,Shanghai Stock Exchange,issuer
+3035,0.02,Taiwan,FARADAY TECHNOLOGY,,Taiwan,Taiwan Stock Exchange,issuer
+VITROX,0.02,Malaysia,VITROX CORPORATION,,Malaysia,Bursa Malaysia,issuer
+6590,0.02,Japan,SHIBAURA MECHATRONICS CORP,,Japan,Tokyo Stock Exchange,issuer
+PLAB,0.02,US,PHOTRONICS,,United States,NASDAQ,issuer
+INARI,0.02,Malaysia,INARI AMERTRON,,Malaysia,Bursa Malaysia,issuer
+ICHR,0.02,US,ICHOR HOLDINGS,,United States,NASDAQ,issuer
+8150,0.02,Taiwan,CHIPMOS TECHNOLOGIES INC,,Taiwan,Taiwan Stock Exchange,issuer
+098460,0.02,Korea (South),KOH YOUNG TECHNOLOGY,,Korea (South),Korea Exchange (Kosdaq),issuer
+6196,0.02,Taiwan,MARKETECH INTERNATIONAL,,Taiwan,Taiwan Stock Exchange,issuer
+031980,0.02,Korea (South),PSK HOLDINGS INC,,Korea (South),Korea Exchange (Kosdaq),issuer
+AWX,0.02,Singapore,AEM HOLDINGS LTD,,Singapore,Singapore Exchange,issuer
+8028,0.02,Taiwan,PHOENIX SILICON INTERNATIONAL CORP,,Taiwan,Taiwan Stock Exchange,issuer
+319660,0.02,Korea (South),PSK INC,,Korea (South),Korea Exchange (Kosdaq),issuer
+ELG,0.02,Germany,ELMOS SEMICONDUCTOR,,Germany,Xetra,issuer
+095340,0.02,Korea (South),ISC TECHNOLOGY LTD,,Korea (South),Korea Exchange (Kosdaq),issuer
+5269,0.02,Taiwan,ASMEDIA TECHNOLOGY,,Taiwan,Taiwan Stock Exchange,issuer
+MELE,0.02,Belgium,MELEXIS NV,,Belgium,Nyse Euronext - Euronext Brussels,issuer
+WAF,0.02,Germany,SILTRONIC N AG,,Germany,Xetra,issuer
+688072,0.02,China,PIOTECH INC A,,China,Shanghai Stock Exchange,issuer
+PDFS,0.02,US,PDF SOLUTIONS,,United States,NASDAQ,issuer
+6548,0.02,Taiwan,CHANG WAH TECHNOLOGY LTD,,Taiwan,Gretai Securities Market,issuer
+4749,0.02,Taiwan,ADVANCED ECHEM MATERIALS LTD,,Taiwan,Gretai Securities Market,issuer
+2481,0.02,Taiwan,PAN JIT INTERNATIONAL INC,,Taiwan,Taiwan Stock Exchange,issuer
+968,0.02,China,XINYI SOLAR HOLDINGS LTD,,China,Hong Kong Exchanges And Clearing Ltd,issuer
+067310,0.01,Korea (South),HANA MICRON INC,,Korea (South),Korea Exchange (Kosdaq),issuer
+3532,0.01,Taiwan,FORMOSA SUMCO TECHNOLOGY CORP,,Taiwan,Taiwan Stock Exchange,issuer
+2458,0.01,Taiwan,ELAN MICROELECTRONICS,,Taiwan,Taiwan Stock Exchange,issuer
+3680,0.01,Taiwan,GUDENG PRECISION INDUSTRIAL,,Taiwan,Gretai Securities Market,issuer
+3227,0.01,Taiwan,PIXART IMAGING,,Taiwan,Gretai Securities Market,issuer
+6789,0.01,Taiwan,VISERA TECHNOLOGIES,,Taiwan,Taiwan Stock Exchange,issuer
+SMHN,0.01,Germany,SUSS MICROTEC N,,Germany,Xetra,issuer
+084370,0.01,Korea (South),EUGENE TECHNOLOGY LTD,,Korea (South),Korea Exchange (Kosdaq),issuer
+603501,0.01,China,OMNIVISION INTEGRATED CIRCUITS GRO,,China,Shanghai Stock Exchange,issuer
+3714,0.01,Taiwan,ENNOSTAR,,Taiwan,Taiwan Stock Exchange,issuer
+558,0.01,Singapore,UMS INTEGRATION LTD,,Singapore,Singapore Exchange,issuer
+6707,0.01,Japan,SANKEN ELECTRIC,,Japan,Tokyo Stock Exchange,issuer
+089030,0.01,Korea (South),TECHWING INC,,Korea (South),Korea Exchange (Kosdaq),issuer
+440110,0.01,Korea (South),FADU,,Korea (South),Korea Exchange (Kosdaq),issuer
+2441,0.01,Taiwan,GREATEK ELECTRONICS INC,,Taiwan,Taiwan Stock Exchange,issuer
+6526,0.01,Taiwan,AIROHA TECHNOLOGY CORP,,Taiwan,Taiwan Stock Exchange,issuer
+601012,0.01,China,LONGI GREEN ENERGY TECHNOLOGY A,,China,Shanghai Stock Exchange,issuer
+3014,0.01,Taiwan,INTEGRATED TECHNOLOGY EXPRESS INC,,Taiwan,Taiwan Stock Exchange,issuer
+6176,0.01,Taiwan,RADIANT OPTO-ELECTRONICS,,Taiwan,Taiwan Stock Exchange,issuer
+4919,0.01,Taiwan,NUVOTON TECHNOLOGY,,Taiwan,Taiwan Stock Exchange,issuer
+600584,0.01,China,JCET GROUP LTD A,,China,Shanghai Stock Exchange,issuer
+3131,0.01,Taiwan,GRAND PLASTIC TECHNOLOGY CORP,,Taiwan,Gretai Securities Market,issuer
+MPI,0.01,Malaysia,MALAYSIAN PACIFIC INDUSTRIES,,Malaysia,Bursa Malaysia,issuer
+CEVA,0.01,US,CEVA,,United States,NASDAQ,issuer
+6315,0.01,Japan,TOWA,,Japan,Tokyo Stock Exchange,issuer
+8086,0.01,Taiwan,ADVANCED WIRELESS SEMICONDUCTOR,,Taiwan,Gretai Securities Market,issuer
+300604,0.01,China,HANGZHOU CHANG CHUAN TECHNOLOGY LT,,China,Shenzhen Stock Exchange,issuer
+WOLF,0.01,US,WOLFSPEED INC,,United States,New York Stock Exchange Inc.,issuer
+688498,0.01,China,YUANJIE SEMICONDUCTOR TECHNOLOGY L,,China,Shanghai Stock Exchange,issuer
+4966,0.01,Taiwan,PARADE TECHNOLOGIES,,Taiwan,Gretai Securities Market,issuer
+064760,0.01,Korea (South),TOKAI CARBON KOREA LTD,,Korea (South),Korea Exchange (Kosdaq),issuer
+603893,0.01,China,ROCKCHIP ELECTRONICS LTD A,,China,Shanghai Stock Exchange,issuer
+6055,0.01,Japan,JAPAN MATERIAL,,Japan,Tokyo Stock Exchange,issuer
+688361,0.01,China,SKYVERSE TECHNOLOGY LTD A,,China,Shanghai Stock Exchange,issuer
+2329,0.01,Taiwan,ORIENT SEMICONDUCTOR ELECTRONICS,,Taiwan,Taiwan Stock Exchange,issuer
+AOSL,0.01,US,ALPHA AND OMEGA SEMICONDUCTOR,,United States,NASDAQ,issuer
+002156,0.01,China,TONGFU MICROELECTRONICS LTD A,,China,Shenzhen Stock Exchange,issuer
+002185,0.01,China,TIANSHUI HUATIAN TECHNOLOGY LTD A,,China,Shenzhen Stock Exchange,issuer
+688525,0.01,China,BIWIN STORAGE TECHNOLOGY LTD A,,China,Shanghai Stock Exchange,issuer
+TPE,0.01,Germany,PVA TEPLA AG,,Germany,Xetra,issuer
+323280,0.01,Korea (South),TAESUNG COLTD LTD,,Korea (South),Korea Exchange (Kosdaq),issuer
+300661,0.01,China,SG MICRO CORP A,,China,Shenzhen Stock Exchange,issuer
+2393,0.01,Taiwan,EVERLIGHT ELECTRONICS,,Taiwan,Taiwan Stock Exchange,issuer
+6966,0.01,Japan,MITSUI HIGH TEC INC,,Japan,Tokyo Stock Exchange,issuer
+688120,0.01,China,HWATSING TECHNOLOGY LTD A,,China,Shanghai Stock Exchange,issuer
+688082,0.01,China,ACM RESEARCH (SHANGHAI) INC A,,China,Shanghai Stock Exchange,issuer
+DQ,0.01,China,DAQO NEW ENERGY ADR REPRESENTING,,China,New York Stock Exchange Inc.,issuer
+688702,0.01,China,SUZHOU CENTEC COMMUNICATIONS LTD A,,China,Shanghai Stock Exchange,issuer
+2363,0.01,Taiwan,SILICON INTEGRATED SYSTEM,,Taiwan,Taiwan Stock Exchange,issuer
+2388,0.01,Taiwan,VIA TECHNOLOGIES,,Taiwan,Taiwan Stock Exchange,issuer
+8016,0.01,Taiwan,SITRONIX TECHNOLOGY CORP,,Taiwan,Taiwan Stock Exchange,issuer
+183300,0.01,Korea (South),KOMICO LTD,,Korea (South),Korea Exchange (Kosdaq),issuer
+TE,0.01,US,T1 ENERGY,,United States,New York Stock Exchange Inc.,issuer
+4369,0.01,Japan,TRI CHEMICAL LABORATORIES INC,,Japan,Tokyo Stock Exchange,issuer
+688469,0.01,China,UNITED NOVA TECHNOLOGY LTD A,,China,Shanghai Stock Exchange,issuer
+001309,0.01,China,SHENZHEN TECHWINSEMI TECHNOLOGY LT,,China,Shenzhen Stock Exchange,issuer
+300223,0.01,China,INGENIC SEMICONDUCTOR A,,China,Shenzhen Stock Exchange,issuer
+688313,0.01,China,HENAN SHIJIA PHOTONS TECHNOLOGY LT,,China,Shanghai Stock Exchange,issuer
+688249,0.01,China,NEXCHIP SEMICONDUCTOR CORP A,,China,Shanghai Stock Exchange,issuer
+3563,0.01,Taiwan,MACHVISION,,Taiwan,Taiwan Stock Exchange,issuer
+688019,0.01,China,ANJI MICROELECTRONICS TECHNOLOGY (,,China,Shanghai Stock Exchange,issuer
+688396,0.01,China,CHINA RESOURCES MICROELECTRONICS L,,China,Shanghai Stock Exchange,issuer
+600460,0.01,China,HANGZHOU SILAN MICROELECTRONICS LT,,China,Shanghai Stock Exchange,issuer
+600438,0.01,China,TONGWEI LTD A,,China,Shanghai Stock Exchange,issuer
+002049,0.01,China,UNIGROUP GUOXIN MICROELECTRONICS L,,China,Shenzhen Stock Exchange,issuer
+688223,0.01,China,JINKO SOLAR LTD A,,China,Shanghai Stock Exchange,issuer

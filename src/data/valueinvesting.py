@@ -20,6 +20,11 @@ def eligible_holdings_for_valueinvesting(holdings: list[dict]) -> list[dict]:
         and row.get("ticker")
     ]
 
+# Per-run memo: the same constituents (Apple, Microsoft...) appear in several ETFs;
+# each ticker is requested at most once per process.
+_VALUATION_CACHE: dict = {}
+
+
 def get_valuations(tickers: list[str]) -> dict:
     """Fetch up to 50 eligible US/Canadian tickers per documented API request.
 
@@ -29,10 +34,12 @@ def get_valuations(tickers: list[str]) -> dict:
     key = get_secret("VALUEINVESTING_API_KEY")
     if not key or not tickers:
         return {}
+    wanted = list(dict.fromkeys(tickers))
+    missing = [t for t in wanted if t not in _VALUATION_CACHE]
     result = {}
     session = requests.Session()
-    for start in range(0, len(tickers), 50):
-        batch = tickers[start:start + 50]
+    for start in range(0, len(missing), 50):
+        batch = missing[start:start + 50]
         try:
             response = session.get(
                 BASE_URL,
@@ -43,10 +50,17 @@ def get_valuations(tickers: list[str]) -> dict:
             payload = response.json()
             if isinstance(payload, dict):
                 result.update(payload)
+            # Only a successful request is memoised; a ticker absent from the answer
+            # is remembered as absent so it is not asked again in the same run.
+            for ticker in batch:
+                _VALUATION_CACHE[ticker] = payload.get(ticker) if isinstance(payload, dict) else None
         except Exception as exc:
             # The key is in the query string: never log request URLs or response objects.
             log.warning("ValueInvesting.io request failed (%s tickers): %s",
                         len(batch), type(exc).__name__)
+    for ticker in wanted:
+        if ticker not in result and _VALUATION_CACHE.get(ticker) is not None:
+            result[ticker] = _VALUATION_CACHE[ticker]
     return result
 
 # |upside| above this (300 %) is treated as implausible for a DCF upside expressed

@@ -36,6 +36,35 @@ weight_unit: percent     # or fraction; inferred (max weight > 1 => percent) if 
 The as-of date and source are shown in the e-mail. Do not assume current holdings
 represent historical holdings.
 
+## Updating from issuer downloads
+
+`src/data/holdings_import.py` converts the raw issuer files (keep the raw files out of
+the repository; only the converted CSV and its `.meta.yaml` are committed):
+
+```bash
+# iShares CSV (IWDA = SWDA file, CSPX, IUSN = WSML file, SEC0 = SEMI file)
+python -m src.data.holdings_import ishares SWDA_holdings.csv --id iwda
+# SSGA xlsx: no ticker in the file, tickers are copied from iShares files of the same date
+python -m src.data.holdings_import ssga holdings-daily-emea-en-spyl-gy.xlsx --id spyl \
+    --ticker-ref CSPX_holdings.csv --ticker-ref SWDA_holdings.csv \
+    --ticker-ref WSML_holdings.csv --ticker-ref SEMI_holdings.csv
+```
+
+Converted columns: `ticker, weight, market, name, isin, location, exchange, ticker_source`.
+
+- Only equity lines are kept. Cash, FX, futures and money-market lines are dropped and
+  are not redistributed: the file total stays slightly below 100 %.
+- `market` is `US` / `CA` only when the company's country AND its listing venue are
+  US / Canadian. A Dutch company listed on NASDAQ keeps `Netherlands`.
+- SSGA lines get a ticker only when an iShares line of the same date has the same country,
+  the same price (after a per-country currency factor) and a similar name
+  (`ticker_source = ishares_match`). Otherwise the ISIN is kept as identifier
+  (`ticker_source = isin`) and no provider values that line. Nothing is guessed.
+- iShares tickers are kept as published (e.g. `BRK B`); a provider may not recognise
+  some of them, which then simply lowers the reported coverage.
+
+Refresh at least quarterly; the `as_of` date is shown in the e-mail.
+
 ## Interpretation
 
 The weighted DCF upside is calculated only on constituents that are both in the US/Canada

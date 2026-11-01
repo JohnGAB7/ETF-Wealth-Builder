@@ -1,0 +1,504 @@
+ticker,weight,market,name,isin,location,exchange,ticker_source
+NVDA,7.77,US,NVIDIA,,United States,NASDAQ,issuer
+AAPL,7.65,US,APPLE,,United States,NASDAQ,issuer
+MSFT,5.91,US,MICROSOFT,,United States,NASDAQ,issuer
+AMZN,3.59,US,AMAZON.COM INC,,United States,NASDAQ,issuer
+GOOGL,2.5,US,ALPHABET CLASS A,,United States,NASDAQ,issuer
+AVGO,2.47,US,BROADCOM INC,,United States,NASDAQ,issuer
+META,2.07,US,META PLATFORMS CLASS A,,United States,NASDAQ,issuer
+GOOG,2.02,US,ALPHABET CLASS C,,United States,NASDAQ,issuer
+TSLA,1.71,US,TESLA INC,,United States,NASDAQ,issuer
+LLY,1.65,US,ELI LILLY,,United States,New York Stock Exchange Inc.,issuer
+MU,1.58,US,MICRON TECHNOLOGY,,United States,NASDAQ,issuer
+BRK B,1.52,US,BERKSHIRE HATHAWAY INC CLASS B,,United States,New York Stock Exchange Inc.,issuer
+AMD,1.39,US,ADVANCED MICRO DEVICES,,United States,NASDAQ,issuer
+JPM,1.37,US,JPMORGAN CHASE & CO,,United States,New York Stock Exchange Inc.,issuer
+XOM,1.13,US,EXXONMOBIL HOLDINGS CORP,,United States,New York Stock Exchange Inc.,issuer
+V,1.05,US,VISA CLASS A,,United States,New York Stock Exchange Inc.,issuer
+JNJ,1.0,US,JOHNSON & JOHNSON,,United States,New York Stock Exchange Inc.,issuer
+WMT,0.81,US,WALMART,,United States,NASDAQ,issuer
+MA,0.77,US,MASTERCARD CLASS A,,United States,New York Stock Exchange Inc.,issuer
+ABBV,0.77,US,ABBVIE,,United States,New York Stock Exchange Inc.,issuer
+INTC,0.69,US,INTEL CORPORATION,,United States,NASDAQ,issuer
+CVX,0.69,US,CHEVRON,,United States,New York Stock Exchange Inc.,issuer
+PLTR,0.68,US,PALANTIR TECHNOLOGIES CLASS A,,United States,NASDAQ,issuer
+COST,0.66,US,COSTCO WHOLESALE CORP,,United States,NASDAQ,issuer
+CSCO,0.64,US,CISCO SYSTEMS INC,,United States,NASDAQ,issuer
+PG,0.56,US,PROCTER & GAMBLE,,United States,New York Stock Exchange Inc.,issuer
+UNH,0.55,US,UNITEDHEALTH GROUP,,United States,New York Stock Exchange Inc.,issuer
+MRK,0.54,US,MERCK & CO INC,,United States,New York Stock Exchange Inc.,issuer
+KO,0.54,US,COCA-COLA,,United States,New York Stock Exchange Inc.,issuer
+AMAT,0.5,US,APPLIED MATERIAL INC,,United States,NASDAQ,issuer
+BAC,0.5,US,BANK OF AMERICA,,United States,New York Stock Exchange Inc.,issuer
+HD,0.49,US,HOME DEPOT,,United States,New York Stock Exchange Inc.,issuer
+PM,0.49,US,PHILIP MORRIS INTERNATIONAL,,United States,New York Stock Exchange Inc.,issuer
+GE,0.49,US,GE AEROSPACE,,United States,New York Stock Exchange Inc.,issuer
+LRCX,0.48,US,LAM RESEARCH,,United States,NASDAQ,issuer
+PANW,0.47,US,PALO ALTO NETWORKS,,United States,NASDAQ,issuer
+CAT,0.45,US,CATERPILLAR INC,,United States,New York Stock Exchange Inc.,issuer
+TXN,0.43,US,TEXAS INSTRUMENT,,United States,NASDAQ,issuer
+GS,0.41,US,GOLDMAN SACHS GROUP,,United States,New York Stock Exchange Inc.,issuer
+RTX,0.4,US,RTX,,United States,New York Stock Exchange Inc.,issuer
+CRWD,0.4,US,CROWDSTRIKE HOLDINGS CLASS A,,United States,NASDAQ,issuer
+TMO,0.39,US,THERMO FISHER SCIENTIFIC,,United States,New York Stock Exchange Inc.,issuer
+NFLX,0.39,US,NETFLIX,,United States,NASDAQ,issuer
+WFC,0.39,US,WELLS FARGO,,United States,New York Stock Exchange Inc.,issuer
+AMGN,0.37,US,AMGEN INC,,United States,NASDAQ,issuer
+IBM,0.37,US,INTERNATIONAL BUSINESS MACHINES CO,,United States,New York Stock Exchange Inc.,issuer
+ORCL,0.36,US,ORACLE,,United States,New York Stock Exchange Inc.,issuer
+GEV,0.36,US,GE VERNOVA,,United States,New York Stock Exchange Inc.,issuer
+LIN,0.35,US,LINDE PLC,,United States,NASDAQ,issuer
+MS,0.34,US,MORGAN STANLEY,,United States,New York Stock Exchange Inc.,issuer
+KLAC,0.33,US,KLA,,United States,NASDAQ,issuer
+ADI,0.32,US,ANALOG DEVICES,,United States,NASDAQ,issuer
+C,0.32,US,CITIGROUP,,United States,New York Stock Exchange Inc.,issuer
+GILD,0.31,US,GILEAD SCIENCES,,United States,NASDAQ,issuer
+APH,0.3,US,AMPHENOL CORP CLASS A,,United States,New York Stock Exchange Inc.,issuer
+QCOM,0.3,US,QUALCOMM,,United States,NASDAQ,issuer
+SNDK,0.29,US,SANDISK,,United States,NASDAQ,issuer
+ANET,0.29,US,ARISTA NETWORKS,,United States,New York Stock Exchange Inc.,issuer
+DIS,0.29,US,WALT DISNEY,,United States,New York Stock Exchange Inc.,issuer
+MRVL,0.29,US,MARVELL TECHNOLOGY,,United States,NASDAQ,issuer
+CRM,0.28,US,SALESFORCE,,United States,New York Stock Exchange Inc.,issuer
+PEP,0.27,US,PEPSICO,,United States,NASDAQ,issuer
+MCD,0.27,US,MCDONALDS CORP,,United States,New York Stock Exchange Inc.,issuer
+VZ,0.27,US,VERIZON COMMUNICATIONS INC,,United States,New York Stock Exchange Inc.,issuer
+ABT,0.27,US,ABBOTT LABORATORIES,,United States,New York Stock Exchange Inc.,issuer
+COP,0.27,US,CONOCOPHILLIPS,,United States,New York Stock Exchange Inc.,issuer
+UNP,0.27,US,UNION PACIFIC,,United States,New York Stock Exchange Inc.,issuer
+NEE,0.26,US,NEXTERA ENERGY,,United States,New York Stock Exchange Inc.,issuer
+PFE,0.26,US,PFIZER,,United States,New York Stock Exchange Inc.,issuer
+AXP,0.26,US,AMERICAN EXPRESS,,United States,New York Stock Exchange Inc.,issuer
+BLK,0.25,US,BLACKROCK,,United States,New York Stock Exchange Inc.,issuer
+WELL,0.25,US,WELLTOWER,,United States,New York Stock Exchange Inc.,issuer
+DE,0.25,US,DEERE,,United States,New York Stock Exchange Inc.,issuer
+STX,0.24,US,SEAGATE TECHNOLOGY HOLDINGS PLC,,United States,NASDAQ,issuer
+ISRG,0.24,US,INTUITIVE SURGICAL,,United States,NASDAQ,issuer
+TJX,0.23,US,TJX,,United States,New York Stock Exchange Inc.,issuer
+ETN,0.23,US,EATON PLC,,United States,New York Stock Exchange Inc.,issuer
+ACN,0.23,US,ACCENTURE PLC CLASS A,,United States,New York Stock Exchange Inc.,issuer
+DHR,0.22,US,DANAHER,,United States,New York Stock Exchange Inc.,issuer
+SCHW,0.22,US,CHARLES SCHWAB,,United States,New York Stock Exchange Inc.,issuer
+DELL,0.22,US,DELL TECHNOLOGIES INC CLASS C,,United States,New York Stock Exchange Inc.,issuer
+T,0.22,US,AT&T,,United States,New York Stock Exchange Inc.,issuer
+WDC,0.21,US,WESTERN DIGITAL CORP,,United States,NASDAQ,issuer
+SPGI,0.21,US,S&P GLOBAL,,United States,New York Stock Exchange Inc.,issuer
+VRTX,0.21,US,VERTEX PHARMACEUTICALS,,United States,NASDAQ,issuer
+BA,0.2,US,BOEING,,United States,New York Stock Exchange Inc.,issuer
+UBER,0.2,US,UBER TECHNOLOGIES,,United States,New York Stock Exchange Inc.,issuer
+PGR,0.2,US,PROGRESSIVE,,United States,New York Stock Exchange Inc.,issuer
+LMT,0.2,US,LOCKHEED MARTIN,,United States,New York Stock Exchange Inc.,issuer
+MO,0.19,US,ALTRIA GROUP INC,,United States,New York Stock Exchange Inc.,issuer
+COF,0.19,US,CAPITAL ONE FINANCIAL CORP,,United States,New York Stock Exchange Inc.,issuer
+CB,0.19,US,CHUBB,,United States,New York Stock Exchange Inc.,issuer
+BMY,0.19,US,BRISTOL MYERS SQUIBB,,United States,New York Stock Exchange Inc.,issuer
+PLD,0.18,US,PROLOGIS REIT,,United States,New York Stock Exchange Inc.,issuer
+MPC,0.18,US,MARATHON PETROLEUM,,United States,New York Stock Exchange Inc.,issuer
+SBUX,0.18,US,STARBUCKS CORP,,United States,NASDAQ,issuer
+MDT,0.18,US,MEDTRONIC PLC,,United States,New York Stock Exchange Inc.,issuer
+NEM,0.18,US,NEWMONT,,United States,New York Stock Exchange Inc.,issuer
+PH,0.18,US,PARKER-HANNIFIN,,United States,New York Stock Exchange Inc.,issuer
+LOW,0.17,US,LOWES COMPANIES INC,,United States,New York Stock Exchange Inc.,issuer
+CVS,0.17,US,CVS HEALTH,,United States,New York Stock Exchange Inc.,issuer
+MCK,0.17,US,MCKESSON CORP,,United States,New York Stock Exchange Inc.,issuer
+ADP,0.17,US,AUTOMATIC DATA PROCESSING INC,,United States,NASDAQ,issuer
+NOW,0.17,US,SERVICENOW,,United States,New York Stock Exchange Inc.,issuer
+BKNG,0.17,US,BOOKING HOLDINGS,,United States,NASDAQ,issuer
+VLO,0.17,US,VALERO ENERGY CORP,,United States,New York Stock Exchange Inc.,issuer
+PSX,0.16,US,PHILLIPS 66,,United States,New York Stock Exchange Inc.,issuer
+SYK,0.16,US,STRYKER,,United States,New York Stock Exchange Inc.,issuer
+SO,0.16,US,SOUTHERN,,United States,New York Stock Exchange Inc.,issuer
+CME,0.16,US,CME GROUP CLASS A,,United States,NASDAQ,issuer
+EQIX,0.15,US,EQUINIX REIT,,United States,NASDAQ,issuer
+GLW,0.15,US,CORNING,,United States,New York Stock Exchange Inc.,issuer
+BNY,0.15,US,BANK OF NEW YORK MELLON CORP,,United States,New York Stock Exchange Inc.,issuer
+ADBE,0.15,US,ADOBE INC,,United States,NASDAQ,issuer
+DUK,0.15,US,DUKE ENERGY CORP,,United States,New York Stock Exchange Inc.,issuer
+CSX,0.15,US,CSX,,United States,NASDAQ,issuer
+JCI,0.14,US,JOHNSON CONTROLS INTERNATIONAL PLC,,United States,New York Stock Exchange Inc.,issuer
+PWR,0.14,US,QUANTA SERVICES INC,,United States,New York Stock Exchange Inc.,issuer
+EMR,0.14,US,EMERSON ELECTRIC,,United States,New York Stock Exchange Inc.,issuer
+FCX,0.14,US,FREEPORT MCMORAN INC,,United States,New York Stock Exchange Inc.,issuer
+VRT,0.14,US,VERTIV HOLDINGS CLASS A,,United States,New York Stock Exchange Inc.,issuer
+TT,0.14,US,TRANE TECHNOLOGIES PLC,,United States,New York Stock Exchange Inc.,issuer
+CDNS,0.14,US,CADENCE DESIGN SYSTEMS,,United States,NASDAQ,issuer
+USB,0.14,US,US BANCORP,,United States,New York Stock Exchange Inc.,issuer
+GD,0.14,US,GENERAL DYNAMICS CORP,,United States,New York Stock Exchange Inc.,issuer
+MRSH,0.14,US,MARSH,,United States,New York Stock Exchange Inc.,issuer
+SNPS,0.14,US,SYNOPSYS,,United States,NASDAQ,issuer
+PNC,0.14,US,PNC FINANCIAL SERVICES GROUP,,United States,New York Stock Exchange Inc.,issuer
+ICE,0.14,US,INTERCONTINENTAL EXCHANGE INC,,United States,New York Stock Exchange Inc.,issuer
+ELV,0.14,US,ELEVANCE HEALTH INC,,United States,New York Stock Exchange Inc.,issuer
+MMM,0.14,US,3M,,United States,New York Stock Exchange Inc.,issuer
+WMB,0.14,US,WILLIAMS,,United States,New York Stock Exchange Inc.,issuer
+INTU,0.14,US,INTUIT,,United States,NASDAQ,issuer
+BX,0.14,US,BLACKSTONE,,United States,New York Stock Exchange Inc.,issuer
+DDOG,0.13,US,DATADOG INC CLASS A,,United States,NASDAQ,issuer
+CEG,0.13,US,CONSTELLATION ENERGY CORP,,United States,NASDAQ,issuer
+AMT,0.13,US,AMERICAN TOWER REIT,,United States,New York Stock Exchange Inc.,issuer
+WM,0.13,US,WASTE MANAGEMENT INC,,United States,New York Stock Exchange Inc.,issuer
+FTNT,0.13,US,FORTINET,,United States,NASDAQ,issuer
+MAR,0.13,US,MARRIOTT INTERNATIONAL CLASS A,,United States,NASDAQ,issuer
+EOG,0.13,US,EOG RESOURCES,,United States,New York Stock Exchange Inc.,issuer
+TRV,0.13,US,TRAVELERS COMPANIES,,United States,New York Stock Exchange Inc.,issuer
+MRNA,0.12,US,MODERNA,,United States,NASDAQ,issuer
+HWM,0.12,US,HOWMET AEROSPACE,,United States,New York Stock Exchange Inc.,issuer
+MSI,0.12,US,MOTOROLA SOLUTIONS INC,,United States,New York Stock Exchange Inc.,issuer
+LITE,0.12,US,LUMENTUM HOLDINGS,,United States,NASDAQ,issuer
+UPS,0.12,US,UNITED PARCEL SERVICE INC CLASS B,,United States,New York Stock Exchange Inc.,issuer
+REGN,0.12,US,REGENERON PHARMACEUTICALS,,United States,NASDAQ,issuer
+HLT,0.12,US,HILTON WORLDWIDE HOLDINGS,,United States,New York Stock Exchange Inc.,issuer
+SLB,0.12,US,SLB,,United States,New York Stock Exchange Inc.,issuer
+MDLZ,0.12,US,MONDELEZ INTERNATIONAL CLASS A,,United States,NASDAQ,issuer
+CI,0.12,US,CIGNA,,United States,New York Stock Exchange Inc.,issuer
+CMCSA,0.12,US,COMCAST CLASS A,,United States,NASDAQ,issuer
+HPE,0.12,US,HEWLETT PACKARD ENTERPRISE,,United States,New York Stock Exchange Inc.,issuer
+RCL,0.12,US,ROYAL CARIBBEAN GROUP,,United States,New York Stock Exchange Inc.,issuer
+NSC,0.12,US,NORFOLK SOUTHERN CORP,,United States,New York Stock Exchange Inc.,issuer
+ECL,0.11,US,ECOLAB,,United States,New York Stock Exchange Inc.,issuer
+SHW,0.11,US,SHERWIN WILLIAMS,,United States,New York Stock Exchange Inc.,issuer
+GM,0.11,US,GENERAL MOTORS,,United States,New York Stock Exchange Inc.,issuer
+NOC,0.11,US,NORTHROP GRUMMAN CORP,,United States,New York Stock Exchange Inc.,issuer
+CTAS,0.11,US,CINTAS,,United States,NASDAQ,issuer
+URI,0.11,US,UNITED RENTALS,,United States,New York Stock Exchange Inc.,issuer
+ROST,0.11,US,ROSS STORES INC,,United States,NASDAQ,issuer
+CL,0.11,US,COLGATE-PALMOLIVE,,United States,New York Stock Exchange Inc.,issuer
+ITW,0.11,US,ILLINOIS TOOL INC,,United States,New York Stock Exchange Inc.,issuer
+MCO,0.11,US,MOODYS CORP,,United States,New York Stock Exchange Inc.,issuer
+HOOD,0.11,US,ROBINHOOD MARKETS CLASS A,,United States,NASDAQ,issuer
+ORLY,0.11,US,OREILLY AUTOMOTIVE INC,,United States,NASDAQ,issuer
+CMI,0.11,US,CUMMINS INC,,United States,New York Stock Exchange Inc.,issuer
+TMUS,0.11,US,T MOBILE US INC,,United States,NASDAQ,issuer
+AEP,0.11,US,AMERICAN ELECTRIC POWER INC,,United States,NASDAQ,issuer
+HON,0.11,US,HONEYWELL INTERNATIONAL INC,,United States,NASDAQ,issuer
+HCA,0.11,US,HCA HEALTHCARE,,United States,New York Stock Exchange Inc.,issuer
+SPG,0.11,US,SIMON PROPERTY GROUP REIT INC,,United States,New York Stock Exchange Inc.,issuer
+ABNB,0.11,US,AIRBNB CLASS A,,United States,NASDAQ,issuer
+APD,0.1,US,AIR PRODUCTS AND CHEMICALS,,United States,New York Stock Exchange Inc.,issuer
+APP,0.1,US,APPLOVIN CLASS A,,United States,NASDAQ,issuer
+TGT,0.1,US,TARGET CORP,,United States,New York Stock Exchange Inc.,issuer
+AJG,0.1,US,ARTHUR J GALLAGHER,,United States,New York Stock Exchange Inc.,issuer
+AON,0.1,US,AON PLC CLASS A,,United States,New York Stock Exchange Inc.,issuer
+FDX,0.1,US,FEDEX CORP,,United States,New York Stock Exchange Inc.,issuer
+DASH,0.1,US,DOORDASH CLASS A,,United States,NASDAQ,issuer
+NXPI,0.1,US,NXP SEMICONDUCTORS NV,,United States,NASDAQ,issuer
+TRGP,0.1,US,TARGA RESOURCES,,United States,New York Stock Exchange Inc.,issuer
+KMI,0.1,US,KINDER MORGAN,,United States,New York Stock Exchange Inc.,issuer
+KKR,0.1,US,KKR AND CO INC,,United States,New York Stock Exchange Inc.,issuer
+MNST,0.1,US,MONSTER BEVERAGE,,United States,NASDAQ,issuer
+BE,0.1,US,BLOOM ENERGY CLASS A,,United States,New York Stock Exchange Inc.,issuer
+TDG,0.1,US,TRANSDIGM GROUP,,United States,New York Stock Exchange Inc.,issuer
+ALL,0.1,US,ALLSTATE CORP,,United States,New York Stock Exchange Inc.,issuer
+TEL,0.1,US,TE CONNECTIVITY PLC,,United States,New York Stock Exchange Inc.,issuer
+DLR,0.1,US,DIGITAL REALTY TRUST REIT,,United States,New York Stock Exchange Inc.,issuer
+COR,0.09,US,CENCORA,,United States,New York Stock Exchange Inc.,issuer
+NUE,0.09,US,NUCOR,,United States,New York Stock Exchange Inc.,issuer
+BSX,0.09,US,BOSTON SCIENTIFIC,,United States,New York Stock Exchange Inc.,issuer
+OKE,0.09,US,ONEOK,,United States,New York Stock Exchange Inc.,issuer
+FAST,0.09,US,FASTENAL,,United States,NASDAQ,issuer
+CRH,0.09,US,CRH PUBLIC LIMITED PLC,,United States,New York Stock Exchange Inc.,issuer
+TFC,0.09,US,TRUIST FINANCIAL,,United States,New York Stock Exchange Inc.,issuer
+GWW,0.09,US,WW GRAINGER INC,,United States,New York Stock Exchange Inc.,issuer
+MPWR,0.09,US,MONOLITHIC POWER SYSTEMS INC,,United States,NASDAQ,issuer
+CAH,0.09,US,CARDINAL HEALTH,,United States,New York Stock Exchange Inc.,issuer
+AME,0.09,US,AMETEK INC,,United States,New York Stock Exchange Inc.,issuer
+D,0.09,US,DOMINION ENERGY,,United States,New York Stock Exchange Inc.,issuer
+KEYS,0.08,US,KEYSIGHT TECHNOLOGIES,,United States,New York Stock Exchange Inc.,issuer
+DVN,0.08,US,DEVON ENERGY,,United States,New York Stock Exchange Inc.,issuer
+SRE,0.08,US,SEMPRA,,United States,New York Stock Exchange Inc.,issuer
+APO,0.08,US,APOLLO GLOBAL MANAGEMENT,,United States,New York Stock Exchange Inc.,issuer
+AFL,0.08,US,AFLAC,,United States,New York Stock Exchange Inc.,issuer
+EW,0.08,US,EDWARDS LIFESCIENCES,,United States,New York Stock Exchange Inc.,issuer
+BKR,0.08,US,BAKER HUGHES CLASS A,,United States,NASDAQ,issuer
+O,0.08,US,REALTY INCOME REIT,,United States,New York Stock Exchange Inc.,issuer
+BDX,0.08,US,BECTON DICKINSON,,United States,New York Stock Exchange Inc.,issuer
+PCAR,0.08,US,PACCAR INC,,United States,NASDAQ,issuer
+MET,0.08,US,METLIFE,,United States,New York Stock Exchange Inc.,issuer
+PSA,0.08,US,PUBLIC STORAGE REIT,,United States,New York Stock Exchange Inc.,issuer
+LHX,0.08,US,L3HARRIS TECHNOLOGIES,,United States,New York Stock Exchange Inc.,issuer
+ETR,0.08,US,ENTERGY CORP,,United States,New York Stock Exchange Inc.,issuer
+AZO,0.08,US,AUTOZONE,,United States,New York Stock Exchange Inc.,issuer
+A,0.08,US,AGILENT TECHNOLOGIES INC,,United States,New York Stock Exchange Inc.,issuer
+ADSK,0.08,US,AUTODESK,,United States,NASDAQ,issuer
+HONA,0.08,US,HONEYWELL AEROSPACE INC,,United States,NASDAQ,issuer
+HUM,0.08,US,HUMANA,,United States,New York Stock Exchange Inc.,issuer
+ROK,0.08,US,ROCKWELL AUTOMATION INC,,United States,New York Stock Exchange Inc.,issuer
+FITB,0.07,US,FIFTH THIRD BANCORP,,United States,New York Stock Exchange Inc.,issuer
+CIEN,0.07,US,CIENA,,United States,New York Stock Exchange Inc.,issuer
+XEL,0.07,US,XCEL ENERGY INC,,United States,NASDAQ,issuer
+CVNA,0.07,US,CARVANA CLASS A,,United States,New York Stock Exchange Inc.,issuer
+VYLR,0.07,US,VYLOR,,United States,New York Stock Exchange Inc.,issuer
+PYPL,0.07,US,PAYPAL HOLDINGS,,United States,NASDAQ,issuer
+DAL,0.07,US,DELTA AIR LINES,,United States,New York Stock Exchange Inc.,issuer
+EBAY,0.07,US,EBAY,,United States,NASDAQ,issuer
+WAB,0.07,US,WESTINGHOUSE AIR BRAKE TECHNOLOGIE,,United States,New York Stock Exchange Inc.,issuer
+F,0.07,US,FORD MOTOR CO,,United States,New York Stock Exchange Inc.,issuer
+KDP,0.07,US,KEURIG DR PEPPER INC,,United States,NASDAQ,issuer
+STT,0.07,US,STATE STREET,,United States,New York Stock Exchange Inc.,issuer
+EXC,0.07,US,EXELON CORP,,United States,NASDAQ,issuer
+WAT,0.07,US,WATERS CORP,,United States,New York Stock Exchange Inc.,issuer
+FERG,0.07,US,FERGUSON ENTERPRISES,,United States,New York Stock Exchange Inc.,issuer
+FIX,0.07,US,COMFORT SYSTEMS USA,,United States,New York Stock Exchange Inc.,issuer
+NDAQ,0.07,US,NASDAQ INC,,United States,NASDAQ,issuer
+TER,0.07,US,TERADYNE,,United States,NASDAQ,issuer
+COHR,0.07,US,COHERENT,,United States,New York Stock Exchange Inc.,issuer
+GRMN,0.07,US,GARMIN,,United States,New York Stock Exchange Inc.,issuer
+VEEV,0.07,US,VEEVA SYSTEMS CLASS A,,United States,New York Stock Exchange Inc.,issuer
+NKE,0.07,US,NIKE CLASS B,,United States,New York Stock Exchange Inc.,issuer
+RSG,0.07,US,REPUBLIC SERVICES INC,,United States,New York Stock Exchange Inc.,issuer
+OXY,0.07,US,OCCIDENTAL PETROLEUM CORP,,United States,New York Stock Exchange Inc.,issuer
+P,0.07,US,EVERPURE INC CLASS A,,United States,New York Stock Exchange Inc.,issuer
+CARR,0.07,US,CARRIER GLOBAL,,United States,New York Stock Exchange Inc.,issuer
+IDXX,0.07,US,IDEXX LABORATORIES,,United States,NASDAQ,issuer
+IQV,0.07,US,IQVIA HOLDINGS INC,,United States,New York Stock Exchange Inc.,issuer
+MSCI,0.07,US,MSCI,,United States,New York Stock Exchange Inc.,issuer
+VST,0.07,US,VISTRA,,United States,New York Stock Exchange Inc.,issuer
+ROP,0.07,US,ROPER TECHNOLOGIES,,United States,NASDAQ,issuer
+VMRK,0.07,US,VIVMARK RESIDENTIAL,,United States,New York Stock Exchange Inc.,issuer
+ILMN,0.07,US,ILLUMINA INC,,United States,NASDAQ,issuer
+MCHP,0.07,US,MICROCHIP TECHNOLOGY INC,,United States,NASDAQ,issuer
+AMP,0.07,US,AMERIPRISE FINANCE INC,,United States,New York Stock Exchange Inc.,issuer
+VTR,0.06,US,VENTAS REIT,,United States,New York Stock Exchange Inc.,issuer
+NTAP,0.06,US,NETAPP INC,,United States,NASDAQ,issuer
+ED,0.06,US,CONSOLIDATED EDISON,,United States,New York Stock Exchange Inc.,issuer
+AIG,0.06,US,AMERICAN INTERNATIONAL GROUP,,United States,New York Stock Exchange Inc.,issuer
+FANG,0.06,US,DIAMONDBACK ENERGY,,United States,NASDAQ,issuer
+YUM,0.06,US,YUM BRANDS,,United States,New York Stock Exchange Inc.,issuer
+XYZ,0.06,US,BLOCK CLASS A,,United States,New York Stock Exchange Inc.,issuer
+PRU,0.06,US,PRUDENTIAL FINANCIAL INC,,United States,New York Stock Exchange Inc.,issuer
+CMG,0.06,US,CHIPOTLE MEXICAN GRILL,,United States,New York Stock Exchange Inc.,issuer
+SYY,0.06,US,SYSCO,,United States,New York Stock Exchange Inc.,issuer
+WDAY,0.06,US,WORKDAY CLASS A,,United States,NASDAQ,issuer
+CCI,0.06,US,CROWN CASTLE INC,,United States,New York Stock Exchange Inc.,issuer
+KVUE,0.06,US,KENVUE,,United States,New York Stock Exchange Inc.,issuer
+WEC,0.06,US,WEC ENERGY GROUP,,United States,New York Stock Exchange Inc.,issuer
+KR,0.06,US,KROGER,,United States,New York Stock Exchange Inc.,issuer
+DHI,0.06,US,D R HORTON,,United States,New York Stock Exchange Inc.,issuer
+TWLO,0.06,US,TWILIO CLASS A,,United States,New York Stock Exchange Inc.,issuer
+IBKR,0.06,US,INTERACTIVE BROKERS GROUP INC CLAS,,United States,NASDAQ,issuer
+BIIB,0.06,US,BIOGEN,,United States,NASDAQ,issuer
+ADM,0.06,US,ARCHER DANIELS MIDLAND,,United States,New York Stock Exchange Inc.,issuer
+PEG,0.06,US,PUBLIC SERVICE ENTERPRISE GROUP,,United States,New York Stock Exchange Inc.,issuer
+CCL,0.06,US,CARNIVAL CORP LTD,,United States,New York Stock Exchange Inc.,issuer
+KMB,0.06,US,KIMBERLY CLARK,,United States,NASDAQ,issuer
+CBRE,0.05,US,CBRE GROUP CLASS A,,United States,New York Stock Exchange Inc.,issuer
+RMD,0.05,US,RESMED,,United States,New York Stock Exchange Inc.,issuer
+VMC,0.05,US,VULCAN MATERIALS,,United States,New York Stock Exchange Inc.,issuer
+COIN,0.05,US,COINBASE GLOBAL CLASS A,,United States,NASDAQ,issuer
+HIG,0.05,US,HARTFORD INSURANCE GROUP,,United States,New York Stock Exchange Inc.,issuer
+AXON,0.05,US,AXON ENTERPRISE,,United States,NASDAQ,issuer
+ACGL,0.05,US,ARCH CAPITAL GROUP,,United States,NASDAQ,issuer
+IRM,0.05,US,IRON MOUNTAIN INC,,United States,New York Stock Exchange Inc.,issuer
+PAYX,0.05,US,PAYCHEX,,United States,NASDAQ,issuer
+MTD,0.05,US,METTLER TOLEDO,,United States,New York Stock Exchange Inc.,issuer
+FLEX,0.05,US,FLEX LTD,,United States,NASDAQ,issuer
+GEHC,0.05,US,GE HEALTHCARE TECHNOLOGIES,,United States,NASDAQ,issuer
+UAL,0.05,US,UNITED AIRLINES HOLDINGS,,United States,NASDAQ,issuer
+EQT,0.05,US,EQT,,United States,New York Stock Exchange Inc.,issuer
+STLD,0.05,US,STEEL DYNAMICS INC,,United States,NASDAQ,issuer
+TTWO,0.05,US,TAKE TWO INTERACTIVE SOFTWARE,,United States,NASDAQ,issuer
+CNC,0.05,US,CENTENE CORP,,United States,New York Stock Exchange Inc.,issuer
+ZTS,0.05,US,ZOETIS INC CLASS A,,United States,New York Stock Exchange Inc.,issuer
+CBOE,0.05,US,CBOE GLOBAL MARKETS,,United States,Cboe BZX,issuer
+EXPE,0.05,US,EXPEDIA GROUP,,United States,NASDAQ,issuer
+HBAN,0.05,US,HUNTINGTON BANCSHARES INC,,United States,NASDAQ,issuer
+MTB,0.05,US,M&T BANK,,United States,New York Stock Exchange Inc.,issuer
+MLM,0.05,US,MARTIN MARIETTA MATERIALS,,United States,New York Stock Exchange Inc.,issuer
+ODFL,0.05,US,OLD DOMINION FREIGHT LINE,,United States,NASDAQ,issuer
+EXR,0.05,US,EXTRA SPACE STORAGE REIT,,United States,New York Stock Exchange Inc.,issuer
+NTRS,0.05,US,NORTHERN TRUST,,United States,NASDAQ,issuer
+TDY,0.05,US,TELEDYNE TECHNOLOGIES,,United States,New York Stock Exchange Inc.,issuer
+WSM,0.05,US,WILLIAMS SONOMA INC,,United States,New York Stock Exchange Inc.,issuer
+AEE,0.05,US,AMEREN,,United States,New York Stock Exchange Inc.,issuer
+EME,0.05,US,EMCOR GROUP,,United States,New York Stock Exchange Inc.,issuer
+DXCM,0.05,US,DEXCOM INC,,United States,NASDAQ,issuer
+JBL,0.05,US,JABIL,,United States,New York Stock Exchange Inc.,issuer
+HAL,0.05,US,HALLIBURTON,,United States,New York Stock Exchange Inc.,issuer
+LH,0.04,US,LABCORP HOLDINGS,,United States,New York Stock Exchange Inc.,issuer
+WTW,0.04,US,WILLIS TOWERS WATSON,,United States,NASDAQ,issuer
+WST,0.04,US,WEST PHARMACEUTICAL SERVICES,,United States,New York Stock Exchange Inc.,issuer
+HPQ,0.04,US,HP INC,,United States,New York Stock Exchange Inc.,issuer
+ON,0.04,US,ON SEMICONDUCTOR CORP,,United States,NASDAQ,issuer
+PCG,0.04,US,PG&E CORP,,United States,New York Stock Exchange Inc.,issuer
+ATO,0.04,US,ATMOS ENERGY,,United States,New York Stock Exchange Inc.,issuer
+DG,0.04,US,DOLLAR GENERAL CORP,,United States,New York Stock Exchange Inc.,issuer
+ARES,0.04,US,ARES MANAGEMENT CLASS A,,United States,New York Stock Exchange Inc.,issuer
+DOV,0.04,US,DOVER,,United States,New York Stock Exchange Inc.,issuer
+OTIS,0.04,US,OTIS WORLDWIDE,,United States,New York Stock Exchange Inc.,issuer
+LYV,0.04,US,LIVE NATION ENTERTAINMENT,,United States,New York Stock Exchange Inc.,issuer
+AWK,0.04,US,AMERICAN WATER WORKS,,United States,New York Stock Exchange Inc.,issuer
+CTSH,0.04,US,COGNIZANT TECHNOLOGY SOLUTIONS CLA,,United States,NASDAQ,issuer
+DTE,0.04,US,DTE ENERGY,,United States,New York Stock Exchange Inc.,issuer
+RJF,0.04,US,RAYMOND JAMES,,United States,New York Stock Exchange Inc.,issuer
+CNP,0.04,US,CENTERPOINT ENERGY,,United States,New York Stock Exchange Inc.,issuer
+CINF,0.04,US,CINCINNATI FINANCIAL,,United States,NASDAQ,issuer
+DGX,0.04,US,QUEST DIAGNOSTICS INC,,United States,New York Stock Exchange Inc.,issuer
+ULTA,0.04,US,ULTA BEAUTY INC,,United States,NASDAQ,issuer
+CFG,0.04,US,CITIZENS FINANCIAL GROUP INC,,United States,New York Stock Exchange Inc.,issuer
+IR,0.04,US,INGERSOLL RAND,,United States,New York Stock Exchange Inc.,issuer
+VICI,0.04,US,VICI PPTYS INC,,United States,New York Stock Exchange Inc.,issuer
+PPL,0.04,US,PPL CORP,,United States,New York Stock Exchange Inc.,issuer
+EL,0.04,US,ESTEE LAUDER INC CLASS A,,United States,New York Stock Exchange Inc.,issuer
+PPG,0.04,US,PPG INDUSTRIES,,United States,New York Stock Exchange Inc.,issuer
+CPAY,0.04,US,CORPAY,,United States,New York Stock Exchange Inc.,issuer
+EXPD,0.04,US,EXPEDITORS INTERNATIONAL OF WASHIN,,United States,New York Stock Exchange Inc.,issuer
+FISV,0.04,US,FISERV INC,,United States,NASDAQ,issuer
+Q,0.04,US,QNITY ELECTRONICS,,United States,New York Stock Exchange Inc.,issuer
+ES,0.04,US,EVERSOURCE ENERGY,,United States,New York Stock Exchange Inc.,issuer
+DLTR,0.04,US,DOLLAR TREE INC,,United States,NASDAQ,issuer
+VLTO,0.04,US,VERALTO,,United States,New York Stock Exchange Inc.,issuer
+CHD,0.04,US,CHURCH AND DWIGHT INC,,United States,New York Stock Exchange Inc.,issuer
+CASY,0.04,US,CASEYS GENERAL STORES INC,,United States,NASDAQ,issuer
+VRSK,0.04,US,VERISK ANALYTICS,,United States,NASDAQ,issuer
+SYF,0.04,US,SYNCHRONY FINANCIAL,,United States,New York Stock Exchange Inc.,issuer
+DRI,0.04,US,DARDEN RESTAURANTS INC,,United States,New York Stock Exchange Inc.,issuer
+CPRT,0.04,US,COPART INC,,United States,NASDAQ,issuer
+VRSN,0.04,US,VERISIGN,,United States,NASDAQ,issuer
+RF,0.04,US,REGIONS FINANCIAL,,United States,New York Stock Exchange Inc.,issuer
+FE,0.04,US,FIRSTENERGY CORP,,United States,New York Stock Exchange Inc.,issuer
+DOW,0.04,US,DOW,,United States,New York Stock Exchange Inc.,issuer
+HSY,0.04,US,HERSHEY FOODS,,United States,New York Stock Exchange Inc.,issuer
+TPR,0.04,US,TAPESTRY,,United States,New York Stock Exchange Inc.,issuer
+HUBB,0.03,US,HUBBELL INC,,United States,New York Stock Exchange Inc.,issuer
+PHM,0.03,US,PULTEGROUP,,United States,New York Stock Exchange Inc.,issuer
+IFF,0.03,US,INTERNATIONAL FLAVORS & FRAGRANCES,,United States,New York Stock Exchange Inc.,issuer
+TROW,0.03,US,T ROWE PRICE GROUP,,United States,NASDAQ,issuer
+EIX,0.03,US,EDISON INTERNATIONAL,,United States,New York Stock Exchange Inc.,issuer
+PKG,0.03,US,PACKAGING CORP OF AMERICA,,United States,New York Stock Exchange Inc.,issuer
+STE,0.03,US,STERIS,,United States,New York Stock Exchange Inc.,issuer
+SW,0.03,US,SMURFIT WESTROCK PLC,,United States,New York Stock Exchange Inc.,issuer
+PFG,0.03,US,PRINCIPAL FINANCIAL GROUP INC,,United States,NASDAQ,issuer
+OMC,0.03,US,OMNICOM GROUP INC,,United States,New York Stock Exchange Inc.,issuer
+VTRS,0.03,US,VIATRIS,,United States,NASDAQ,issuer
+AMCR,0.03,US,AMCOR PLC,,United States,New York Stock Exchange Inc.,issuer
+CMS,0.03,US,CMS ENERGY,,United States,New York Stock Exchange Inc.,issuer
+LUV,0.03,US,SOUTHWEST AIRLINES,,United States,New York Stock Exchange Inc.,issuer
+NI,0.03,US,NISOURCE,,United States,New York Stock Exchange Inc.,issuer
+EFX,0.03,US,EQUIFAX,,United States,New York Stock Exchange Inc.,issuer
+XYL,0.03,US,XYLEM INC,,United States,New York Stock Exchange Inc.,issuer
+PTC,0.03,US,PTC,,United States,NASDAQ,issuer
+EXE,0.03,US,EXPAND ENERGY,,United States,NASDAQ,issuer
+KHC,0.03,US,KRAFT HEINZ,,United States,New York Stock Exchange Inc.,issuer
+CDW,0.03,US,CDW,,United States,NASDAQ,issuer
+NRG,0.03,US,NRG ENERGY INC,,United States,New York Stock Exchange Inc.,issuer
+BR,0.03,US,BROADRIDGE FINANCIAL SOLUTIONS INC,,United States,New York Stock Exchange Inc.,issuer
+FFIV,0.03,US,F5,,United States,NASDAQ,issuer
+SWKS,0.03,US,SKYWORKS SOLUTIONS,,United States,NASDAQ,issuer
+FTV,0.03,US,FORTIVE,,United States,New York Stock Exchange Inc.,issuer
+INCY,0.03,US,INCYTE CORP,,United States,NASDAQ,issuer
+BBY,0.03,US,BEST BUY,,United States,New York Stock Exchange Inc.,issuer
+SBAC,0.03,US,SBA COMMUNICATIONS REIT CORP CLASS,,United States,NASDAQ,issuer
+EVRG,0.03,US,EVERGY,,United States,NASDAQ,issuer
+STZ,0.03,US,CONSTELLATION BRANDS CLASS A,,United States,New York Stock Exchange Inc.,issuer
+BRO,0.03,US,BROWN & BROWN INC,,United States,New York Stock Exchange Inc.,issuer
+KEY,0.03,US,KEYCORP,,United States,New York Stock Exchange Inc.,issuer
+SMCI,0.03,US,SUPER MICRO COMPUTER INC,,United States,NASDAQ,issuer
+TPL,0.03,US,TEXAS PACIFIC LAND,,United States,New York Stock Exchange Inc.,issuer
+FIS,0.03,US,FIDELITY NATIONAL INFORMATION SERV,,United States,New York Stock Exchange Inc.,issuer
+DD,0.03,US,DUPONT DE NEMOURS,,United States,New York Stock Exchange Inc.,issuer
+IP,0.03,US,INTERNATIONAL PAPER,,United States,New York Stock Exchange Inc.,issuer
+GPN,0.03,US,GLOBAL PAYMENTS INC,,United States,New York Stock Exchange Inc.,issuer
+FSLR,0.03,US,FIRST SOLAR,,United States,NASDAQ,issuer
+RDDT,0.03,US,REDDIT CLASS A,,United States,New York Stock Exchange Inc.,issuer
+RVTY,0.03,US,REVVITY,,United States,New York Stock Exchange Inc.,issuer
+SNA,0.03,US,SNAP ON INC,,United States,New York Stock Exchange Inc.,issuer
+ZBH,0.03,US,ZIMMER BIOMET HOLDINGS,,United States,New York Stock Exchange Inc.,issuer
+L,0.03,US,LOEWS,,United States,New York Stock Exchange Inc.,issuer
+LNT,0.03,US,ALLIANT ENERGY CORP,,United States,NASDAQ,issuer
+APA,0.03,US,APA,,United States,NASDAQ,issuer
+ZBRA,0.03,US,ZEBRA TECHNOLOGIES CORP CLASS A,,United States,NASDAQ,issuer
+J,0.03,US,JACOBS SOLUTIONS INC,,United States,New York Stock Exchange Inc.,issuer
+CRL,0.03,US,CHARLES RIVER LABORATORIES INTERNA,,United States,New York Stock Exchange Inc.,issuer
+GIS,0.03,US,GENERAL MILLS INC,,United States,New York Stock Exchange Inc.,issuer
+CF,0.03,US,CF INDUSTRIES HOLDINGS INC,,United States,New York Stock Exchange Inc.,issuer
+IEX,0.03,US,IDEX,,United States,New York Stock Exchange Inc.,issuer
+LDOS,0.03,US,LEIDOS HOLDINGS,,United States,New York Stock Exchange Inc.,issuer
+HST,0.03,US,HOST HOTELS & RESORTS REIT,,United States,NASDAQ,issuer
+NDSN,0.03,US,NORDSON,,United States,NASDAQ,issuer
+TSCO,0.03,US,TRACTOR SUPPLY,,United States,NASDAQ,issuer
+ESS,0.03,US,ESSEX PROPERTY TRUST REIT,,United States,New York Stock Exchange Inc.,issuer
+GPC,0.03,US,GENUINE PARTS,,United States,New York Stock Exchange Inc.,issuer
+BALL,0.03,US,BALL CORP,,United States,New York Stock Exchange Inc.,issuer
+LYB,0.03,US,LYONDELLBASELL INDUSTRIES CLASS A,,United States,New York Stock Exchange Inc.,issuer
+KIM,0.02,US,KIMCO REALTY REIT CORP,,United States,New York Stock Exchange Inc.,issuer
+LEN,0.02,US,LENNAR A CLASS A,,United States,New York Stock Exchange Inc.,issuer
+WRB,0.02,US,WR BERKLEY,,United States,New York Stock Exchange Inc.,issuer
+JBHT,0.02,US,JB HUNT TRANSPORT SERVICES,,United States,NASDAQ,issuer
+HAS,0.02,US,HASBRO,,United States,NASDAQ,issuer
+ALLE,0.02,US,ALLEGION PLC,,United States,New York Stock Exchange Inc.,issuer
+TSN,0.02,US,TYSON FOODS INC CLASS A,,United States,New York Stock Exchange Inc.,issuer
+MAS,0.02,US,MASCO,,United States,New York Stock Exchange Inc.,issuer
+SWK,0.02,US,STANLEY BLACK & DECKER,,United States,New York Stock Exchange Inc.,issuer
+RL,0.02,US,RALPH LAUREN CLASS A,,United States,New York Stock Exchange Inc.,issuer
+NVR,0.02,US,NVR,,United States,New York Stock Exchange Inc.,issuer
+FICO,0.02,US,FAIR ISAAC,,United States,New York Stock Exchange Inc.,issuer
+TRMB,0.02,US,TRIMBLE INC,,United States,NASDAQ,issuer
+GEN,0.02,US,GEN DIGITAL,,United States,NASDAQ,issuer
+BG,0.02,US,BUNGE GLOBAL SA,,United States,New York Stock Exchange Inc.,issuer
+TXT,0.02,US,TEXTRON INC,,United States,New York Stock Exchange Inc.,issuer
+CHRW,0.02,US,CH ROBINSON WORLDWIDE,,United States,NASDAQ,issuer
+AIZ,0.02,US,ASSURANT INC,,United States,New York Stock Exchange Inc.,issuer
+WY,0.02,US,WEYERHAEUSER REIT,,United States,New York Stock Exchange Inc.,issuer
+EG,0.02,US,EVEREST GROUP,,United States,New York Stock Exchange Inc.,issuer
+INVH,0.02,US,INVITATION HOMES,,United States,New York Stock Exchange Inc.,issuer
+AKAM,0.02,US,AKAMAI TECHNOLOGIES INC,,United States,NASDAQ,issuer
+TYL,0.02,US,TYLER TECHNOLOGIES,,United States,New York Stock Exchange Inc.,issuer
+IT,0.02,US,GARTNER,,United States,New York Stock Exchange Inc.,issuer
+MAA,0.02,US,MID AMERICA APARTMENT COMMUNITIES,,United States,New York Stock Exchange Inc.,issuer
+AVY,0.02,US,AVERY DENNISON CORP,,United States,New York Stock Exchange Inc.,issuer
+ECHO,0.02,US,ECHOSTAR CLASS A,,United States,NASDAQ,issuer
+SJM,0.02,US,JM SMUCKER,,United States,New York Stock Exchange Inc.,issuer
+GDDY,0.02,US,GODADDY CLASS A,,United States,New York Stock Exchange Inc.,issuer
+FDXF,0.02,US,FEDEX FREIGHT HOLDING COMPANY INC,,United States,New York Stock Exchange Inc.,issuer
+DOC,0.02,US,HEALTHPEAK PROPERTIES INC,,United States,New York Stock Exchange Inc.,issuer
+FOXA,0.02,US,FOX CLASS A,,United States,NASDAQ,issuer
+IVZ,0.02,US,INVESCO LTD,,United States,New York Stock Exchange Inc.,issuer
+PNW,0.02,US,PINNACLE WEST,,United States,New York Stock Exchange Inc.,issuer
+GL,0.02,US,GLOBE LIFE,,United States,New York Stock Exchange Inc.,issuer
+REG,0.02,US,REGENCY CENTERS REIT CORP,,United States,NASDAQ,issuer
+HII,0.02,US,HUNTINGTON INGALLS INDUSTRIES,,United States,New York Stock Exchange Inc.,issuer
+CHTR,0.02,US,CHARTER COMMUNICATIONS CLASS A,,United States,NASDAQ,issuer
+BAX,0.02,US,BAXTER INTERNATIONAL,,United States,New York Stock Exchange Inc.,issuer
+SOLV,0.02,US,SOLVENTUM,,United States,New York Stock Exchange Inc.,issuer
+GNRC,0.02,US,GENERAC HOLDINGS,,United States,New York Stock Exchange Inc.,issuer
+MKC,0.02,US,MCCORMICK & CO NON-VOTING,,United States,New York Stock Exchange Inc.,issuer
+COO,0.02,US,COOPER,,United States,NASDAQ,issuer
+FDS,0.02,US,FACTSET RESEARCH SYSTEMS,,United States,New York Stock Exchange Inc.,issuer
+JKHY,0.02,US,JACK HENRY AND ASSOCIATES INC,,United States,NASDAQ,issuer
+TECH,0.02,US,BIO TECHNE,,United States,NASDAQ,issuer
+CSGP,0.02,US,COSTAR GROUP,,United States,NASDAQ,issuer
+LULU,0.02,US,LULULEMON ATHLETICA,,United States,NASDAQ,issuer
+DECK,0.02,US,DECKERS OUTDOOR,,United States,New York Stock Exchange Inc.,issuer
+LII,0.02,US,LENNOX INTERNATIONAL,,United States,New York Stock Exchange Inc.,issuer
+ALB,0.02,US,ALBEMARLE CORP,,United States,New York Stock Exchange Inc.,issuer
+NWSA,0.02,US,NEWS CLASS A,,United States,NASDAQ,issuer
+PODD,0.02,US,INSULET,,United States,NASDAQ,issuer
+AES,0.02,US,AES,,United States,New York Stock Exchange Inc.,issuer
+CLX,0.02,US,CLOROX,,United States,New York Stock Exchange Inc.,issuer
+TKO,0.02,US,TKO GROUP HOLDINGS INC CLASS A,,United States,New York Stock Exchange Inc.,issuer
+ROL,0.02,US,ROLLINS INC,,United States,New York Stock Exchange Inc.,issuer
+PNR,0.02,US,PENTAIR,,United States,New York Stock Exchange Inc.,issuer
+DPZ,0.02,US,DOMINOS PIZZA,,United States,NASDAQ,issuer
+UDR,0.02,US,UDR REIT,,United States,New York Stock Exchange Inc.,issuer
+ALGN,0.02,US,ALIGN TECHNOLOGY,,United States,NASDAQ,issuer
+CPT,0.02,US,CAMDEN PROPERTY TRUST REIT,,United States,New York Stock Exchange Inc.,issuer
+BXP,0.02,US,BXP,,United States,New York Stock Exchange Inc.,issuer
+BEN,0.01,US,FRANKLIN TEMPLETON,,United States,New York Stock Exchange Inc.,issuer
+LVS,0.01,US,LAS VEGAS SANDS,,United States,New York Stock Exchange Inc.,issuer
+APTV,0.01,US,APTIV PLC,,United States,New York Stock Exchange Inc.,issuer
+UHS,0.01,US,UNIVERSAL HEALTH SERVICES CLASS B,,United States,New York Stock Exchange Inc.,issuer
+FRT,0.01,US,FEDERAL REALTY INVESTMENT TRUST RE,,United States,New York Stock Exchange Inc.,issuer
+NCLH,0.01,US,NORWEGIAN CRUISE LINE HOLDINGS,,United States,New York Stock Exchange Inc.,issuer
+HSIC,0.01,US,HENRY SCHEIN,,United States,NASDAQ,issuer
+FOX,0.01,US,FOX CLASS B,,United States,NASDAQ,issuer
+AOS,0.01,US,A O SMITH,,United States,New York Stock Exchange Inc.,issuer
+ERIE,0.01,US,ERIE INDEMNITY CLASS A,,United States,NASDAQ,issuer
+DVA,0.01,US,DAVITA INC,,United States,New York Stock Exchange Inc.,issuer
+ARE,0.01,US,ALEXANDRIA REAL ESTATE EQUITIES RE,,United States,New York Stock Exchange Inc.,issuer
+HRL,0.01,US,HORMEL FOODS CORP,,United States,New York Stock Exchange Inc.,issuer
+MOS,0.01,US,MOSAIC,,United States,New York Stock Exchange Inc.,issuer
+WYNN,0.01,US,WYNN RESORTS,,United States,NASDAQ,issuer
+BF B,0.01,US,BROWN FORMAN CLASS B,,United States,New York Stock Exchange Inc.,issuer
+MGM,0.01,US,MGM RESORTS INTERNATIONAL,,United States,New York Stock Exchange Inc.,issuer
+SKYD,0.01,US,SKYDANCE SHS CLASS B,,United States,New York Stock Exchange Inc.,issuer
+NWS,0.01,US,NEWS CLASS B,,United States,NASDAQ,issuer

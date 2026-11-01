@@ -1,0 +1,505 @@
+ticker,weight,market,name,isin,location,exchange,ticker_source
+NVDA,7.775687,US,NVIDIA Corporation,US67066G1040,United States,NASDAQ,ishares_match
+AAPL,7.657499,US,Apple Inc.,US0378331005,United States,NASDAQ,ishares_match
+MSFT,5.919621,US,Microsoft Corporation,US5949181045,United States,NASDAQ,ishares_match
+AMZN,3.598048,US,Amazon.com Inc.,US0231351067,United States,NASDAQ,ishares_match
+GOOGL,2.504059,US,Alphabet Inc. Class A,US02079K3059,United States,NASDAQ,ishares_match
+AVGO,2.467704,US,Broadcom Inc.,US11135F1012,United States,NASDAQ,ishares_match
+META,2.070477,US,Meta Platforms Inc Class A,US30303M1027,United States,NASDAQ,ishares_match
+GOOG,2.017482,US,Alphabet Inc. Class C,US02079K1079,United States,NASDAQ,ishares_match
+TSLA,1.708361,US,Tesla Inc.,US88160R1014,United States,NASDAQ,ishares_match
+LLY,1.651988,US,Eli Lilly and Company,US5324571083,United States,New York Stock Exchange Inc.,ishares_match
+MU,1.588864,US,Micron Technology Inc.,US5951121038,United States,NASDAQ,ishares_match
+BRK B,1.517014,US,Berkshire Hathaway Inc. Class B,US0846707026,United States,New York Stock Exchange Inc.,ishares_match
+AMD,1.392534,US,Advanced Micro Devices Inc.,US0079031078,United States,NASDAQ,ishares_match
+JPM,1.372634,US,JPMorgan Chase & Co.,US46625H1005,United States,New York Stock Exchange Inc.,ishares_match
+XOM,1.135462,US,Exxonmobil Holdings Corporation,US30233Q1085,United States,New York Stock Exchange Inc.,ishares_match
+V,1.053989,US,Visa Inc. Class A,US92826C8394,United States,New York Stock Exchange Inc.,ishares_match
+JNJ,0.996463,US,Johnson & Johnson,US4781601046,United States,New York Stock Exchange Inc.,ishares_match
+WMT,0.814058,US,Walmart Inc.,US9311421039,United States,NASDAQ,ishares_match
+MA,0.775339,US,Mastercard Incorporated Class A,US57636Q1040,United States,New York Stock Exchange Inc.,ishares_match
+ABBV,0.774045,US,AbbVie Inc.,US00287Y1091,United States,New York Stock Exchange Inc.,ishares_match
+CVX,0.688954,US,Chevron Corporation,US1667641005,United States,New York Stock Exchange Inc.,ishares_match
+INTC,0.685878,US,Intel Corporation,US4581401001,United States,NASDAQ,ishares_match
+PLTR,0.67992,US,Palantir Technologies Inc. Class A,US69608A1088,United States,NASDAQ,ishares_match
+COST,0.665916,US,Costco Wholesale Corporation,US22160K1051,United States,NASDAQ,ishares_match
+CSCO,0.642724,US,Cisco Systems Inc.,US17275R1023,United States,NASDAQ,ishares_match
+PG,0.560345,US,Procter & Gamble Company,US7427181091,United States,New York Stock Exchange Inc.,ishares_match
+UNH,0.555677,US,UnitedHealth Group Incorporated,US91324P1021,United States,New York Stock Exchange Inc.,ishares_match
+KO,0.542255,US,Coca-Cola Company,US1912161007,United States,New York Stock Exchange Inc.,ishares_match
+MRK,0.542024,US,Merck & Co. Inc.,US58933Y1055,United States,New York Stock Exchange Inc.,ishares_match
+AMAT,0.504429,US,Applied Materials Inc.,US0382221051,United States,NASDAQ,ishares_match
+BAC,0.500362,US,Bank of America Corp,US0605051046,United States,New York Stock Exchange Inc.,ishares_match
+HD,0.493527,US,Home Depot Inc.,US4370761029,United States,New York Stock Exchange Inc.,ishares_match
+PM,0.489263,US,Philip Morris International Inc.,US7181721090,United States,New York Stock Exchange Inc.,ishares_match
+GE,0.48857,US,GE Aerospace,US3696043013,United States,New York Stock Exchange Inc.,ishares_match
+LRCX,0.479607,US,Lam Research Corporation,US5128073062,United States,NASDAQ,ishares_match
+PANW,0.465977,US,Palo Alto Networks Inc.,US6974351057,United States,NASDAQ,ishares_match
+CAT,0.447667,US,Caterpillar Inc.,US1491231015,United States,New York Stock Exchange Inc.,ishares_match
+TXN,0.429184,US,Texas Instruments Incorporated,US8825081040,United States,NASDAQ,ishares_match
+GS,0.406882,US,Goldman Sachs Group Inc.,US38141G1040,United States,New York Stock Exchange Inc.,ishares_match
+RTX,0.403134,US,RTX Corporation,US75513E1010,United States,New York Stock Exchange Inc.,ishares_match
+CRWD,0.396266,US,CrowdStrike Holdings Inc. Class A,US22788C1053,United States,NASDAQ,ishares_match
+TMO,0.393335,US,Thermo Fisher Scientific Inc.,US8835561023,United States,New York Stock Exchange Inc.,ishares_match
+NFLX,0.389257,US,Netflix Inc.,US64110L1061,United States,NASDAQ,ishares_match
+WFC,0.386378,US,Wells Fargo & Company,US9497461015,United States,New York Stock Exchange Inc.,ishares_match
+AMGN,0.376331,US,Amgen Inc.,US0311621009,United States,NASDAQ,ishares_match
+IBM,0.365559,US,International Business Machines Corporation,US4592001014,United States,New York Stock Exchange Inc.,ishares_match
+ORCL,0.363367,US,Oracle Corporation,US68389X1054,United States,New York Stock Exchange Inc.,ishares_match
+GEV,0.355546,US,GE Vernova Inc.,US36828A1016,United States,New York Stock Exchange Inc.,ishares_match
+LIN,0.347774,US,Linde plc,IE000S9YS762,United States,NASDAQ,ishares_match
+MS,0.340874,US,Morgan Stanley,US6174464486,United States,New York Stock Exchange Inc.,ishares_match
+KLAC,0.330505,US,KLA Corporation,US4824801009,United States,NASDAQ,ishares_match
+ADI,0.318053,US,Analog Devices Inc.,US0326541051,United States,NASDAQ,ishares_match
+C,0.317836,US,Citigroup Inc.,US1729674242,United States,New York Stock Exchange Inc.,ishares_match
+GILD,0.310155,US,Gilead Sciences Inc.,US3755581036,United States,NASDAQ,ishares_match
+APH,0.305768,US,Amphenol Corporation Class A,US0320951017,United States,New York Stock Exchange Inc.,ishares_match
+QCOM,0.295422,US,QUALCOMM Incorporated,US7475251036,United States,NASDAQ,ishares_match
+SNDK,0.29267,US,Sandisk Corporation,US80004C2008,United States,NASDAQ,ishares_match
+MRVL,0.288966,US,Marvell Technology Inc.,US5738741041,United States,NASDAQ,ishares_match
+DIS,0.287002,US,Walt Disney Company,US2546871060,United States,New York Stock Exchange Inc.,ishares_match
+ANET,0.286545,US,Arista Networks Inc,US0404132054,United States,New York Stock Exchange Inc.,ishares_match
+CRM,0.285456,US,Salesforce Inc.,US79466L3024,United States,New York Stock Exchange Inc.,ishares_match
+PEP,0.275532,US,PepsiCo Inc.,US7134481081,United States,NASDAQ,ishares_match
+MCD,0.272862,US,McDonald's Corporation,US5801351017,United States,New York Stock Exchange Inc.,ishares_match
+VZ,0.271893,US,Verizon Communications Inc.,US92343V1044,United States,New York Stock Exchange Inc.,ishares_match
+ABT,0.271728,US,Abbott Laboratories,US0028241000,United States,New York Stock Exchange Inc.,ishares_match
+UNP,0.27097,US,Union Pacific Corporation,US9078181081,United States,New York Stock Exchange Inc.,ishares_match
+COP,0.26993,US,ConocoPhillips,US20825C1045,United States,New York Stock Exchange Inc.,ishares_match
+NEE,0.259171,US,NextEra Energy Inc.,US65339F1012,United States,New York Stock Exchange Inc.,ishares_match
+PFE,0.257875,US,Pfizer Inc.,US7170811035,United States,New York Stock Exchange Inc.,ishares_match
+BLK,0.256638,US,BlackRock Inc.,US09290D1019,United States,New York Stock Exchange Inc.,ishares_match
+AXP,0.255991,US,American Express Company,US0258161092,United States,New York Stock Exchange Inc.,ishares_match
+WELL,0.253165,US,Welltower Inc.,US95040Q1040,United States,New York Stock Exchange Inc.,ishares_match
+DE,0.249686,US,Deere & Company,US2441991054,United States,New York Stock Exchange Inc.,ishares_match
+ISRG,0.240175,US,Intuitive Surgical Inc.,US46120E6023,United States,NASDAQ,ishares_match
+STX,0.237483,US,Seagate Technology Holdings PLC,IE00BKVD2N49,United States,NASDAQ,ishares_match
+TJX,0.236771,US,TJX Companies Inc,US8725401090,United States,New York Stock Exchange Inc.,ishares_match
+ETN,0.231382,US,Eaton Corp. Plc,IE00B8KQN827,United States,New York Stock Exchange Inc.,ishares_match
+ACN,0.231269,US,Accenture Plc Class A,IE00B4BNMY34,United States,New York Stock Exchange Inc.,ishares_match
+DHR,0.224678,US,Danaher Corporation,US2358511028,United States,New York Stock Exchange Inc.,ishares_match
+SCHW,0.218376,US,Charles Schwab Corp,US8085131055,United States,New York Stock Exchange Inc.,ishares_match
+DELL,0.216523,US,Dell Technologies Inc. Class C,US24703L2025,United States,New York Stock Exchange Inc.,ishares_match
+WDC,0.214778,US,Western Digital Corporation,US9581021055,United States,NASDAQ,ishares_match
+T,0.214763,US,AT&T Inc,US00206R1023,United States,New York Stock Exchange Inc.,ishares_match
+SPGI,0.208571,US,S&P Global Inc.,US78409V1044,United States,New York Stock Exchange Inc.,ishares_match
+VRTX,0.206771,US,Vertex Pharmaceuticals Incorporated,US92532F1003,United States,NASDAQ,ishares_match
+BA,0.203926,US,Boeing Company,US0970231058,United States,New York Stock Exchange Inc.,ishares_match
+PGR,0.201951,US,Progressive Corporation,US7433151039,United States,New York Stock Exchange Inc.,ishares_match
+UBER,0.201473,US,Uber Technologies Inc.,US90353T1007,United States,New York Stock Exchange Inc.,ishares_match
+LMT,0.197229,US,Lockheed Martin Corporation,US5398301094,United States,New York Stock Exchange Inc.,ishares_match
+MO,0.192404,US,Altria Group Inc.,US02209S1033,United States,New York Stock Exchange Inc.,ishares_match
+COF,0.192006,US,Capital One Financial Corp,US14040H1059,United States,New York Stock Exchange Inc.,ishares_match
+CB,0.190702,US,Chubb Limited,CH0044328745,United States,New York Stock Exchange Inc.,ishares_match
+BMY,0.188828,US,Bristol-Myers Squibb Company,US1101221083,United States,New York Stock Exchange Inc.,ishares_match
+MPC,0.18303,US,Marathon Petroleum Corporation,US56585A1025,United States,New York Stock Exchange Inc.,ishares_match
+PLD,0.18095,US,Prologis Inc.,US74340W1036,United States,New York Stock Exchange Inc.,ishares_match
+SBUX,0.1808,US,Starbucks Corporation,US8552441094,United States,NASDAQ,ishares_match
+MDT,0.178798,US,Medtronic Plc,IE00BTN1Y115,United States,New York Stock Exchange Inc.,ishares_match
+PH,0.176668,US,Parker-Hannifin Corporation,US7010941042,United States,New York Stock Exchange Inc.,ishares_match
+NEM,0.17624,US,Newmont Corporation,US6516391066,United States,New York Stock Exchange Inc.,ishares_match
+LOW,0.174271,US,Lowe's Companies Inc.,US5486611073,United States,New York Stock Exchange Inc.,ishares_match
+CVS,0.172671,US,CVS Health Corporation,US1266501006,United States,New York Stock Exchange Inc.,ishares_match
+NOW,0.171791,US,ServiceNow Inc.,US81762P1021,United States,New York Stock Exchange Inc.,ishares_match
+MCK,0.1713,US,McKesson Corporation,US58155Q1031,United States,New York Stock Exchange Inc.,ishares_match
+BKNG,0.170276,US,Booking Holdings Inc.,US09857L1089,United States,NASDAQ,ishares_match
+ADP,0.170234,US,Automatic Data Processing Inc.,US0530151036,United States,NASDAQ,ishares_match
+VLO,0.165586,US,Valero Energy Corporation,US91913Y1001,United States,New York Stock Exchange Inc.,ishares_match
+PSX,0.164005,US,Phillips 66,US7185461040,United States,New York Stock Exchange Inc.,ishares_match
+SYK,0.162095,US,Stryker Corporation,US8636671013,United States,New York Stock Exchange Inc.,ishares_match
+CME,0.159582,US,CME Group Inc. Class A,US12572Q1058,United States,NASDAQ,ishares_match
+SO,0.159474,US,Southern Company,US8425871071,United States,New York Stock Exchange Inc.,ishares_match
+EQIX,0.154092,US,Equinix Inc.,US29444U7000,United States,NASDAQ,ishares_match
+BNY,0.151778,US,Bank of New York Mellon Corp,US0640581007,United States,New York Stock Exchange Inc.,ishares_match
+GLW,0.151148,US,Corning Inc,US2193501051,United States,New York Stock Exchange Inc.,ishares_match
+ADBE,0.147273,US,Adobe Inc.,US00724F1012,United States,NASDAQ,ishares_match
+DUK,0.147155,US,Duke Energy Corporation,US26441C2044,United States,New York Stock Exchange Inc.,ishares_match
+JCI,0.146398,US,Johnson Controls International plc,IE00BY7QL619,United States,New York Stock Exchange Inc.,ishares_match
+CSX,0.145684,US,CSX Corporation,US1264081035,United States,NASDAQ,ishares_match
+FCX,0.144472,US,Freeport-McMoRan Inc.,US35671D8570,United States,New York Stock Exchange Inc.,ishares_match
+TT,0.143722,US,Trane Technologies plc,IE00BK9ZQ967,United States,New York Stock Exchange Inc.,ishares_match
+PWR,0.143434,US,Quanta Services Inc.,US74762E1029,United States,New York Stock Exchange Inc.,ishares_match
+CDNS,0.142824,US,Cadence Design Systems Inc.,US1273871087,United States,NASDAQ,ishares_match
+US5717481023,0.142405,US,Marsh & McLennan Companies Inc.,US5717481023,United States,,isin
+VRT,0.142224,US,Vertiv Holdings Co. Class A,US92537N1081,United States,New York Stock Exchange Inc.,ishares_match
+EMR,0.14219,US,Emerson Electric Co.,US2910111044,United States,New York Stock Exchange Inc.,ishares_match
+GD,0.142056,US,General Dynamics Corporation,US3695501086,United States,New York Stock Exchange Inc.,ishares_match
+SNPS,0.141584,US,Synopsys Inc.,US8716071076,United States,NASDAQ,ishares_match
+USB,0.141324,US,U.S. Bancorp,US9029733048,United States,New York Stock Exchange Inc.,ishares_match
+PNC,0.139736,US,PNC Financial Services Group Inc.,US6934751057,United States,New York Stock Exchange Inc.,ishares_match
+WMB,0.139027,US,Williams Companies Inc.,US9694571004,United States,New York Stock Exchange Inc.,ishares_match
+ELV,0.137538,US,Elevance Health Inc.,US0367521038,United States,New York Stock Exchange Inc.,ishares_match
+MMM,0.13682,US,3M Company,US88579Y1010,United States,New York Stock Exchange Inc.,ishares_match
+BX,0.136778,US,Blackstone Inc.,US09260D1072,United States,New York Stock Exchange Inc.,ishares_match
+ICE,0.136604,US,Intercontinental Exchange Inc.,US45866F1049,United States,New York Stock Exchange Inc.,ishares_match
+INTU,0.135037,US,Intuit Inc.,US4612021034,United States,NASDAQ,ishares_match
+FTNT,0.130035,US,Fortinet Inc.,US34959E1091,United States,NASDAQ,ishares_match
+AMT,0.129933,US,American Tower Corporation,US03027X1000,United States,New York Stock Exchange Inc.,ishares_match
+DDOG,0.12954,US,Datadog Inc. Class A,US23804L1035,United States,NASDAQ,ishares_match
+EOG,0.129426,US,EOG Resources Inc.,US26875P1012,United States,New York Stock Exchange Inc.,ishares_match
+WM,0.128194,US,Waste Management Inc.,US94106L1098,United States,New York Stock Exchange Inc.,ishares_match
+MAR,0.127683,US,Marriott International Inc. Class A,US5719032022,United States,NASDAQ,ishares_match
+TRV,0.126562,US,Travelers Companies Inc.,US89417E1091,United States,New York Stock Exchange Inc.,ishares_match
+CEG,0.126546,US,Constellation Energy Corporation,US21037T1097,United States,NASDAQ,ishares_match
+HWM,0.12483,US,Howmet Aerospace Inc.,US4432011082,United States,New York Stock Exchange Inc.,ishares_match
+MRNA,0.124579,US,Moderna Inc.,US60770K1079,United States,NASDAQ,ishares_match
+LITE,0.122837,US,Lumentum Holdings Inc.,US55024U1097,United States,NASDAQ,ishares_match
+HLT,0.121893,US,Hilton Worldwide Holdings Inc.,US43300A2033,United States,New York Stock Exchange Inc.,ishares_match
+MSI,0.121397,US,Motorola Solutions Inc.,US6200763075,United States,New York Stock Exchange Inc.,ishares_match
+MDLZ,0.120127,US,Mondelez International Inc. Class A,US6092071058,United States,NASDAQ,ishares_match
+REGN,0.119989,US,Regeneron Pharmaceuticals Inc.,US75886F1075,United States,NASDAQ,ishares_match
+UPS,0.119405,US,United Parcel Service Inc. Class B,US9113121068,United States,New York Stock Exchange Inc.,ishares_match
+CMCSA,0.119045,US,Comcast Corporation Class A,US20030N1019,United States,NASDAQ,ishares_match
+SLB,0.119045,US,SLB Limited,AN8068571086,United States,New York Stock Exchange Inc.,ishares_match
+CI,0.118618,US,Cigna Group,US1255231003,United States,New York Stock Exchange Inc.,ishares_match
+HPE,0.117536,US,Hewlett Packard Enterprise Co.,US42824C1099,United States,New York Stock Exchange Inc.,ishares_match
+RCL,0.11708,US,Royal Caribbean Group,LR0008862868,United States,New York Stock Exchange Inc.,ishares_match
+NSC,0.11542,US,Norfolk Southern Corporation,US6558441084,United States,New York Stock Exchange Inc.,ishares_match
+URI,0.113818,US,United Rentals Inc.,US9113631090,United States,New York Stock Exchange Inc.,ishares_match
+CTAS,0.113555,US,Cintas Corporation,US1729081059,United States,NASDAQ,ishares_match
+SHW,0.113363,US,Sherwin-Williams Company,US8243481061,United States,New York Stock Exchange Inc.,ishares_match
+ECL,0.113113,US,Ecolab Inc.,US2788651006,United States,New York Stock Exchange Inc.,ishares_match
+NOC,0.112891,US,Northrop Grumman Corp.,US6668071029,United States,New York Stock Exchange Inc.,ishares_match
+GM,0.112387,US,General Motors Company,US37045V1008,United States,New York Stock Exchange Inc.,ishares_match
+ROST,0.112237,US,Ross Stores Inc.,US7782961038,United States,NASDAQ,ishares_match
+CL,0.11173,US,Colgate-Palmolive Company,US1941621039,United States,New York Stock Exchange Inc.,ishares_match
+MCO,0.110024,US,Moody's Corporation,US6153691059,United States,New York Stock Exchange Inc.,ishares_match
+ITW,0.108873,US,Illinois Tool Works Inc.,US4523081093,United States,New York Stock Exchange Inc.,ishares_match
+HOOD,0.107585,US,Robinhood Markets Inc. Class A,US7707001027,United States,NASDAQ,ishares_match
+CMI,0.107267,US,Cummins Inc.,US2310211063,United States,New York Stock Exchange Inc.,ishares_match
+TMUS,0.107133,US,T-Mobile US Inc.,US8725901040,United States,NASDAQ,ishares_match
+HON,0.106664,US,Honeywell International Inc.,US4385162056,United States,NASDAQ,ishares_match
+SPG,0.106482,US,Simon Property Group Inc.,US8288061091,United States,New York Stock Exchange Inc.,ishares_match
+ORLY,0.10637,US,O'Reilly Automotive Inc.,US67103H1077,United States,NASDAQ,ishares_match
+ABNB,0.106222,US,Airbnb Inc. Class A,US0090661010,United States,NASDAQ,ishares_match
+AEP,0.105766,US,American Electric Power Company Inc.,US0255371017,United States,NASDAQ,ishares_match
+APD,0.105694,US,Air Products and Chemicals Inc.,US0091581068,United States,New York Stock Exchange Inc.,ishares_match
+HCA,0.105044,US,HCA Healthcare Inc,US40412C1018,United States,New York Stock Exchange Inc.,ishares_match
+TGT,0.104629,US,Target Corporation,US87612E1064,United States,New York Stock Exchange Inc.,ishares_match
+AJG,0.104451,US,Arthur J. Gallagher & Co.,US3635761097,United States,New York Stock Exchange Inc.,ishares_match
+AON,0.104402,US,Aon Plc Class A,IE00BLP1HW54,United States,New York Stock Exchange Inc.,ishares_match
+APP,0.104338,US,AppLovin Corp. Class A,US03831W1080,United States,NASDAQ,ishares_match
+FDX,0.102436,US,FedEx Corporation,US31428X1063,United States,New York Stock Exchange Inc.,ishares_match
+NXPI,0.102195,US,NXP Semiconductors NV,NL0009538784,United States,NASDAQ,ishares_match
+KMI,0.100558,US,Kinder Morgan Inc Class P,US49456B1017,United States,New York Stock Exchange Inc.,ishares_match
+DASH,0.100422,US,DoorDash Inc. Class A,US25809K1051,United States,NASDAQ,ishares_match
+TRGP,0.100119,US,Targa Resources Corp.,US87612G1013,United States,New York Stock Exchange Inc.,ishares_match
+MNST,0.098791,US,Monster Beverage Corporation,US61174X1090,United States,NASDAQ,ishares_match
+BE,0.098569,US,Bloom Energy Corporation Class A,US0937121079,United States,New York Stock Exchange Inc.,ishares_match
+KKR,0.09825,US,KKR & Co Inc,US48251W1045,United States,New York Stock Exchange Inc.,ishares_match
+TEL,0.097307,US,TE Connectivity plc,IE000IVNQZ81,United States,New York Stock Exchange Inc.,ishares_match
+TDG,0.096664,US,TransDigm Group Incorporated,US8936411003,United States,New York Stock Exchange Inc.,ishares_match
+ALL,0.096578,US,Allstate Corporation,US0200021014,United States,New York Stock Exchange Inc.,ishares_match
+DLR,0.09607,US,Digital Realty Trust Inc.,US2538681030,United States,New York Stock Exchange Inc.,ishares_match
+NUE,0.094087,US,Nucor Corporation,US6703461052,United States,New York Stock Exchange Inc.,ishares_match
+COR,0.094062,US,Cencora Inc.,US03073E1055,United States,New York Stock Exchange Inc.,ishares_match
+BSX,0.092304,US,Boston Scientific Corporation,US1011371077,United States,New York Stock Exchange Inc.,ishares_match
+CRH,0.09192,US,CRH public limited company,IE0001827041,United States,New York Stock Exchange Inc.,ishares_match
+FAST,0.09144,US,Fastenal Company,US3119001044,United States,NASDAQ,ishares_match
+OKE,0.090473,US,ONEOK Inc.,US30609A1097,United States,New York Stock Exchange Inc.,ishares_match
+TFC,0.089817,US,Truist Financial Corporation,US89832Q1094,United States,New York Stock Exchange Inc.,ishares_match
+GWW,0.089008,US,W.W. Grainger Inc.,US3848021040,United States,New York Stock Exchange Inc.,ishares_match
+MPWR,0.088997,US,Monolithic Power Systems Inc.,US6098391054,United States,NASDAQ,ishares_match
+CAH,0.088428,US,Cardinal Health Inc.,US14149Y1082,United States,New York Stock Exchange Inc.,ishares_match
+AME,0.088379,US,AMETEK Inc.,US0311001004,United States,New York Stock Exchange Inc.,ishares_match
+D,0.087476,US,Dominion Energy Inc,US25746U1097,United States,New York Stock Exchange Inc.,ishares_match
+SRE,0.085581,US,Sempra,US8168511090,United States,New York Stock Exchange Inc.,ishares_match
+AFL,0.084508,US,Aflac Incorporated,US0010551028,United States,New York Stock Exchange Inc.,ishares_match
+KEYS,0.083885,US,Keysight Technologies Inc,US49338L1035,United States,New York Stock Exchange Inc.,ishares_match
+DVN,0.083581,US,Devon Energy Corporation,US25179M1036,United States,New York Stock Exchange Inc.,ishares_match
+APO,0.083418,US,Apollo Global Management Inc,US03769M1062,United States,New York Stock Exchange Inc.,ishares_match
+EW,0.082807,US,Edwards Lifesciences Corporation,US28176E1082,United States,New York Stock Exchange Inc.,ishares_match
+BKR,0.082386,US,Baker Hughes Company Class A,US05722G1004,United States,NASDAQ,ishares_match
+PCAR,0.081578,US,PACCAR Inc,US6937181088,United States,NASDAQ,ishares_match
+BDX,0.081257,US,Becton Dickinson and Company,US0758871091,United States,New York Stock Exchange Inc.,ishares_match
+MET,0.08125,US,MetLife Inc.,US59156R1086,United States,New York Stock Exchange Inc.,ishares_match
+O,0.078873,US,Realty Income Corporation,US7561091049,United States,New York Stock Exchange Inc.,ishares_match
+LHX,0.078274,US,L3Harris Technologies Inc,US5024311095,United States,New York Stock Exchange Inc.,ishares_match
+HUM,0.077197,US,Humana Inc.,US4448591028,United States,New York Stock Exchange Inc.,ishares_match
+ETR,0.077077,US,Entergy Corporation,US29364G1031,United States,New York Stock Exchange Inc.,ishares_match
+AZO,0.077006,US,AutoZone Inc.,US0533321024,United States,New York Stock Exchange Inc.,ishares_match
+PSA,0.076589,US,Public Storage,US74460D1090,United States,New York Stock Exchange Inc.,ishares_match
+HONA,0.076489,US,Honeywell Aerospace Inc,US43849R1059,United States,NASDAQ,ishares_match
+A,0.075924,US,Agilent Technologies Inc.,US00846U1016,United States,New York Stock Exchange Inc.,ishares_match
+ADSK,0.075914,US,Autodesk Inc.,US0527691069,United States,NASDAQ,ishares_match
+XEL,0.07554,US,Xcel Energy Inc.,US98389B1008,United States,NASDAQ,ishares_match
+ROK,0.074873,US,Rockwell Automation Inc.,US7739031091,United States,New York Stock Exchange Inc.,ishares_match
+PYPL,0.074658,US,PayPal Holdings Inc.,US70450Y1038,United States,NASDAQ,ishares_match
+CIEN,0.074484,US,Ciena Corporation,US1717793095,United States,New York Stock Exchange Inc.,ishares_match
+FITB,0.074139,US,Fifth Third Bancorp,US3167731005,United States,New York Stock Exchange Inc.,ishares_match
+F,0.073835,US,Ford Motor Company,US3453708600,United States,New York Stock Exchange Inc.,ishares_match
+DAL,0.073214,US,Delta Air Lines Inc.,US2473617023,United States,New York Stock Exchange Inc.,ishares_match
+EBAY,0.07315,US,eBay Inc.,US2786421030,United States,NASDAQ,ishares_match
+CVNA,0.073148,US,Carvana Co. Class A,US1468691027,United States,New York Stock Exchange Inc.,ishares_match
+KDP,0.072782,US,Keurig Dr Pepper Inc.,US49271V1008,United States,NASDAQ,ishares_match
+VYLR,0.072553,US,Vylor Inc,US92892R1086,United States,New York Stock Exchange Inc.,ishares_match
+WAT,0.072491,US,Waters Corporation,US9418481035,United States,New York Stock Exchange Inc.,ishares_match
+STT,0.07244,US,State Street Corporation,US8574771031,United States,New York Stock Exchange Inc.,ishares_match
+NDAQ,0.072371,US,Nasdaq Inc.,US6311031081,United States,NASDAQ,ishares_match
+WAB,0.072237,US,Westinghouse Air Brake Technologies Corporation,US9297401088,United States,New York Stock Exchange Inc.,ishares_match
+FIX,0.071075,US,Comfort Systems USA Inc.,US1999081045,United States,New York Stock Exchange Inc.,ishares_match
+VEEV,0.070864,US,Veeva Systems Inc. Class A,US9224751084,United States,New York Stock Exchange Inc.,ishares_match
+RSG,0.070326,US,Republic Services Inc.,US7607591002,United States,New York Stock Exchange Inc.,ishares_match
+FERG,0.070192,US,Ferguson Enterprises Inc.,US31488V1070,United States,New York Stock Exchange Inc.,ishares_match
+COHR,0.07009,US,Coherent Corp.,US19247G1076,United States,New York Stock Exchange Inc.,ishares_match
+EXC,0.069981,US,Exelon Corporation,US30161N1019,United States,NASDAQ,ishares_match
+TER,0.069417,US,Teradyne Inc.,US8807701029,United States,NASDAQ,ishares_match
+MSCI,0.069216,US,MSCI Inc. Class A,US55354G1004,United States,New York Stock Exchange Inc.,ishares_match
+IQV,0.069173,US,IQVIA Holdings Inc,US46266C1053,United States,New York Stock Exchange Inc.,ishares_match
+NKE,0.068707,US,NIKE Inc. Class B,US6541061031,United States,New York Stock Exchange Inc.,ishares_match
+P,0.068631,US,Everpure Inc. Class A,US74624M1027,United States,New York Stock Exchange Inc.,ishares_match
+GRMN,0.068565,US,Garmin Ltd.,CH0114405324,United States,New York Stock Exchange Inc.,ishares_match
+AMP,0.06794,US,Ameriprise Financial Inc.,US03076C1062,United States,New York Stock Exchange Inc.,ishares_match
+VST,0.067896,US,Vistra Corp.,US92840M1027,United States,New York Stock Exchange Inc.,ishares_match
+IDXX,0.067758,US,IDEXX Laboratories Inc.,US45168D1046,United States,NASDAQ,ishares_match
+OXY,0.067637,US,Occidental Petroleum Corporation,US6745991058,United States,New York Stock Exchange Inc.,ishares_match
+ROP,0.067278,US,Roper Technologies Inc.,US7766961061,United States,NASDAQ,ishares_match
+MCHP,0.066635,US,Microchip Technology Incorporated,US5950171042,United States,NASDAQ,ishares_match
+AIG,0.066051,US,American International Group Inc.,US0268747849,United States,New York Stock Exchange Inc.,ishares_match
+ILMN,0.065918,US,Illumina Inc.,US4523271090,United States,NASDAQ,ishares_match
+VMRK,0.06585,US,Vivmark Residential,US29476L1070,United States,New York Stock Exchange Inc.,ishares_match
+ED,0.065339,US,Consolidated Edison Inc.,US2091151041,United States,New York Stock Exchange Inc.,ishares_match
+CARR,0.064894,US,Carrier Global Corp.,US14448C1045,United States,New York Stock Exchange Inc.,ishares_match
+NTAP,0.063808,US,NetApp Inc.,US64110D1046,United States,NASDAQ,ishares_match
+YUM,0.063424,US,Yum! Brands Inc.,US9884981013,United States,New York Stock Exchange Inc.,ishares_match
+XYZ,0.061304,US,Block Inc. Class A,US8522341036,United States,New York Stock Exchange Inc.,ishares_match
+CMG,0.060844,US,Chipotle Mexican Grill Inc.,US1696561059,United States,New York Stock Exchange Inc.,ishares_match
+SYY,0.060825,US,Sysco Corporation,US8718291078,United States,New York Stock Exchange Inc.,ishares_match
+FANG,0.060776,US,Diamondback Energy Inc.,US25278X1090,United States,NASDAQ,ishares_match
+VTR,0.06036,US,Ventas Inc.,US92276F1003,United States,New York Stock Exchange Inc.,ishares_match
+PRU,0.059788,US,Prudential Financial Inc.,US7443201022,United States,New York Stock Exchange Inc.,ishares_match
+CCI,0.058872,US,Crown Castle Inc.,US22822V1017,United States,New York Stock Exchange Inc.,ishares_match
+WDAY,0.058733,US,Workday Inc. Class A,US98138H1014,United States,NASDAQ,ishares_match
+KR,0.057341,US,Kroger Co.,US5010441013,United States,New York Stock Exchange Inc.,ishares_match
+KVUE,0.057195,US,Kenvue Inc.,US49177J1025,United States,New York Stock Exchange Inc.,ishares_match
+RMD,0.056668,US,ResMed Inc.,US7611521078,United States,New York Stock Exchange Inc.,ishares_match
+PEG,0.056187,US,Public Service Enterprise Group Inc,US7445731067,United States,New York Stock Exchange Inc.,ishares_match
+CCL,0.056046,US,Carnival Corporation Ltd.,BMG2004J1036,United States,New York Stock Exchange Inc.,ishares_match
+TWLO,0.055841,US,Twilio Inc. Class A,US90138F1021,United States,New York Stock Exchange Inc.,ishares_match
+CBRE,0.05578,US,CBRE Group Inc. Class A,US12504L1098,United States,New York Stock Exchange Inc.,ishares_match
+BIIB,0.055733,US,Biogen Inc.,US09062X1037,United States,NASDAQ,ishares_match
+WEC,0.05557,US,WEC Energy Group Inc,US92939U1060,United States,New York Stock Exchange Inc.,ishares_match
+ACGL,0.055325,US,Arch Capital Group Ltd.,BMG0450A1053,United States,NASDAQ,ishares_match
+DHI,0.055202,US,D.R. Horton Inc.,US23331A1097,United States,New York Stock Exchange Inc.,ishares_match
+KMB,0.055006,US,Kimberly-Clark Corporation,US4943681035,United States,NASDAQ,ishares_match
+ADM,0.055,US,Archer-Daniels-Midland Company,US0394831020,United States,New York Stock Exchange Inc.,ishares_match
+HIG,0.054973,US,Hartford Insurance Group Inc.,US4165151048,United States,New York Stock Exchange Inc.,ishares_match
+COIN,0.054879,US,Coinbase Global Inc. Class A,US19260Q1076,United States,NASDAQ,ishares_match
+IBKR,0.054378,US,Interactive Brokers Group Inc. Class A,US45841N1072,United States,NASDAQ,ishares_match
+VMC,0.05416,US,Vulcan Materials Company,US9291601097,United States,New York Stock Exchange Inc.,ishares_match
+PAYX,0.053761,US,Paychex Inc.,US7043261079,United States,NASDAQ,ishares_match
+IRM,0.053382,US,Iron Mountain Inc.,US46284V1017,United States,New York Stock Exchange Inc.,ishares_match
+GEHC,0.053026,US,GE Healthcare Technologies Inc.,US36266G1076,United States,NASDAQ,ishares_match
+AXON,0.052229,US,Axon Enterprise Inc,US05464C1018,United States,NASDAQ,ishares_match
+FLEX,0.051711,US,Flex Ltd,SG9999000020,United States,NASDAQ,ishares_match
+STLD,0.051089,US,Steel Dynamics Inc.,US8581191009,United States,NASDAQ,ishares_match
+UAL,0.050804,US,United Airlines Holdings Inc.,US9100471096,United States,NASDAQ,ishares_match
+MTD,0.050784,US,Mettler-Toledo International Inc.,US5926881054,United States,New York Stock Exchange Inc.,ishares_match
+CBOE,0.050024,US,Cboe Global Markets Inc,US12503M1080,United States,Cboe BZX,ishares_match
+TTWO,0.04996,US,Take-Two Interactive Software Inc.,US8740541094,United States,NASDAQ,ishares_match
+EQT,0.049865,US,EQT Corporation,US26884L1098,United States,New York Stock Exchange Inc.,ishares_match
+ZTS,0.049771,US,Zoetis Inc. Class A,US98978V1035,United States,New York Stock Exchange Inc.,ishares_match
+HBAN,0.049133,US,Huntington Bancshares Incorporated,US4461501045,United States,NASDAQ,ishares_match
+TDY,0.048727,US,Teledyne Technologies Incorporated,US8793601050,United States,New York Stock Exchange Inc.,ishares_match
+EXR,0.048611,US,Extra Space Storage Inc.,US30225T1025,United States,New York Stock Exchange Inc.,ishares_match
+MLM,0.048179,US,Martin Marietta Materials Inc.,US5732841060,United States,New York Stock Exchange Inc.,ishares_match
+EXPE,0.048109,US,Expedia Group Inc.,US30212P3038,United States,NASDAQ,ishares_match
+ODFL,0.048098,US,Old Dominion Freight Line Inc.,US6795801009,United States,NASDAQ,ishares_match
+MTB,0.047838,US,M&T Bank Corporation,US55261F1049,United States,New York Stock Exchange Inc.,ishares_match
+NTRS,0.047745,US,Northern Trust Corporation,US6658591044,United States,NASDAQ,ishares_match
+CNC,0.047272,US,Centene Corporation,US15135B1017,United States,New York Stock Exchange Inc.,ishares_match
+EME,0.046407,US,EMCOR Group Inc.,US29084Q1004,United States,New York Stock Exchange Inc.,ishares_match
+WTW,0.045515,US,Willis Towers Watson Public Limited Company,IE00BDB6Q211,United States,NASDAQ,ishares_match
+WSM,0.045212,US,Williams-Sonoma Inc.,US9699041011,United States,New York Stock Exchange Inc.,ishares_match
+JBL,0.045027,US,Jabil Inc.,US4663131039,United States,New York Stock Exchange Inc.,ishares_match
+HAL,0.044766,US,Halliburton Company,US4062161017,United States,New York Stock Exchange Inc.,ishares_match
+ON,0.044697,US,ON Semiconductor Corporation,US6821891057,United States,NASDAQ,ishares_match
+DXCM,0.04458,US,DexCom Inc.,US2521311074,United States,NASDAQ,ishares_match
+AEE,0.044574,US,Ameren Corporation,US0236081024,United States,New York Stock Exchange Inc.,ishares_match
+LH,0.044301,US,Labcorp Holdings Inc.,US5049221055,United States,New York Stock Exchange Inc.,ishares_match
+DG,0.043682,US,Dollar General Corporation,US2566771059,United States,New York Stock Exchange Inc.,ishares_match
+CINF,0.043629,US,Cincinnati Financial Corporation,US1720621010,United States,NASDAQ,ishares_match
+PCG,0.043297,US,PG&E Corporation,US69331C1080,United States,New York Stock Exchange Inc.,ishares_match
+WST,0.043228,US,West Pharmaceutical Services Inc.,US9553061055,United States,New York Stock Exchange Inc.,ishares_match
+DGX,0.043177,US,Quest Diagnostics Incorporated,US74834L1008,United States,New York Stock Exchange Inc.,ishares_match
+ATO,0.043137,US,Atmos Energy Corporation,US0495601058,United States,New York Stock Exchange Inc.,ishares_match
+HPQ,0.042859,US,HP Inc.,US40434L1052,United States,New York Stock Exchange Inc.,ishares_match
+DTE,0.04251,US,DTE Energy Company,US2333311072,United States,New York Stock Exchange Inc.,ishares_match
+AWK,0.0425,US,American Water Works Company Inc.,US0304201033,United States,New York Stock Exchange Inc.,ishares_match
+OTIS,0.042313,US,Otis Worldwide Corporation,US68902V1070,United States,New York Stock Exchange Inc.,ishares_match
+DOV,0.042179,US,Dover Corporation,US2600031080,United States,New York Stock Exchange Inc.,ishares_match
+ULTA,0.042103,US,Ulta Beauty Inc.,US90384S3031,United States,NASDAQ,ishares_match
+RJF,0.041961,US,Raymond James Financial Inc.,US7547301090,United States,New York Stock Exchange Inc.,ishares_match
+LYV,0.041645,US,Live Nation Entertainment Inc.,US5380341090,United States,New York Stock Exchange Inc.,ishares_match
+VICI,0.041342,US,VICI Properties Inc,US9256521090,United States,New York Stock Exchange Inc.,ishares_match
+CTSH,0.041284,US,Cognizant Technology Solutions Corporation Class A,US1924461023,United States,NASDAQ,ishares_match
+CNP,0.041238,US,CenterPoint Energy Inc.,US15189T1079,United States,New York Stock Exchange Inc.,ishares_match
+CFG,0.041101,US,Citizens Financial Group Inc.,US1746101054,United States,New York Stock Exchange Inc.,ishares_match
+IR,0.040553,US,Ingersoll Rand Inc.,US45687V1061,United States,New York Stock Exchange Inc.,ishares_match
+PPL,0.04031,US,PPL Corporation,US69351T1060,United States,New York Stock Exchange Inc.,ishares_match
+PPG,0.040145,US,PPG Industries Inc.,US6935061076,United States,New York Stock Exchange Inc.,ishares_match
+ARES,0.03968,US,Ares Management Corporation Class A,US03990B1017,United States,New York Stock Exchange Inc.,ishares_match
+Q,0.039266,US,Qnity Electronics Inc.,US74743L1008,United States,New York Stock Exchange Inc.,ishares_match
+EXPD,0.039258,US,Expeditors International of Washington Inc.,US3021301094,United States,New York Stock Exchange Inc.,ishares_match
+VLTO,0.039187,US,Veralto Corporation,US92338C1036,United States,New York Stock Exchange Inc.,ishares_match
+FISV,0.039153,US,Fiserv Inc.,US3377381088,United States,NASDAQ,ishares_match
+DRI,0.03914,US,Darden Restaurants Inc.,US2371941053,United States,New York Stock Exchange Inc.,ishares_match
+EL,0.038843,US,Estee Lauder Companies Inc. Class A,US5184391044,United States,New York Stock Exchange Inc.,ishares_match
+CPAY,0.038328,US,Corpay Inc.,US2199481068,United States,New York Stock Exchange Inc.,ishares_match
+VRSN,0.038302,US,VeriSign Inc.,US92343E1029,United States,NASDAQ,ishares_match
+SYF,0.038153,US,Synchrony Financial,US87165B1035,United States,New York Stock Exchange Inc.,ishares_match
+CASY,0.037824,US,Casey's General Stores Inc.,US1475281036,United States,NASDAQ,ishares_match
+FE,0.037203,US,FirstEnergy Corp.,US3379321074,United States,New York Stock Exchange Inc.,ishares_match
+CHD,0.037085,US,Church & Dwight Co. Inc.,US1713401024,United States,New York Stock Exchange Inc.,ishares_match
+RF,0.037021,US,Regions Financial Corporation,US7591EP1005,United States,New York Stock Exchange Inc.,ishares_match
+ES,0.036957,US,Eversource Energy,US30040W1080,United States,New York Stock Exchange Inc.,ishares_match
+VRSK,0.036815,US,Verisk Analytics Inc.,US92345Y1064,United States,NASDAQ,ishares_match
+CPRT,0.036598,US,Copart Inc.,US2172041061,United States,NASDAQ,ishares_match
+TPR,0.036107,US,Tapestry Inc.,US8760301072,United States,New York Stock Exchange Inc.,ishares_match
+HSY,0.03608,US,Hershey Company,US4278661081,United States,New York Stock Exchange Inc.,ishares_match
+DOW,0.036079,US,Dow Inc.,US2605571031,United States,New York Stock Exchange Inc.,ishares_match
+DLTR,0.036071,US,Dollar Tree Inc.,US2567461080,United States,NASDAQ,ishares_match
+IFF,0.035361,US,International Flavors & Fragrances Inc.,US4595061015,United States,New York Stock Exchange Inc.,ishares_match
+PHM,0.035359,US,PulteGroup Inc.,US7458671010,United States,New York Stock Exchange Inc.,ishares_match
+VTRS,0.035007,US,Viatris Inc.,US92556V1061,United States,NASDAQ,ishares_match
+EIX,0.034916,US,Edison International,US2810201077,United States,New York Stock Exchange Inc.,ishares_match
+STE,0.034897,US,STERIS plc,IE00BFY8C754,United States,New York Stock Exchange Inc.,ishares_match
+PTC,0.034548,US,PTC Inc.,US69370C1009,United States,NASDAQ,ishares_match
+HUBB,0.034188,US,Hubbell Incorporated,US4435106079,United States,New York Stock Exchange Inc.,ishares_match
+OMC,0.033857,US,Omnicom Group Inc,US6819191064,United States,New York Stock Exchange Inc.,ishares_match
+TROW,0.033626,US,T. Rowe Price Group Inc.,US74144T1088,United States,NASDAQ,ishares_match
+EFX,0.033493,US,Equifax Inc.,US2944291051,United States,New York Stock Exchange Inc.,ishares_match
+PKG,0.033433,US,Packaging Corporation of America,US6951561090,United States,New York Stock Exchange Inc.,ishares_match
+PFG,0.032775,US,Principal Financial Group Inc.,US74251V1026,United States,NASDAQ,ishares_match
+AMCR,0.032735,US,Amcor PLC,JE00BV7DQ550,United States,New York Stock Exchange Inc.,ishares_match
+SW,0.032367,US,Smurfit Westrock PLC,IE00028FXN24,United States,New York Stock Exchange Inc.,ishares_match
+KHC,0.031852,US,Kraft Heinz Company,US5007541064,United States,New York Stock Exchange Inc.,ishares_match
+NI,0.031792,US,NiSource Inc,US65473P1057,United States,New York Stock Exchange Inc.,ishares_match
+CMS,0.031698,US,CMS Energy Corporation,US1258961002,United States,New York Stock Exchange Inc.,ishares_match
+LUV,0.031633,US,Southwest Airlines Co.,US8447411088,United States,New York Stock Exchange Inc.,ishares_match
+NRG,0.031322,US,NRG Energy Inc.,US6293775085,United States,New York Stock Exchange Inc.,ishares_match
+XYL,0.031122,US,Xylem Inc.,US98419M1009,United States,New York Stock Exchange Inc.,ishares_match
+BR,0.031076,US,Broadridge Financial Solutions Inc.,US11133T1034,United States,New York Stock Exchange Inc.,ishares_match
+CDW,0.03073,US,CDW Corporation,US12514G1085,United States,NASDAQ,ishares_match
+KEY,0.030703,US,KeyCorp,US4932671088,United States,New York Stock Exchange Inc.,ishares_match
+SWKS,0.03068,US,Skyworks Solutions Inc.,US83088M1027,United States,NASDAQ,ishares_match
+FTV,0.030678,US,Fortive Corp.,US34959J1088,United States,New York Stock Exchange Inc.,ishares_match
+SBAC,0.030358,US,SBA Communications Corp. Class A,US78410G1040,United States,NASDAQ,ishares_match
+EVRG,0.030136,US,Evergy Inc.,US30034W1062,United States,NASDAQ,ishares_match
+FFIV,0.03009,US,F5 Inc.,US3156161024,United States,NASDAQ,ishares_match
+BRO,0.030076,US,Brown & Brown Inc.,US1152361010,United States,New York Stock Exchange Inc.,ishares_match
+BBY,0.030042,US,Best Buy Co. Inc.,US0865161014,United States,New York Stock Exchange Inc.,ishares_match
+DD,0.029978,US,DuPont de Nemours Inc.,US26614N2018,United States,New York Stock Exchange Inc.,ishares_match
+EXE,0.029582,US,Expand Energy Corporation,US1651677353,United States,NASDAQ,ishares_match
+ZBH,0.02946,US,Zimmer Biomet Holdings Inc.,US98956P1021,United States,New York Stock Exchange Inc.,ishares_match
+GPN,0.028926,US,Global Payments Inc.,US37940X1028,United States,New York Stock Exchange Inc.,ishares_match
+FSLR,0.028776,US,First Solar Inc.,US3364331070,United States,NASDAQ,ishares_match
+J,0.028754,US,Jacobs Solutions Inc.,US46982L1089,United States,New York Stock Exchange Inc.,ishares_match
+IP,0.028739,US,International Paper Company,US4601461035,United States,New York Stock Exchange Inc.,ishares_match
+CRL,0.028632,US,Charles River Laboratories International Inc.,US1598641074,United States,New York Stock Exchange Inc.,ishares_match
+SNA,0.028579,US,Snap-on Incorporated,US8330341012,United States,New York Stock Exchange Inc.,ishares_match
+FIS,0.028438,US,Fidelity National Information Services Inc.,US31620M1062,United States,New York Stock Exchange Inc.,ishares_match
+TPL,0.027999,US,Texas Pacific Land Corporation,US88262P1021,United States,New York Stock Exchange Inc.,ishares_match
+GIS,0.0278,US,General Mills Inc.,US3703341046,United States,New York Stock Exchange Inc.,ishares_match
+INCY,0.0278,US,Incyte Corporation,US45337C1027,United States,NASDAQ,ishares_match
+TSCO,0.027616,US,Tractor Supply Company,US8923561067,United States,NASDAQ,ishares_match
+LNT,0.027592,US,Alliant Energy Corporation,US0188021085,United States,NASDAQ,ishares_match
+NDSN,0.027489,US,Nordson Corporation,US6556631025,United States,NASDAQ,ishares_match
+IEX,0.027414,US,IDEX Corporation,US45167R1041,United States,New York Stock Exchange Inc.,ishares_match
+CF,0.027221,US,CF Industries Holdings Inc.,US1252691001,United States,New York Stock Exchange Inc.,ishares_match
+APA,0.026988,US,APA Corporation,US03743Q1085,United States,NASDAQ,ishares_match
+L,0.026647,US,Loews Corporation,US5404241086,United States,New York Stock Exchange Inc.,ishares_match
+RVTY,0.026399,US,Revvity Inc.,US7140461093,United States,New York Stock Exchange Inc.,ishares_match
+STZ,0.026356,US,Constellation Brands Inc. Class A,US21036P1084,United States,New York Stock Exchange Inc.,ishares_match
+GPC,0.026317,US,Genuine Parts Company,US3724601055,United States,New York Stock Exchange Inc.,ishares_match
+SMCI,0.026227,US,Super Micro Computer Inc.,US86800U3023,United States,NASDAQ,ishares_match
+HST,0.026002,US,Host Hotels & Resorts Inc.,US44107P1049,United States,NASDAQ,ishares_match
+ESS,0.025965,US,Essex Property Trust Inc.,US2971781057,United States,New York Stock Exchange Inc.,ishares_match
+LDOS,0.025955,US,Leidos Holdings Inc.,US5253271028,United States,New York Stock Exchange Inc.,ishares_match
+ZBRA,0.025848,US,Zebra Technologies Corporation Class A,US9892071054,United States,NASDAQ,ishares_match
+LYB,0.025689,US,LyondellBasell Industries NV,NL0009434992,United States,New York Stock Exchange Inc.,ishares_match
+RDDT,0.025604,US,Reddit Inc. Class A,US75734B1008,United States,New York Stock Exchange Inc.,ishares_match
+BALL,0.025408,US,Ball Corporation,US0584981064,United States,New York Stock Exchange Inc.,ishares_match
+WRB,0.024951,US,W. R. Berkley Corporation,US0844231029,United States,New York Stock Exchange Inc.,ishares_match
+TSN,0.024696,US,Tyson Foods Inc. Class A,US9024941034,United States,New York Stock Exchange Inc.,ishares_match
+RL,0.024488,US,Ralph Lauren Corporation Class A,US7512121010,United States,New York Stock Exchange Inc.,ishares_match
+ALLE,0.024448,US,Allegion Public Limited Company,IE00BFRT3W74,United States,New York Stock Exchange Inc.,ishares_match
+TRMB,0.024445,US,Trimble Inc.,US8962391004,United States,NASDAQ,ishares_match
+FICO,0.024394,US,Fair Isaac Corporation,US3032501047,United States,New York Stock Exchange Inc.,ishares_match
+JBHT,0.024329,US,J.B. Hunt Transport Services Inc.,US4456581077,United States,NASDAQ,ishares_match
+KIM,0.024294,US,Kimco Realty Corporation,US49446R1095,United States,New York Stock Exchange Inc.,ishares_match
+SWK,0.024089,US,Stanley Black & Decker Inc.,US8545021011,United States,New York Stock Exchange Inc.,ishares_match
+HAS,0.023977,US,Hasbro Inc.,US4180561072,United States,NASDAQ,ishares_match
+LEN,0.023882,US,Lennar Corporation Class A,US5260571048,United States,New York Stock Exchange Inc.,ishares_match
+TXT,0.023478,US,Textron Inc.,US8832031012,United States,New York Stock Exchange Inc.,ishares_match
+MAS,0.023441,US,Masco Corporation,US5745991068,United States,New York Stock Exchange Inc.,ishares_match
+AIZ,0.023398,US,Assurant Inc.,US04621X1081,United States,New York Stock Exchange Inc.,ishares_match
+CHRW,0.022984,US,C.H. Robinson Worldwide Inc.,US12541W2098,United States,NASDAQ,ishares_match
+GEN,0.022897,US,Gen Digital Inc.,US6687711084,United States,NASDAQ,ishares_match
+EG,0.022846,US,Everest Group Ltd.,BMG3223R1088,United States,New York Stock Exchange Inc.,ishares_match
+AKAM,0.022705,US,Akamai Technologies Inc.,US00971T1016,United States,NASDAQ,ishares_match
+NVR,0.022086,US,NVR Inc.,US62944T1051,United States,New York Stock Exchange Inc.,ishares_match
+WY,0.022027,US,Weyerhaeuser Company,US9621661043,United States,New York Stock Exchange Inc.,ishares_match
+INVH,0.021133,US,Invitation Homes Inc.,US46187W1071,United States,New York Stock Exchange Inc.,ishares_match
+MAA,0.021056,US,Mid-America Apartment Communities Inc.,US59522J1034,United States,New York Stock Exchange Inc.,ishares_match
+FOXA,0.020945,US,Fox Corporation Class A,US35137L1052,United States,NASDAQ,ishares_match
+SJM,0.020466,US,J.M. Smucker Company,US8326964058,United States,New York Stock Exchange Inc.,ishares_match
+DOC,0.020335,US,Healthpeak Properties Inc.,US42250P1030,United States,New York Stock Exchange Inc.,ishares_match
+TYL,0.020275,US,Tyler Technologies Inc.,US9022521051,United States,New York Stock Exchange Inc.,ishares_match
+IT,0.020194,US,Gartner Inc.,US3666511072,United States,New York Stock Exchange Inc.,ishares_match
+ECHO,0.019874,US,EchoStar Corporation Class A,US2787681061,United States,NASDAQ,ishares_match
+IVZ,0.019449,US,Invesco Ltd.,BMG491BT1088,United States,New York Stock Exchange Inc.,ishares_match
+GDDY,0.019055,US,GoDaddy Inc. Class A,US3802371076,United States,New York Stock Exchange Inc.,ishares_match
+GNRC,0.018995,US,Generac Holdings Inc.,US3687361044,United States,New York Stock Exchange Inc.,ishares_match
+BG,0.018919,US,Bunge Global SA,CH1300646267,United States,New York Stock Exchange Inc.,ishares_match
+CHTR,0.018821,US,Charter Communications Inc. Class A,US16119P1084,United States,NASDAQ,ishares_match
+DECK,0.018781,US,Deckers Outdoor Corporation,US2435371073,United States,New York Stock Exchange Inc.,ishares_match
+AVY,0.018763,US,Avery Dennison Corporation,US0536111091,United States,New York Stock Exchange Inc.,ishares_match
+HII,0.018724,US,Huntington Ingalls Industries Inc.,US4464131063,United States,New York Stock Exchange Inc.,ishares_match
+PNW,0.018653,US,Pinnacle West Capital Corp,US7234841010,United States,New York Stock Exchange Inc.,ishares_match
+REG,0.018607,US,Regency Centers Corporation,US7588491032,United States,NASDAQ,ishares_match
+GL,0.018437,US,Globe Life Inc.,US37959E1029,United States,New York Stock Exchange Inc.,ishares_match
+LULU,0.018384,US,lululemon athletica inc.,US5500211090,United States,NASDAQ,ishares_match
+FDS,0.018362,US,FactSet Research Systems Inc.,US3030751057,United States,New York Stock Exchange Inc.,ishares_match
+FDXF,0.018275,US,FedEx Freight Holding Company Inc.,US3143521058,United States,New York Stock Exchange Inc.,ishares_match
+COO,0.01824,US,Cooper Companies Inc.,US2166485019,United States,NASDAQ,ishares_match
+BAX,0.018123,US,Baxter International Inc.,US0718131099,United States,New York Stock Exchange Inc.,ishares_match
+TKO,0.018095,US,TKO Group Holdings Inc. Class A,US87256C1018,United States,New York Stock Exchange Inc.,ishares_match
+MKC,0.018073,US,McCormick & Company Incorporated,US5797802064,United States,New York Stock Exchange Inc.,ishares_match
+SOLV,0.0178,US,Solventum Corporation,US83444M1018,United States,New York Stock Exchange Inc.,ishares_match
+CSGP,0.017792,US,CoStar Group Inc.,US22160N1090,United States,NASDAQ,ishares_match
+JKHY,0.017715,US,Jack Henry & Associates Inc.,US4262811015,United States,NASDAQ,ishares_match
+TECH,0.017466,US,Bio-Techne Corporation,US09073M1045,United States,NASDAQ,ishares_match
+NWSA,0.017025,US,News Corporation Class A,US65249B1098,United States,NASDAQ,ishares_match
+LII,0.016753,US,Lennox International Inc.,US5261071071,United States,New York Stock Exchange Inc.,ishares_match
+CLX,0.016707,US,Clorox Company,US1890541097,United States,New York Stock Exchange Inc.,ishares_match
+PNR,0.0167,US,Pentair plc,IE00BLS09M33,United States,New York Stock Exchange Inc.,ishares_match
+ALB,0.016618,US,Albemarle Corporation,US0126531013,United States,New York Stock Exchange Inc.,ishares_match
+ALGN,0.016555,US,Align Technology Inc.,US0162551016,United States,NASDAQ,ishares_match
+CPT,0.016429,US,Camden Property Trust,US1331311027,United States,New York Stock Exchange Inc.,ishares_match
+UDR,0.016356,US,UDR Inc.,US9026531049,United States,New York Stock Exchange Inc.,ishares_match
+PODD,0.0161,US,Insulet Corporation,US45784P1012,United States,NASDAQ,ishares_match
+LVS,0.015949,US,Las Vegas Sands Corp.,US5178341070,United States,New York Stock Exchange Inc.,ishares_match
+AES,0.01581,US,AES Corporation,US00130H1059,United States,New York Stock Exchange Inc.,ishares_match
+UHS,0.01545,US,Universal Health Services Inc. Class B,US9139031002,United States,New York Stock Exchange Inc.,ishares_match
+BEN,0.014799,US,Franklin Templeton Inc.,US3546131018,United States,New York Stock Exchange Inc.,ishares_match
+APTV,0.014591,US,Aptiv PLC,JE00BTDN8H13,United States,New York Stock Exchange Inc.,ishares_match
+ROL,0.014215,US,Rollins Inc.,US7757111049,United States,New York Stock Exchange Inc.,ishares_match
+DPZ,0.014143,US,Domino's Pizza Inc.,US25754A2015,United States,NASDAQ,ishares_match
+BXP,0.013835,US,BXP Inc,US1011211018,United States,New York Stock Exchange Inc.,ishares_match
+FRT,0.012714,US,Federal Realty Investment Trust,US3137451015,United States,New York Stock Exchange Inc.,ishares_match
+NCLH,0.012381,US,Norwegian Cruise Line Holdings Ltd.,BMG667211046,United States,New York Stock Exchange Inc.,ishares_match
+AOS,0.011626,US,A. O. Smith Corporation,US8318652091,United States,New York Stock Exchange Inc.,ishares_match
+FOX,0.011478,US,Fox Corporation Class B,US35137L2043,United States,NASDAQ,ishares_match
+HSIC,0.011083,US,Henry Schein Inc.,US8064071025,United States,NASDAQ,ishares_match
+ARE,0.009679,US,Alexandria Real Estate Equities Inc.,US0152711091,United States,New York Stock Exchange Inc.,ishares_match
+ERIE,0.00936,US,Erie Indemnity Company Class A,US29530P1021,United States,NASDAQ,ishares_match
+HRL,0.009285,US,Hormel Foods Corporation,US4404521001,United States,New York Stock Exchange Inc.,ishares_match
+DVA,0.0087,US,DaVita Inc.,US23918K1088,United States,New York Stock Exchange Inc.,ishares_match
+WYNN,0.008376,US,Wynn Resorts Limited,US9831341071,United States,NASDAQ,ishares_match
+BF B,0.00783,US,Brown-Forman Corporation Class B,US1156372096,United States,New York Stock Exchange Inc.,ishares_match
+MGM,0.007734,US,MGM Resorts International,US5529531015,United States,New York Stock Exchange Inc.,ishares_match
+MOS,0.007319,US,Mosaic Company,US61945C1036,United States,New York Stock Exchange Inc.,ishares_match
+NWS,0.005705,US,News Corporation Class B,US65249B2088,United States,NASDAQ,ishares_match
+SKYD,0.003431,US,Skydance Corporation Class B,US69932A2042,United States,New York Stock Exchange Inc.,ishares_match
+CTVA,1.5e-05,US,Corteva Inc,US22052L1044,United States,New York Stock Exchange Inc.,ishares_match
