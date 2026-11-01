@@ -52,3 +52,11 @@
 ## Known limitations of this starter
 
 The current model is a technical-feature baseline with chronological holdout and time-series calibration. It is not yet nested, purged or embargoed, and its reported metrics are preliminary. Macro and news snapshots are not backfilled into historical training rows. Do not claim that the model has discovered a profitable strategy until a rigorous out-of-sample backtest and paper-trading period support that conclusion.
+
+## Out-of-sample validation (lot 5.1, observation mode)
+
+Each run reports `validation_oos` per ETF: a purged expanding-window walk-forward of the
+unchanged production model against climatology and a logistic regression (Brier, BSS with
+a block-bootstrap CI, log loss, calibration, n_eff = rows / horizon, Diebold-Mariano HAC).
+A `proposed_status` is computed with `validation_gate_proposed` but is **not applied** to
+any signal until a human decision (lot 5.3). Details: docs/audit/LOT5_1_VALIDATION_OBSERVATION.md.

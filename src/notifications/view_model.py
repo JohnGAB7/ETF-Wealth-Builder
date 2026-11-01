@@ -201,6 +201,54 @@ def model_quality(item: dict) -> dict | None:
     return {"summary": " · ".join(parts), "verdict": verdict, "tone": tone, "period": period}
 
 
+def oos_validation(item: dict) -> dict | None:
+    """Purged walk-forward test (lot 5.1). Observation mode: never changes a signal."""
+    v = item.get("validation_oos") or {}
+    if not v:
+        return None
+    note = "Mode observation : critères proposés, pas encore appliqués au signal."
+    status = v.get("proposed_status")
+    if v.get("status") == "ERROR":
+        return {"summary": "test indisponible aujourd’hui", "verdict": note,
+                "tone": "neutral", "detail": ""}
+    if status == "INSUFFICIENT_HISTORY" or v.get("status") == "INSUFFICIENT_HISTORY":
+        return {"summary": "historique trop court pour un test hors échantillon",
+                "verdict": note, "tone": "neutral", "detail": ""}
+    bss = _num(v.get("bss"))
+    low, high = _num(v.get("bss_ci_low")), _num(v.get("bss_ci_high"))
+    parts = [f"BSS {fr_number(bss, 3, signed=True) if bss is not None else MISSING}"]
+    if low is not None and high is not None:
+        parts.append(f"IC 90 % [{fr_number(low, 3, signed=True)} ; {fr_number(high, 3, signed=True)}]")
+    if v.get("n_eff") is not None:
+        parts.append(f"{fr_number(v['n_eff'], 1)} fenêtres indépendantes")
+    if v.get("blocks"):
+        parts.append(f"{v['blocks']} blocs")
+    if status == "VALIDATED":
+        verdict = ("Selon les critères proposés, le modèle montrerait une capacité "
+                   "prédictive hors échantillon. " + note)
+        tone = "info"
+    else:
+        reasons = "; ".join(v.get("proposed_status_reasons") or [])
+        verdict = ("Selon les critères proposés, aucune capacité prédictive démontrée"
+                   + (f" ({reasons})" if reasons else "") + ". " + note)
+        tone = "warning"
+    detail = []
+    if v.get("oos_start") and v.get("oos_end"):
+        detail.append(f"Test du {fr_date(v['oos_start'])} au {fr_date(v['oos_end'])}"
+                      + (f", calculé le {fr_date(v['computed_at'])}" if v.get("computed_at") else "")
+                      + ".")
+    base, share = _num(v.get("base_rate_oos")), _num(v.get("share_model_above_threshold"))
+    threshold = _num(v.get("probability_threshold"))
+    if base is not None:
+        text = f"Hausses observées sur l’horizon : {fr_percent(base, 0)} des cas"
+        if share is not None and threshold is not None:
+            text += (f" ; probabilité du modèle ≥ {fr_number(threshold, 2)} "
+                     f"dans {fr_percent(share, 0)} des cas")
+        detail.append(text + ".")
+    return {"summary": " · ".join(parts), "verdict": verdict, "tone": tone,
+            "detail": " ".join(detail)}
+
+
 # ---------------------------------------------------------------- change
 def status_change(item: dict) -> dict | None:
     """Compare with the status recorded at the previous run (alert state)."""
@@ -336,6 +384,7 @@ def build_etf_card(item: dict, th: dict, run_date) -> dict:
         "observed": observed,
         "estimated": estimated,
         "model_quality": model_quality(item) if has_estimate else None,
+        "oos_validation": oos_validation(item) if has_estimate else None,
         "reasons": signal_reasons(item, th),
         "quality": quality,
     }

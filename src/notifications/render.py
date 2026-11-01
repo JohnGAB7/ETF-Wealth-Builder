@@ -110,6 +110,15 @@ def _card(card):
                       f'{_e(quality["verdict"])}'
                       + (f'<br><span style="color:{MUTED};">{_e(quality["period"])}</span>'
                          if quality.get("period") else "") + '</div>')
+        oos = card.get("oos_validation")
+        if oos:
+            bg, fg, _ = TONES.get(oos["tone"], TONES["neutral"])
+            inner += (f'<div style="background:{bg};color:{fg};border-radius:6px;padding:9px 11px;'
+                      f'margin-top:6px;font-size:13px;line-height:1.5;">'
+                      f'<strong>Test hors échantillon :</strong> {_e(oos["summary"])}<br>'
+                      f'{_e(oos["verdict"])}'
+                      + (f'<br><span style="color:{MUTED};">{_e(oos["detail"])}</span>'
+                         if oos.get("detail") else "") + '</div>')
         blocks.append(_block("estimated", inner))
     research = (f'<div style="font-size:14px;line-height:1.5;color:{INK};padding:4px 0 6px;">'
                 f'Statut : <strong>{_e(card["status_label"])}</strong></div>'
@@ -304,6 +313,10 @@ def render_text(view: dict) -> str:
             if quality:
                 lines.append(f"  - Validation : {quality['summary']}. {quality['verdict']}"
                              + (f" {quality['period']}" if quality.get("period") else ""))
+            oos = card.get("oos_validation")
+            if oos:
+                lines.append(f"  - Test hors échantillon : {oos['summary']}. {oos['verdict']}"
+                             + (f" {oos['detail']}" if oos.get("detail") else ""))
         lines.append("  LECTURE DE RECHERCHE")
         lines += [f"  - {reason}" for reason in card["reasons"]]
         if card["quality"]:

@@ -13,9 +13,13 @@ def _history(n=900, seed=0):
     return pd.DataFrame({"Close": close}, index=idx)
 
 
+class _Sent(list):
+    validations: list
+
+
 @pytest.fixture
 def mocked(monkeypatch, tmp_path):
-    sent = []
+    sent = _Sent()
     monkeypatch.setattr(main, "get_macro_snapshot", lambda: {"ecb_deposit_facility_rate": 2.0,
                                                              "ecb_deposit_facility_rate_date": "2026-10-29"})
     monkeypatch.setattr(main, "get_market_news", lambda: [])
@@ -30,6 +34,17 @@ def mocked(monkeypatch, tmp_path):
         "src.state.alert_state", fromlist=["x"]).save_state(state, state_path))
     monkeypatch.setattr(main, "send_digest", lambda *a, **k: sent.append(("digest", a, k)) or True)
     monkeypatch.setattr(main, "send_signal_alert", lambda *a, **k: sent.append(("alert", a, k)) or True)
+    # The purged walk-forward is tested in test_validation.py; here a stub that
+    # always says NOT_VALIDATED shows that observation mode never alters a signal.
+    validations = []
+
+    def _stub_validation(frame, **kwargs):
+        validations.append(kwargs)
+        return {"mode": "observation", "status": "EVALUATED", "proposed_status": "NOT_VALIDATED",
+                "proposed_status_reasons": ["stub"], "bss": -0.1, "n_eff": 5.0, "blocks": 2}
+
+    monkeypatch.setattr(main, "walk_forward_validate", _stub_validation)
+    sent.validations = validations
     return sent
 
 
@@ -47,6 +62,14 @@ def test_run_once_produces_results_and_one_digest(mocked):
     digests = [s for s in mocked if s[0] == "digest"]
     assert len(digests) == 1
     assert digests[0][2]["strategy"]["primary_horizon_days"] == 63
+    for r in estimated:
+        assert r["validation_oos"]["mode"] == "observation"
+        assert r["validation_oos"]["computed_at"] == report["retrieved_at"][:10]
+    first_calls = len(mocked.validations)
+    assert first_calls == len(estimated)
+    assert mocked.validations[0]["horizon"] == 63 and mocked.validations[0]["test_block"] == 126
+    main.run_once()  # same day: every validation comes from the weekly cache
+    assert len(mocked.validations) == first_calls
 
 
 def test_notification_failure_does_not_abort_cycle(monkeypatch, mocked, caplog):
@@ -85,7 +108,7 @@ def test_alert_sent_once_across_runs(monkeypatch, mocked):
     monkeypatch.setattr(main, "classify_signal", lambda *a, **k: "BUY_OPPORTUNITY_REVIEW")
     main.run_once()
     first = len([s for s in mocked if s[0] == "alert"])
-    assert first >= 1
+    assert first >= 1  # the stub says NOT_VALIDATED: observation mode blocks nothing
     report = main.run_once()
     assert len([s for s in mocked if s[0] == "alert"]) == first  # no repeat
     estimated = [r for r in report["etfs"] if r.get("prob_positive") is not None]
