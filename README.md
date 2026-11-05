@@ -31,6 +31,8 @@ This repository is an experimental research scaffold, not a validated investment
 
 Never commit API keys, passwords, SMTP credentials, account identifiers or personal financial data. Store credentials only in GitHub Actions Secrets or an equivalent secret manager. Do not paste secrets into issues, pull requests or chat messages.
 
+See [SECURITY.md](SECURITY.md) (in French) for where secrets live, key rotation, vulnerability reporting and the recommended GitHub settings for this public repository.
+
 ## Development principles
 
 1. Point-in-time data only for historical evaluation; record observation and publication/release timestamps.
