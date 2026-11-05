@@ -1,0 +1,15 @@
+# Dependabot keeps the pinned GitHub Actions SHAs and the Python
+# dependencies up to date. It only opens pull requests: nothing is merged
+# without a human review.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 3
+  - package-ecosystem: pip
+    directory: /
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 3
